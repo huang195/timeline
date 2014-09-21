@@ -9,11 +9,13 @@
 import os
 import sys
 import logging
-import simplejson as json
 import multiprocessing
 import bottle
 import re
 import subprocess
+
+try: import simplejson as json
+except ImportError: import json
 
 ####################################################################################
 # 
@@ -169,6 +171,131 @@ def indexData(datafileName):
 	logger.info("indexing {0}".format(datafileName))
 	return
 
+def findChanges(file1,file2):
+
+	modified = []
+	deleted = []
+	added = []
+	
+	for key,value in file1.items():
+		if key in file2:
+			modified.append(file2[key])
+			del file2[key]
+		else:
+			deleted.append(file1[key])
+
+	for key,value in file2.items():
+		added.append(file2[key])
+
+	file1.clear()
+	file2.clear()
+
+	return { 'modified': modified, 'deleted': deleted, 'added': added }
+
+def diff2JSON(diff):
+	''' given a diff output, return it in JSON format
+
+		diff format:
+			[0-9]+(,[0-9]+)?c[0-9]+(,[0-9]+)?
+			<\s+.*
+			---
+			>\s+.*
+	'''
+
+	modified = []
+	deleted = []
+	added = []
+	file1 = {}
+	file2 = {}
+	step = 1
+
+	linepattern = re.compile(r'[0-9]+(,[0-9]+)?[a-zA-Z][0-9]+(,[0-9]+)?')
+	file1pattern = re.compile(r'^\<\s+(.*)$')
+	dividerpattern = re.compile(r'^---$')
+	file2pattern = re.compile(r'^\>\s+(.*)$')
+
+	for line in diff.split('\n'):
+
+		# handle eof
+		if len(line) == 0:	
+			break
+
+		# step 1: find line pattern
+		if step == 1:
+			m = linepattern.match(line)
+			if m is not None:
+				step = 2
+				continue
+			else:
+				return None
+
+		# step 2: find file1 pattern
+		if step == 2:
+			m = file1pattern.match(line)
+			if m is not None:
+				data = m.group(1)
+				data = data[:-1]	# remove the trailing ','
+				try:
+					dj = json.loads(data)
+					file1[dj['name']] = data
+				except json.JSONDecodeError:
+					pass	# if a line is not in json format, we skip it
+
+				continue
+
+			m = dividerpattern.match(line)
+			if m is not None:
+				step = 3
+				continue
+
+			m = file2pattern.match(line)
+			if m is not None:
+				step = 3	# this will continue to run the 'if step == 3' code
+			else:
+				m = linepattern.match(line)
+				if m is not None:
+					result = findChanges(file1, file2)
+					modified.extend(result['modified'])
+					deleted.extend(result['deleted'])
+					added.extend(result['added'])
+				else:
+					return None
+
+		# step 3: find file2 pattern
+		if step == 3:
+			m = file2pattern.match(line)
+			if m is not None:
+				data = m.group(1)
+				data = data[:-1]	# remove the trailing ','
+				try:
+					dj = json.loads(data)
+					file2[dj['name']] = data
+				except json.JSONDecodeError:
+					pass	# if a line is not in json format, we skip it
+			
+				continue
+			else:
+				m = linepattern.match(line)
+				if m is not None:
+					step = 2
+					result = findChanges(file1, file2)
+					modified.extend(result['modified'])
+					deleted.extend(result['deleted'])
+					added.extend(result['added'])
+					continue
+				else:
+					return None
+
+	# to handle the last diff section in the file
+	result = findChanges(file1, file2)
+	modified.extend(result['modified'])
+	deleted.extend(result['deleted'])
+	added.extend(result['added'])
+
+	print "modified: ", modified, " deleted: ", deleted, " added: ", added
+
+	return
+
 def diffData(datafileName):
 	''' find differences between this datafile and the last one '''
 
@@ -183,9 +310,16 @@ def diffData(datafileName):
 		file = baseDirName + "/" + str(i)
 		if os.path.isfile(file):
 			logger.info("diffing {0} and {1}".format(datafileName,file))
-			output = open(baseDirName + '/' + str(i) + '.' + str(index) + '.diff' , 'w')
-			ret = subprocess.call(['diff', '-w', '-B', file, datafileName], stdout=output)
-			output.close()
+			try:
+				output = subprocess.check_output(['diff', '-w', '-B', file, datafileName])
+			except subprocess.CalledProcessError as e:	# diff will return 1 if files are different
+				output = e.output
+			finally:
+
+				json = diff2JSON(output)
+				f = open(baseDirName + '/' + str(i) + '.' + str(index) + '.diff' , 'w')
+				f.write(output)
+				f.close()
 			break
 
 	return
