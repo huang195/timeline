@@ -42,8 +42,8 @@ if [ $compressed == 1 ]
 then
 	rm -f $f.gz
 	gzip $f
-	curl -X POST --data-binary @$f.gz http://localhost:10252/put/${namespace}/${origin}?compressed=true --header "Content-Type:application/json"
+	curl -X POST --data-binary @$f.gz http://localhost:10252/put/${namespace}/${origin}?compressed=true --header "Content-Type:application/json" > agent.log
 else
-	curl -X POST --data-binary @$f http://localhost:10252/put/${namespace}/${origin} --header "Content-Type:application/json"
+	curl -X POST --data-binary @$f http://localhost:10252/put/${namespace}/${origin} --header "Content-Type:application/json" > agent.log
 fi
 

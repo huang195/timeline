@@ -16,6 +16,8 @@ import re
 import subprocess
 import gzip
 import StringIO
+import TLData
+import TLDiff
 
 try: import simplejson as json
 except ImportError: import json
@@ -29,9 +31,7 @@ except ImportError: import json
 app = bottle.Bottle()
 logger = None
 
-# this string should be same as the contents of the README.API file
 apihelp = '''
-
 TL REST calls
 -----------
 
@@ -58,6 +58,7 @@ TL REST calls
    
    Show this API help
 '''
+
 ####################################################################################
 #
 # Configurations
@@ -67,7 +68,6 @@ TL REST calls
 TL_HOST		=	'0.0.0.0'
 TL_PORT		=	10252
 TL_LOG		=	'./tl.log'
-TL_DATA_DIR	=	'./data'
 
 ####################################################################################
 #
@@ -87,21 +87,19 @@ def help():
 def put(namespace, source):
 	''' save data '''
 
-	bottle.response.content_type = 'text/plain'
+	bottle.response.content_type = 'text/json'
 
 	namespaceInvalid = re.match('^[\w\-\.]+$', namespace) is None
 	if namespaceInvalid:
-		msg = "Unexpected namespace: {0}".format(namespace)
-		logger.warn(msg)
-		return msg
+		logger.error("Unexpected namespace: {0}".format(namespace))
+		return json.dumps({'success': False, 'stacktrace': traceback.format_exc().split('\n')}, indent=2)
 
 	sourceInvalid = re.match('^[\w-]+$', source) is None
 	if sourceInvalid:
-		msg = "Unexpected source: {0}".format(source)
-		logger.warn(msg)
-		return msg
+		logger.error("Unexpected source: {0}".format(source))
+		return json.dumps({'success': False, 'stacktrace': traceback.format_exc().split('\n')}, indent=2)
 
-	# Handled compressed data
+	# Check if data is compressed
 	compressed = False
 	if bottle.request.query:
 		value = bottle.request.query.get('compressed', None)
@@ -111,243 +109,45 @@ def put(namespace, source):
 			else:
 				compressed = False
 
-	baseDirName = TL_DATA_DIR + '/' + namespace + '/' + source
-	metafileName = baseDirName + '/' + '.metafile'
+	data = ''
+	dataSize = bottle.request.content_length
+	if (dataSize < bottle.request.MEMFILE_MAX):
+		# req.body in a string if its size is smaller than MEMFILE_MAX
+		data = bottle.request.body.getvalue()
+	else:
+		# req.body in a file if its size is greater than MEMFLE_MAX
+		data = bottle.request.body.read()
 
-	if not os.path.isdir(baseDirName):
-		try:
-			logger.info("Creating directory {0}".format(baseDirName))
-			os.makedirs(baseDirName)
-		except:
-			msg = "Cannot create directory {0}".format(baseDirName)
-			logger.warn(msg)
-			return msg
+	# Find current index for (namespace,origin)
+	tli = TLData.TLIndex(namespace, source)
+	baseDatafileName = tli.getBaseDatafileName()
+	tli.incrementIndex()
 
-	if not os.path.isfile(metafileName):
-		try:
-			logger.info("Creating metafile {0}".format(metafileName))
-			metafile = open(metafileName, 'w')
-			metafile.write('0')
-			metafile.close
-		except:
-			msg = "Cannot create metafile {0}".format(metafileName)
-			logger.warn(msg)
-			return msg
+	# Write out raw data collected by the agent
+	tlrd = TLData.TLRawData()
+	p = multiprocessing.Process(target=tlrd.write, args=(baseDatafileName, data, compressed))
+	p.start()
+	p.join()
 
-	try:
-		metafile = open(metafileName, 'r+')
-		index = int(metafile.read())
+	# Flatten out raw data and write it out, which can be used as input to Solr
+	tlrdi = TLData.TLRawDataIndex()
+	p = multiprocessing.Process(target=tlrdi.write, args=(baseDatafileName, data, compressed))
+	p.start()
+	p.join()
 
-		data = ''
-		d = ''
-		dataSize = bottle.request.content_length
-		if (dataSize < bottle.request.MEMFILE_MAX):
-			# bottle stores request body in a string if its size is smaller than
-			# MEMFILE_MAX
-			data = bottle.request.body.getvalue()
-		else:
-			# bottle stores request body in a file if its size is greater than
-			# MEMFLE_MAX, so we have to treat these separately
-			#msg = "POST size is greater than {0}".format(bottle.request.MEMFILE_MAX)
-			#logger.warn(msg)
-			data = bottle.request.body.read()
+	# Write out diff of raw data
+	tld = TLDiff.TLDiffData()
+	p = multiprocessing.Process(target=tld.write, args=(baseDatafileName,))
+	p.start()
+	p.join()
 
-		if compressed:
-			data_sio = StringIO.StringIO(data)
-			with gzip.GzipFile(fileobj=data_sio, mode="rb") as f:
-				d = f.read()
-			data = d
-			f.close()
+	# Flatten out raw diff data and write it out, which can be used as input to Solr
+	tldi = TLDiff.TLDiffDataIndex()
+	p = multiprocessing.Process(target=tldi.write, args=(baseDatafileName,))
+	p.daemon = True
+	p.start()
 
-		datafileName = baseDirName + '/' + str(index)
-		datafile = open(datafileName, 'w')
-		datafile.write(data+'\n') # adding newline at the end to prevent 'diff' from complaining
-		datafile.close()
-
-		metafile.seek(0)
-		metafile.truncate()
-		metafile.write(str(index+1))
-		metafile.close()
-
-		p1 = multiprocessing.Process(target=indexData, args=(datafileName,))
-		p1.daemon = True
-		p1.start()
-
-		p2 = multiprocessing.Process(target=diffData, args=(datafileName,))
-		p2.daemon = True
-		p2.start()
-
-	except:
-		exc_type, exc_value, exc_traceback = sys.exc_info()
-		lines = traceback.format_exception(exc_type, exc_value, exc_traceback)
-		msg = ''.join('!! ' + line for line in lines)
-
-		logger.warn(msg)
-		return msg
-
-	msg = "file {0} created with length {1}".format(datafileName, dataSize)
-	logger.info(msg)
-
-	return msg
-	
-def indexData(datafileName):
-	''' index data, e.g., using Solr '''
-	logger.info("Starting a new indexing process({0}) for {1}".format(os.getpid(),datafileName))
-	return
-
-def findChanges(file1,file2):
-
-	result = []
-
-	for key,value in file1.items():
-		if key in file2:
-			j = json.loads(file2[key])
-			j['change_s'] = 'modified'
-			result.append(j)
-			del file2[key]
-		else:
-			j = json.loads(file1[key])
-			j['change_s'] = 'deleted'
-			result.append(j)
-
-	for key,value in file2.items():
-		j = json.loads(file2[key])
-		j['change_s'] = 'added'
-		result.append(j)
-
-	file1.clear()
-	file2.clear()
-
-	return result
-
-def diff2JSON(diff):
-	''' given a diff output, return it in JSON format
-
-		diff format:
-			[0-9]+(,[0-9]+)?c[0-9]+(,[0-9]+)?
-			<\s+.*
-			---
-			>\s+.*
-	'''
-
-	result = []
-	file1 = {}
-	file2 = {}
-	step = 1
-
-	linepattern = re.compile(r'[0-9]+(,[0-9]+)?[a-zA-Z][0-9]+(,[0-9]+)?')
-	file1pattern = re.compile(r'^\<\s+(.*)$')
-	dividerpattern = re.compile(r'^---$')
-	file2pattern = re.compile(r'^\>\s+(.*)$')
-
-	for line in diff.split('\n'):
-
-		# handle eof
-		if len(line) == 0:	
-			break
-
-		# step 1: find line pattern
-		if step == 1:
-			m = linepattern.match(line)
-			if m is not None:
-				step = 2
-				continue
-			else:
-				return None
-
-		# step 2: find file1 pattern
-		if step == 2:
-			m = file1pattern.match(line)
-			if m is not None:
-				data = m.group(1)
-				data = data[:-1]	# remove the trailing ','
-				try:
-					dj = json.loads(data)
-					file1[dj['name_s']] = data
-				except json.JSONDecodeError:
-					# if a line is not in json format, we skip it
-					logger.warn('line is not in JSON format: {0}'.format(line))
-
-				continue
-
-			m = dividerpattern.match(line)
-			if m is not None:
-				step = 3
-				continue
-
-			m = file2pattern.match(line)
-			if m is not None:
-				step = 3	# this will continue to run the 'if step == 3' code
-			else:
-				m = linepattern.match(line)
-				if m is not None:
-					ret = findChanges(file1, file2)
-					result.extend(ret)
-				else:
-					return None
-
-		# step 3: find file2 pattern
-		if step == 3:
-			m = file2pattern.match(line)
-			if m is not None:
-				data = m.group(1)
-				data = data[:-1]	# remove the trailing ','
-				try:
-					dj = json.loads(data)
-					file2[dj['name_s']] = data
-				except json.JSONDecodeError:
-					# if a line is not in json format, we skip it
-					logger.warn('line is not in JSON format: {0}'.format(line))
-			
-				continue
-			else:
-				m = linepattern.match(line)
-				if m is not None:
-					step = 2
-					ret = findChanges(file1, file2)
-					result.extend(ret)
-					continue
-				else:
-					logger.warn('Abort, cannot parse line: {0}'.format(line))
-					return None
-
-	# to handle the last diff section in the file
-	ret = findChanges(file1, file2)
-	result.extend(ret)
-
-	return result
-
-def diffData(datafileName):
-	''' find differences between this datafile and the last one '''
-
-	m = re.match(r'(^.*)/([0-9]+$)', datafileName)
-	baseDirName = m.group(1)
-	index = int(m.group(2))
-
-	if index == 0:
-		return	
-
-	for i in range(index-1, -1, -1):
-		file = baseDirName + "/" + str(i)
-		if os.path.isfile(file):
-			logger.info("Starting a new diffing process({0}) for {1} and {2}".format(os.getpid(),datafileName,file))
-			try:
-				output = subprocess.check_output(['diff', '-w', '-B', file, datafileName])
-			except subprocess.CalledProcessError as e:
-				# diff will return 1 if files are different
-				output = e.output
-			finally:
-				f = open(baseDirName + '/' + str(i) + '.' + str(index) + '.diff' , 'w')
-				f.write(output)
-				f.close()
-
-				result = diff2JSON(output)
-				f = open(baseDirName + '/' + str(i) + '.' + str(index) + '.json' , 'w')
-				json.dump(result, f, indent=4)
-				f.close()
-			break
-
-	return
+	return json.dumps({'success': True})
 	
 
 # Main listen/exec loop
