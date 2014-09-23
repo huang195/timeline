@@ -8,11 +8,14 @@
 
 import os
 import sys
+import traceback
 import logging
 import multiprocessing
 import bottle
 import re
 import subprocess
+import gzip
+import StringIO
 
 try: import simplejson as json
 except ImportError: import json
@@ -98,6 +101,16 @@ def put(namespace, source):
 		logger.warn(msg)
 		return msg
 
+	# Handled compressed data
+	compressed = False
+	if bottle.request.query:
+		value = bottle.request.query.get('compressed', None)
+		if value:
+			if value.lower() == 'true':
+				compressed = True
+			else:
+				compressed = False
+
 	baseDirName = TL_DATA_DIR + '/' + namespace + '/' + source
 	metafileName = baseDirName + '/' + '.metafile'
 
@@ -126,6 +139,7 @@ def put(namespace, source):
 		index = int(metafile.read())
 
 		data = ''
+		d = ''
 		dataSize = bottle.request.content_length
 		if (dataSize < bottle.request.MEMFILE_MAX):
 			# bottle stores request body in a string if its size is smaller than
@@ -137,6 +151,13 @@ def put(namespace, source):
 			#msg = "POST size is greater than {0}".format(bottle.request.MEMFILE_MAX)
 			#logger.warn(msg)
 			data = bottle.request.body.read()
+
+		if compressed:
+			data_sio = StringIO.StringIO(data)
+			with gzip.GzipFile(fileobj=data_sio, mode="rb") as f:
+				d = f.read()
+			data = d
+			f.close()
 
 		datafileName = baseDirName + '/' + str(index)
 		datafile = open(datafileName, 'w')
@@ -157,7 +178,10 @@ def put(namespace, source):
 		p2.start()
 
 	except:
-		msg = "Cannot increment index in metafile"
+		exc_type, exc_value, exc_traceback = sys.exc_info()
+		lines = traceback.format_exception(exc_type, exc_value, exc_traceback)
+		msg = ''.join('!! ' + line for line in lines)
+
 		logger.warn(msg)
 		return msg
 
@@ -168,29 +192,33 @@ def put(namespace, source):
 	
 def indexData(datafileName):
 	''' index data, e.g., using Solr '''
-	logger.info("indexing {0}".format(datafileName))
+	logger.info("Starting a new indexing process({0}) for {1}".format(os.getpid(),datafileName))
 	return
 
 def findChanges(file1,file2):
 
-	modified = []
-	deleted = []
-	added = []
-	
+	result = []
+
 	for key,value in file1.items():
 		if key in file2:
-			modified.append(file2[key])
+			j = json.loads(file2[key])
+			j['change_s'] = 'modified'
+			result.append(j)
 			del file2[key]
 		else:
-			deleted.append(file1[key])
+			j = json.loads(file1[key])
+			j['change_s'] = 'deleted'
+			result.append(j)
 
 	for key,value in file2.items():
-		added.append(file2[key])
+		j = json.loads(file2[key])
+		j['change_s'] = 'added'
+		result.append(j)
 
 	file1.clear()
 	file2.clear()
 
-	return { 'modified': modified, 'deleted': deleted, 'added': added }
+	return result
 
 def diff2JSON(diff):
 	''' given a diff output, return it in JSON format
@@ -202,9 +230,7 @@ def diff2JSON(diff):
 			>\s+.*
 	'''
 
-	modified = []
-	deleted = []
-	added = []
+	result = []
 	file1 = {}
 	file2 = {}
 	step = 1
@@ -237,9 +263,10 @@ def diff2JSON(diff):
 				data = data[:-1]	# remove the trailing ','
 				try:
 					dj = json.loads(data)
-					file1[dj['name']] = data
+					file1[dj['name_s']] = data
 				except json.JSONDecodeError:
-					pass	# if a line is not in json format, we skip it
+					# if a line is not in json format, we skip it
+					logger.warn('line is not in JSON format: {0}'.format(line))
 
 				continue
 
@@ -254,10 +281,8 @@ def diff2JSON(diff):
 			else:
 				m = linepattern.match(line)
 				if m is not None:
-					result = findChanges(file1, file2)
-					modified.extend(result['modified'])
-					deleted.extend(result['deleted'])
-					added.extend(result['added'])
+					ret = findChanges(file1, file2)
+					result.extend(ret)
 				else:
 					return None
 
@@ -269,32 +294,28 @@ def diff2JSON(diff):
 				data = data[:-1]	# remove the trailing ','
 				try:
 					dj = json.loads(data)
-					file2[dj['name']] = data
+					file2[dj['name_s']] = data
 				except json.JSONDecodeError:
-					pass	# if a line is not in json format, we skip it
+					# if a line is not in json format, we skip it
+					logger.warn('line is not in JSON format: {0}'.format(line))
 			
 				continue
 			else:
 				m = linepattern.match(line)
 				if m is not None:
 					step = 2
-					result = findChanges(file1, file2)
-					modified.extend(result['modified'])
-					deleted.extend(result['deleted'])
-					added.extend(result['added'])
+					ret = findChanges(file1, file2)
+					result.extend(ret)
 					continue
 				else:
+					logger.warn('Abort, cannot parse line: {0}'.format(line))
 					return None
 
 	# to handle the last diff section in the file
-	result = findChanges(file1, file2)
-	modified.extend(result['modified'])
-	deleted.extend(result['deleted'])
-	added.extend(result['added'])
+	ret = findChanges(file1, file2)
+	result.extend(ret)
 
-	print "modified: ", modified, " deleted: ", deleted, " added: ", added
-
-	return
+	return result
 
 def diffData(datafileName):
 	''' find differences between this datafile and the last one '''
@@ -309,16 +330,20 @@ def diffData(datafileName):
 	for i in range(index-1, -1, -1):
 		file = baseDirName + "/" + str(i)
 		if os.path.isfile(file):
-			logger.info("diffing {0} and {1}".format(datafileName,file))
+			logger.info("Starting a new diffing process({0}) for {1} and {2}".format(os.getpid(),datafileName,file))
 			try:
 				output = subprocess.check_output(['diff', '-w', '-B', file, datafileName])
-			except subprocess.CalledProcessError as e:	# diff will return 1 if files are different
+			except subprocess.CalledProcessError as e:
+				# diff will return 1 if files are different
 				output = e.output
 			finally:
-
-				json = diff2JSON(output)
 				f = open(baseDirName + '/' + str(i) + '.' + str(index) + '.diff' , 'w')
 				f.write(output)
+				f.close()
+
+				result = diff2JSON(output)
+				f = open(baseDirName + '/' + str(i) + '.' + str(index) + '.json' , 'w')
+				json.dump(result, f, indent=4)
 				f.close()
 			break
 
@@ -329,11 +354,11 @@ def diffData(datafileName):
 
 if __name__ == '__main__':
 	print ''
-	print 'Starting Time Line'
+	print 'Starting Time Line process({0})'.format(os.getpid())
 	print 'Log output will be stored in {0}'.format(TL_LOG)
 	print ''
 	logging.basicConfig(filename=TL_LOG, filemode='w', format='%(asctime)s %(levelname)s : %(message)s', level=logging.DEBUG)
 	logger = logging.getLogger(__name__)
-	logger.info('Started Time Line')
+	logger.info('Started Time Line process({0})'.format(os.getpid()))
 	logger.info('Log output will be stored in {0}'.format(TL_LOG))
 	app.run(host=TL_HOST, port=TL_PORT, quiet=True)
