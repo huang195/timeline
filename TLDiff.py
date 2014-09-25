@@ -96,6 +96,12 @@ class TLDiffDataIndex:
 			j['change_s'] = 'added'
 			result.append(j)
 
+		# Massage for Banana
+		for j in result:
+			j['id'] = j['name_s'] + ':' + j['lastmodifiedtime_dt']
+			j['event_timestamp'] = j['lastmodifiedtime_dt']
+			j['message'] = j['change_s'] + ' ' + j['name_s']
+
 		file1.clear()
 		file2.clear()
 

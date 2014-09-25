@@ -67,7 +67,7 @@ TL REST calls
 
 TL_HOST		=	'0.0.0.0'
 TL_PORT		=	10252
-TL_LOG		=	'./tl.log'
+TL_LOG		=	'logs/tl.log'
 
 ####################################################################################
 #
@@ -153,10 +153,8 @@ def put(namespace, source):
 # Main listen/exec loop
 
 if __name__ == '__main__':
-	print ''
 	print 'Starting Time Line process({0})'.format(os.getpid())
 	print 'Log output will be stored in {0}'.format(TL_LOG)
-	print ''
 	logging.basicConfig(filename=TL_LOG, filemode='w', format='%(asctime)s %(levelname)s : %(message)s', level=logging.DEBUG)
 	logger = logging.getLogger(__name__)
 	logger.info('Started Time Line process({0})'.format(os.getpid()))

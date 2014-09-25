@@ -1,0 +1,7 @@
+timeline.py: timeline web services
+noise.py: find constantly changing files that are of no use, its output can be used as one of the inputs to tagger.py
+tagger.py: uses a list of configs to tag files
+agent.sh: timeline agent
+index.sh: upload data to solr
+delete.sh: reset solr data collection
+

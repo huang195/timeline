@@ -13,6 +13,7 @@
 namespace="cloud3.0"
 origin="tlagent"
 compressed=1
+timelineserver="localhost:10252"
 
 dir=`pwd`
 if [ -n "$1" ]
@@ -42,8 +43,8 @@ if [ $compressed == 1 ]
 then
 	rm -f $f.gz
 	gzip $f
-	curl -X POST --data-binary @$f.gz http://localhost:10252/put/${namespace}/${origin}?compressed=true --header "Content-Type:application/json" > agent.log
+	curl -X POST --data-binary @$f.gz http://${timelineserver}/put/${namespace}/${origin}?compressed=true --header "Content-Type:application/json" > agent.log
 else
-	curl -X POST --data-binary @$f http://localhost:10252/put/${namespace}/${origin} --header "Content-Type:application/json" > agent.log
+	curl -X POST --data-binary @$f http://${timelineserver}/put/${namespace}/${origin} --header "Content-Type:application/json" > agent.log
 fi
 
