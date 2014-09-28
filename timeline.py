@@ -130,10 +130,10 @@ def put(namespace, source):
 	p.join()
 
 	# Flatten out raw data and write it out, which can be used as input to Solr
-	tlrdi = TLData.TLRawDataIndex()
-	p = multiprocessing.Process(target=tlrdi.write, args=(baseDatafileName, data, compressed))
-	p.start()
-	p.join()
+	#tlrdi = TLData.TLRawDataIndex()
+	#p = multiprocessing.Process(target=tlrdi.write, args=(baseDatafileName, data, compressed))
+	#p.start()
+	#p.join()
 
 	# Write out diff of raw data
 	tld = TLDiff.TLDiffData()

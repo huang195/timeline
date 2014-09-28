@@ -76,7 +76,7 @@ class TLDiffDataIndex:
 		f.close()
 
 
-	def findChanges(self,file1,file2):
+	def findChanges(self, file1, file2, collectionTime):
 
 		result = []
 
@@ -101,6 +101,7 @@ class TLDiffDataIndex:
 			j['id'] = j['name_s'] + ':' + j['lastmodifiedtime_dt']
 			j['event_timestamp'] = j['lastmodifiedtime_dt']
 			j['message'] = j['change_s'] + ' ' + j['name_s']
+			j['collection_dt'] = collectionTime
 
 		file1.clear()
 		file2.clear()
@@ -121,11 +122,13 @@ class TLDiffDataIndex:
 		file1 = {}
 		file2 = {}
 		step = 1
+		collectionTime = ''
 
 		linepattern = re.compile(r'[0-9]+(,[0-9]+)?[a-zA-Z][0-9]+(,[0-9]+)?')
 		file1pattern = re.compile(r'^\<\s+(.*)$')
 		dividerpattern = re.compile(r'^---$')
 		file2pattern = re.compile(r'^\>\s+(.*)$')
+		collectiontimepattern = re.compile(r'^\>\s+\"collection_dt\":\s+\"(.*)\"')
 
 		for line in diff.split('\n'):
 
@@ -155,7 +158,12 @@ class TLDiffDataIndex:
 						file1[dj['name_s']] = data
 					except json.JSONDecodeError:
 						# if a line is not in json format, we skip it
-						logger.warn('line is not in JSON format: {0}'.format(line))
+						m = collectiontimepattern.match(line)
+						if m is not None:
+							collectionTime = m.group(1)
+							continue
+						else:
+							logger.warn('line is not in JSON format: {0}'.format(line))
 
 					continue
 
@@ -171,7 +179,7 @@ class TLDiffDataIndex:
 				else:
 					m = linepattern.match(line)
 					if m is not None:
-						ret = self.findChanges(file1, file2)
+						ret = self.findChanges(file1, file2, collectionTime)
 						result.extend(ret)
 					else:
 						return None
@@ -189,22 +197,27 @@ class TLDiffDataIndex:
 						file2[dj['name_s']] = data
 					except json.JSONDecodeError:
 						# if a line is not in json format, we skip it
-						logger.warn('line is not in JSON format: {0}'.format(line))
+						m = collectiontimepattern.match(line)
+						if m is not None:
+							collectionTime = m.group(1)
+							continue
+						else:
+							logger.warn('line is not in JSON format: {0}'.format(line))
 				
 					continue
-				else:
-					m = linepattern.match(line)
-					if m is not None:
-						step = 2
-						ret = self.findChanges(file1, file2)
-						result.extend(ret)
-						continue
-					else:
-						logger.warn('Abort, cannot parse line: {0}'.format(line))
-						return None
+
+				m = linepattern.match(line)
+				if m is not None:
+					step = 2
+					ret = self.findChanges(file1, file2, collectionTime)
+					result.extend(ret)
+					continue
+
+				logger.warn('Abort, cannot parse line: {0}'.format(line))
+				return None
 
 		# to handle the last diff section in the file
-		ret = self.findChanges(file1, file2)
+		ret = self.findChanges(file1, file2, collectionTime)
 		result.extend(ret)
 
 		return result
