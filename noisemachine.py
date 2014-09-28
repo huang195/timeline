@@ -2,7 +2,10 @@
 
 ####################################################################################
 #
-# Provides Time Line (TL) REST services
+# Finds noise from file system that should ignored when changed
+#
+# Saves state in TL_DATA_DIR/<namespace>/<origin>/.nm so it can pick up where it 
+# left off the last time it ran
 #
 ####################################################################################
 
@@ -38,42 +41,36 @@ NM_LOG	=	'logs/nm.log'
 # Files that are modified higher than this frequency will be labeled as noise (unit=sec)
 DEFAULT_FREQ = 600
 
+# These factors below are configurable to determine what is noise, and they are all 
+# in units of DEFAULT_FREQ
+
+# COLLECTION_TOO_FAR_FACTOR determines when two consecutive collection points are too
+# away to be used to determine noise (e.g., when the collection agent malfunctions).
+# Bigger values might find more noises
+COLLECTION_TOO_FAR_FACTOR = 3
+
+# FILE_NO_LONGER_CHANGING_FACTOR determines when we should stop tracking a file after 
+# it was last modified. This is to improve memory usage of the noisemachine. Bigger value
+# will use more memory but maybe more accurate
+FILE_NO_LONGER_CHANGING_FACTOR = 5
+
+# CHANGE_FREQUENCY_FUZZY_FACTOR allows files to be modified at a slightly lower frequency
+# than what is specified by DEFAULT_FREQ. Bigger values find more noises
+CHANGE_FREQUENCY_FUZZY_FACTOR = 1.5
+
+# INCUBATION_FACTOR specifies how long we need to wait till we are certain a file is noisy.
+# Smaller values find more noises
+INCUBATION_FACTOR = 10
+
 ####################################################################################
 #
 # Functions
 #
 ####################################################################################
 
-def parseArgs(argv):
-	
-	namespace = ''
-	source = ''
-	freq = DEFAULT_FREQ
-
-	try:
-		opts, args = getopt.getopt(argv,"n:s:f:",["namespace=","source=", "freq="])
-	except getopt.GetoptError:
-		print 'noisemachine.py -n <namespace> -s <source> [-f <freq>]'
-		sys.exit(2)
-
-	for opt, arg in opts:
-		if opt in ("-n", "--namespace"):
-			namespace = arg
-		elif opt in ("-s", "--source"):
-			source = arg
-		elif opt in ("-f", "--freq"):
-			freq = int(arg)
-
-	if namespace != '' and source != '':
-		return (namespace, source, freq)
-	else:
-		print 'noisemachine.py -n <namespace> -s <source>'
-		sys.exit(2)
-
-def findNoise(namespace, source, freq):
+def findNoise(namespace, source, output, freq):
 
 	baseDirName = TL_DATA_DIR + '/' + namespace + '/' + source
-	
 	f = open(baseDirName + '/.metafile', 'r')
 	index = int(f.read())
 	f.close()
@@ -89,19 +86,23 @@ def findNoise(namespace, source, freq):
 	#   'files' : [
 	#     {
 	#      'name_s' : '/var/log/message',  <- name of the modified file
-	#      'lastmodifiedtime_dt' : '2014-09-24T10:43:00Z',  <- last modified time
+	#      'firstmodifiedtime_dt' : '2014-09-24T10:43:00Z',  <- when file was first registered
+	#      'lastmodifiedtime_dt' : '2014-09-24T10:43:00Z',  <- when file was last modified
+	#      'collection_dt' : '2014-09-24T10:43:00Z',  <- when the last collection happened
 	#      'intervals' : [15, 20, 20], <- modified intervals
 	#     }
 	#   ]
 	#
-	# Logic:
-	# 
-	#  1. Use 'index' to find the next data file to ingest
-	#  2. 'docs' is used to book-keep how many data files have been ingested so far
 
-	dataframe = { 'index': 0, 'docs': 0, 'files': []}
+	try:
+		f = open(baseDirName + '/.nm', 'r')
+		dataframe = json.loads(f.read())
+	except:
+		dataframe = { 'index': 1, 'docs': 0, 'files': []}
+	finally:
+		f.close()
 
-	for i in range(1, index):
+	for i in range(dataframe['index'], index):
 		try:
 			f = open(baseDirName + '/' + str(i) + '.json', 'r')
 			data = f.read()
@@ -141,7 +142,7 @@ def findNoise(namespace, source, freq):
 						time2 = datetime.strptime(collectionTime,'%Y-%m-%dT%H:%M:%SZ')
 						delta = time2 - time1 
 						sec = delta.total_seconds()
-						if sec > 5 * DEFAULT_FREQ:
+						if sec > FILE_NO_LONGER_CHANGING_FACTOR * freq:
 							#print 'deleting {0}'.format(file['name_s'])
 							dataframe['files'].remove(file)
 					continue
@@ -156,11 +157,13 @@ def findNoise(namespace, source, freq):
 
 				# if time between 2 collection points are too far, we dismiss it as it could be 
 				# agent was intermittently not working
-				if sec <= 3 * DEFAULT_FREQ:
+				if sec <= COLLECTION_TOO_FAR_FACTOR * freq:
 					time1 = datetime.strptime(file['lastmodifiedtime_dt'], '%Y-%m-%dT%H:%M:%SZ')
 					time2 = datetime.strptime(d['lastmodifiedtime_dt'],'%Y-%m-%dT%H:%M:%SZ')
 					delta = time2 - time1 
-					file['intervals'].append(delta.total_seconds())
+					sec = delta.total_seconds()
+					file['intervals'].append(sec)
+
 				file['lastmodifiedtime_dt'] = d['lastmodifiedtime_dt']
 				file['collection_dt'] = d['collection_dt']
 
@@ -190,6 +193,12 @@ def findNoise(namespace, source, freq):
 		finally:
 			f.close()
 
+	f = None
+	if output != None:
+		f = open(output, "w")
+	else:
+		f = sys.stdout
+
 	for file in dataframe['files']:
 
 		# skip if there's not enough info on the file
@@ -199,31 +208,60 @@ def findNoise(namespace, source, freq):
 		# skip if file change interval is too long
 		exceptions = 0
 		for i in file['intervals']:
-			if i > DEFAULT_FREQ:
+			if i > CHANGE_FREQUENCY_FUZZY_FACTOR * freq:
 				exceptions += 1
-
-		if exceptions > 1:
-			continue
-
-		# skip if average file change interval is too long
-		time1 = datetime.strptime(file['firstmodifiedtime_dt'], '%Y-%m-%dT%H:%M:%SZ')
-		time2 = datetime.strptime(d['lastmodifiedtime_dt'],'%Y-%m-%dT%H:%M:%SZ')
-		delta = time2 - time1 
-		sec = delta.total_seconds()
-		if sec / len(file['intervals']) > DEFAULT_FREQ:
+		if exceptions > 0:
 			continue
 
 		# skip if data has not been collected long enough
-		if sec < DEFAULT_FREQ * 10:
+		time1 = datetime.strptime(file['firstmodifiedtime_dt'], '%Y-%m-%dT%H:%M:%SZ')
+		time2 = datetime.strptime(file['lastmodifiedtime_dt'],'%Y-%m-%dT%H:%M:%SZ')
+		delta = time2 - time1 
+		sec = delta.total_seconds()
+		if sec < INCUBATION_FACTOR * freq:
 			continue
 
-		print file['name_s']
+		f.write(file['name_s'] + '\n')
+	f.close()
+
+	f = open(baseDirName + '/.nm', 'w')
+	json.dump(dataframe, f, indent=2)
+	f.close()
 
 	#print json.dumps(dataframe,indent=2)
 
+def parseArgs(argv):
+	
+	namespace = ''
+	source = ''
+	freq = DEFAULT_FREQ
+	output = None
+
+	try:
+		opts, args = getopt.getopt(argv,'n:s:o:f:',['namespace=','source=', 'output=', 'freq='])
+	except getopt.GetoptError:
+		print 'noisemachine.py -n <namespace> -s <source> [-o <output> -f <freq>]'
+		sys.exit(2)
+
+	for opt, arg in opts:
+		if opt in ("-n", "--namespace"):
+			namespace = arg
+		elif opt in ("-s", "--source"):
+			source = arg
+		elif opt in ("-o", "--output"):
+			output = arg
+		elif opt in ("-f", "--freq"):
+			freq = int(arg)
+
+	if namespace != '' and source != '':
+		return (namespace, source, output, freq)
+	else:
+		print 'noisemachine.py -n <namespace> -s <source>'
+		sys.exit(2)
+
 if __name__ == '__main__':
 
-	namespace, source, freq = parseArgs(sys.argv[1:])
+	namespace, source, output, freq = parseArgs(sys.argv[1:])
 
 	print 'Starting Noise Machine process({0}) for namespace({1}) and source({2})'.format(os.getpid(),namespace,source)
 	print 'Log output will be stored in {0}'.format(NM_LOG)
@@ -231,4 +269,4 @@ if __name__ == '__main__':
 	logger = logging.getLogger(__name__)
 	logger.info('Started Noise Machine process({0})'.format(os.getpid()))
 	logger.info('Log output will be stored in {0}'.format(NM_LOG))
-	findNoise(namespace, source, freq)
+	findNoise(namespace, source, output, freq)
