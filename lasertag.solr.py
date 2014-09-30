@@ -108,7 +108,7 @@ def assignTags(namespace, source):
 			for m in j:
 				tagFile(m)
 
-			f = open(baseDirName + '/' + str(i) + '.json', 'w')
+			f = open(baseDirName + '/' + str(i) + '.tag.json', 'w')
 			json.dump(j, f, indent=2)
 			f.close()
 		except:

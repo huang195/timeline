@@ -102,14 +102,22 @@ def assignTags(namespace, source):
 	for i in range(1, index):
 		try:
 			f = open(baseDirName + '/' + str(i) + '.json', 'r')
-			data = f.read()
+			count = 0
+			data = []
+			meta = []
+			for line in f:
+				count += 1
+				if count % 2 == 1:
+					meta.append(json.loads(line))
+				else:
+					data.append(json.loads(line))
 			f.close()
-			j = json.loads(data)
-			for m in j:
+			for m in data:
 				tagFile(m)
 
-			f = open(baseDirName + '/' + str(i) + '.json', 'w')
-			json.dump(j, f, indent=2)
+			f = open(baseDirName + '/' + str(i) + '.tag.json', 'w')
+			for m,d in zip(meta, data):
+				f.write(json.dumps(m) + '\n' + json.dumps(d) + '\n')
 			f.close()
 		except:
 			# if file doesn't exist, we just keep going

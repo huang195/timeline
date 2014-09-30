@@ -32,6 +32,8 @@ Timeline files:
 	- noisemachine.py: find constantly changing files that are of no use, its output can be used as one of the inputs to lasertag.py
 	- laser.py: uses a list of configs to tag changed files
 	- agent.sh: timeline agent
-	- index.sh: upload data to solr
-	- delete.sh: reset solr data collection
+	- index.solr.sh: upload data to solr
+	- delete.solr.sh: reset solr data collection
+	- index.es.sh: upload data to elasticsearch
+	- delete.es.sh: reset es data collection
 

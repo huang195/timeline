@@ -10,15 +10,29 @@
 #	Configurable variables
 #################################################
 
-namespace="cloud3.0"
-origin="tlagent"
 compressed=1
 timelineserver="localhost:10252"
 
-dir=`pwd`
-if [ -n "$1" ]
+if [ -z "$1" ]
 then
-	dir=$1
+	echo "usage: agent.sh namespace source [rootdir]"
+	exit 1
+else
+	namespace=$1
+fi
+
+if [ -z "$2" ]
+then
+	echo "usage: agent.sh namespace source [rootdir]"
+	exit 1
+else
+	origin=$2
+fi
+
+dir=`pwd`
+if [ -n "$3" ]
+then
+	dir=$3
 fi
 
 # Redirect stdout to ./tmp to keep script cleaner

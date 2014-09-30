@@ -68,6 +68,7 @@ TL REST calls
 TL_HOST		=	'0.0.0.0'
 TL_PORT		=	10252
 TL_LOG		=	'logs/tl.log'
+INDEXER		=	'ElasticSearch'	#'Solr'
 
 ####################################################################################
 #
@@ -142,10 +143,18 @@ def put(namespace, source):
 	p.join()
 
 	# Flatten out raw diff data and write it out, which can be used as input to Solr
-	tldi = TLDiff.TLDiffDataIndex()
-	p = multiprocessing.Process(target=tldi.write, args=(baseDatafileName,))
-	p.daemon = True
-	p.start()
+	if INDEXER == 'Solr':
+		tldi = TLDiff.TLDiffDataIndexSolr()
+		p = multiprocessing.Process(target=tldi.write, args=(baseDatafileName,))
+		p.daemon = True
+		p.start()
+	elif INDEXER == 'ElasticSearch':
+		tldi = TLDiff.TLDiffDataIndexES()
+		p = multiprocessing.Process(target=tldi.write, args=(baseDatafileName,))
+		p.daemon = True
+		p.start()
+	else:
+		logger.error('Indexer {0} not supported'.format(INDEXER))
 
 	return json.dumps({'success': True})
 	
