@@ -1,7 +1,37 @@
-timeline.py: timeline web services
-noise.py: find constantly changing files that are of no use, its output can be used as one of the inputs to tagger.py
-tagger.py: uses a list of configs to tag files
-agent.sh: timeline agent
-index.sh: upload data to solr
-delete.sh: reset solr data collection
+Solr/Banana Setup:
+	Solr: 
+		1) download and extract
+		2) change <solr home>/example/solr/collection1/conf/schema.xml if needed
+		3) ./bin/solr start -p 8983
+		4) run ./index.sh on doc (in json format) to be indexed
+		5) if collection needs to be resetted, run delete.sh (destructive)
+
+	Banana:
+		1) download and extract
+		2) copy it to <solr home>/example/solr-webapp/webapp/
+		3) start Solr
+		4) access http://localhost:8983/solr/banana/src/index.html#/dashboard
+
+Elastic Search/Kibana Setup:
+	Elastic Search:
+		1) download and extract
+		2) <es home>/bin/plugin -i elasticsearch/marvel/latest
+		3) echo 'marvel.agent.enabled: false' >> <es home>/config/elasticsearch.yml
+		4) <es home>/bin/elasticsearch -d
+		5) access http://localhost:9200/_plugin/marvel/sense/ and http://localhost:9200/_plugin/marvel
+
+	Kibana:
+		0) install and setup Apache
+		1) download and extract
+		2) put kibana files to /var/www/html directory
+		3) modify <kibana home>/config.js's elasticsearch property
+		4) access http://localhost/index.html
+
+Timeline files:
+	- timeline.py: timeline web services
+	- noisemachine.py: find constantly changing files that are of no use, its output can be used as one of the inputs to lasertag.py
+	- laser.py: uses a list of configs to tag changed files
+	- agent.sh: timeline agent
+	- index.sh: upload data to solr
+	- delete.sh: reset solr data collection
 

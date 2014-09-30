@@ -256,13 +256,12 @@ def parseArgs(argv):
 	if namespace != '' and source != '':
 		return (namespace, source, output, freq)
 	else:
-		print 'noisemachine.py -n <namespace> -s <source>'
+		print 'noisemachine.py -n <namespace> -s <source> [-o <output> -f <freq>]'
 		sys.exit(2)
 
 if __name__ == '__main__':
 
 	namespace, source, output, freq = parseArgs(sys.argv[1:])
-
 	print 'Starting Noise Machine process({0}) for namespace({1}) and source({2})'.format(os.getpid(),namespace,source)
 	print 'Log output will be stored in {0}'.format(NM_LOG)
 	logging.basicConfig(filename=NM_LOG, filemode='w', format='%(asctime)s %(levelname)s : %(message)s', level=logging.DEBUG)

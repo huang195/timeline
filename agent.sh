@@ -41,10 +41,11 @@ sed -i ':a;N;$!ba;s/},\n\t\]/}\n\t\]/g' $f
 
 if [ $compressed == 1 ]
 then
-	rm -f $f.gz
 	gzip $f
 	curl -X POST --data-binary @$f.gz http://${timelineserver}/put/${namespace}/${origin}?compressed=true --header "Content-Type:application/json" > agent.log
+	rm -f $f.gz
 else
 	curl -X POST --data-binary @$f http://${timelineserver}/put/${namespace}/${origin} --header "Content-Type:application/json" > agent.log
+	rm -f $f
 fi
 
