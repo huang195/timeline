@@ -68,19 +68,26 @@ def readTags():
 			t = json.load(f)
 			f.close()
 
-			p = t['pattern']
-			if p[0] == '@':
-				# regex pattern captured in a file
-				lst = p[1:]
-				f = open(LT_CONF_DIR + '/' + lst, 'r')
-				patterns = []
-				for line in f:
-					# regex in file is exact match only
-					patterns.append('#:#'+line.strip())
-				f.close()
-				t['patterns'] = patterns
-			else:
-				t['patterns'] = [p]
+			ps = t['pattern']
+			for p in ps:
+				if p[0] == '@':
+					# regex pattern captured in a file
+					lst = p[1:]
+					f = open(LT_CONF_DIR + '/' + lst, 'r')
+					patterns = []
+					for line in f:
+						# regex in file is exact match only
+						patterns.append('#:#'+line.strip())
+					f.close()
+					if 'patterns' not in t.keys():
+						t['patterns'] = patterns
+					else:
+						t['patterns'].extend(patterns)
+				else:
+					if 'patterns' not in t.keys():
+						t['patterns'] = [p]
+					else:
+						t['patterns'].append(p)
 			tags.append(t)
 
 	logger.debug('tags populated')
@@ -133,7 +140,9 @@ def tagFile(file):
 				if file['name_s'] == p:
 					if 'tag_s' in file.keys():
 						file['tag_s'].append(tag)
-						file['cat_s'].append(cat)
+						if cat not in file['cat_s']:
+							# category value should be unique
+							file['cat_s'].append(cat)
 					else:
 						file['tag_s'] = [tag]
 						file['cat_s'] = [cat]
@@ -144,7 +153,9 @@ def tagFile(file):
 				if m is not None:
 					if 'tag_s' in file.keys():
 						file['tag_s'].append(tag)
-						file['cat_s'].append(cat)
+						if cat not in file['cat_s']:
+							# category value should be unique
+							file['cat_s'].append(cat)
 					else:
 						file['tag_s'] = [tag]
 						file['cat_s'] = [cat]
