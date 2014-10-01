@@ -76,7 +76,7 @@ def readTags():
 				patterns = []
 				for line in f:
 					# regex in file is exact match only
-					patterns.append('^'+line.strip()+'$')
+					patterns.append('#:#'+line.strip())
 				f.close()
 				t['patterns'] = patterns
 			else:
@@ -119,9 +119,11 @@ def assignTags(namespace, source):
 			for m,d in zip(meta, data):
 				f.write(json.dumps(m) + '\n' + json.dumps(d) + '\n')
 			f.close()
-		except:
+		except IOError:
 			# if file doesn't exist, we just keep going
-			#print 'stacktrace: ', traceback.format_exc().split('\n')
+			pass
+		except:
+			print 'stacktrace: ', traceback.format_exc().split('\n')
 			continue
 
 def tagFile(file):
@@ -132,12 +134,28 @@ def tagFile(file):
 		cat = t['cat']
 
 		for pattern in patterns:
-			p = re.compile(pattern)
-			m = p.match(file['name_s'])
-			if m is not None:
-				file['tag_s'] = tag
-				file['cat_s'] = cat
-				return
+
+			if len(pattern) >= 3 and pattern[0:3] == '#:#':
+				# Look for exact match
+				p = pattern[3:]
+				if file['name_s'] == p:
+					if 'tag_s' in file.keys():
+						file['tag_s'].append(tag)
+						file['cat_s'].append(cat)
+					else:
+						file['tag_s'] = [tag]
+						file['cat_s'] = [cat]
+			else:
+				# Look for pattern match
+				p = re.compile(pattern)
+				m = p.match(file['name_s'])
+				if m is not None:
+					if 'tag_s' in file.keys():
+						file['tag_s'].append(tag)
+						file['cat_s'].append(cat)
+					else:
+						file['tag_s'] = [tag]
+						file['cat_s'] = [cat]
 
 if __name__ == '__main__':
 
