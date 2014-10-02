@@ -205,6 +205,7 @@ def findNoise(namespace, source, output, freq):
 	else:
 		f = sys.stdout
 
+	f.write('[\n')
 	for file in dataframe['files']:
 
 		# skip if there's not enough info on the file
@@ -227,7 +228,8 @@ def findNoise(namespace, source, output, freq):
 		if sec < INCUBATION_FACTOR * freq:
 			continue
 
-		f.write(file['name_s'] + '\n')
+		f.write('\t{{\"name_s\": \"{0}\", \"regex\": \"false\"}},\n'.format(file['name_s']))
+	f.write(']\n')
 	f.close()
 
 	f = open(baseDirName + '/.nm', 'w')

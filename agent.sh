@@ -46,7 +46,7 @@ echo "{"
 echo "	\"hostname_s\": " "\"`hostname`\","
 echo "	\"collection_dt\": " "\"`date +%Y-%m-%dT%H:%M:%SZ`\","
 echo "	\"files\": ["
-find $dir -mount \( -path /root -o -path /sys -o -path /proc \) -prune -o -printf "\t\t{\"name_s\": \"%p\", \"lastmodifiedtime_dt\": \"%CY-%Cm-%CdT%CH:%CM:00Z\", \"size_i\": \"%k\", \"permission_s\": \"%M\", \"type_s\": \"%Y\"},\n"
+find $dir -mount \( -path /root -o -path /sys -o -path /proc \) -prune -o -printf "\t\t{\"name_s\": \"%p\", \"lastmodifiedtime_dt\": \"%CY-%Cm-%CdT%CH:%CM:00Z\", \"size_i\": \"%s\", \"permission_s\": \"%M\", \"type_s\": \"%Y\"},\n"
 echo "	]"
 echo "}"
 

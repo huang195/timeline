@@ -74,10 +74,7 @@ def readTags():
 					# regex pattern captured in a file
 					lst = p[1:]
 					f = open(LT_CONF_DIR + '/' + lst, 'r')
-					patterns = []
-					for line in f:
-						# regex in file is exact match only
-						patterns.append('#:#'+line.strip())
+					patterns = json.load(f)
 					f.close()
 					if 'patterns' not in t.keys():
 						t['patterns'] = patterns
@@ -85,9 +82,9 @@ def readTags():
 						t['patterns'].extend(patterns)
 				else:
 					if 'patterns' not in t.keys():
-						t['patterns'] = [p]
+						t['patterns'] = [ {"name_s": p} ]
 					else:
-						t['patterns'].append(p)
+						t['patterns'].append({"name_s": p})
 			tags.append(t)
 
 	logger.debug('tags populated')
@@ -142,27 +139,38 @@ def tagFile(file):
 
 		for pattern in patterns:
 
-			if len(pattern) >= 3 and pattern[0:3] == '#:#':
+			if 'regex' in pattern.keys() and pattern['regex'].lower() == 'false':
 				# Look for exact match
-				p = pattern[3:]
-				if file['name_s'] == p:
+				mismatch = 0
+				for key,value in pattern.items():
+					if key == 'regex':
+						continue
+					if key in file.keys() and file[key] == value:
+						continue
+					else:
+						mismatch = 1
+						break
+				if mismatch == 0:
 					if 'tag_s' in file.keys():
-						file['tag_s'].append(tag)
+						# keep values unique
+						if tag not in file['tag_s']:
+							file['tag_s'].append(tag)
 						if cat not in file['cat_s']:
-							# category value should be unique
 							file['cat_s'].append(cat)
 					else:
 						file['tag_s'] = [tag]
 						file['cat_s'] = [cat]
+
 			else:
 				# Look for pattern match
-				p = re.compile(pattern)
+				p = re.compile(pattern['name_s'])
 				m = p.match(file['name_s'])
 				if m is not None:
 					if 'tag_s' in file.keys():
-						file['tag_s'].append(tag)
+						# keep values unique
+						if tag not in file['tag_s']:
+							file['tag_s'].append(tag)
 						if cat not in file['cat_s']:
-							# category value should be unique
 							file['cat_s'].append(cat)
 					else:
 						file['tag_s'] = [tag]
