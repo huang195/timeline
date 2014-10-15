@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.0.x86_64/src.zip", "size_i": "44564995", "regex": "false"},
+	{"name_s": "/usr/share/doc/java-1.6.0-openjdk-src-1.6.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/java-1.6.0-openjdk-src-1.6.0.0/README.src", "size_i": "133", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libaudit.a", "size_i": "139386", "regex": "false"},
+	{"name_s": "/usr/lib64/libauparse.a", "size_i": "105470", "regex": "false"}
+]

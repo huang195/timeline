@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/share/doc/perl-Error-0.17015", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Error-0.17015/ChangeLog", "size_i": "8304", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Error-0.17015/README", "size_i": "2410", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Error-0.17015/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Error-0.17015/examples/example.pl", "size_i": "719", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Error-0.17015/examples/next-in-loop", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Error-0.17015/examples/next-in-loop/Error.pm-eval.pl", "size_i": "487", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Error-0.17015/examples/next-in-loop/Error.pm-next-label.pl", "size_i": "442", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Error-0.17015/examples/next-in-loop/Error.pm-next-out-of-catch.pl", "size_i": "512", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Error-0.17015/examples/next-in-loop/Error.pm-next.pl", "size_i": "409", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Error-0.17015/examples/next-in-loop/README", "size_i": "164", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Error-0.17015/examples/warndie.pl", "size_i": "382", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Error.3pm.gz", "size_i": "6387", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Error::Simple.3pm.gz", "size_i": "2107", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Error", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Error.pm", "size_i": "24117", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Error/Simple.pm", "size_i": "932", "regex": "false"}
+]

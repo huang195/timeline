@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/share/doc/hispavoces-pal-diphone-1.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hispavoces-pal-diphone-1.0.0/COPYING.hispavoces", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_contourmodel_f0.scm", "size_i": "127614", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_diphone.scm", "size_i": "14469", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_duration.scm", "size_i": "6738", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_durdata.scm", "size_i": "6980", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_durtreeZ_dur.scm", "size_i": "55508", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_f0model.scm", "size_i": "9207", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_intonation.scm", "size_i": "6126", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_lexicon.scm", "size_i": "55297", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_other.scm", "size_i": "5827", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_phoneset.scm", "size_i": "8465", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_phrasing.scm", "size_i": "6556", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_tagger.scm", "size_i": "6411", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/JuntaDeAndalucia_es_pa_tokenizer.scm", "size_i": "26715", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/festvox/tree_f0.scm", "size_i": "6246", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/group", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/festival/lib/voices/es/JuntaDeAndalucia_es_pa_diphone/group/palpc16k.group", "size_i": "4487321", "regex": "false"}
+]

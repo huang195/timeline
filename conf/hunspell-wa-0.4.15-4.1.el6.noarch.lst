@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-wa-0.4.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-wa-0.4.15/ChangeLog", "size_i": "13903", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-wa-0.4.15/LGPL", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-wa-0.4.15/README", "size_i": "3754", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-wa-0.4.15/TODO", "size_i": "1099", "regex": "false"},
+	{"name_s": "/usr/share/myspell/wa_BE.aff", "size_i": "62231", "regex": "false"},
+	{"name_s": "/usr/share/myspell/wa_BE.dic", "size_i": "124970", "regex": "false"}
+]

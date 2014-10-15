@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/include/avahi-gobject", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/avahi-gobject/ga-client.h", "size_i": "2531", "regex": "false"},
+	{"name_s": "/usr/include/avahi-gobject/ga-entry-group.h", "size_i": "7747", "regex": "false"},
+	{"name_s": "/usr/include/avahi-gobject/ga-enums.h", "size_i": "4056", "regex": "false"},
+	{"name_s": "/usr/include/avahi-gobject/ga-error.h", "size_i": "1068", "regex": "false"},
+	{"name_s": "/usr/include/avahi-gobject/ga-record-browser.h", "size_i": "2653", "regex": "false"},
+	{"name_s": "/usr/include/avahi-gobject/ga-service-browser.h", "size_i": "2528", "regex": "false"},
+	{"name_s": "/usr/include/avahi-gobject/ga-service-resolver.h", "size_i": "2799", "regex": "false"},
+	{"name_s": "/usr/lib64/libavahi-gobject.so", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/avahi-gobject.pc", "size_i": "318", "regex": "false"}
+]

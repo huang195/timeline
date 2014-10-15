@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/jna", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/jna/libjnidispatch.so", "size_i": "72944", "regex": "false"},
+	{"name_s": "/usr/share/doc/jna-3.2.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jna-3.2.4/LICENSE.txt", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/java/jna-3.2.4.jar", "size_i": "206063", "regex": "false"},
+	{"name_s": "/usr/share/java/jna.jar", "size_i": "13", "regex": "false"}
+]

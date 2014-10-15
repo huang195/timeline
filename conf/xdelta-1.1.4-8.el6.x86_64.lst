@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/xdelta", "size_i": "29552", "regex": "false"},
+	{"name_s": "/usr/lib64/libedsio.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libedsio.so.0.0.0", "size_i": "82536", "regex": "false"},
+	{"name_s": "/usr/lib64/libxdelta.so.2", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libxdelta.so.2.0.0", "size_i": "122896", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdelta-1.1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdelta-1.1.4/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdelta-1.1.4/NEWS", "size_i": "8508", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdelta-1.1.4/README", "size_i": "7016", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdelta-1.1.4/xdelta.magic", "size_i": "404", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xdelta.1.gz", "size_i": "2386", "regex": "false"}
+]

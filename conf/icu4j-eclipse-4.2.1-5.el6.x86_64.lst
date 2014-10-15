@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/eclipse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/features", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/features/com.ibm.icu_4.2.1.v20100412", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/features/com.ibm.icu_4.2.1.v20100412/feature.xml", "size_i": "821", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/plugins/com.ibm.icu.source_4.2.1.v20100412.jar", "size_i": "1611206", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/plugins/com.ibm.icu_4.2.1.v20100412.jar", "size_i": "6352083", "regex": "false"},
+	{"name_s": "/usr/share/doc/icu4j-eclipse-4.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/icu4j-eclipse-4.2.1/license.html", "size_i": "1981", "regex": "false"},
+	{"name_s": "/usr/share/doc/icu4j-eclipse-4.2.1/readme.html", "size_i": "48062", "regex": "false"}
+]

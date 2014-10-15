@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/67-saab.conf", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/67-saab.conf", "size_i": "326", "regex": "false"},
+	{"name_s": "/usr/share/fonts/saab", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/saab/Saab.otf", "size_i": "114092", "regex": "false"}
+]

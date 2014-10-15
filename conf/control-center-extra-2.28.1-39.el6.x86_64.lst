@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/gnome-control-center", "size_i": "122520", "regex": "false"},
+	{"name_s": "/usr/bin/gnome-window-properties", "size_i": "21000", "regex": "false"},
+	{"name_s": "/usr/share/applications/gnome-window-properties.desktop", "size_i": "7097", "regex": "false"},
+	{"name_s": "/usr/share/gnome-control-center/ui/gnome-window-properties.ui", "size_i": "20080", "regex": "false"}
+]

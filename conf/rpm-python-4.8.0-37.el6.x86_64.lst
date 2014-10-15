@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/rpm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/rpm/__init__.py", "size_i": "1825", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/rpm/__init__.pyc", "size_i": "2667", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/rpm/__init__.pyo", "size_i": "2667", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/rpm/_rpmbmodule.so", "size_i": "12560", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/rpm/_rpmmodule.so", "size_i": "92872", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/rpm/transaction.py", "size_i": "5013", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/rpm/transaction.pyc", "size_i": "5969", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/rpm/transaction.pyo", "size_i": "5969", "regex": "false"}
+]

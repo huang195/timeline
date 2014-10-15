@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/smc-fonts-common-04.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/smc-fonts-common-04.2/AnjaliOldLipi-license-confirmation-email.txt", "size_i": "3703", "regex": "false"},
+	{"name_s": "/usr/share/doc/smc-fonts-common-04.2/COPYING.txt", "size_i": "12029", "regex": "false"},
+	{"name_s": "/usr/share/doc/smc-fonts-common-04.2/README.txt", "size_i": "2519", "regex": "false"},
+	{"name_s": "/usr/share/fonts/smc", "size_i": "4096", "regex": "false"}
+]

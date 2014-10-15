@@ -1,0 +1,6 @@
+[
+	{"name_s": "/boot/xen-4.2.4-30.el6.gz", "size_i": "807113", "regex": "false"},
+	{"name_s": "/boot/xen-4.2.gz", "size_i": "19", "regex": "false"},
+	{"name_s": "/boot/xen-syms-4.2.4-30.el6", "size_i": "14619038", "regex": "false"},
+	{"name_s": "/boot/xen.gz", "size_i": "19", "regex": "false"}
+]

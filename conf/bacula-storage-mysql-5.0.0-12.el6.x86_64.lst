@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/sbin/bcopy.mysql", "size_i": "469656", "regex": "false"},
+	{"name_s": "/usr/sbin/bscan.mysql", "size_i": "565240", "regex": "false"}
+]

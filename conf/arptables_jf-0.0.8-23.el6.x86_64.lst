@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/rc.d/init.d/arptables_jf", "size_i": "4762", "regex": "false"},
+	{"name_s": "/sbin/arptables", "size_i": "66768", "regex": "false"},
+	{"name_s": "/sbin/arptables-restore", "size_i": "69112", "regex": "false"},
+	{"name_s": "/sbin/arptables-save", "size_i": "71064", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/arptables-restore.8.gz", "size_i": "878", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/arptables-save.8.gz", "size_i": "893", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/arptables.8.gz", "size_i": "5723", "regex": "false"}
+]

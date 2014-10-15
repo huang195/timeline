@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/libdaplofa.a", "size_i": "356692", "regex": "false"},
+	{"name_s": "/usr/lib64/libdaploscm.a", "size_i": "367148", "regex": "false"},
+	{"name_s": "/usr/lib64/libdaploucm.a", "size_i": "375954", "regex": "false"},
+	{"name_s": "/usr/lib64/libdat2.a", "size_i": "75616", "regex": "false"}
+]

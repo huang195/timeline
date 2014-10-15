@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/r128_drv.so", "size_i": "110496", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/r128.xinf", "size_i": "2491", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/r128.4.gz", "size_i": "2377", "regex": "false"}
+]

@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/include/gypsy", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gypsy/gypsy-accuracy.h", "size_i": "3030", "regex": "false"},
+	{"name_s": "/usr/include/gypsy/gypsy-control.h", "size_i": "2275", "regex": "false"},
+	{"name_s": "/usr/include/gypsy/gypsy-course.h", "size_i": "2972", "regex": "false"},
+	{"name_s": "/usr/include/gypsy/gypsy-device.h", "size_i": "3104", "regex": "false"},
+	{"name_s": "/usr/include/gypsy/gypsy-position.h", "size_i": "3082", "regex": "false"},
+	{"name_s": "/usr/include/gypsy/gypsy-satellite.h", "size_i": "2797", "regex": "false"},
+	{"name_s": "/usr/include/gypsy/gypsy-time.h", "size_i": "2127", "regex": "false"},
+	{"name_s": "/usr/lib64/libgypsy.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/gypsy.pc", "size_i": "205", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/zope", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/zope/__init__.py", "size_i": "200", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/zope/__init__.pyc", "size_i": "342", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/zope/__init__.pyo", "size_i": "342", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/zope", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/zope/__init__.py", "size_i": "200", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/zope/__init__.pyc", "size_i": "344", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/zope/__init__.pyo", "size_i": "344", "regex": "false"}
+]

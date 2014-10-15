@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/fbdev_drv.so", "size_i": "21232", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/fbdev.4.gz", "size_i": "1062", "regex": "false"}
+]

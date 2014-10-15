@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/lib64/gcj/hamcrest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/hamcrest/all-1.1.jar.db", "size_i": "8192", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/hamcrest/all-1.1.jar.so", "size_i": "386496", "regex": "false"},
+	{"name_s": "/usr/share/doc/hamcrest-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hamcrest-1.1/LICENSE.txt", "size_i": "1482", "regex": "false"},
+	{"name_s": "/usr/share/java/hamcrest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/java/hamcrest/all-1.1.jar", "size_i": "150933", "regex": "false"},
+	{"name_s": "/usr/share/java/hamcrest/all.jar", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/share/java/hamcrest/core-1.1.jar", "size_i": "33822", "regex": "false"},
+	{"name_s": "/usr/share/java/hamcrest/core.jar", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/share/java/hamcrest/generator-1.1.jar", "size_i": "38353", "regex": "false"},
+	{"name_s": "/usr/share/java/hamcrest/generator.jar", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/java/hamcrest/library-1.1.jar", "size_i": "47228", "regex": "false"},
+	{"name_s": "/usr/share/java/hamcrest/library.jar", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/java/hamcrest/text-1.1.jar", "size_i": "36256", "regex": "false"},
+	{"name_s": "/usr/share/java/hamcrest/text.jar", "size_i": "12", "regex": "false"}
+]

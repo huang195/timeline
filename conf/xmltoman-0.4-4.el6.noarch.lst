@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/xmlmantohtml", "size_i": "3321", "regex": "false"},
+	{"name_s": "/usr/bin/xmltoman", "size_i": "5079", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmltoman-0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmltoman-0.4/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmltoman-0.4/README", "size_i": "858", "regex": "false"},
+	{"name_s": "/usr/share/xmltoman", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/xmltoman/xmltoman.css", "size_i": "1097", "regex": "false"},
+	{"name_s": "/usr/share/xmltoman/xmltoman.dtd", "size_i": "1487", "regex": "false"},
+	{"name_s": "/usr/share/xmltoman/xmltoman.xsl", "size_i": "3364", "regex": "false"}
+]

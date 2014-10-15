@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/libavahi-wrap.so", "size_i": "8432", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/libraop.so", "size_i": "18824", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/module-raop-discover.so", "size_i": "13448", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/module-raop-sink.so", "size_i": "22216", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/module-zeroconf-discover.so", "size_i": "15448", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/module-zeroconf-publish.so", "size_i": "23776", "regex": "false"}
+]

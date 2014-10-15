@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/autocorr", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/autocorr/acor_sv-FI.dat", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/autocorr/acor_sv-SE.dat", "size_i": "2773", "regex": "false"},
+	{"name_s": "/usr/share/doc/autocorr-sv-4.0.4.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/autocorr-sv-4.0.4.2/LICENSE", "size_i": "436392", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/gst-feedback", "size_i": "11504", "regex": "false"},
+	{"name_s": "/usr/bin/gst-inspect", "size_i": "11504", "regex": "false"},
+	{"name_s": "/usr/bin/gst-launch", "size_i": "11504", "regex": "false"},
+	{"name_s": "/usr/bin/gst-typefind", "size_i": "11504", "regex": "false"},
+	{"name_s": "/usr/bin/gst-xmlinspect", "size_i": "11504", "regex": "false"},
+	{"name_s": "/usr/bin/gst-xmllaunch", "size_i": "11504", "regex": "false"}
+]

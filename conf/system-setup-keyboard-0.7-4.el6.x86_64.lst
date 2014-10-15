@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/system-setup-keyboard", "size_i": "12584", "regex": "false"},
+	{"name_s": "/usr/share/doc/system-setup-keyboard-0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/system-setup-keyboard-0.7/COPYING", "size_i": "1104", "regex": "false"},
+	{"name_s": "/usr/share/hal/fdi/policy/10osvendor/10-x11-keymap.fdi", "size_i": "371", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/system-setup-keyboard.1.gz", "size_i": "350", "regex": "false"}
+]

@@ -1,0 +1,23 @@
+[
+	{"name_s": "/etc/X11/Xmodmap", "size_i": "547", "regex": "false"},
+	{"name_s": "/etc/X11/Xresources", "size_i": "493", "regex": "false"},
+	{"name_s": "/etc/X11/xinit", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/X11/xinit/Xclients", "size_i": "2146", "regex": "false"},
+	{"name_s": "/etc/X11/xinit/Xclients.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/X11/xinit/Xsession", "size_i": "3563", "regex": "false"},
+	{"name_s": "/etc/X11/xinit/xinitrc", "size_i": "1486", "regex": "false"},
+	{"name_s": "/etc/X11/xinit/xinitrc-common", "size_i": "1969", "regex": "false"},
+	{"name_s": "/etc/X11/xinit/xinitrc.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/X11/xinit/xinitrc.d/localuser.sh", "size_i": "543", "regex": "false"},
+	{"name_s": "/usr/bin/ck-xinit-session", "size_i": "7888", "regex": "false"},
+	{"name_s": "/usr/bin/startx", "size_i": "4467", "regex": "false"},
+	{"name_s": "/usr/bin/xinit", "size_i": "15320", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xinit-1.0.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xinit-1.0.9/AUTHORS", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xinit-1.0.9/COPYING", "size_i": "1148", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xinit-1.0.9/ChangeLog", "size_i": "26924", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xinit-1.0.9/NEWS", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xinit-1.0.9/README", "size_i": "270", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/startx.1.gz", "size_i": "2466", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xinit.1.gz", "size_i": "3128", "regex": "false"}
+]

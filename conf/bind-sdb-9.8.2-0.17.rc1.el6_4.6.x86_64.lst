@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/openldap/schema", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/openldap/schema/dnszone.schema", "size_i": "5114", "regex": "false"},
+	{"name_s": "/usr/sbin/ldap2zone", "size_i": "12608", "regex": "false"},
+	{"name_s": "/usr/sbin/named-sdb", "size_i": "604672", "regex": "false"},
+	{"name_s": "/usr/sbin/zone2ldap", "size_i": "19944", "regex": "false"},
+	{"name_s": "/usr/sbin/zone2sqlite", "size_i": "12048", "regex": "false"},
+	{"name_s": "/usr/sbin/zonetodb", "size_i": "15520", "regex": "false"},
+	{"name_s": "/usr/share/doc/bind-sdb-9.8.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bind-sdb-9.8.2/INSTALL.ldap", "size_i": "3792", "regex": "false"},
+	{"name_s": "/usr/share/doc/bind-sdb-9.8.2/README.ldap", "size_i": "2419", "regex": "false"},
+	{"name_s": "/usr/share/doc/bind-sdb-9.8.2/README.sdb_pgsql", "size_i": "2590", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/zone2ldap.1.gz", "size_i": "1168", "regex": "false"}
+]

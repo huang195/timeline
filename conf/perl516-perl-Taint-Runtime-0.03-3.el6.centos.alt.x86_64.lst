@@ -1,0 +1,12 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Taint", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Taint/Runtime.pm", "size_i": "11979", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Taint/is_taint_bench.pl", "size_i": "2556", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Taint", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Taint/Runtime", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Taint/Runtime/Runtime.so", "size_i": "7120", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Taint-Runtime-0.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Taint-Runtime-0.03/Changes", "size_i": "276", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Taint-Runtime-0.03/README", "size_i": "9223", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Taint::Runtime.3pm.gz", "size_i": "5369", "regex": "false"}
+]

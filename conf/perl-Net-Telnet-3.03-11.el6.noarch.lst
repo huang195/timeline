@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Net-Telnet-3.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-Telnet-3.03/ChangeLog", "size_i": "5368", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-Telnet-3.03/README", "size_i": "4141", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Net::Telnet.3pm.gz", "size_i": "17457", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Net", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Net/Telnet.pm", "size_i": "130748", "regex": "false"}
+]

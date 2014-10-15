@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/Yap", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/Yap/SWI-Prolog.h", "size_i": "11645", "regex": "false"},
+	{"name_s": "/usr/include/Yap/SWI-Stream.h", "size_i": "4422", "regex": "false"},
+	{"name_s": "/usr/include/Yap/YapInterface.h", "size_i": "14260", "regex": "false"},
+	{"name_s": "/usr/include/Yap/c_interface.h", "size_i": "9204", "regex": "false"},
+	{"name_s": "/usr/include/Yap/yap_structs.h", "size_i": "4047", "regex": "false"},
+	{"name_s": "/usr/lib64/libYap.so", "size_i": "15", "regex": "false"}
+]

@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/include/X11/extensions/Xcomposite.h", "size_i": "3835", "regex": "false"},
+	{"name_s": "/usr/lib64/libXcomposite.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/xcomposite.pc", "size_i": "270", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XCompositeCreateRegionFromBorderClip.3.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XCompositeGetOverlayWindow.3.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XCompositeNameWindowPixmap.3.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XCompositeQueryExtension.3.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XCompositeQueryVersion.3.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XCompositeRedirectSubwindows.3.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XCompositeRedirectWindow.3.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XCompositeReleaseOverlayWindow.3.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XCompositeUnredirectSubwindows.3.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XCompositeUnredirectWindow.3.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XCompositeVersion.3.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Xcomposite.3.gz", "size_i": "3277", "regex": "false"}
+]

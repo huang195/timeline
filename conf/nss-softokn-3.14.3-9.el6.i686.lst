@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib/libnssdbm3.chk", "size_i": "899", "regex": "false"},
+	{"name_s": "/usr/lib/libnssdbm3.so", "size_i": "161644", "regex": "false"},
+	{"name_s": "/usr/lib/libsoftokn3.chk", "size_i": "899", "regex": "false"},
+	{"name_s": "/usr/lib/libsoftokn3.so", "size_i": "268724", "regex": "false"},
+	{"name_s": "/usr/lib/nss", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/nss/saved", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/nss/unsupported-tools", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/nss/unsupported-tools/bltest", "size_i": "343580", "regex": "false"},
+	{"name_s": "/usr/lib/nss/unsupported-tools/fipstest", "size_i": "334396", "regex": "false"},
+	{"name_s": "/usr/lib/nss/unsupported-tools/shlibsign", "size_i": "22088", "regex": "false"}
+]

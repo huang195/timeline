@@ -1,0 +1,12 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/bin/erb", "size_i": "4413", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/bin/ruby", "size_i": "5344", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/bin/testrb", "size_i": "314", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/doc/ruby193-ruby-1.9.3.484", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/doc/ruby193-ruby-1.9.3.484/COPYING", "size_i": "2504", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/doc/ruby193-ruby-1.9.3.484/COPYING.ja", "size_i": "2075", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/doc/ruby193-ruby-1.9.3.484/GPL", "size_i": "18009", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/doc/ruby193-ruby-1.9.3.484/LEGAL", "size_i": "22975", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/man/man1/erb.1.gz", "size_i": "1517", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/man/man1/ruby.1.gz", "size_i": "5322", "regex": "false"}
+]

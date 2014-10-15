@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/maven/fragments/junit4", "size_i": "279", "regex": "false"},
+	{"name_s": "/usr/share/doc/junit4-4.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/junit4-4.5/README.html", "size_i": "23867", "regex": "false"},
+	{"name_s": "/usr/share/doc/junit4-4.5/cpl-v10.html", "size_i": "15048", "regex": "false"},
+	{"name_s": "/usr/share/java/junit4-4.5.jar", "size_i": "201772", "regex": "false"},
+	{"name_s": "/usr/share/java/junit4.jar", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/maven2/poms", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/maven2/poms/JPP-junit4.pom", "size_i": "1221", "regex": "false"}
+]

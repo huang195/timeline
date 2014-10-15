@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/httpd24/root/usr/lib64/libapr-1-httpd24.so.0", "size_i": "25", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/lib64/libapr-1-httpd24.so.0.4.8", "size_i": "187880", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/doc/httpd24-apr-1.4.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/doc/httpd24-apr-1.4.8/CHANGES", "size_i": "9581", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/doc/httpd24-apr-1.4.8/LICENSE", "size_i": "17983", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/doc/httpd24-apr-1.4.8/NOTICE", "size_i": "522", "regex": "false"}
+]

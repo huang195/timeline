@@ -1,0 +1,4 @@
+[
+	{"name_s": "/lib64/libattr.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/lib64/libattr.so.1.1.0", "size_i": "18712", "regex": "false"}
+]

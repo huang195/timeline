@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/sasl2/libntlm.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/sasl2/libntlm.so.2", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/sasl2/libntlm.so.2.0.23", "size_i": "35376", "regex": "false"}
+]

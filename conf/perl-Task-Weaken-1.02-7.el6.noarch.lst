@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-Task-Weaken-1.02", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Task-Weaken-1.02/Changes", "size_i": "388", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Task-Weaken-1.02/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Task-Weaken-1.02/README", "size_i": "2474", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Task::Weaken.3pm.gz", "size_i": "2911", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Task", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Task/Weaken.pm", "size_i": "2538", "regex": "false"}
+]

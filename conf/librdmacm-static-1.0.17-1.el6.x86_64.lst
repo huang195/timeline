@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/librdmacm.a", "size_i": "110182", "regex": "false"},
+	{"name_s": "/usr/lib64/rsocket/librspreload.a", "size_i": "29772", "regex": "false"}
+]

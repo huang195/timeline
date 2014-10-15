@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/libwmf-fontmap", "size_i": "13083", "regex": "false"},
+	{"name_s": "/usr/bin/wmf2eps", "size_i": "11188", "regex": "false"},
+	{"name_s": "/usr/bin/wmf2fig", "size_i": "10600", "regex": "false"},
+	{"name_s": "/usr/bin/wmf2gd", "size_i": "9976", "regex": "false"},
+	{"name_s": "/usr/bin/wmf2svg", "size_i": "10028", "regex": "false"},
+	{"name_s": "/usr/bin/wmf2x", "size_i": "8952", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/loaders/io-wmf.so", "size_i": "6620", "regex": "false"},
+	{"name_s": "/usr/lib/libwmf-0.2.so.7", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libwmf-0.2.so.7.1.0", "size_i": "324232", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwmf-0.2.8.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwmf-0.2.8.4/AUTHORS", "size_i": "61", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwmf-0.2.8.4/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwmf-0.2.8.4/README", "size_i": "8268", "regex": "false"},
+	{"name_s": "/usr/share/libwmf", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/libwmf/fonts", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/libwmf/fonts/fontmap", "size_i": "3061", "regex": "false"}
+]

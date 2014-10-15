@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/include/shout", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/shout/shout.h", "size_i": "6907", "regex": "false"},
+	{"name_s": "/usr/lib/libshout.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/shout.pc", "size_i": "335", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/shout.m4", "size_i": "2206", "regex": "false"},
+	{"name_s": "/usr/share/doc/libshout-devel-2.2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libshout-devel-2.2.2/example.c", "size_i": "1930", "regex": "false"},
+	{"name_s": "/usr/share/doc/libshout-devel-2.2.2/libshout.xml", "size_i": "31281", "regex": "false"},
+	{"name_s": "/usr/share/doc/libshout-devel-2.2.2/nonblocking.c", "size_i": "2491", "regex": "false"},
+	{"name_s": "/usr/share/doc/libshout-devel-2.2.2/spec-html.xsl", "size_i": "192", "regex": "false"}
+]

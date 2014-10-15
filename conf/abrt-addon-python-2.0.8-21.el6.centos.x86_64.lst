@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/abrt/plugins/python.conf", "size_i": "204", "regex": "false"},
+	{"name_s": "/etc/libreport/events.d/python_event.conf", "size_i": "239", "regex": "false"},
+	{"name_s": "/usr/bin/abrt-action-analyze-python", "size_i": "6832", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/abrt.pth", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/abrt_exception_handler.py", "size_i": "7395", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/abrt_exception_handler.pyc", "size_i": "5029", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/abrt_exception_handler.pyo", "size_i": "5029", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/abrt-action-analyze-python.1.gz", "size_i": "887", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/lib/firmware/LICENSE.ipw2100", "size_i": "11880", "regex": "false"},
+	{"name_s": "/lib/firmware/ipw2100-1.3-i.fw", "size_i": "201138", "regex": "false"},
+	{"name_s": "/lib/firmware/ipw2100-1.3-p.fw", "size_i": "196458", "regex": "false"},
+	{"name_s": "/lib/firmware/ipw2100-1.3.fw", "size_i": "209190", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipw2100-firmware-1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipw2100-firmware-1.3/LICENSE", "size_i": "29", "regex": "false"}
+]

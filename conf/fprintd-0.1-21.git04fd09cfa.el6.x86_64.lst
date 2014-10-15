@@ -1,0 +1,18 @@
+[
+	{"name_s": "/etc/dbus-1/system.d/net.reactivated.Fprint.conf", "size_i": "544", "regex": "false"},
+	{"name_s": "/etc/fprintd.conf", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/bin/fprintd-delete", "size_i": "8056", "regex": "false"},
+	{"name_s": "/usr/bin/fprintd-enroll", "size_i": "7840", "regex": "false"},
+	{"name_s": "/usr/bin/fprintd-list", "size_i": "8472", "regex": "false"},
+	{"name_s": "/usr/bin/fprintd-verify", "size_i": "9672", "regex": "false"},
+	{"name_s": "/usr/libexec/fprintd", "size_i": "50032", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/system-services/net.reactivated.Fprint.service", "size_i": "80", "regex": "false"},
+	{"name_s": "/usr/share/doc/fprintd-0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/fprintd-0.1/AUTHORS", "size_i": "66", "regex": "false"},
+	{"name_s": "/usr/share/doc/fprintd-0.1/COPYING", "size_i": "17997", "regex": "false"},
+	{"name_s": "/usr/share/doc/fprintd-0.1/README", "size_i": "1237", "regex": "false"},
+	{"name_s": "/usr/share/doc/fprintd-0.1/TODO", "size_i": "336", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/fprintd.1.gz", "size_i": "2436", "regex": "false"},
+	{"name_s": "/usr/share/polkit-1/actions/net.reactivated.fprint.device.policy", "size_i": "1409", "regex": "false"},
+	{"name_s": "/var/lib/fprint", "size_i": "4096", "regex": "false"}
+]

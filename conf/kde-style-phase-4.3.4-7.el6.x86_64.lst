@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/kde4/kstyle_phase_config.so", "size_i": "19968", "regex": "false"},
+	{"name_s": "/usr/lib64/kde4/plugins/styles/phasestyle.so", "size_i": "91000", "regex": "false"},
+	{"name_s": "/usr/share/doc/kde-style-phase-4.3.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/kde-style-phase-4.3.4/COPYING", "size_i": "18273", "regex": "false"},
+	{"name_s": "/usr/share/doc/kde-style-phase-4.3.4/README", "size_i": "252", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/kstyle/themes/phase.themerc", "size_i": "3264", "regex": "false"}
+]

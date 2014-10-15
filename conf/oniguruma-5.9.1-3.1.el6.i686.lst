@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib/libonig.so.2", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libonig.so.2.0.0", "size_i": "307168", "regex": "false"},
+	{"name_s": "/usr/share/doc/oniguruma-5.9.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/oniguruma-5.9.1/AUTHORS", "size_i": "41", "regex": "false"},
+	{"name_s": "/usr/share/doc/oniguruma-5.9.1/COPYING", "size_i": "1426", "regex": "false"},
+	{"name_s": "/usr/share/doc/oniguruma-5.9.1/HISTORY", "size_i": "104056", "regex": "false"},
+	{"name_s": "/usr/share/doc/oniguruma-5.9.1/README", "size_i": "5824", "regex": "false"},
+	{"name_s": "/usr/share/doc/oniguruma-5.9.1/README.ja", "size_i": "6900", "regex": "false"},
+	{"name_s": "/usr/share/doc/oniguruma-5.9.1/index.html", "size_i": "8281", "regex": "false"},
+	{"name_s": "/usr/share/doc/oniguruma-5.9.1/index_ja.html", "size_i": "8284", "regex": "false"}
+]

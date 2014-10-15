@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/share/doc/ibus-table-cangjie-1.2.0.20100210", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-table-cangjie-1.2.0.20100210/AUTHORS", "size_i": "455", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-table-cangjie-1.2.0.20100210/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-table-cangjie-1.2.0.20100210/README", "size_i": "737", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/icons/cangjie-big.png", "size_i": "2471", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/icons/cangjie3.svg", "size_i": "12074", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/icons/cangjie5.svg", "size_i": "12255", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/icons/easy-big.png", "size_i": "1761", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/icons/quick-classic.png", "size_i": "2922", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/icons/quick3.png", "size_i": "3135", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/icons/quick5.png", "size_i": "3109", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/icons/scj6.svg", "size_i": "28824", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/cangjie-big.db", "size_i": "2392064", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/cangjie3.db", "size_i": "1564672", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/cangjie5.db", "size_i": "3260416", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/easy-big.db", "size_i": "4677632", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/quick-classic.db", "size_i": "540672", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/quick3.db", "size_i": "1531904", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/quick5.db", "size_i": "3104768", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/scj6.db", "size_i": "3448832", "regex": "false"}
+]

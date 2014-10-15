@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Test/Taint.pm", "size_i": "8816", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Test/Taint", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Test/Taint/Taint.so", "size_i": "5272", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Taint-1.06", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Taint-1.06/Changes", "size_i": "1667", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::Taint.3pm.gz", "size_i": "3364", "regex": "false"}
+]

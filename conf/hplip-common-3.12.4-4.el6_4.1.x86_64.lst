@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/hp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/hp/hplip.conf", "size_i": "884", "regex": "false"},
+	{"name_s": "/usr/lib/udev/rules.d/40-hplip.rules", "size_i": "6983", "regex": "false"},
+	{"name_s": "/usr/lib/udev/rules.d/56-hpmud_add_printer.rules", "size_i": "713", "regex": "false"},
+	{"name_s": "/usr/lib/udev/rules.d/56-hpmud_support.rules", "size_i": "708", "regex": "false"},
+	{"name_s": "/usr/lib/udev/rules.d/86-hpmud_plugin.rules", "size_i": "686", "regex": "false"},
+	{"name_s": "/usr/share/doc/hplip-common-3.12.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hplip-common-3.12.4/COPYING", "size_i": "17941", "regex": "false"},
+	{"name_s": "/usr/share/hplip", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hplip/data", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hplip/data/models", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hplip/data/models/models.dat", "size_i": "885943", "regex": "false"}
+]

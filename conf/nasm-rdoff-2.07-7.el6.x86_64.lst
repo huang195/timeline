@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/ldrdf", "size_i": "36080", "regex": "false"},
+	{"name_s": "/usr/bin/rdf2bin", "size_i": "25856", "regex": "false"},
+	{"name_s": "/usr/bin/rdf2com", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/bin/rdf2ihx", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/bin/rdf2ith", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/bin/rdf2srec", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/bin/rdfdump", "size_i": "17280", "regex": "false"},
+	{"name_s": "/usr/bin/rdflib", "size_i": "9384", "regex": "false"},
+	{"name_s": "/usr/bin/rdx", "size_i": "15904", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libXrender.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libXrender.so.1.3.0", "size_i": "39968", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXrender-0.9.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXrender-0.9.7/AUTHORS", "size_i": "79", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXrender-0.9.7/COPYING", "size_i": "2164", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXrender-0.9.7/ChangeLog", "size_i": "17667", "regex": "false"}
+]

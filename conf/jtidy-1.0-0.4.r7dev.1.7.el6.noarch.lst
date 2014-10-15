@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/ant.d/jtidy", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/share/doc/jtidy-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jtidy-1.0/LICENSE", "size_i": "2173", "regex": "false"},
+	{"name_s": "/usr/share/doc/jtidy-1.0/NOTES", "size_i": "922", "regex": "false"},
+	{"name_s": "/usr/share/doc/jtidy-1.0/devel", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jtidy-1.0/devel/release.html", "size_i": "1717", "regex": "false"},
+	{"name_s": "/usr/share/java/jtidy-1.0.jar", "size_i": "189989", "regex": "false"},
+	{"name_s": "/usr/share/java/jtidy.jar", "size_i": "13", "regex": "false"}
+]

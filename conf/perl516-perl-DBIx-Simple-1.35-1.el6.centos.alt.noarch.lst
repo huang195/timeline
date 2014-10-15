@@ -1,0 +1,16 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-DBIx-Simple-1.35", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-DBIx-Simple-1.35/Changes", "size_i": "9522", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-DBIx-Simple-1.35/README", "size_i": "586", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/DBIx::Simple.3pm.gz", "size_i": "7647", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/DBIx::Simple::Comparison.3pm.gz", "size_i": "3199", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/DBIx::Simple::Examples.3pm.gz", "size_i": "5510", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/DBIx::Simple::Result::RowObject.3pm.gz", "size_i": "2587", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/DBIx", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/DBIx/Simple", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/DBIx/Simple.pm", "size_i": "30604", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/DBIx/Simple/Comparison.pod", "size_i": "3079", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/DBIx/Simple/Examples.pod", "size_i": "9916", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/DBIx/Simple/Result", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/DBIx/Simple/Result/RowObject.pm", "size_i": "1870", "regex": "false"}
+]

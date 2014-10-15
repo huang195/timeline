@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/nss", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/nss/__init__.py", "size_i": "12316", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/nss/__init__.pyc", "size_i": "12281", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/nss/__init__.pyo", "size_i": "12281", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/nss/error.so", "size_i": "61816", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/nss/io.so", "size_i": "76472", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/nss/nss.so", "size_i": "395616", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/nss/ssl.so", "size_i": "85984", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/python_nss-0.13-py2.6.egg-info", "size_i": "454", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-nss-0.13/ChangeLog", "size_i": "17254", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-nss-0.13/LICENSE.gpl", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-nss-0.13/LICENSE.lgpl", "size_i": "26434", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-nss-0.13/LICENSE.mpl", "size_i": "16726", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-nss-0.13/README", "size_i": "155", "regex": "false"}
+]

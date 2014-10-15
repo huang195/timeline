@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/alsa/pulse-default.conf", "size_i": "537", "regex": "false"},
+	{"name_s": "/usr/lib/alsa-lib/libasound_module_conf_pulse.so", "size_i": "4020", "regex": "false"},
+	{"name_s": "/usr/lib/alsa-lib/libasound_module_ctl_pulse.so", "size_i": "18328", "regex": "false"},
+	{"name_s": "/usr/lib/alsa-lib/libasound_module_pcm_pulse.so", "size_i": "20500", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-pulseaudio-1.0.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-pulseaudio-1.0.21/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-pulseaudio-1.0.21/COPYING.GPL", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-pulseaudio-1.0.21/README-pulse", "size_i": "1427", "regex": "false"}
+]

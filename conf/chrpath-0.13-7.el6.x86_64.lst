@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/chrpath", "size_i": "11624", "regex": "false"},
+	{"name_s": "/usr/share/doc/chrpath-0.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/chrpath-0.13/AUTHORS", "size_i": "506", "regex": "false"},
+	{"name_s": "/usr/share/doc/chrpath-0.13/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/chrpath-0.13/ChangeLog", "size_i": "10902", "regex": "false"},
+	{"name_s": "/usr/share/doc/chrpath-0.13/ChangeLog.usermap", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/share/doc/chrpath-0.13/NEWS", "size_i": "2046", "regex": "false"},
+	{"name_s": "/usr/share/doc/chrpath-0.13/README", "size_i": "799", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/chrpath.1.gz", "size_i": "1196", "regex": "false"}
+]

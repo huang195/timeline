@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/dc1394_grab_color_image", "size_i": "8280", "regex": "false"},
+	{"name_s": "/usr/bin/dc1394_grab_gray_image", "size_i": "9616", "regex": "false"},
+	{"name_s": "/usr/bin/dc1394_grab_partial_image", "size_i": "9104", "regex": "false"},
+	{"name_s": "/usr/bin/dc1394_grab_partial_pvn", "size_i": "8296", "regex": "false"},
+	{"name_s": "/usr/bin/dc1394_ladybug", "size_i": "8880", "regex": "false"},
+	{"name_s": "/usr/bin/dc1394_multiview", "size_i": "5207", "regex": "false"},
+	{"name_s": "/usr/bin/dc1394_reset_bus", "size_i": "6056", "regex": "false"},
+	{"name_s": "/usr/bin/dc1394_vloopback", "size_i": "21264", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dc1394_grab_color_image.1.gz", "size_i": "448", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dc1394_grab_gray_image.1.gz", "size_i": "385", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dc1394_grab_partial_image.1.gz", "size_i": "433", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dc1394_multiview.1.gz", "size_i": "668", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dc1394_reset_bus.1.gz", "size_i": "678", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dc1394_vloopback.1.gz", "size_i": "1114", "regex": "false"}
+]

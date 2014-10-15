@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/eclipse/dropins/babel", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/babel/eclipse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/babel/eclipse/plugins", "size_i": "4157440", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-IPC-Cmd-0.80", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-IPC-Cmd-0.80/CHANGES", "size_i": "10647", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-IPC-Cmd-0.80/README", "size_i": "1030", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/IPC::Cmd.3pm.gz", "size_i": "8152", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/IPC", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/IPC/Cmd.pm", "size_i": "59708", "regex": "false"}
+]

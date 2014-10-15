@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/libnetfilter_conntrack", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libnetfilter_conntrack/libnetfilter_conntrack.h", "size_i": "18836", "regex": "false"},
+	{"name_s": "/usr/include/libnetfilter_conntrack/libnetfilter_conntrack_dccp.h", "size_i": "813", "regex": "false"},
+	{"name_s": "/usr/include/libnetfilter_conntrack/libnetfilter_conntrack_icmp.h", "size_i": "694", "regex": "false"},
+	{"name_s": "/usr/include/libnetfilter_conntrack/libnetfilter_conntrack_ipv4.h", "size_i": "371", "regex": "false"},
+	{"name_s": "/usr/include/libnetfilter_conntrack/libnetfilter_conntrack_ipv6.h", "size_i": "371", "regex": "false"},
+	{"name_s": "/usr/include/libnetfilter_conntrack/libnetfilter_conntrack_sctp.h", "size_i": "637", "regex": "false"},
+	{"name_s": "/usr/include/libnetfilter_conntrack/libnetfilter_conntrack_tcp.h", "size_i": "1557", "regex": "false"},
+	{"name_s": "/usr/include/libnetfilter_conntrack/libnetfilter_conntrack_udp.h", "size_i": "1121", "regex": "false"},
+	{"name_s": "/usr/include/libnetfilter_conntrack/linux_nfnetlink_conntrack.h", "size_i": "3606", "regex": "false"},
+	{"name_s": "/usr/lib64/libnetfilter_conntrack.so", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libnetfilter_conntrack.pc", "size_i": "375", "regex": "false"}
+]

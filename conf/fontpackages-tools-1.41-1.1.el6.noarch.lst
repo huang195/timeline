@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/compare-repo-font-audit", "size_i": "8257", "regex": "false"},
+	{"name_s": "/usr/bin/filter-fontlint", "size_i": "1150", "regex": "false"},
+	{"name_s": "/usr/bin/filter-langcover", "size_i": "159", "regex": "false"},
+	{"name_s": "/usr/bin/filter-unicover", "size_i": "282", "regex": "false"},
+	{"name_s": "/usr/bin/fix-font-naming", "size_i": "6526", "regex": "false"},
+	{"name_s": "/usr/bin/repo-font-audit", "size_i": "30028", "regex": "false"},
+	{"name_s": "/usr/bin/ttfcoverage", "size_i": "884", "regex": "false"},
+	{"name_s": "/usr/share/doc/fontpackages-tools-1.41", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/fontpackages-tools-1.41/license.txt", "size_i": "7639", "regex": "false"},
+	{"name_s": "/usr/share/doc/fontpackages-tools-1.41/readme.txt", "size_i": "1178", "regex": "false"},
+	{"name_s": "/usr/share/fontpackages", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fontpackages/core-fonts-report", "size_i": "541", "regex": "false"},
+	{"name_s": "/usr/share/fontpackages/font-links-report", "size_i": "308", "regex": "false"},
+	{"name_s": "/usr/share/fontpackages/fonts-report", "size_i": "986", "regex": "false"},
+	{"name_s": "/usr/share/fontpackages/process-fc-query", "size_i": "1627", "regex": "false"},
+	{"name_s": "/usr/share/fontpackages/repo-font-audit.mk", "size_i": "2324", "regex": "false"},
+	{"name_s": "/usr/share/fontpackages/test-info", "size_i": "18430", "regex": "false"}
+]

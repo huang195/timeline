@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/ecryptfs-utils", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ecryptfs-utils/libecryptfs.py", "size_i": "1803", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ecryptfs-utils/libecryptfs.pyc", "size_i": "2316", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ecryptfs-utils/libecryptfs.pyo", "size_i": "2316", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/ecryptfs-utils", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/ecryptfs-utils/_libecryptfs.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/ecryptfs-utils/_libecryptfs.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/ecryptfs-utils/_libecryptfs.so.0.0.0", "size_i": "24688", "regex": "false"}
+]

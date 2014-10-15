@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/ntp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/ntp/keys", "size_i": "73", "regex": "false"},
+	{"name_s": "/etc/ntp/step-tickers", "size_i": "52", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/ntpdate", "size_i": "2043", "regex": "false"},
+	{"name_s": "/etc/sysconfig/ntpdate", "size_i": "167", "regex": "false"},
+	{"name_s": "/usr/sbin/ntpdate", "size_i": "106800", "regex": "false"},
+	{"name_s": "/usr/share/doc/ntpdate-4.2.6p5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ntpdate-4.2.6p5/COPYRIGHT", "size_i": "9483", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ntpdate.8.gz", "size_i": "2773", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/rc.d/init.d/slpd", "size_i": "4745", "regex": "false"},
+	{"name_s": "/etc/slp.reg", "size_i": "1185", "regex": "false"},
+	{"name_s": "/etc/slp.reg.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/sbin/rcslpd", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/sbin/slpd", "size_i": "145592", "regex": "false"}
+]

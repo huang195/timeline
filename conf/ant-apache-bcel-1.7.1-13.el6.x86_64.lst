@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/ant.d/apache-bcel", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-apache-bcel-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-apache-bcel-1.7.1.jar.so", "size_i": "33904", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-apache-bcel.jar", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-apache-bcel-1.7.1.jar", "size_i": "8792", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-apache-bcel.jar", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-jakarta-bcel.jar", "size_i": "19", "regex": "false"}
+]

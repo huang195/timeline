@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/xhtml2ps", "size_i": "84744", "regex": "false"},
+	{"name_s": "/usr/share/applications/fedora-xhtml2ps.desktop", "size_i": "211", "regex": "false"},
+	{"name_s": "/usr/share/doc/xhtml2ps-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xhtml2ps-1.0/LICENSE", "size_i": "17970", "regex": "false"},
+	{"name_s": "/usr/share/doc/xhtml2ps-1.0/README", "size_i": "1212", "regex": "false"}
+]

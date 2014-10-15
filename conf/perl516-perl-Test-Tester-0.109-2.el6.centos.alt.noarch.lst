@@ -1,0 +1,16 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Tester-0.109", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Tester-0.109/ARTISTIC", "size_i": "6451", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Tester-0.109/CHANGES", "size_i": "3411", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Tester-0.109/README", "size_i": "12694", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Tester-0.109/TODO", "size_i": "19", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::Tester.3pm.gz", "size_i": "6661", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::Tester::Capture.3pm.gz", "size_i": "2122", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::Tester::CaptureRunner.3pm.gz", "size_i": "2013", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Test/Tester", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Test/Tester.pm", "size_i": "17296", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Test/Tester/Capture.pm", "size_i": "4356", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Test/Tester/CaptureRunner.pm", "size_i": "1273", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Test/Tester/Delegate.pm", "size_i": "372", "regex": "false"}
+]

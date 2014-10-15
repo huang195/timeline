@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib/libmng.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libmng.so.1.0.0", "size_i": "463688", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-1.0.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-1.0.10/CHANGES", "size_i": "44764", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-1.0.10/LICENSE", "size_i": "4622", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-1.0.10/README", "size_i": "683", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-1.0.10/README.autoconf", "size_i": "9004", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-1.0.10/README.config", "size_i": "4106", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-1.0.10/README.contrib", "size_i": "3335", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-1.0.10/README.dll", "size_i": "1773", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-1.0.10/README.examples", "size_i": "1947", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-1.0.10/README.footprint", "size_i": "1372", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-1.0.10/README.packaging", "size_i": "934", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/httpd/conf.d/auth_mysql.conf", "size_i": "3492", "regex": "false"},
+	{"name_s": "/usr/lib64/httpd/modules/mod_auth_mysql.so", "size_i": "23472", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_mysql-3.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_mysql-3.0.0/CHANGES", "size_i": "4955", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_mysql-3.0.0/CONFIGURE", "size_i": "15245", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_mysql-3.0.0/LICENSE", "size_i": "2599", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_mysql-3.0.0/README", "size_i": "434", "regex": "false"}
+]

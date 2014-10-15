@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/_tevent.so", "size_i": "19608", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/tevent.py", "size_i": "1018", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/tevent.pyc", "size_i": "263", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/tevent.pyo", "size_i": "263", "regex": "false"}
+]

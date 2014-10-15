@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-baekmuk-ttf-hline.conf", "size_i": "60", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-baekmuk-ttf-hline.conf", "size_i": "135", "regex": "false"},
+	{"name_s": "/usr/share/fonts/baekmuk-ttf", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/baekmuk-ttf/hline.ttf", "size_i": "1203464", "regex": "false"}
+]

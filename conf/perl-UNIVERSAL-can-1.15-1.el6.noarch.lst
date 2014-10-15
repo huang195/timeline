@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-UNIVERSAL-can-1.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-UNIVERSAL-can-1.15/Changes", "size_i": "1961", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-UNIVERSAL-can-1.15/README", "size_i": "475", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/UNIVERSAL::can.3pm.gz", "size_i": "3087", "regex": "false"},
+	{"name_s": "/usr/share/perl5/UNIVERSAL", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/UNIVERSAL/can.pm", "size_i": "4054", "regex": "false"}
+]

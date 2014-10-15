@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/bin/ibsim", "size_i": "85880", "regex": "false"},
+	{"name_s": "/usr/lib64/umad2sim/libumad2sim.so", "size_i": "21744", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5/COPYING", "size_i": "17996", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5/README", "size_i": "3408", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5/TODO", "size_i": "203", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5/net-examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5/net-examples/examples.README", "size_i": "427", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5/net-examples/net", "size_i": "786", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5/net-examples/net.1", "size_i": "586", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5/net-examples/net.2sw2path", "size_i": "674", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5/net-examples/net.2sw2path4hca", "size_i": "765", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5/net-examples/net.2sw2path4hca2port", "size_i": "736", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5/scripts", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibsim-0.5/scripts/run_opensm.sh", "size_i": "1256", "regex": "false"}
+]

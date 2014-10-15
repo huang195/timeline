@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/cloog", "size_i": "5936", "regex": "false"},
+	{"name_s": "/usr/lib/libcloog.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libcloog.so.0.0.0", "size_i": "131328", "regex": "false"},
+	{"name_s": "/usr/share/doc/cloog-ppl-0.15.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cloog-ppl-0.15.7/LICENSE", "size_i": "15008", "regex": "false"},
+	{"name_s": "/usr/share/doc/cloog-ppl-0.15.7/README", "size_i": "8826", "regex": "false"},
+	{"name_s": "/usr/share/info/cloog.info.gz", "size_i": "22320", "regex": "false"}
+]

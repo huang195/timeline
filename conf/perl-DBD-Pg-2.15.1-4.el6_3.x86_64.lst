@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Bundle/DBD/Pg.pm", "size_i": "545", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/DBD", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/DBD/Pg.pm", "size_i": "163216", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/DBD", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/DBD/Pg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/DBD/Pg/Pg.so", "size_i": "271696", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-Pg-2.15.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-Pg-2.15.1/Changes", "size_i": "43185", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-Pg-2.15.1/README", "size_i": "11596", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-Pg-2.15.1/README.dev", "size_i": "29851", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-Pg-2.15.1/TODO", "size_i": "1206", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Bundle::DBD::Pg.3pm.gz", "size_i": "1987", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DBD::Pg.3pm.gz", "size_i": "34227", "regex": "false"}
+]

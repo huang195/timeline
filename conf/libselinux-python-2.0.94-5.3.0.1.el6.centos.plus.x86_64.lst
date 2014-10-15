@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/selinux", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/selinux/__init__.py", "size_i": "110642", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/selinux/__init__.pyc", "size_i": "104381", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/selinux/__init__.pyo", "size_i": "104381", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/selinux/_selinux.so", "size_i": "274088", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/selinux/audit2why.so", "size_i": "183176", "regex": "false"}
+]

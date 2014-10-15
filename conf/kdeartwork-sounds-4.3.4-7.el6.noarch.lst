@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/kdeartwork-sounds-4.3.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/kdeartwork-sounds-4.3.4/COPYING", "size_i": "18273", "regex": "false"},
+	{"name_s": "/usr/share/doc/kdeartwork-sounds-4.3.4/README", "size_i": "252", "regex": "false"},
+	{"name_s": "/usr/share/sounds/KDE_Logout_new.wav", "size_i": "546912", "regex": "false"},
+	{"name_s": "/usr/share/sounds/KDE_Startup_new.wav", "size_i": "970882", "regex": "false"}
+]

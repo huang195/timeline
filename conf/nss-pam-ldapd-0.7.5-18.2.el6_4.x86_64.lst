@@ -1,0 +1,18 @@
+[
+	{"name_s": "/etc/nslcd.conf", "size_i": "4138", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/nslcd", "size_i": "1675", "regex": "false"},
+	{"name_s": "/lib64/libnss_ldap.so.2", "size_i": "44656", "regex": "false"},
+	{"name_s": "/usr/lib64/libnss_ldap.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/sbin/nslcd", "size_i": "123072", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss-pam-ldapd-0.7.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss-pam-ldapd-0.7.5/AUTHORS", "size_i": "2981", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss-pam-ldapd-0.7.5/COPYING", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss-pam-ldapd-0.7.5/ChangeLog", "size_i": "166865", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss-pam-ldapd-0.7.5/HACKING", "size_i": "7481", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss-pam-ldapd-0.7.5/NEWS", "size_i": "64088", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss-pam-ldapd-0.7.5/README", "size_i": "15798", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss-pam-ldapd-0.7.5/TODO", "size_i": "2014", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/nslcd.conf.5.gz", "size_i": "5223", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/nslcd.8.gz", "size_i": "831", "regex": "false"},
+	{"name_s": "/var/run/nslcd", "size_i": "4096", "regex": "false"}
+]

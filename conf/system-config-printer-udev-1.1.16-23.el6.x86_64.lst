@@ -1,0 +1,7 @@
+[
+	{"name_s": "/lib/udev/rules.d/70-printers.rules", "size_i": "450", "regex": "false"},
+	{"name_s": "/lib/udev/udev-add-printer", "size_i": "6722", "regex": "false"},
+	{"name_s": "/lib/udev/udev-configure-printer", "size_i": "22384", "regex": "false"},
+	{"name_s": "/var/run/udev-configure-printer", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/run/udev-configure-printer/usb-uris", "size_i": "0", "regex": "false"}
+]

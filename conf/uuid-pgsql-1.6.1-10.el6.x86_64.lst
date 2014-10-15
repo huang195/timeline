@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/pgsql/ossp-uuid.so", "size_i": "13824", "regex": "false"},
+	{"name_s": "/usr/share/pgsql/uuid.sql", "size_i": "7027", "regex": "false"}
+]

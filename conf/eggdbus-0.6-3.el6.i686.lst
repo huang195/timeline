@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libeggdbus-1.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libeggdbus-1.so.0.0.0", "size_i": "289412", "regex": "false"},
+	{"name_s": "/usr/share/doc/eggdbus-0.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/eggdbus-0.6/AUTHORS", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/share/doc/eggdbus-0.6/COPYING", "size_i": "25387", "regex": "false"}
+]

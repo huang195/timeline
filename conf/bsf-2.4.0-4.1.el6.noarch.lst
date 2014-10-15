@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/bsf-2.4.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bsf-2.4.0/AUTHORS.txt", "size_i": "619", "regex": "false"},
+	{"name_s": "/usr/share/doc/bsf-2.4.0/CHANGES.txt", "size_i": "2393", "regex": "false"},
+	{"name_s": "/usr/share/doc/bsf-2.4.0/LICENSE.txt", "size_i": "11359", "regex": "false"},
+	{"name_s": "/usr/share/doc/bsf-2.4.0/NOTICE.txt", "size_i": "187", "regex": "false"},
+	{"name_s": "/usr/share/doc/bsf-2.4.0/README.txt", "size_i": "2409", "regex": "false"},
+	{"name_s": "/usr/share/doc/bsf-2.4.0/RELEASE-NOTE.txt", "size_i": "3600", "regex": "false"},
+	{"name_s": "/usr/share/doc/bsf-2.4.0/TODO.txt", "size_i": "1480", "regex": "false"},
+	{"name_s": "/usr/share/java/bsf-2.4.0.jar", "size_i": "101363", "regex": "false"},
+	{"name_s": "/usr/share/java/bsf.jar", "size_i": "13", "regex": "false"}
+]

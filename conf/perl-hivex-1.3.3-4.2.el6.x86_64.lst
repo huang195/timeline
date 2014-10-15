@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Win", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Win/Hivex", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Win/Hivex.pm", "size_i": "9815", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Win/Hivex/Regedit.pm", "size_i": "19972", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Win", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Win/Hivex", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Win/Hivex/Hivex.so", "size_i": "45088", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Win::Hivex.3pm.gz", "size_i": "4836", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Win::Hivex::Regedit.3pm.gz", "size_i": "4909", "regex": "false"}
+]

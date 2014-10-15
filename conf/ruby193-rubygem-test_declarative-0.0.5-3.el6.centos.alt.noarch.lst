@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/test_declarative-0.0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/test_declarative-0.0.5/MIT-LICENSE", "size_i": "1098", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/test_declarative-0.0.5/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/test_declarative-0.0.5/lib/test_declarative", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/test_declarative-0.0.5/lib/test_declarative.rb", "size_i": "852", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/test_declarative-0.0.5/lib/test_declarative/version.rb", "size_i": "46", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/test_declarative-0.0.5.gemspec", "size_i": "809", "regex": "false"}
+]

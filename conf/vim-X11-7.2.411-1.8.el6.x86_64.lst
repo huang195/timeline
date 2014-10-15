@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/bin/evim", "size_i": "4", "regex": "false"},
+	{"name_s": "/usr/bin/gex", "size_i": "4", "regex": "false"},
+	{"name_s": "/usr/bin/gview", "size_i": "4", "regex": "false"},
+	{"name_s": "/usr/bin/gvim", "size_i": "2255384", "regex": "false"},
+	{"name_s": "/usr/bin/gvimdiff", "size_i": "4", "regex": "false"},
+	{"name_s": "/usr/bin/gvimtutor", "size_i": "143", "regex": "false"},
+	{"name_s": "/usr/bin/vimx", "size_i": "4", "regex": "false"},
+	{"name_s": "/usr/share/applications/fedora-gvim.desktop", "size_i": "2376", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/16x16/apps/gvim.png", "size_i": "904", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/32x32/apps/gvim.png", "size_i": "2453", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/48x48/apps/gvim.png", "size_i": "3689", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/64x64/apps/gvim.png", "size_i": "8249", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/evim.1.gz", "size_i": "792", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gvim.1.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gvimdiff.1.gz", "size_i": "35", "regex": "false"}
+]

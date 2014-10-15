@@ -1,0 +1,15 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/sntp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/sntp/index.js", "size_i": "34", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/sntp/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/sntp/lib/index.js", "size_i": "9691", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/sntp/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/sntp/node_modules/hoek", "size_i": "48", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/sntp/package.json", "size_i": "633", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-sntp-0.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-sntp-0.2.1/LICENSE", "size_i": "1490", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-sntp-0.2.1/README.md", "size_i": "1926", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-sntp-0.2.1/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-sntp-0.2.1/examples/offset.js", "size_i": "321", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-sntp-0.2.1/examples/time.js", "size_i": "627", "regex": "false"}
+]

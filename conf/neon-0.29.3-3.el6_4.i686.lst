@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/lib/libneon.so.27", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libneon.so.27.2.3", "size_i": "172012", "regex": "false"},
+	{"name_s": "/usr/share/doc/neon-0.29.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/neon-0.29.3/AUTHORS", "size_i": "468", "regex": "false"},
+	{"name_s": "/usr/share/doc/neon-0.29.3/BUGS", "size_i": "1642", "regex": "false"},
+	{"name_s": "/usr/share/doc/neon-0.29.3/COPYING.LIB", "size_i": "25283", "regex": "false"},
+	{"name_s": "/usr/share/doc/neon-0.29.3/NEWS", "size_i": "62269", "regex": "false"},
+	{"name_s": "/usr/share/doc/neon-0.29.3/README", "size_i": "2644", "regex": "false"},
+	{"name_s": "/usr/share/doc/neon-0.29.3/THANKS", "size_i": "1000", "regex": "false"},
+	{"name_s": "/usr/share/doc/neon-0.29.3/TODO", "size_i": "1188", "regex": "false"},
+	{"name_s": "/usr/share/locale/cs/LC_MESSAGES/neon.mo", "size_i": "1566", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/neon.mo", "size_i": "1712", "regex": "false"},
+	{"name_s": "/usr/share/locale/fr/LC_MESSAGES/neon.mo", "size_i": "387", "regex": "false"},
+	{"name_s": "/usr/share/locale/ja/LC_MESSAGES/neon.mo", "size_i": "877", "regex": "false"},
+	{"name_s": "/usr/share/locale/nn/LC_MESSAGES/neon.mo", "size_i": "1626", "regex": "false"},
+	{"name_s": "/usr/share/locale/pl/LC_MESSAGES/neon.mo", "size_i": "13423", "regex": "false"},
+	{"name_s": "/usr/share/locale/ru/LC_MESSAGES/neon.mo", "size_i": "383", "regex": "false"},
+	{"name_s": "/usr/share/locale/tr/LC_MESSAGES/neon.mo", "size_i": "1523", "regex": "false"},
+	{"name_s": "/usr/share/locale/zh_CN/LC_MESSAGES/neon.mo", "size_i": "8552", "regex": "false"}
+]

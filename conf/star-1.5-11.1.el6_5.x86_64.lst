@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/bin/spax", "size_i": "304528", "regex": "false"},
+	{"name_s": "/usr/bin/star", "size_i": "319984", "regex": "false"},
+	{"name_s": "/usr/bin/ustar", "size_i": "4", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5/AN-1.2", "size_i": "4632", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5/AN-1.3", "size_i": "11231", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5/AN-1.3.1", "size_i": "4319", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5/AN-1.4", "size_i": "32303", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5/AN-1.5", "size_i": "116362", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5/CDDL.Schily.txt", "size_i": "18557", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5/COPYING", "size_i": "986", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5/README", "size_i": "98", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5/README.SSPM", "size_i": "2130", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5/README.linux", "size_i": "7672", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5/STATUS.alpha", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/share/doc/star-1.5/TODO", "size_i": "901", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/spax.1.gz", "size_i": "36075", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/star.1.gz", "size_i": "39079", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ustar.1.gz", "size_i": "9", "regex": "false"}
+]

@@ -1,0 +1,22 @@
+[
+	{"name_s": "/opt/rh/v8314/root/usr/bin/d8", "size_i": "37784", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/bin/v8-mksnapshot", "size_i": "4131144", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/bin/v8-preparser", "size_i": "173800", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/bin/v8-process", "size_i": "28248", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/bin/v8-shell", "size_i": "15424", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/include/v8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/include/v8-debug.h", "size_i": "15076", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/include/v8-preparser.h", "size_i": "4591", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/include/v8-profiler.h", "size_i": "18630", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/include/v8-testing.h", "size_i": "3352", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/include/v8.h", "size_i": "150785", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/include/v8/extensions", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/include/v8/extensions/externalize-string-extension.h", "size_i": "2306", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/include/v8/extensions/gc-extension.h", "size_i": "2143", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/include/v8/extensions/statistics-extension.h", "size_i": "2200", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/include/v8stdint.h", "size_i": "2140", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/lib/python2.6/site-packages/js2c.py", "size_i": "11995", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/lib/python2.6/site-packages/jsmin.py", "size_i": "10771", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/lib64/libv8.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/lib64/libv8.so.v8314", "size_i": "21", "regex": "false"}
+]

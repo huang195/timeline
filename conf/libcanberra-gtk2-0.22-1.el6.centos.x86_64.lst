@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/gconf/schemas/libcanberra.schemas", "size_i": "556", "regex": "false"},
+	{"name_s": "/usr/bin/canberra-gtk-play", "size_i": "11376", "regex": "false"},
+	{"name_s": "/usr/lib64/gtk-2.0/modules/libcanberra-gtk-module.so", "size_i": "24056", "regex": "false"},
+	{"name_s": "/usr/lib64/libcanberra-gtk.so.0", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libcanberra-gtk.so.0.1.5", "size_i": "17160", "regex": "false"},
+	{"name_s": "/usr/share/gdm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gdm/autostart", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gdm/autostart/LoginWindow", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gdm/autostart/LoginWindow/libcanberra-ready-sound.desktop", "size_i": "354", "regex": "false"},
+	{"name_s": "/usr/share/gnome/autostart/libcanberra-login-sound.desktop", "size_i": "321", "regex": "false"},
+	{"name_s": "/usr/share/gnome/shutdown/libcanberra-logout-sound.sh", "size_i": "89", "regex": "false"}
+]

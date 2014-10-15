@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/share/doc/perl-DBIx-Simple-1.32", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBIx-Simple-1.32/Changes", "size_i": "8760", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBIx-Simple-1.32/README", "size_i": "515", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DBIx::Simple.3pm.gz", "size_i": "6619", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DBIx::Simple::Comparison.3pm.gz", "size_i": "3220", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DBIx::Simple::Examples.3pm.gz", "size_i": "5531", "regex": "false"},
+	{"name_s": "/usr/share/perl5/DBIx", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/DBIx/Simple", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/DBIx/Simple.pm", "size_i": "25136", "regex": "false"},
+	{"name_s": "/usr/share/perl5/DBIx/Simple/Comparison.pod", "size_i": "3257", "regex": "false"},
+	{"name_s": "/usr/share/perl5/DBIx/Simple/Examples.pod", "size_i": "10094", "regex": "false"}
+]

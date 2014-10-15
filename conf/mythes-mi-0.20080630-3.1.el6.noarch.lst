@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/mythes-mi-0.20080630", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-mi-0.20080630/mi.AUTHORS", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-mi-0.20080630/mi.LICENSE", "size_i": "234", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-mi-0.20080630/mi.README", "size_i": "220", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_mi_NZ_v2.dat", "size_i": "3428", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_mi_NZ_v2.idx", "size_i": "372", "regex": "false"}
+]

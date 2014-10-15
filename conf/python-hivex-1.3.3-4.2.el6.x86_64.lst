@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/hivex.py", "size_i": "5323", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/hivex.pyc", "size_i": "6613", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/hivex.pyo", "size_i": "6613", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/libhivexmod.so", "size_i": "18152", "regex": "false"}
+]

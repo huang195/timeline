@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/archy", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/archy/index.js", "size_i": "1140", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/archy/package.json", "size_i": "804", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-archy-0.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-archy-0.0.2/README.markdown", "size_i": "1707", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-archy-0.0.2/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-archy-0.0.2/examples/beep.js", "size_i": "387", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-archy-0.0.2/examples/multi_line.js", "size_i": "414", "regex": "false"}
+]

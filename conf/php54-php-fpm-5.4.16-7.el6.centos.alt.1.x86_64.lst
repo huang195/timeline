@@ -1,0 +1,17 @@
+[
+	{"name_s": "/etc/logrotate.d/php54-php-fpm", "size_i": "243", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/php54-php-fpm", "size_i": "2228", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php-fpm.conf", "size_i": "1785", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php-fpm.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php-fpm.d/www.conf", "size_i": "10072", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/sysconfig/php-fpm", "size_i": "43", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/sbin/php-fpm", "size_i": "4057424", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-fpm-5.4.16", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-fpm-5.4.16/fpm_LICENSE", "size_i": "1282", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-fpm-5.4.16/php-fpm.conf.default", "size_i": "21910", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/fpm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/fpm/status.html", "size_i": "14378", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/man/man8/php-fpm.8.gz", "size_i": "2181", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/var/log/php-fpm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/var/run/php-fpm", "size_i": "4096", "regex": "false"}
+]

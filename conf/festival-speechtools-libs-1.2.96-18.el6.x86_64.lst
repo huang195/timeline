@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libestbase.so.1.2.96.1", "size_i": "2445360", "regex": "false"},
+	{"name_s": "/usr/lib64/libestools.so.1.2.96.1", "size_i": "921712", "regex": "false"},
+	{"name_s": "/usr/lib64/libeststring.so.1.2", "size_i": "62696", "regex": "false"},
+	{"name_s": "/usr/share/doc/festival-speechtools-libs-1.2.96", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/festival-speechtools-libs-1.2.96/README.speechtools", "size_i": "9186", "regex": "false"}
+]

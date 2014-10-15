@@ -1,0 +1,15 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/promzard", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/promzard/package.json", "size_i": "384", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/promzard/promzard.js", "size_i": "5528", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-promzard-0.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-promzard-0.2.0/README.md", "size_i": "4474", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-promzard-0.2.0/example", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-promzard-0.2.0/example/index.js", "size_i": "282", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-promzard-0.2.0/example/npm-init", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-promzard-0.2.0/example/npm-init/README.md", "size_i": "156", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-promzard-0.2.0/example/npm-init/init-input.js", "size_i": "6058", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-promzard-0.2.0/example/npm-init/init.js", "size_i": "1032", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-promzard-0.2.0/example/npm-init/package.json", "size_i": "179", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-promzard-0.2.0/example/substack-input.js", "size_i": "1803", "regex": "false"}
+]

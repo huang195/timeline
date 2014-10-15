@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/sexy.so", "size_i": "25216", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-sexy-0.1.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-sexy-0.1.9/AUTHORS", "size_i": "79", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-sexy-0.1.9/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-sexy-0.1.9/ChangeLog", "size_i": "1756", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-sexy-0.1.9/NEWS", "size_i": "624", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-sexy-0.1.9/README", "size_i": "524", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/sexy.defs", "size_i": "6309", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/doc/apache-jasper-5.5.28", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/apache-jasper-5.5.28/LICENSE", "size_i": "40487", "regex": "false"},
+	{"name_s": "/usr/share/java/apache-jasper-5.5.28.jar", "size_i": "1925823", "regex": "false"}
+]

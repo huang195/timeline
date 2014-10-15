@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/plymouth/themes/rings", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/rings/box.png", "size_i": "870", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/rings/bullet.png", "size_i": "131", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/rings/entry.png", "size_i": "367", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/rings/lock.png", "size_i": "2579", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/rings/rings.plymouth", "size_i": "298", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-sw-0.20050819", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-sw-0.20050819/README_sw_TZ.txt", "size_i": "2416", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sw_KE.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sw_KE.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sw_TZ.aff", "size_i": "974", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sw_TZ.dic", "size_i": "630844", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libopenraw.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libopenraw.so.1.4.0", "size_i": "281704", "regex": "false"},
+	{"name_s": "/usr/share/doc/libopenraw-0.0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libopenraw-0.0.5/AUTHORS", "size_i": "203", "regex": "false"},
+	{"name_s": "/usr/share/doc/libopenraw-0.0.5/COPYING", "size_i": "26542", "regex": "false"},
+	{"name_s": "/usr/share/doc/libopenraw-0.0.5/ChangeLog", "size_i": "14289", "regex": "false"},
+	{"name_s": "/usr/share/doc/libopenraw-0.0.5/NEWS", "size_i": "2281", "regex": "false"},
+	{"name_s": "/usr/share/doc/libopenraw-0.0.5/README", "size_i": "4853", "regex": "false"},
+	{"name_s": "/usr/share/doc/libopenraw-0.0.5/TODO", "size_i": "130", "regex": "false"}
+]

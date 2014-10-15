@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-cy-0.20040425", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-cy-0.20040425/README_cy_GB.txt", "size_i": "5100", "regex": "false"},
+	{"name_s": "/usr/share/myspell/cy_GB.aff", "size_i": "96041", "regex": "false"},
+	{"name_s": "/usr/share/myspell/cy_GB.dic", "size_i": "1519379", "regex": "false"}
+]

@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/bin/epsffit", "size_i": "10848", "regex": "false"},
+	{"name_s": "/usr/bin/getafm", "size_i": "6124", "regex": "false"},
+	{"name_s": "/usr/bin/psbook", "size_i": "15400", "regex": "false"},
+	{"name_s": "/usr/bin/psnup", "size_i": "23872", "regex": "false"},
+	{"name_s": "/usr/bin/psresize", "size_i": "21376", "regex": "false"},
+	{"name_s": "/usr/bin/psselect", "size_i": "16744", "regex": "false"},
+	{"name_s": "/usr/bin/pstops", "size_i": "22312", "regex": "false"},
+	{"name_s": "/usr/bin/showchar", "size_i": "2567", "regex": "false"},
+	{"name_s": "/usr/share/doc/psutils-1.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/psutils-1.17/LICENSE", "size_i": "2270", "regex": "false"},
+	{"name_s": "/usr/share/doc/psutils-1.17/README", "size_i": "11100", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/epsffit.1.gz", "size_i": "756", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/getafm.1.gz", "size_i": "539", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/psbook.1.gz", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/psnup.1.gz", "size_i": "1943", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/psresize.1.gz", "size_i": "994", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/psselect.1.gz", "size_i": "1022", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pstops.1.gz", "size_i": "1985", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/gnome-session-custom-session", "size_i": "54", "regex": "false"},
+	{"name_s": "/usr/bin/gnome-session-selector", "size_i": "24184", "regex": "false"},
+	{"name_s": "/usr/share/gnome-session/session-selector.ui", "size_i": "10035", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gnome-session-selector.1.gz", "size_i": "589", "regex": "false"},
+	{"name_s": "/usr/share/xsessions/gnome-custom-session.desktop", "size_i": "3389", "regex": "false"}
+]

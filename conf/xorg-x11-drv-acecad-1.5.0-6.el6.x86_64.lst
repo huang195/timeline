@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/input/acecad_drv.so", "size_i": "18288", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/acecad.4.gz", "size_i": "580", "regex": "false"}
+]

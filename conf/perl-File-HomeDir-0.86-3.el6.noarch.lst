@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/share/doc/perl-File-HomeDir-0.86", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-HomeDir-0.86/Changes", "size_i": "8451", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-HomeDir-0.86/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-HomeDir-0.86/README", "size_i": "13392", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::HomeDir.3pm.gz", "size_i": "6514", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::HomeDir::Darwin.3pm.gz", "size_i": "2217", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::HomeDir::Unix.3pm.gz", "size_i": "2091", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::HomeDir::Windows.3pm.gz", "size_i": "2070", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/HomeDir", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/HomeDir.pm", "size_i": "18733", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/HomeDir/Darwin.pm", "size_i": "4415", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/HomeDir/Driver.pm", "size_i": "324", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/HomeDir/MacOS9.pm", "size_i": "1887", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/HomeDir/Unix.pm", "size_i": "2989", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/HomeDir/Windows.pm", "size_i": "4235", "regex": "false"}
+]

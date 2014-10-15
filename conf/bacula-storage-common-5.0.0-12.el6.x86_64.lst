@@ -1,0 +1,17 @@
+[
+	{"name_s": "/etc/bacula/bacula-sd.conf", "size_i": "5828", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/bacula-sd", "size_i": "2773", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/disk-changer", "size_i": "9145", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/dvd-handler", "size_i": "16948", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/mtx-changer", "size_i": "6681", "regex": "false"},
+	{"name_s": "/usr/sbin/bacula-sd", "size_i": "559632", "regex": "false"},
+	{"name_s": "/usr/sbin/bextract", "size_i": "502608", "regex": "false"},
+	{"name_s": "/usr/sbin/bls", "size_i": "495056", "regex": "false"},
+	{"name_s": "/usr/sbin/btape", "size_i": "515504", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/bacula-sd.8.gz", "size_i": "763", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/bcopy.8.gz", "size_i": "810", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/bextract.8.gz", "size_i": "789", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/bls.8.gz", "size_i": "977", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/bscan.8.gz", "size_i": "1311", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/btape.8.gz", "size_i": "1146", "regex": "false"}
+]

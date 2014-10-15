@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/libexec/plymouth/plymouth-generate-initrd", "size_i": "895", "regex": "false"},
+	{"name_s": "/usr/libexec/plymouth/plymouth-populate-initrd", "size_i": "3661", "regex": "false"},
+	{"name_s": "/usr/libexec/plymouth/plymouth-update-initrd", "size_i": "101", "regex": "false"},
+	{"name_s": "/usr/sbin/plymouth-set-default-theme", "size_i": "6349", "regex": "false"}
+]

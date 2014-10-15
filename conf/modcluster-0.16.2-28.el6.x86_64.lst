@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/dbus-1/system.d/modcluster.systembus.conf", "size_i": "768", "regex": "false"},
+	{"name_s": "/etc/oddjobd.conf.d/modcluster.oddjob.conf", "size_i": "612", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/modclusterd", "size_i": "2691", "regex": "false"},
+	{"name_s": "/usr/libexec/modcluster", "size_i": "265864", "regex": "false"},
+	{"name_s": "/usr/sbin/modclusterd", "size_i": "323288", "regex": "false"},
+	{"name_s": "/usr/share/doc/modcluster-0.16.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/modcluster-0.16.2/COPYING", "size_i": "17992", "regex": "false"}
+]

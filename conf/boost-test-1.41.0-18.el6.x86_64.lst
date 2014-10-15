@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libboost_prg_exec_monitor-mt.so.5", "size_i": "57880", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_prg_exec_monitor.so.5", "size_i": "57848", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_unit_test_framework-mt.so.5", "size_i": "777112", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_unit_test_framework.so.5", "size_i": "777016", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-test-1.41.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-test-1.41.0/LICENSE_1_0.txt", "size_i": "1338", "regex": "false"}
+]

@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_BlockStorageStatisticalData.cim", "size_i": "1281", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_BootOSFromFS.cim", "size_i": "1960", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_Ext2FileSystem.cim", "size_i": "1143", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_Ext3FileSystem.cim", "size_i": "1143", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_HostedFileSystem.cim", "size_i": "1932", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_NFS.cim", "size_i": "1118", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_ReiserFileSystem.cim", "size_i": "1149", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_Ext2FileSystem.pl", "size_i": "1199", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_Ext2FileSystem.system", "size_i": "775", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_Ext3FileSystem.pl", "size_i": "1199", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_Ext3FileSystem.system", "size_i": "775", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_HostedFileSystem.system", "size_i": "543", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_ReiserFileSystem.pl", "size_i": "1217", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_ReiserFileSystem.system", "size_i": "791", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/countFileSystemEntries.pl", "size_i": "725", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/test-cmpi-fsvol.sh", "size_i": "642", "regex": "false"}
+]

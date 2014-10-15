@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/huge_page_setup_helper.py", "size_i": "12344", "regex": "false"},
+	{"name_s": "/usr/bin/hugeadm", "size_i": "65096", "regex": "false"},
+	{"name_s": "/usr/bin/hugectl", "size_i": "12600", "regex": "false"},
+	{"name_s": "/usr/bin/hugeedit", "size_i": "8496", "regex": "false"},
+	{"name_s": "/usr/bin/pagesize", "size_i": "31904", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pagesize.1.gz", "size_i": "818", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/hugeadm.8.gz", "size_i": "3533", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/hugectl.8.gz", "size_i": "2202", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/hugeedit.8.gz", "size_i": "889", "regex": "false"}
+]

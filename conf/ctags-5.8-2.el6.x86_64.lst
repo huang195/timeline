@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/ctags", "size_i": "231488", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctags-5.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctags-5.8/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctags-5.8/EXTENDING.html", "size_i": "14178", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctags-5.8/FAQ", "size_i": "16979", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctags-5.8/NEWS", "size_i": "47123", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctags-5.8/README", "size_i": "2977", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ctags.1.gz", "size_i": "16756", "regex": "false"}
+]

@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/share/doc/xhtml2fo-style-xsl-20051222", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xhtml2fo-style-xsl-20051222/AntennaHouse-COPYRIGHT", "size_i": "426", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/Chocolate.xsl", "size_i": "36316", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/Midnight.xsl", "size_i": "37523", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/Modernist.xsl", "size_i": "36306", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/Oldstyle.xsl", "size_i": "36467", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/Steely.xsl", "size_i": "35493", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/Swiss.xsl", "size_i": "34981", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/Traditional-ja.xsl", "size_i": "34776", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/Traditional.xsl", "size_i": "34564", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/Ultramarine.xsl", "size_i": "35859", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/W3C-REC.xsl", "size_i": "10874", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/xhtml2fo-justified.xsl", "size_i": "23029", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/xhtml2fo-multicolumn.xsl", "size_i": "23770", "regex": "false"},
+	{"name_s": "/usr/share/sgml/xhtml1/xhtml2fo-stylesheets/xhtml2fo.xsl", "size_i": "63786", "regex": "false"}
+]

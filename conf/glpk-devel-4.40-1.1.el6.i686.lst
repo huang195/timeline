@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/glpk", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/glpk/glpk.h", "size_i": "57556", "regex": "false"},
+	{"name_s": "/usr/share/doc/glpk-devel-4.40", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/glpk-devel-4.40/AUTHORS", "size_i": "1629", "regex": "false"},
+	{"name_s": "/usr/share/doc/glpk-devel-4.40/ChangeLog", "size_i": "86734", "regex": "false"},
+	{"name_s": "/usr/share/doc/glpk-devel-4.40/NEWS", "size_i": "64448", "regex": "false"}
+]

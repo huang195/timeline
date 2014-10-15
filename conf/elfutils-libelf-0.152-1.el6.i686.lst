@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libelf-0.152.so", "size_i": "91712", "regex": "false"},
+	{"name_s": "/usr/lib/libelf.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/elfutils.mo", "size_i": "21892", "regex": "false"},
+	{"name_s": "/usr/share/locale/en@boldquot/LC_MESSAGES/elfutils.mo", "size_i": "132554", "regex": "false"},
+	{"name_s": "/usr/share/locale/en@quot/LC_MESSAGES/elfutils.mo", "size_i": "130850", "regex": "false"},
+	{"name_s": "/usr/share/locale/es/LC_MESSAGES/elfutils.mo", "size_i": "141264", "regex": "false"},
+	{"name_s": "/usr/share/locale/ja/LC_MESSAGES/elfutils.mo", "size_i": "86957", "regex": "false"},
+	{"name_s": "/usr/share/locale/pl/LC_MESSAGES/elfutils.mo", "size_i": "140602", "regex": "false"},
+	{"name_s": "/usr/share/locale/uk/LC_MESSAGES/elfutils.mo", "size_i": "181822", "regex": "false"}
+]

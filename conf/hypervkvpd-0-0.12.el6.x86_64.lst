@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/rc.d/init.d/hypervkvpd", "size_i": "2143", "regex": "false"},
+	{"name_s": "/usr/libexec/hypervkvpd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/hypervkvpd/hv_get_dhcp_info", "size_i": "895", "regex": "false"},
+	{"name_s": "/usr/libexec/hypervkvpd/hv_get_dns_info", "size_i": "622", "regex": "false"},
+	{"name_s": "/usr/libexec/hypervkvpd/hv_set_ifconfig", "size_i": "1853", "regex": "false"},
+	{"name_s": "/usr/sbin/hv_kvp_daemon", "size_i": "26680", "regex": "false"},
+	{"name_s": "/var/lib/hyperv", "size_i": "4096", "regex": "false"}
+]

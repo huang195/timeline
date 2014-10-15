@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/libXcursor.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libXcursor.so.1.0.2", "size_i": "38128", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXcursor-1.1.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXcursor-1.1.13/AUTHORS", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXcursor-1.1.13/COPYING", "size_i": "1098", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXcursor-1.1.13/README", "size_i": "692", "regex": "false"},
+	{"name_s": "/usr/share/icons/default", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/icons/default/index.theme", "size_i": "29", "regex": "false"}
+]

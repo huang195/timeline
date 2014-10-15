@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/checksctp", "size_i": "4728", "regex": "false"},
+	{"name_s": "/usr/bin/sctp_darn", "size_i": "40552", "regex": "false"},
+	{"name_s": "/usr/bin/sctp_status", "size_i": "19360", "regex": "false"},
+	{"name_s": "/usr/bin/sctp_test", "size_i": "28512", "regex": "false"},
+	{"name_s": "/usr/bin/withsctp", "size_i": "227", "regex": "false"},
+	{"name_s": "/usr/lib64/libsctp.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libsctp.so.1.0.10", "size_i": "8656", "regex": "false"},
+	{"name_s": "/usr/lib64/lksctp-tools", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/lksctp-tools/libwithsctp.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/lksctp-tools/libwithsctp.so.1.0.10", "size_i": "5648", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-1.0.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-1.0.10/AUTHORS", "size_i": "1126", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-1.0.10/COPYING", "size_i": "17983", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-1.0.10/COPYING.lib", "size_i": "24428", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-1.0.10/ChangeLog", "size_i": "47184", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-1.0.10/README", "size_i": "6961", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/sctp.7.gz", "size_i": "5332", "regex": "false"}
+]

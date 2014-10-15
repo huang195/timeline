@@ -1,0 +1,4 @@
+[
+	{"name_s": "/lib64/libbz2.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/lib64/libbz2.so.1.0.4", "size_i": "67592", "regex": "false"}
+]

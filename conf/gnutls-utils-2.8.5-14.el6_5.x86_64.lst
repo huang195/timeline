@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/bin/certtool", "size_i": "111000", "regex": "false"},
+	{"name_s": "/usr/bin/gnutls-cli", "size_i": "59160", "regex": "false"},
+	{"name_s": "/usr/bin/gnutls-cli-debug", "size_i": "50960", "regex": "false"},
+	{"name_s": "/usr/bin/gnutls-serv", "size_i": "59432", "regex": "false"},
+	{"name_s": "/usr/bin/psktool", "size_i": "19344", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnutls-utils-2.8.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnutls-utils-2.8.5/certtool.cfg", "size_i": "2717", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/certtool.1.gz", "size_i": "1469", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gnutls-cli-debug.1.gz", "size_i": "606", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gnutls-cli.1.gz", "size_i": "2215", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gnutls-serv.1.gz", "size_i": "1725", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/psktool.1.gz", "size_i": "500", "regex": "false"}
+]

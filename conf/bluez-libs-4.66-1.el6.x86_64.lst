@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libbluetooth.so.3", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libbluetooth.so.3.8.0", "size_i": "107744", "regex": "false"},
+	{"name_s": "/usr/share/doc/bluez-libs-4.66", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bluez-libs-4.66/AUTHORS", "size_i": "2091", "regex": "false"},
+	{"name_s": "/usr/share/doc/bluez-libs-4.66/COPYING", "size_i": "18006", "regex": "false"},
+	{"name_s": "/usr/share/doc/bluez-libs-4.66/ChangeLog", "size_i": "50723", "regex": "false"},
+	{"name_s": "/usr/share/doc/bluez-libs-4.66/INSTALL", "size_i": "9478", "regex": "false"},
+	{"name_s": "/usr/share/doc/bluez-libs-4.66/README", "size_i": "1000", "regex": "false"}
+]

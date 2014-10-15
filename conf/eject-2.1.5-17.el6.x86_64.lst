@@ -1,0 +1,22 @@
+[
+	{"name_s": "/etc/pam.d/eject", "size_i": "115", "regex": "false"},
+	{"name_s": "/etc/security/console.apps/eject", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/bin/eject", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/bin/volname", "size_i": "5624", "regex": "false"},
+	{"name_s": "/usr/sbin/eject", "size_i": "28200", "regex": "false"},
+	{"name_s": "/usr/share/doc/eject-2.1.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/eject-2.1.5/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/eject-2.1.5/ChangeLog", "size_i": "9018", "regex": "false"},
+	{"name_s": "/usr/share/doc/eject-2.1.5/README", "size_i": "1794", "regex": "false"},
+	{"name_s": "/usr/share/doc/eject-2.1.5/TODO", "size_i": "330", "regex": "false"},
+	{"name_s": "/usr/share/locale/cs_CZ/LC_MESSAGES/eject.mo", "size_i": "8767", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/eject.mo", "size_i": "8419", "regex": "false"},
+	{"name_s": "/usr/share/locale/es/LC_MESSAGES/eject.mo", "size_i": "8672", "regex": "false"},
+	{"name_s": "/usr/share/locale/fr/LC_MESSAGES/eject.mo", "size_i": "8668", "regex": "false"},
+	{"name_s": "/usr/share/locale/ja/LC_MESSAGES/eject.mo", "size_i": "8387", "regex": "false"},
+	{"name_s": "/usr/share/locale/pt_BR/LC_MESSAGES/eject.mo", "size_i": "8668", "regex": "false"},
+	{"name_s": "/usr/share/locale/tr/LC_MESSAGES/eject.mo", "size_i": "10134", "regex": "false"},
+	{"name_s": "/usr/share/locale/zh_TW/LC_MESSAGES/eject.mo", "size_i": "8217", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/eject.1.gz", "size_i": "3621", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/volname.1.gz", "size_i": "543", "regex": "false"}
+]

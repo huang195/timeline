@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/libpyldb-util.so.1", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libpyldb-util.so.1.1.13", "size_i": "6936", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/ldb.so", "size_i": "72168", "regex": "false"}
+]

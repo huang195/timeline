@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Perl-OSType-1.003", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Perl-OSType-1.003/CONTRIBUTING", "size_i": "1422", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Perl-OSType-1.003/Changes", "size_i": "1172", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Perl-OSType-1.003/LICENSE", "size_i": "18347", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Perl-OSType-1.003/README", "size_i": "2454", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Perl::OSType.3pm.gz", "size_i": "3019", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Perl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Perl/OSType.pm", "size_i": "4136", "regex": "false"}
+]

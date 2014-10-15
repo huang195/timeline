@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/cracklib_dict.hwm", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/lib64/cracklib_dict.pwd", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/lib64/cracklib_dict.pwi", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/sbin/mkdict", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/sbin/packer", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/cracklib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/cracklib/cracklib-small.hwm", "size_i": "1024", "regex": "false"},
+	{"name_s": "/usr/share/cracklib/cracklib-small.pwd", "size_i": "235109", "regex": "false"},
+	{"name_s": "/usr/share/cracklib/cracklib-small.pwi", "size_i": "12416", "regex": "false"},
+	{"name_s": "/usr/share/cracklib/pw_dict.hwm", "size_i": "1024", "regex": "false"},
+	{"name_s": "/usr/share/cracklib/pw_dict.pwd", "size_i": "8618994", "regex": "false"},
+	{"name_s": "/usr/share/cracklib/pw_dict.pwi", "size_i": "458640", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-baekmuk-ttf-batang.conf", "size_i": "61", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-baekmuk-ttf-batang.conf", "size_i": "492", "regex": "false"},
+	{"name_s": "/usr/share/fonts/baekmuk-ttf", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/baekmuk-ttf/batang.ttf", "size_i": "13939436", "regex": "false"}
+]

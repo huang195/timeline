@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libpwl.so.4", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libpwl.so.4.0.0", "size_i": "14372", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/pwl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/pwl/BUGS", "size_i": "56", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/pwl/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/pwl/CREDITS", "size_i": "229", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/pwl/NEWS", "size_i": "2554", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/pwl/README", "size_i": "3456", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/pwl/gpl.txt", "size_i": "35147", "regex": "false"}
+]

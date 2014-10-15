@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-ml-0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ml-0.1/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ml-0.1/README", "size_i": "422", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ml_IN.aff", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ml_IN.dic", "size_i": "5396303", "regex": "false"}
+]

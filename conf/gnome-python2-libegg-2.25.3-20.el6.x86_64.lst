@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/egg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/egg/__init__.py", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/egg/__init__.pyc", "size_i": "145", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/egg/__init__.pyo", "size_i": "145", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/egg/recent.so", "size_i": "101288", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/egg/trayicon.so", "size_i": "20504", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-libegg-2.25.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-libegg-2.25.3/recent", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-libegg-2.25.3/recent/Bonobo_Sample_Hello.xml", "size_i": "2071", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-libegg-2.25.3/recent/bonobo-view.py", "size_i": "5059", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-libegg-2.25.3/recent/gtk-view.py", "size_i": "4468", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-libegg-2.25.3/recent/populate-recent.py", "size_i": "1264", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-libegg-2.25.3/trayicon.py", "size_i": "179", "regex": "false"}
+]

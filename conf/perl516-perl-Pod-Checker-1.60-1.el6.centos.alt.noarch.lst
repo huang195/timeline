@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/bin/podchecker", "size_i": "3824", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Pod-Checker-1.60", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Pod-Checker-1.60/CHANGES", "size_i": "492", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Pod-Checker-1.60/README", "size_i": "2666", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man1/podchecker.1.gz", "size_i": "2734", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Pod::Checker.3pm.gz", "size_i": "6631", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Pod", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Pod/Checker.pm", "size_i": "44107", "regex": "false"}
+]

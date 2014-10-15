@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/libconfig++.so.8", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libconfig++.so.8.0.0", "size_i": "87408", "regex": "false"},
+	{"name_s": "/usr/lib64/libconfig.so.8", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libconfig.so.8.0.0", "size_i": "41960", "regex": "false"},
+	{"name_s": "/usr/share/doc/libconfig-1.3.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libconfig-1.3.2/AUTHORS", "size_i": "186", "regex": "false"},
+	{"name_s": "/usr/share/doc/libconfig-1.3.2/COPYING.LIB", "size_i": "26528", "regex": "false"},
+	{"name_s": "/usr/share/doc/libconfig-1.3.2/ChangeLog", "size_i": "13108", "regex": "false"},
+	{"name_s": "/usr/share/doc/libconfig-1.3.2/README", "size_i": "991", "regex": "false"}
+]

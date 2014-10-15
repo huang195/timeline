@@ -1,0 +1,12 @@
+[
+	{"name_s": "/sbin/ethtool", "size_i": "232696", "regex": "false"},
+	{"name_s": "/usr/sbin/ethtool", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/doc/ethtool-3.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ethtool-3.5/AUTHORS", "size_i": "302", "regex": "false"},
+	{"name_s": "/usr/share/doc/ethtool-3.5/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/ethtool-3.5/ChangeLog", "size_i": "11584", "regex": "false"},
+	{"name_s": "/usr/share/doc/ethtool-3.5/LICENSE", "size_i": "100", "regex": "false"},
+	{"name_s": "/usr/share/doc/ethtool-3.5/NEWS", "size_i": "9925", "regex": "false"},
+	{"name_s": "/usr/share/doc/ethtool-3.5/README", "size_i": "127", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ethtool.8.gz", "size_i": "6789", "regex": "false"}
+]

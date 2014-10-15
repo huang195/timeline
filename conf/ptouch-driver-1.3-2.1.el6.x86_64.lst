@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/cups/filter/rastertoptch", "size_i": "27384", "regex": "false"},
+	{"name_s": "/usr/share/doc/ptouch-driver-1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ptouch-driver-1.3/AUTHORS", "size_i": "73", "regex": "false"},
+	{"name_s": "/usr/share/doc/ptouch-driver-1.3/COPYING", "size_i": "18006", "regex": "false"},
+	{"name_s": "/usr/share/doc/ptouch-driver-1.3/ChangeLog", "size_i": "2254", "regex": "false"},
+	{"name_s": "/usr/share/doc/ptouch-driver-1.3/NEWS", "size_i": "1542", "regex": "false"},
+	{"name_s": "/usr/share/doc/ptouch-driver-1.3/README", "size_i": "1508", "regex": "false"}
+]

@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/share/doc/jakarta-taglibs-standard-1.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-taglibs-standard-1.1.1/GettingStarted.html", "size_i": "13113", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-taglibs-standard-1.1.1/README_bin.txt", "size_i": "4782", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-taglibs-standard-1.1.1/README_src.txt", "size_i": "12734", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-taglibs-standard-1.1.1/ReleaseNotes.html", "size_i": "26911", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-taglibs-standard-1.1.1/index.html", "size_i": "3248", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-taglibs-core-1.1.1.jar", "size_i": "20009", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-taglibs-core.jar", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-taglibs-standard-1.1.1.jar", "size_i": "397456", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-taglibs-standard.jar", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/share/java/taglibs-core-1.1.1.jar", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/share/java/taglibs-core.jar", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/java/taglibs-standard-1.1.1.jar", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/share/java/taglibs-standard.jar", "size_i": "26", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/bin/ab", "size_i": "50248", "regex": "false"},
+	{"name_s": "/usr/bin/htdbm", "size_i": "15400", "regex": "false"},
+	{"name_s": "/usr/bin/htdigest", "size_i": "11248", "regex": "false"},
+	{"name_s": "/usr/bin/htpasswd", "size_i": "13992", "regex": "false"},
+	{"name_s": "/usr/bin/logresolve", "size_i": "11200", "regex": "false"},
+	{"name_s": "/usr/share/doc/httpd-tools-2.2.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/httpd-tools-2.2.15/LICENSE", "size_i": "28690", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ab.1.gz", "size_i": "2608", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/htdbm.1.gz", "size_i": "2754", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/htdigest.1.gz", "size_i": "870", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/htpasswd.1.gz", "size_i": "2705", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/logresolve.1.gz", "size_i": "734", "regex": "false"}
+]

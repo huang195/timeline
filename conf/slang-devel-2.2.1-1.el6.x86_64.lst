@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/slang", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/slang/slang.h", "size_i": "86988", "regex": "false"},
+	{"name_s": "/usr/include/slang/slcurses.h", "size_i": "12183", "regex": "false"},
+	{"name_s": "/usr/lib64/libslang.so", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/slang.pc", "size_i": "279", "regex": "false"},
+	{"name_s": "/usr/share/doc/slang-devel-2.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/slang-devel-2.2.1/cref.txt", "size_i": "172848", "regex": "false"},
+	{"name_s": "/usr/share/doc/slang-devel-2.2.1/cslang.txt", "size_i": "123146", "regex": "false"}
+]

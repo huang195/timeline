@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/man/man3/Log::Message.3pm.gz", "size_i": "5500", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Log::Message::Config.3pm.gz", "size_i": "2528", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Log::Message::Handlers.3pm.gz", "size_i": "2808", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Log::Message::Item.3pm.gz", "size_i": "2976", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Log/Message.pm", "size_i": "15299", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Log/Message/Config.pm", "size_i": "5037", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Log/Message/Handlers.pm", "size_i": "3697", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Log/Message/Item.pm", "size_i": "4722", "regex": "false"}
+]

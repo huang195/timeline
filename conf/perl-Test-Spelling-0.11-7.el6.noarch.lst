@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-Spelling-0.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Spelling-0.11/Changes", "size_i": "313", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Spelling-0.11/README", "size_i": "1980", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Spelling.3pm.gz", "size_i": "4077", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Test/Spelling.pm", "size_i": "8507", "regex": "false"}
+]

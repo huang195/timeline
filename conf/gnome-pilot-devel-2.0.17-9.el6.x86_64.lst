@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/include/gpilotd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gpilotd/gnome-pilot-client.h", "size_i": "36173", "regex": "false"},
+	{"name_s": "/usr/include/gpilotd/gnome-pilot-conduit-backup.h", "size_i": "7073", "regex": "false"},
+	{"name_s": "/usr/include/gpilotd/gnome-pilot-conduit-file.h", "size_i": "4074", "regex": "false"},
+	{"name_s": "/usr/include/gpilotd/gnome-pilot-conduit-standard-abs.h", "size_i": "8155", "regex": "false"},
+	{"name_s": "/usr/include/gpilotd/gnome-pilot-conduit-standard.h", "size_i": "14828", "regex": "false"},
+	{"name_s": "/usr/include/gpilotd/gnome-pilot-conduit-sync-abs.h", "size_i": "5533", "regex": "false"},
+	{"name_s": "/usr/include/gpilotd/gnome-pilot-conduit.h", "size_i": "19202", "regex": "false"},
+	{"name_s": "/usr/include/gpilotd/gnome-pilot-dbinfo.h", "size_i": "2574", "regex": "false"},
+	{"name_s": "/usr/include/gpilotd/gnome-pilot-structures.h", "size_i": "5477", "regex": "false"},
+	{"name_s": "/usr/include/gpilotd/gnome-pilot.h", "size_i": "63196", "regex": "false"},
+	{"name_s": "/usr/include/libgpilotdCM", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libgpilotdCM/gnome-pilot-conduit-config.h", "size_i": "3205", "regex": "false"},
+	{"name_s": "/usr/include/libgpilotdCM/gnome-pilot-conduit-management.h", "size_i": "3955", "regex": "false"},
+	{"name_s": "/usr/lib64/libgpilotd.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libgpilotdcm.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libgpilotdconduit.so", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/gnome-pilot-2.0.pc", "size_i": "314", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-pilot-devel-2.0.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-pilot-devel-2.0.17/ChangeLog", "size_i": "148448", "regex": "false"}
+]

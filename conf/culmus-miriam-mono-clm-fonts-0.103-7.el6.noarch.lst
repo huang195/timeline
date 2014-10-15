@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-culmus-miriam-mono-clm.conf", "size_i": "63", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-culmus-miriam-mono-clm.conf", "size_i": "880", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/MiriamMonoCLM-Bold.afm", "size_i": "11532", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/MiriamMonoCLM-Bold.pfa", "size_i": "82098", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/MiriamMonoCLM-BoldOblique.afm", "size_i": "9915", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/MiriamMonoCLM-BoldOblique.pfa", "size_i": "64630", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/MiriamMonoCLM-Book.afm", "size_i": "12405", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/MiriamMonoCLM-Book.pfa", "size_i": "90354", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/MiriamMonoCLM-BookOblique.afm", "size_i": "12497", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/MiriamMonoCLM-BookOblique.pfa", "size_i": "90860", "regex": "false"}
+]

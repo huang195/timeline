@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/hca_self_test.ofed", "size_i": "30759", "regex": "false"},
+	{"name_s": "/usr/bin/mstflint", "size_i": "192096", "regex": "false"},
+	{"name_s": "/usr/bin/mstmcra", "size_i": "18240", "regex": "false"},
+	{"name_s": "/usr/bin/mstmread", "size_i": "16432", "regex": "false"},
+	{"name_s": "/usr/bin/mstmtserver", "size_i": "24432", "regex": "false"},
+	{"name_s": "/usr/bin/mstmwrite", "size_i": "16440", "regex": "false"},
+	{"name_s": "/usr/bin/mstregdump", "size_i": "24104", "regex": "false"},
+	{"name_s": "/usr/bin/mstvpd", "size_i": "13280", "regex": "false"},
+	{"name_s": "/usr/share/doc/mstflint-3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mstflint-3.0/README", "size_i": "6893", "regex": "false"}
+]

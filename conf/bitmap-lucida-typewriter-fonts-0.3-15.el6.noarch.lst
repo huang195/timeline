@@ -1,0 +1,21 @@
+[
+	{"name_s": "/etc/fonts/conf.d/66-bitmap-lucida-typewriter.conf", "size_i": "65", "regex": "false"},
+	{"name_s": "/usr/share/doc/bitmap-lucida-typewriter-fonts-0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bitmap-lucida-typewriter-fonts-0.3/LU_LEGALNOTICE", "size_i": "2888", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/66-bitmap-lucida-typewriter.conf", "size_i": "351", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutBS08.pcf.gz", "size_i": "13548", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutBS10.pcf.gz", "size_i": "14805", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutBS12.pcf.gz", "size_i": "15084", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutBS14.pcf.gz", "size_i": "15455", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutBS18.pcf.gz", "size_i": "16717", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutBS19.pcf.gz", "size_i": "17077", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutBS24.pcf.gz", "size_i": "18484", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutRS08.pcf.gz", "size_i": "13796", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutRS10.pcf.gz", "size_i": "14828", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutRS12.pcf.gz", "size_i": "15232", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutRS14.pcf.gz", "size_i": "15284", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutRS18.pcf.gz", "size_i": "16413", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutRS19.pcf.gz", "size_i": "17027", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/lutRS24.pcf.gz", "size_i": "18441", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libasprintf.a", "size_i": "11988", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libgettextpo.a", "size_i": "347068", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libintl.a", "size_i": "79310", "regex": "false"}
+]

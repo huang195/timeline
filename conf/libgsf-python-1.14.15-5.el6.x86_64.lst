@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gsf", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gsf/__init__.py", "size_i": "135", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gsf/__init__.pyc", "size_i": "267", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gsf/__init__.pyo", "size_i": "267", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gsf/_gsfmodule.so", "size_i": "33416", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gsf/gnomemodule.so", "size_i": "12456", "regex": "false"}
+]

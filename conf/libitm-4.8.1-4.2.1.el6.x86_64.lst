@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libitm.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libitm.so.1.0.0", "size_i": "127664", "regex": "false"},
+	{"name_s": "/usr/share/doc/libitm-4.8.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libitm-4.8.1/COPYING.RUNTIME", "size_i": "3324", "regex": "false"},
+	{"name_s": "/usr/share/doc/libitm-4.8.1/COPYING3", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/libitm-4.8.1/ChangeLog.libitm.bz2", "size_i": "11291", "regex": "false"},
+	{"name_s": "/usr/share/info/libitm.info.gz", "size_i": "19372", "regex": "false"}
+]

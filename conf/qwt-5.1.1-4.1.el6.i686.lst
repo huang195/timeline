@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libqwt.so.5", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libqwt.so.5.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libqwt.so.5.1.1", "size_i": "737688", "regex": "false"},
+	{"name_s": "/usr/share/doc/qwt-5.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/qwt-5.1.1/CHANGES", "size_i": "13879", "regex": "false"},
+	{"name_s": "/usr/share/doc/qwt-5.1.1/COPYING", "size_i": "27946", "regex": "false"},
+	{"name_s": "/usr/share/doc/qwt-5.1.1/README", "size_i": "919", "regex": "false"}
+]

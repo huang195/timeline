@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/m17n/icons/ru-kbd.png", "size_i": "940", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/ru-yawerty.png", "size_i": "938", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ru-kbd.mim", "size_i": "2599", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ru-phonetic.mim", "size_i": "3052", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ru-yawerty.mim", "size_i": "3875", "regex": "false"}
+]

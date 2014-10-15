@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/evolution-data-server-1.2/extensions/libecalbackendplanner.so", "size_i": "33048", "regex": "false"},
+	{"name_s": "/usr/lib64/evolution/2.32/plugins/liborg-gnome-planner-source.so", "size_i": "9104", "regex": "false"},
+	{"name_s": "/usr/lib64/evolution/2.32/plugins/org-gnome-planner-source.eplug", "size_i": "745", "regex": "false"},
+	{"name_s": "/usr/lib64/planner/plugins/libeds-plugin.so", "size_i": "24280", "regex": "false"}
+]

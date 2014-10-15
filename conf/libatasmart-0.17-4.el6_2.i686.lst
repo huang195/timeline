@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libatasmart.so.4", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libatasmart.so.4.0.3", "size_i": "50188", "regex": "false"},
+	{"name_s": "/usr/sbin/skdump", "size_i": "9060", "regex": "false"},
+	{"name_s": "/usr/sbin/sktest", "size_i": "4664", "regex": "false"},
+	{"name_s": "/usr/share/doc/libatasmart-0.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libatasmart-0.17/LGPL", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/libatasmart-0.17/README", "size_i": "2020", "regex": "false"}
+]

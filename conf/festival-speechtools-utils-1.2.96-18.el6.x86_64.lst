@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/libexec/speech-tools", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/speech-tools/ch_track", "size_i": "28832", "regex": "false"},
+	{"name_s": "/usr/libexec/speech-tools/ch_wave", "size_i": "27752", "regex": "false"},
+	{"name_s": "/usr/libexec/speech-tools/make_wagon_desc", "size_i": "3105", "regex": "false"},
+	{"name_s": "/usr/libexec/speech-tools/na_play", "size_i": "19400", "regex": "false"},
+	{"name_s": "/usr/libexec/speech-tools/na_record", "size_i": "12568", "regex": "false"},
+	{"name_s": "/usr/libexec/speech-tools/pitchmark", "size_i": "33920", "regex": "false"},
+	{"name_s": "/usr/libexec/speech-tools/pm", "size_i": "7291", "regex": "false"},
+	{"name_s": "/usr/libexec/speech-tools/sig2fv", "size_i": "35992", "regex": "false"},
+	{"name_s": "/usr/libexec/speech-tools/wagon", "size_i": "36128", "regex": "false"},
+	{"name_s": "/usr/libexec/speech-tools/wagon_test", "size_i": "29440", "regex": "false"},
+	{"name_s": "/usr/libexec/speech-tools/wfst_build", "size_i": "23656", "regex": "false"},
+	{"name_s": "/usr/libexec/speech-tools/wfst_run", "size_i": "20320", "regex": "false"},
+	{"name_s": "/usr/share/doc/festival-speechtools-utils-1.2.96", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/festival-speechtools-utils-1.2.96/README.speechtools", "size_i": "9186", "regex": "false"}
+]

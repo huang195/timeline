@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/ocaml/curses", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/curses/META", "size_i": "152", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/curses/curses.cma", "size_i": "26415", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/curses/curses.cmi", "size_i": "35116", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/curses/keys.cmi", "size_i": "2909", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/stublibs/dllcurses_stubs.so", "size_i": "107280", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/stublibs/dllcurses_stubs.so.owner", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-curses-1.0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-curses-1.0.3/COPYING", "size_i": "26430", "regex": "false"}
+]

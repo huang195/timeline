@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/share/m17n/icons/bopo-kbd.png", "size_i": "1295", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/zh-cangjie.png", "size_i": "2279", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/zh-pinyin.png", "size_i": "1779", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/zh-py-b5.png", "size_i": "2073", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/zh-py-gb.png", "size_i": "2094", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/zh-py.png", "size_i": "2064", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/zh-quick.png", "size_i": "2409", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/zh-tonepy-b5.png", "size_i": "2094", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/zh-tonepy-gb.png", "size_i": "2116", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/zh-tonepy.png", "size_i": "2085", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-bopomofo.mim", "size_i": "2405", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-cangjie.mim", "size_i": "273595", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-pinyin.mim", "size_i": "3321", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-py-b5.mim", "size_i": "1537", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-py-gb.mim", "size_i": "1553", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-py.mim", "size_i": "108848", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-quick.mim", "size_i": "66318", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-tonepy-b5.mim", "size_i": "1566", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-tonepy-gb.mim", "size_i": "1577", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-tonepy.mim", "size_i": "134236", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-util.mim", "size_i": "2866", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libguestfs_jni.so.1", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/libguestfs_jni.so.1.20.11", "size_i": "268928", "regex": "false"},
+	{"name_s": "/usr/share/doc/libguestfs-java-1.20.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libguestfs-java-1.20.11/CreateDisk.java", "size_i": "2950", "regex": "false"},
+	{"name_s": "/usr/share/doc/libguestfs-java-1.20.11/InspectVM.java", "size_i": "3528", "regex": "false"},
+	{"name_s": "/usr/share/java/libguestfs-1.20.11.jar", "size_i": "50541", "regex": "false"}
+]

@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/Tempita-0.4-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/Tempita-0.4-py2.6.egg-info/PKG-INFO", "size_i": "1217", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/Tempita-0.4-py2.6.egg-info/SOURCES.txt", "size_i": "330", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/Tempita-0.4-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/Tempita-0.4-py2.6.egg-info/top_level.txt", "size_i": "8", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/Tempita-0.4-py2.6.egg-info/zip-safe", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/tempita", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/tempita/__init__.py", "size_i": "37892", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/tempita/__init__.pyc", "size_i": "38276", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/tempita/__init__.pyo", "size_i": "37926", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/tempita/_looper.py", "size_i": "3969", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/tempita/_looper.pyc", "size_i": "6565", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/tempita/_looper.pyo", "size_i": "6565", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-tempita-0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-tempita-0.4/conf.py", "size_i": "4079", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-tempita-0.4/index.txt", "size_i": "15956", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-tempita-0.4/license.txt", "size_i": "1089", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-tempita-0.4/modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-tempita-0.4/modules/tempita.txt", "size_i": "432", "regex": "false"}
+]

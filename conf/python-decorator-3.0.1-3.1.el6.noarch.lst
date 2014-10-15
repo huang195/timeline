@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/decorator-3.0.1-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/decorator-3.0.1-py2.6.egg-info/PKG-INFO", "size_i": "688", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/decorator-3.0.1-py2.6.egg-info/SOURCES.txt", "size_i": "299", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/decorator-3.0.1-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/decorator-3.0.1-py2.6.egg-info/not-zip-safe", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/decorator-3.0.1-py2.6.egg-info/top_level.txt", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/decorator.py", "size_i": "8384", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/decorator.pyc", "size_i": "7374", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/decorator.pyo", "size_i": "7175", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-decorator-3.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-decorator-3.0.1/CHANGES.txt", "size_i": "3563", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-decorator-3.0.1/README.txt", "size_i": "417", "regex": "false"}
+]

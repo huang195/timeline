@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/include/EGL", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/EGL/egl.h", "size_i": "12353", "regex": "false"},
+	{"name_s": "/usr/include/EGL/eglext.h", "size_i": "26636", "regex": "false"},
+	{"name_s": "/usr/include/EGL/eglmesaext.h", "size_i": "7841", "regex": "false"},
+	{"name_s": "/usr/include/EGL/eglplatform.h", "size_i": "5052", "regex": "false"},
+	{"name_s": "/usr/include/KHR", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/KHR/khrplatform.h", "size_i": "9967", "regex": "false"},
+	{"name_s": "/usr/lib64/libEGL.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/egl.pc", "size_i": "329", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/DB_File.pm", "size_i": "63894", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/auto/DB_File", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/auto/DB_File/DB_File.so", "size_i": "45400", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/DB_File.3pm.gz", "size_i": "19053", "regex": "false"}
+]

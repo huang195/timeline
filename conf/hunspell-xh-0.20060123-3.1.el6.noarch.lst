@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-xh-0.20060123", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-xh-0.20060123/README_xh_ZA.txt", "size_i": "28053", "regex": "false"},
+	{"name_s": "/usr/share/myspell/xh_ZA.aff", "size_i": "898", "regex": "false"},
+	{"name_s": "/usr/share/myspell/xh_ZA.dic", "size_i": "184263", "regex": "false"}
+]

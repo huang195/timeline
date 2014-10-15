@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/libss.so.2", "size_i": "12", "regex": "false"},
+	{"name_s": "/lib/libss.so.2.0", "size_i": "22104", "regex": "false"},
+	{"name_s": "/usr/share/doc/libss-1.41.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libss-1.41.12/COPYING", "size_i": "44569", "regex": "false"}
+]

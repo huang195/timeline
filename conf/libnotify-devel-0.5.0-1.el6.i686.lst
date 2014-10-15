@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/include/libnotify", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libnotify/notification.h", "size_i": "8637", "regex": "false"},
+	{"name_s": "/usr/include/libnotify/notify-enum-types.h", "size_i": "357", "regex": "false"},
+	{"name_s": "/usr/include/libnotify/notify.h", "size_i": "2707", "regex": "false"},
+	{"name_s": "/usr/lib/libnotify.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libnotify.pc", "size_i": "269", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify/ch01.html", "size_i": "1866", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify/home.png", "size_i": "654", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify/index.html", "size_i": "1369", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify/index.sgml", "size_i": "6587", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify/left.png", "size_i": "459", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify/libnotify-notification.html", "size_i": "57223", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify/libnotify-notify.html", "size_i": "9738", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify/libnotify.devhelp", "size_i": "5207", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify/libnotify.devhelp2", "size_i": "6235", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify/right.png", "size_i": "472", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify/style.css", "size_i": "5166", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/libnotify/up.png", "size_i": "406", "regex": "false"}
+]

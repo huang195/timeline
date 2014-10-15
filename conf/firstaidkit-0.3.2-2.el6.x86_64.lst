@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/firstaidkit", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/firstaidkit/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/firstaidkit", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/firstaidkit/plugins", "size_i": "4096", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtkvnc.so", "size_i": "25680", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk-vnc-python-0.3.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk-vnc-python-0.3.10/gvncviewer.py", "size_i": "5838", "regex": "false"}
+]

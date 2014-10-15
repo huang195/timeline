@@ -1,0 +1,6 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/bin/pod2latex", "size_i": "10399", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man1/pod2latex.1.gz", "size_i": "3366", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Pod::LaTeX.3pm.gz", "size_i": "5099", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Pod/LaTeX.pm", "size_i": "59556", "regex": "false"}
+]

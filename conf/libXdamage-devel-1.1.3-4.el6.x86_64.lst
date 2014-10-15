@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/X11/extensions/Xdamage.h", "size_i": "2308", "regex": "false"},
+	{"name_s": "/usr/lib64/libXdamage.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/xdamage.pc", "size_i": "256", "regex": "false"}
+]

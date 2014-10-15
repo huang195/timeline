@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/share/seabios", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/seabios/bios.bin", "size_i": "131072", "regex": "false"}
+]

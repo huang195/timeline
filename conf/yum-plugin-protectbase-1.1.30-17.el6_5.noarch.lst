@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/protectbase.conf", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/protectbase.py", "size_i": "2461", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/protectbase.pyc", "size_i": "2144", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/protectbase.pyo", "size_i": "2144", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-protectbase-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-protectbase-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

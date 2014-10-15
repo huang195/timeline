@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib/libkateinterfaces.so.4", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib/libkateinterfaces.so.4.3.0", "size_i": "509020", "regex": "false"},
+	{"name_s": "/usr/lib/libkomparedialogpages.so.4", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib/libkomparedialogpages.so.4.3.0", "size_i": "82284", "regex": "false"},
+	{"name_s": "/usr/lib/libkomparediff2.so.4", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libkomparediff2.so.4.3.0", "size_i": "187936", "regex": "false"},
+	{"name_s": "/usr/lib/libkompareinterface.so.4", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libkompareinterface.so.4.3.0", "size_i": "5264", "regex": "false"},
+	{"name_s": "/usr/lib/libkstartperf.so.4", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libkstartperf.so.4.3.0", "size_i": "4876", "regex": "false"},
+	{"name_s": "/usr/lib/libktrace.so.4", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libktrace.so.4.3.0", "size_i": "14280", "regex": "false"}
+]

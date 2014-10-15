@@ -1,0 +1,14 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Locale::Maketext.3pm.gz", "size_i": "21064", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Locale::Maketext::Cookbook.3pm.gz", "size_i": "3548", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Locale::Maketext::Guts.3pm.gz", "size_i": "1887", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Locale::Maketext::GutsLoader.3pm.gz", "size_i": "1887", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Locale::Maketext::TPJ13.3pm.gz", "size_i": "15779", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Locale/Maketext", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Locale/Maketext.pm", "size_i": "28669", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Locale/Maketext.pod", "size_i": "49433", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Locale/Maketext/Cookbook.pod", "size_i": "3934", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Locale/Maketext/Guts.pm", "size_i": "451", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Locale/Maketext/GutsLoader.pm", "size_i": "490", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Locale/Maketext/TPJ13.pod", "size_i": "36112", "regex": "false"}
+]

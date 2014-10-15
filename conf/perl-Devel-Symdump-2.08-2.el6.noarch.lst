@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/perl-Devel-Symdump-2.08", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Devel-Symdump-2.08/ChangeLog", "size_i": "5620", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Devel-Symdump-2.08/README", "size_i": "5403", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Devel::Symdump.3pm.gz", "size_i": "3788", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Devel", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Devel/Symdump", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Devel/Symdump.pm", "size_i": "12043", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Devel/Symdump/Export.pm", "size_i": "739", "regex": "false"}
+]

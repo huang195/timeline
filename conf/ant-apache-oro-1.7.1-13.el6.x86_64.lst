@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/ant.d/apache-oro", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-apache-oro-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-apache-oro-1.7.1.jar.so", "size_i": "177744", "regex": "false"},
+	{"name_s": "/usr/share/ant/etc/maudit-frames.xsl", "size_i": "17960", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-apache-oro.jar", "size_i": "33", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-apache-oro-1.7.1.jar", "size_i": "40212", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-apache-oro.jar", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-jakarta-oro.jar", "size_i": "18", "regex": "false"}
+]

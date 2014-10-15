@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-tl-0.20050109", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-tl-0.20050109/README_tl_PH.txt", "size_i": "19137", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fil_PH.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fil_PH.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/tl_PH.aff", "size_i": "822", "regex": "false"},
+	{"name_s": "/usr/share/myspell/tl_PH.dic", "size_i": "138158", "regex": "false"}
+]

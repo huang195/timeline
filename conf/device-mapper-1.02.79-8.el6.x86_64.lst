@@ -1,0 +1,15 @@
+[
+	{"name_s": "/lib/udev/rules.d/10-dm.rules", "size_i": "7090", "regex": "false"},
+	{"name_s": "/lib/udev/rules.d/13-dm-disk.rules", "size_i": "1539", "regex": "false"},
+	{"name_s": "/lib/udev/rules.d/95-dm-notify.rules", "size_i": "492", "regex": "false"},
+	{"name_s": "/sbin/dmsetup", "size_i": "71208", "regex": "false"},
+	{"name_s": "/usr/share/doc/device-mapper-1.02.79", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/device-mapper-1.02.79/12-dm-permissions.rules", "size_i": "3186", "regex": "false"},
+	{"name_s": "/usr/share/doc/device-mapper-1.02.79/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/device-mapper-1.02.79/COPYING.LIB", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/device-mapper-1.02.79/INSTALL", "size_i": "953", "regex": "false"},
+	{"name_s": "/usr/share/doc/device-mapper-1.02.79/README", "size_i": "1188", "regex": "false"},
+	{"name_s": "/usr/share/doc/device-mapper-1.02.79/VERSION_DM", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/doc/device-mapper-1.02.79/WHATS_NEW_DM", "size_i": "40515", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dmsetup.8.gz", "size_i": "6434", "regex": "false"}
+]

@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gudev.so", "size_i": "25984", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-gudev-147.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-gudev-147.1/COPYING", "size_i": "7639", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-gudev-147.1/NEWS", "size_i": "284", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-gudev-147.1/README", "size_i": "122", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-gudev-147.1/test.py", "size_i": "1208", "regex": "false"},
+	{"name_s": "/usr/share/pygobject", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pygobject/2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pygobject/2.0/defs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pygobject/2.0/defs/gudev.defs", "size_i": "7173", "regex": "false"}
+]

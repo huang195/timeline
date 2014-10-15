@@ -1,0 +1,14 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/hoek", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/hoek/index.js", "size_i": "34", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/hoek/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/hoek/lib/escape.js", "size_i": "2807", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/hoek/lib/index.js", "size_i": "14227", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/hoek/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/hoek/package.json", "size_i": "685", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-hoek-0.9.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-hoek-0.9.1/LICENSE", "size_i": "1805", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-hoek-0.9.1/README.md", "size_i": "10663", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-hoek-0.9.1/images", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-hoek-0.9.1/images/hoek.png", "size_i": "37939", "regex": "false"}
+]

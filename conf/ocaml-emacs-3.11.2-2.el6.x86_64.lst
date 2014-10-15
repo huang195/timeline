@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/bin/ocamltags", "size_i": "5411", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-emacs-3.11.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-emacs-3.11.2/README", "size_i": "6496", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml-compat.el", "size_i": "1683", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml-emacs.el", "size_i": "1864", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml-emacs.elc", "size_i": "1988", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml-font.el", "size_i": "3956", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml-help.el", "size_i": "31180", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml-help.elc", "size_i": "19602", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml-hilit.el", "size_i": "2651", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml-types.el", "size_i": "32423", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml-types.elc", "size_i": "19294", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml-xemacs.el", "size_i": "2070", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml-xemacs.elc", "size_i": "1969", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml.el", "size_i": "73112", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/caml.elc", "size_i": "53415", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/camldebug.el", "size_i": "33114", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/camldebug.elc", "size_i": "25815", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/inf-caml.el", "size_i": "13864", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/inf-caml.elc", "size_i": "9217", "regex": "false"}
+]

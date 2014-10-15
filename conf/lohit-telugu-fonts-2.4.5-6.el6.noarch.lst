@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/fonts/conf.d/66-lohit-telugu.conf", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-telugu-fonts-2.4.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-telugu-fonts-2.4.5/AUTHORS", "size_i": "173", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-telugu-fonts-2.4.5/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-telugu-fonts-2.4.5/COPYRIGHT", "size_i": "792", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-telugu-fonts-2.4.5/ChangeLog", "size_i": "390", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-telugu-fonts-2.4.5/ChangeLog.old", "size_i": "9704", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-telugu-fonts-2.4.5/README", "size_i": "489", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/66-lohit-telugu.conf", "size_i": "452", "regex": "false"},
+	{"name_s": "/usr/share/fonts/lohit-telugu", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/lohit-telugu/Lohit-Telugu.ttf", "size_i": "176372", "regex": "false"}
+]

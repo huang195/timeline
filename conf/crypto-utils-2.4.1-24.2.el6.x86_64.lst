@@ -1,0 +1,20 @@
+[
+	{"name_s": "/etc/cron.daily/certwatch", "size_i": "2243", "regex": "false"},
+	{"name_s": "/usr/bin/certwatch", "size_i": "12256", "regex": "false"},
+	{"name_s": "/usr/bin/genkey", "size_i": "43947", "regex": "false"},
+	{"name_s": "/usr/bin/keyrand", "size_i": "8688", "regex": "false"},
+	{"name_s": "/usr/bin/keyutil", "size_i": "73512", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Crypt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Crypt/Makerand.pm", "size_i": "2739", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/Makerand", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/Makerand/Makerand.so", "size_i": "16560", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/Makerand/autosplit.ix", "size_i": "93", "regex": "false"},
+	{"name_s": "/usr/share/doc/crypto-utils-2.4.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/crypto-utils-2.4.1/COPYING", "size_i": "17990", "regex": "false"},
+	{"name_s": "/usr/share/doc/crypto-utils-2.4.1/LICENSE.librand", "size_i": "768", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/certwatch.1.gz", "size_i": "1362", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/genkey.1.gz", "size_i": "1506", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/keyrand.1.gz", "size_i": "718", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Crypt::Makerand.3pm.gz", "size_i": "2314", "regex": "false"}
+]

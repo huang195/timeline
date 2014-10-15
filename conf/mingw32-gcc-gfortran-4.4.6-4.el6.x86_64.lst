@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/i686-pc-mingw32-gfortran", "size_i": "260480", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/finclude", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/finclude/omp_lib.f90", "size_i": "10404", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/finclude/omp_lib.h", "size_i": "2906", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/finclude/omp_lib.mod", "size_i": "15490", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/finclude/omp_lib_kinds.mod", "size_i": "1651", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/libgfortran.a", "size_i": "4452750", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/libgfortranbegin.a", "size_i": "4404", "regex": "false"},
+	{"name_s": "/usr/libexec/gcc/i686-pc-mingw32/4.4.6/f951", "size_i": "9523976", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/i686-pc-mingw32-gfortran.1.gz", "size_i": "17382", "regex": "false"}
+]

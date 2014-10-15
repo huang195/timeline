@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/perl5/IO/Compress/Adapter/Bzip2.pm", "size_i": "2998", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/IO/Compress/Bzip2.pm", "size_i": "17952", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/IO/Uncompress/Adapter/Bunzip2.pm", "size_i": "2042", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/IO/Uncompress/Bunzip2.pm", "size_i": "22649", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/IO::Compress::Bzip2.3pm.gz", "size_i": "6634", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/IO::Uncompress::Bunzip2.3pm.gz", "size_i": "7940", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/tsclient", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/tsclient/tsc-bookmarkfile.h", "size_i": "10111", "regex": "false"},
+	{"name_s": "/usr/include/tsclient/tsc-connection-model.h", "size_i": "1362", "regex": "false"},
+	{"name_s": "/usr/include/tsclient/tsc-connection.h", "size_i": "3733", "regex": "false"},
+	{"name_s": "/usr/include/tsclient/tsc-edit-dialog.h", "size_i": "1692", "regex": "false"},
+	{"name_s": "/usr/include/tsclient/tsc-manager.h", "size_i": "2836", "regex": "false"},
+	{"name_s": "/usr/include/tsclient/tsc-marshal.h", "size_i": "482", "regex": "false"},
+	{"name_s": "/usr/include/tsclient/tsc-network.h", "size_i": "135", "regex": "false"},
+	{"name_s": "/usr/include/tsclient/tsc-provider.h", "size_i": "2327", "regex": "false"},
+	{"name_s": "/usr/include/tsclient/tsc-spawn.h", "size_i": "2166", "regex": "false"},
+	{"name_s": "/usr/include/tsclient/tsc-util.h", "size_i": "1459", "regex": "false"},
+	{"name_s": "/usr/include/tsclient/tsc-window.h", "size_i": "1278", "regex": "false"}
+]

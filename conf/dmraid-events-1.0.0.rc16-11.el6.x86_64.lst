@@ -1,0 +1,6 @@
+[
+	{"name_s": "/sbin/dm_dso_reg_tool", "size_i": "8096", "regex": "false"},
+	{"name_s": "/sbin/dmevent_tool", "size_i": "8096", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dm_dso_reg_tool.8.gz", "size_i": "892", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dmevent_tool.8.gz", "size_i": "892", "regex": "false"}
+]

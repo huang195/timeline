@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/gvfs-client", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gvfs-client/gvfs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gvfs-client/gvfs/gvfsurimapper.h", "size_i": "4278", "regex": "false"},
+	{"name_s": "/usr/include/gvfs-client/gvfs/gvfsuriutils.h", "size_i": "1491", "regex": "false"},
+	{"name_s": "/usr/lib/libgvfscommon-dnssd.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libgvfscommon.so", "size_i": "22", "regex": "false"}
+]

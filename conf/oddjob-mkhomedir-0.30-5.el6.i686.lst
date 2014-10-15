@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/dbus-1/system.d/oddjob-mkhomedir.conf", "size_i": "1892", "regex": "false"},
+	{"name_s": "/etc/oddjobd.conf.d/oddjobd-mkhomedir.conf", "size_i": "1315", "regex": "false"},
+	{"name_s": "/lib/security/pam_oddjob_mkhomedir.so", "size_i": "30604", "regex": "false"},
+	{"name_s": "/usr/libexec/oddjob", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/oddjob/mkhomedir", "size_i": "14448", "regex": "false"},
+	{"name_s": "/usr/share/doc/oddjob-mkhomedir-0.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/oddjob-mkhomedir-0.30/mkhomedirfor", "size_i": "239", "regex": "false"},
+	{"name_s": "/usr/share/doc/oddjob-mkhomedir-0.30/mkmyhomedir", "size_i": "179", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pam_oddjob_mkhomedir.8.gz", "size_i": "624", "regex": "false"}
+]

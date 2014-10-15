@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-prefork-1.04", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-prefork-1.04/Changes", "size_i": "906", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-prefork-1.04/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-prefork-1.04/README", "size_i": "8006", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/prefork.3pm.gz", "size_i": "5006", "regex": "false"},
+	{"name_s": "/usr/share/perl5/prefork.pm", "size_i": "10418", "regex": "false"}
+]

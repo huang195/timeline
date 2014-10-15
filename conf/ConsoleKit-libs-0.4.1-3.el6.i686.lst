@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/security/pam_ck_connector.so", "size_i": "7684", "regex": "false"},
+	{"name_s": "/usr/lib/libck-connector.so.0", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libck-connector.so.0.0.0", "size_i": "9936", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pam_ck_connector.8.gz", "size_i": "1077", "regex": "false"}
+]

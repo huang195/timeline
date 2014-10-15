@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/maven/fragments/postgresql-jdbc", "size_i": "306", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-jdbc-8.4.701", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-jdbc-8.4.701/LICENSE", "size_i": "1542", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-jdbc-8.4.701/README", "size_i": "3523", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-jdbc-8.4.701/pgjdbc.xml", "size_i": "108314", "regex": "false"},
+	{"name_s": "/usr/share/java/postgresql-jdbc-8.4.701.jar", "size_i": "401775", "regex": "false"},
+	{"name_s": "/usr/share/java/postgresql-jdbc.jar", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/java/postgresql-jdbc2.jar", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/share/java/postgresql-jdbc2ee.jar", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/share/java/postgresql-jdbc3.jar", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/share/maven2/poms/JPP-postgresql-jdbc.pom", "size_i": "616", "regex": "false"}
+]

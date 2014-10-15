@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/include/speex", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/speex/speex.h", "size_i": "13947", "regex": "false"},
+	{"name_s": "/usr/include/speex/speex_bits.h", "size_i": "6669", "regex": "false"},
+	{"name_s": "/usr/include/speex/speex_buffer.h", "size_i": "2172", "regex": "false"},
+	{"name_s": "/usr/include/speex/speex_callbacks.h", "size_i": "5045", "regex": "false"},
+	{"name_s": "/usr/include/speex/speex_config_types.h", "size_i": "225", "regex": "false"},
+	{"name_s": "/usr/include/speex/speex_echo.h", "size_i": "6453", "regex": "false"},
+	{"name_s": "/usr/include/speex/speex_header.h", "size_i": "4103", "regex": "false"},
+	{"name_s": "/usr/include/speex/speex_jitter.h", "size_i": "7219", "regex": "false"},
+	{"name_s": "/usr/include/speex/speex_preprocess.h", "size_i": "8609", "regex": "false"},
+	{"name_s": "/usr/include/speex/speex_resampler.h", "size_i": "14713", "regex": "false"},
+	{"name_s": "/usr/include/speex/speex_stereo.h", "size_i": "3698", "regex": "false"},
+	{"name_s": "/usr/include/speex/speex_types.h", "size_i": "3591", "regex": "false"},
+	{"name_s": "/usr/lib/libspeex.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libspeexdsp.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/speex.pc", "size_i": "276", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/speexdsp.pc", "size_i": "322", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/speex.m4", "size_i": "3704", "regex": "false"},
+	{"name_s": "/usr/share/doc/speex-devel-1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/speex-devel-1.2/manual.pdf", "size_i": "439545", "regex": "false"}
+]

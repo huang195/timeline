@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-cs-20060303", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-cs-20060303/README_hyph_cs_CZ.txt", "size_i": "635", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_cs_CZ.dic", "size_i": "20049", "regex": "false"}
+]

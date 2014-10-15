@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/kde4/akonadi/xml", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/kde4/akonadi/xml/akonadi-xml_export.h", "size_i": "1263", "regex": "false"},
+	{"name_s": "/usr/include/kde4/akonadi/xml/xmldocument.h", "size_i": "3359", "regex": "false"},
+	{"name_s": "/usr/include/kde4/akonadi/xml/xmlreader.h", "size_i": "2044", "regex": "false"},
+	{"name_s": "/usr/include/kde4/akonadi/xml/xmlwritejob.h", "size_i": "1646", "regex": "false"},
+	{"name_s": "/usr/include/kde4/akonadi/xml/xmlwriter.h", "size_i": "2400", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-kabccommon.so", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-kcal.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-xml.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi_next.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libkdepim-copy.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libmaildir.so", "size_i": "15", "regex": "false"}
+]

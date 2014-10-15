@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/ocaml/xml-light", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/xml-light/META", "size_i": "107", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/xml-light/dtd.cmi", "size_i": "2650", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/xml-light/xml-light.cma", "size_i": "49709", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/xml-light/xml.cmi", "size_i": "2209", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/xml-light/xmlParser.cmi", "size_i": "1277", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/xml-light/xml_lexer.cmi", "size_i": "1470", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/xml-light/xml_parser.cmi", "size_i": "518", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-xml-light-2.2.cvs20070817", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-xml-light-2.2.cvs20070817/README", "size_i": "2441", "regex": "false"}
+]

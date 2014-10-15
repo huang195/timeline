@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/avahi-ui", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/avahi-ui/avahi-ui.h", "size_i": "7140", "regex": "false"},
+	{"name_s": "/usr/lib/libavahi-ui.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/avahi-ui.pc", "size_i": "287", "regex": "false"}
+]

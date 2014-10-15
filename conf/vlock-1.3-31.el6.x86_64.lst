@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/pam.d/vlock", "size_i": "84", "regex": "false"},
+	{"name_s": "/usr/bin/vlock", "size_i": "11224", "regex": "false"},
+	{"name_s": "/usr/share/doc/vlock-1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/vlock-1.3/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/vlock-1.3/README", "size_i": "6696", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/vlock.1.gz", "size_i": "936", "regex": "false"}
+]

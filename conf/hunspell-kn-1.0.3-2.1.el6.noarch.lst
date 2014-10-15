@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-kn-1.0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-kn-1.0.3/COPYING", "size_i": "353", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-kn-1.0.3/COPYING.GPL", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-kn-1.0.3/COPYING.LGPL", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-kn-1.0.3/COPYING.MPL", "size_i": "25755", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-kn-1.0.3/README_kn_IN.txt", "size_i": "400", "regex": "false"},
+	{"name_s": "/usr/share/myspell/kn_IN.aff", "size_i": "294", "regex": "false"},
+	{"name_s": "/usr/share/myspell/kn_IN.dic", "size_i": "1801119", "regex": "false"}
+]

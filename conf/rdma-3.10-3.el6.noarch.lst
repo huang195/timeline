@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/rc.d/init.d/nfs-rdma", "size_i": "3548", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/rdma", "size_i": "12412", "regex": "false"},
+	{"name_s": "/etc/rdma", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/rdma/fixup-mtrr.awk", "size_i": "5380", "regex": "false"},
+	{"name_s": "/etc/rdma/rdma.conf", "size_i": "523", "regex": "false"},
+	{"name_s": "/etc/sysconfig/network-scripts/ifdown-ib", "size_i": "6195", "regex": "false"},
+	{"name_s": "/etc/sysconfig/network-scripts/ifup-ib", "size_i": "11339", "regex": "false"},
+	{"name_s": "/lib/udev/rules.d/90-infiniband.rules", "size_i": "178", "regex": "false"}
+]

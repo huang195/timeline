@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/bin/cdrwtool", "size_i": "53920", "regex": "false"},
+	{"name_s": "/usr/bin/mkudffs", "size_i": "42536", "regex": "false"},
+	{"name_s": "/usr/bin/pktsetup", "size_i": "9472", "regex": "false"},
+	{"name_s": "/usr/bin/udffsck", "size_i": "4120", "regex": "false"},
+	{"name_s": "/usr/bin/wrudf", "size_i": "50344", "regex": "false"},
+	{"name_s": "/usr/share/doc/udftools-1.0.0b3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/udftools-1.0.0b3/AUTHORS", "size_i": "318", "regex": "false"},
+	{"name_s": "/usr/share/doc/udftools-1.0.0b3/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/udftools-1.0.0b3/ChangeLog", "size_i": "192", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cdrwtool.1.gz", "size_i": "1830", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/mkudffs.8.gz", "size_i": "1725", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pktsetup.8.gz", "size_i": "1250", "regex": "false"}
+]

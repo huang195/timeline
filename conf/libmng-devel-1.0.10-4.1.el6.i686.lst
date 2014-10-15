@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/include/libmng.h", "size_i": "177911", "regex": "false"},
+	{"name_s": "/usr/include/libmng_conf.h", "size_i": "13194", "regex": "false"},
+	{"name_s": "/usr/include/libmng_types.h", "size_i": "29454", "regex": "false"},
+	{"name_s": "/usr/lib/libmng.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/Plan1.png", "size_i": "9058", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/Plan2.png", "size_i": "8849", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/doc.readme", "size_i": "438", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/libmng.txt", "size_i": "41063", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/man", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/man/jng.5", "size_i": "1158", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/man/libmng.3", "size_i": "41521", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/man/mng.5", "size_i": "1441", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/misc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/misc/magic.dif", "size_i": "774", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/rpm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/rpm/libmng-1.0.10-rhconf.patch", "size_i": "1058", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmng-devel-1.0.10/rpm/libmng.spec", "size_i": "2881", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libmng.3.gz", "size_i": "13196", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/jng.5.gz", "size_i": "644", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/mng.5.gz", "size_i": "787", "regex": "false"}
+]

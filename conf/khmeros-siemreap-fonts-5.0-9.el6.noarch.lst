@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-khmeros-siemreap.conf", "size_i": "59", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-khmeros-siemreap.conf", "size_i": "532", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros/KhmerOS_siemreap.ttf", "size_i": "132220", "regex": "false"}
+]

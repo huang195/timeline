@@ -1,0 +1,22 @@
+[
+	{"name_s": "/etc/modprobe.d/i2c-dev.conf", "size_i": "30", "regex": "false"},
+	{"name_s": "/etc/udev/makedev.d/99-i2c-dev.nodes", "size_i": "48", "regex": "false"},
+	{"name_s": "/usr/bin/ddcmon", "size_i": "13372", "regex": "false"},
+	{"name_s": "/usr/bin/decode-dimms", "size_i": "65351", "regex": "false"},
+	{"name_s": "/usr/bin/decode-edid", "size_i": "6104", "regex": "false"},
+	{"name_s": "/usr/bin/decode-vaio", "size_i": "5650", "regex": "false"},
+	{"name_s": "/usr/sbin/i2c-stub-from-dump", "size_i": "5570", "regex": "false"},
+	{"name_s": "/usr/sbin/i2cdetect", "size_i": "15496", "regex": "false"},
+	{"name_s": "/usr/sbin/i2cdump", "size_i": "18160", "regex": "false"},
+	{"name_s": "/usr/sbin/i2cget", "size_i": "15104", "regex": "false"},
+	{"name_s": "/usr/sbin/i2cset", "size_i": "17600", "regex": "false"},
+	{"name_s": "/usr/share/doc/i2c-tools-3.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/i2c-tools-3.1.0/CHANGES", "size_i": "3750", "regex": "false"},
+	{"name_s": "/usr/share/doc/i2c-tools-3.1.0/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/i2c-tools-3.1.0/README", "size_i": "2435", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/i2c-stub-from-dump.8.gz", "size_i": "884", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/i2cdetect.8.gz", "size_i": "1261", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/i2cdump.8.gz", "size_i": "1654", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/i2cget.8.gz", "size_i": "1226", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/i2cset.8.gz", "size_i": "1874", "regex": "false"}
+]

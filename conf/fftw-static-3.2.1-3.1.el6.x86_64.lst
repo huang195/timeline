@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libfftw3.a", "size_i": "2114132", "regex": "false"},
+	{"name_s": "/usr/lib64/libfftw3_threads.a", "size_i": "44202", "regex": "false"},
+	{"name_s": "/usr/lib64/libfftw3f.a", "size_i": "2076312", "regex": "false"},
+	{"name_s": "/usr/lib64/libfftw3f_threads.a", "size_i": "44350", "regex": "false"},
+	{"name_s": "/usr/lib64/libfftw3l.a", "size_i": "2054096", "regex": "false"},
+	{"name_s": "/usr/lib64/libfftw3l_threads.a", "size_i": "44350", "regex": "false"}
+]

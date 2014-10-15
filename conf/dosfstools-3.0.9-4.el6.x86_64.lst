@@ -1,0 +1,22 @@
+[
+	{"name_s": "/sbin/dosfsck", "size_i": "51984", "regex": "false"},
+	{"name_s": "/sbin/dosfslabel", "size_i": "48560", "regex": "false"},
+	{"name_s": "/sbin/fsck.msdos", "size_i": "7", "regex": "false"},
+	{"name_s": "/sbin/fsck.vfat", "size_i": "7", "regex": "false"},
+	{"name_s": "/sbin/mkdosfs", "size_i": "27952", "regex": "false"},
+	{"name_s": "/sbin/mkfs.msdos", "size_i": "7", "regex": "false"},
+	{"name_s": "/sbin/mkfs.vfat", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/share/doc/dosfstools-3.0.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dosfstools-3.0.9/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/dosfstools-3.0.9/ChangeLog", "size_i": "21958", "regex": "false"},
+	{"name_s": "/usr/share/doc/dosfstools-3.0.9/ChangeLog.dosfstools-2.x", "size_i": "6655", "regex": "false"},
+	{"name_s": "/usr/share/doc/dosfstools-3.0.9/README.dosfstools-2.x", "size_i": "2912", "regex": "false"},
+	{"name_s": "/usr/share/doc/dosfstools-3.0.9/TODO.dosfstools-2.x", "size_i": "551", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dosfsck.8.gz", "size_i": "2312", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dosfslabel.8.gz", "size_i": "536", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/fsck.msdos.8.gz", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/fsck.vfat.8.gz", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/mkdosfs.8.gz", "size_i": "2946", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/mkfs.msdos.8.gz", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/mkfs.vfat.8.gz", "size_i": "12", "regex": "false"}
+]

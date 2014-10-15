@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libgio-2.0.a", "size_i": "834270", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libglib-2.0.a", "size_i": "1196638", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libgmodule-2.0.a", "size_i": "11854", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libgobject-2.0.a", "size_i": "348982", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libgthread-2.0.a", "size_i": "19130", "regex": "false"}
+]

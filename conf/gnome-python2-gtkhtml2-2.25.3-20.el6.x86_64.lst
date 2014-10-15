@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gtkhtml2.so", "size_i": "22528", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-gtkhtml2-2.25.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-gtkhtml2-2.25.3/simple-browser.py", "size_i": "1652", "regex": "false"}
+]

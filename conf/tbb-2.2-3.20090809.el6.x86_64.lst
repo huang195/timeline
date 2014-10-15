@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libtbb.so.2", "size_i": "143480", "regex": "false"},
+	{"name_s": "/usr/lib64/libtbbmalloc.so.2", "size_i": "37712", "regex": "false"},
+	{"name_s": "/usr/share/doc/tbb-2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/tbb-2.2/COPYING", "size_i": "18826", "regex": "false"},
+	{"name_s": "/usr/share/doc/tbb-2.2/Release_Notes.txt", "size_i": "5954", "regex": "false"}
+]

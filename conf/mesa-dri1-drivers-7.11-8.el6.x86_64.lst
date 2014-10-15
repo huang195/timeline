@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/dri/mga_dri.so", "size_i": "3603024", "regex": "false"},
+	{"name_s": "/usr/lib64/dri/r128_dri.so", "size_i": "3484592", "regex": "false"},
+	{"name_s": "/usr/lib64/dri/savage_dri.so", "size_i": "3537904", "regex": "false"},
+	{"name_s": "/usr/lib64/dri/unichrome_dri.so", "size_i": "3484888", "regex": "false"}
+]

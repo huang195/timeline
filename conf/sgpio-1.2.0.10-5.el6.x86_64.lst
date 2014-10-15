@@ -1,0 +1,7 @@
+[
+	{"name_s": "/sbin/sgpio", "size_i": "13224", "regex": "false"},
+	{"name_s": "/usr/share/doc/sgpio-1.2.0.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sgpio-1.2.0.10/LICENSE_GPL", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/sgpio-1.2.0.10/README", "size_i": "2109", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sgpio.1.gz", "size_i": "936", "regex": "false"}
+]

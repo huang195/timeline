@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-fa-0.20081119", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-fa-0.20081119/README", "size_i": "1061", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_fa_IR.dic", "size_i": "12", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libIDL-2.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libIDL-2.so.0.0.0", "size_i": "178608", "regex": "false"},
+	{"name_s": "/usr/share/doc/libIDL-0.8.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libIDL-0.8.13/AUTHORS", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/doc/libIDL-0.8.13/COPYING", "size_i": "25265", "regex": "false"},
+	{"name_s": "/usr/share/doc/libIDL-0.8.13/NEWS", "size_i": "7189", "regex": "false"},
+	{"name_s": "/usr/share/doc/libIDL-0.8.13/README", "size_i": "3748", "regex": "false"}
+]

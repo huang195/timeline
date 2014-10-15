@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/ocaml/hivex/hivex.cmx", "size_i": "2561", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/hivex/hivex.mli", "size_i": "5170", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/hivex/libmlhivex.a", "size_i": "21448", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/hivex/mlhivex.a", "size_i": "15156", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/hivex/mlhivex.cmxa", "size_i": "254", "regex": "false"}
+]

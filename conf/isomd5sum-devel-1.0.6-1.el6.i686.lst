@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/libcheckisomd5.h", "size_i": "497", "regex": "false"},
+	{"name_s": "/usr/include/libimplantisomd5.h", "size_i": "155", "regex": "false"},
+	{"name_s": "/usr/lib/libcheckisomd5.a", "size_i": "12696", "regex": "false"},
+	{"name_s": "/usr/lib/libimplantisomd5.a", "size_i": "11218", "regex": "false"}
+]

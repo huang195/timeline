@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libmpfr.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libmpfr.so.1.2.0", "size_i": "315296", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpfr-2.4.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpfr-2.4.1/COPYING", "size_i": "18013", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpfr-2.4.1/COPYING.LIB", "size_i": "26440", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpfr-2.4.1/NEWS", "size_i": "10431", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpfr-2.4.1/README", "size_i": "3844", "regex": "false"}
+]

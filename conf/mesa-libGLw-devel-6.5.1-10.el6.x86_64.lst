@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/GL/GLwDrawA.h", "size_i": "6609", "regex": "false"},
+	{"name_s": "/usr/include/GL/GLwDrawAP.h", "size_i": "4291", "regex": "false"},
+	{"name_s": "/usr/include/GL/GLwMDrawA.h", "size_i": "2030", "regex": "false"},
+	{"name_s": "/usr/include/GL/GLwMDrawAP.h", "size_i": "2031", "regex": "false"},
+	{"name_s": "/usr/lib64/libGLw.so", "size_i": "11", "regex": "false"}
+]

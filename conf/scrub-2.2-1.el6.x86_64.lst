@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/scrub", "size_i": "41224", "regex": "false"},
+	{"name_s": "/usr/share/doc/scrub-2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/scrub-2.2/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/scrub-2.2/ChangeLog", "size_i": "12397", "regex": "false"},
+	{"name_s": "/usr/share/doc/scrub-2.2/DISCLAIMER", "size_i": "2185", "regex": "false"},
+	{"name_s": "/usr/share/doc/scrub-2.2/NEWS", "size_i": "4124", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/scrub.1.gz", "size_i": "2630", "regex": "false"}
+]

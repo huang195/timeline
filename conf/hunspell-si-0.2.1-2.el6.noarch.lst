@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-si-0.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-si-0.2.1/LICENSE", "size_i": "881", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-si-0.2.1/README", "size_i": "232", "regex": "false"},
+	{"name_s": "/usr/share/myspell/si_LK.aff", "size_i": "198064", "regex": "false"},
+	{"name_s": "/usr/share/myspell/si_LK.dic", "size_i": "732238", "regex": "false"}
+]

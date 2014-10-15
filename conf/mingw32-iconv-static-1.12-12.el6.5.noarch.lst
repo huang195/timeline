@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libcharset.a", "size_i": "2800", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libiconv.a", "size_i": "960812", "regex": "false"}
+]

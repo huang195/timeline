@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/pki/tls/misc/CA.pl", "size_i": "5682", "regex": "false"},
+	{"name_s": "/etc/pki/tls/misc/tsget", "size_i": "6419", "regex": "false"},
+	{"name_s": "/usr/bin/c_rehash", "size_i": "4249", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/CA.pl.1ssl.gz", "size_i": "3827", "regex": "false"}
+]

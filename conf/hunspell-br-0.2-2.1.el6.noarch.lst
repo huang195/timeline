@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-br-0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-br-0.2/LICENSES-en.txt", "size_i": "51", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-br-0.2/package-description.txt", "size_i": "89", "regex": "false"},
+	{"name_s": "/usr/share/myspell/br_FR.aff", "size_i": "794", "regex": "false"},
+	{"name_s": "/usr/share/myspell/br_FR.dic", "size_i": "11382546", "regex": "false"}
+]

@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/security/pam_winbind.conf", "size_i": "772", "regex": "false"},
+	{"name_s": "/lib64/libnss_winbind.so.2", "size_i": "19104", "regex": "false"},
+	{"name_s": "/lib64/libnss_wins.so.2", "size_i": "8448", "regex": "false"},
+	{"name_s": "/lib64/security/pam_winbind.so", "size_i": "40776", "regex": "false"},
+	{"name_s": "/usr/bin/ntlm_auth", "size_i": "42648", "regex": "false"},
+	{"name_s": "/usr/bin/ntlm_auth3", "size_i": "78552", "regex": "false"},
+	{"name_s": "/usr/bin/wbinfo", "size_i": "49752", "regex": "false"},
+	{"name_s": "/usr/lib64/libnss_winbind.so", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/libnss_wins.so", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ntlm_auth.1.gz", "size_i": "4167", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/wbinfo.1.gz", "size_i": "3470", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/pam_winbind.conf.5.gz", "size_i": "2072", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pam_winbind.8.gz", "size_i": "2644", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libkommanderplugin.la", "size_i": "1036", "regex": "false"},
+	{"name_s": "/usr/lib/libkommanderplugin.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libkommanderplugin.so.0.0.0", "size_i": "88624", "regex": "false"},
+	{"name_s": "/usr/lib/libkommanderwidget.la", "size_i": "1136", "regex": "false"},
+	{"name_s": "/usr/lib/libkommanderwidget.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libkommanderwidget.so.0.0.0", "size_i": "430092", "regex": "false"},
+	{"name_s": "/usr/lib/libkommanderwidgets.la", "size_i": "1173", "regex": "false"},
+	{"name_s": "/usr/lib/libkommanderwidgets.so.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libkommanderwidgets.so.0.0.0", "size_i": "798436", "regex": "false"}
+]

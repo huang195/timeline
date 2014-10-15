@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/JavaScriptCore.AUTHORS", "size_i": "57", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/JavaScriptCore.COPYING.LIB", "size_i": "25584", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/JavaScriptCore.THANKS", "size_i": "413", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/JavaScriptCore.icu.LICENSE", "size_i": "1563", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/JavaScriptCore.icu.README", "size_i": "251", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/JavaScriptCore.pcre.AUTHORS", "size_i": "376", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/JavaScriptCore.pcre.COPYING", "size_i": "1880", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/WebCore.LICENSE-APPLE", "size_i": "1313", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/WebCore.LICENSE-LGPL-2", "size_i": "25378", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/WebCore.LICENSE-LGPL-2.1", "size_i": "26536", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/WebCore.icu.LICENSE", "size_i": "1563", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/WebKit.LICENSE", "size_i": "1313", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/WebKit.gtk.NEWS", "size_i": "22583", "regex": "false"},
+	{"name_s": "/usr/share/doc/webkitgtk-1.2.6/WebKit.gtk.po.README", "size_i": "411", "regex": "false"}
+]

@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gtksourceview.so", "size_i": "83248", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-gtksourceview-2.28.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-gtksourceview-2.28.0/test-widget.py", "size_i": "16267", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/class-gtksourcebuffer.html", "size_i": "62475", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/class-gtksourcelanguage.html", "size_i": "20889", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/class-gtksourcelanguagesmanager.html", "size_i": "8749", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/class-gtksourcemarker.html", "size_i": "11141", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/class-gtksourceprintjob.html", "size_i": "82479", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/class-gtksourcestylescheme.html", "size_i": "8742", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/class-gtksourcetag.html", "size_i": "7530", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/class-gtksourcetagstyle.html", "size_i": "5768", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/class-gtksourcetagtable.html", "size_i": "8656", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/class-gtksourceview.html", "size_i": "33443", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/gtksourceview-class-reference.html", "size_i": "4553", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/index.html", "size_i": "4898", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/index.sgml", "size_i": "896", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview/pygtksourceview.devhelp", "size_i": "20781", "regex": "false"}
+]

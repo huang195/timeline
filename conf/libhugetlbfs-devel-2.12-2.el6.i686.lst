@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/hugetlbfs.h", "size_i": "2816", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/free_huge_pages.3.gz", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/free_hugepage_region.3.gz", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/get_huge_pages.3.gz", "size_i": "1142", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/get_hugepage_region.3.gz", "size_i": "1388", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gethugepagesizes.3.gz", "size_i": "1058", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/getpagesizes.3.gz", "size_i": "1057", "regex": "false"}
+]

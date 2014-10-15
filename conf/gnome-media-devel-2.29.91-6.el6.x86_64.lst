@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/gnome-media", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gnome-media/profiles", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gnome-media/profiles/audio-profile-choose.h", "size_i": "1349", "regex": "false"},
+	{"name_s": "/usr/include/gnome-media/profiles/audio-profile-edit.h", "size_i": "2416", "regex": "false"},
+	{"name_s": "/usr/include/gnome-media/profiles/audio-profile.h", "size_i": "3361", "regex": "false"},
+	{"name_s": "/usr/include/gnome-media/profiles/audio-profiles-edit.h", "size_i": "2579", "regex": "false"},
+	{"name_s": "/usr/include/gnome-media/profiles/gnome-media-profiles.h", "size_i": "1062", "regex": "false"},
+	{"name_s": "/usr/lib64/glade3/modules/libgnome-media-profiles.so", "size_i": "4696", "regex": "false"},
+	{"name_s": "/usr/lib64/libgnome-media-profiles.so", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/gnome-media-profiles.pc", "size_i": "323", "regex": "false"},
+	{"name_s": "/usr/share/glade3/catalogs/gnome-media-profiles.xml", "size_i": "436", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/rc.d/init.d/cpuspeed", "size_i": "11355", "regex": "false"},
+	{"name_s": "/etc/sysconfig/cpuspeed", "size_i": "2651", "regex": "false"},
+	{"name_s": "/usr/sbin/cpuspeed", "size_i": "22576", "regex": "false"},
+	{"name_s": "/usr/share/doc/cpuspeed-1.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cpuspeed-1.5/CHANGES", "size_i": "1277", "regex": "false"},
+	{"name_s": "/usr/share/doc/cpuspeed-1.5/CONTRIBUTORS", "size_i": "51", "regex": "false"},
+	{"name_s": "/usr/share/doc/cpuspeed-1.5/EXAMPLES", "size_i": "321", "regex": "false"},
+	{"name_s": "/usr/share/doc/cpuspeed-1.5/FEATURES", "size_i": "1220", "regex": "false"},
+	{"name_s": "/usr/share/doc/cpuspeed-1.5/README", "size_i": "1706", "regex": "false"},
+	{"name_s": "/usr/share/doc/cpuspeed-1.5/USAGE", "size_i": "4118", "regex": "false"},
+	{"name_s": "/usr/share/doc/cpuspeed-1.5/license.txt", "size_i": "17994", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/cpuspeed.8.gz", "size_i": "2197", "regex": "false"}
+]

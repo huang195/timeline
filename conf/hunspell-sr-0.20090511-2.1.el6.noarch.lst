@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-sr-0.20090511", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-sr-0.20090511/README_sh.txt", "size_i": "895", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-sr-0.20090511/README_sr.txt", "size_i": "1390", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-sr-0.20090511/license_en-US.txt", "size_i": "43702", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-sr-0.20090511/license_sh.txt", "size_i": "43702", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-sr-0.20090511/license_sr.txt", "size_i": "43702", "regex": "false"},
+	{"name_s": "/usr/share/myspell/bs_BA.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/bs_BA.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sh_ME.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sh_ME.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sh_RS.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sh_RS.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sh_YU.aff", "size_i": "94", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sh_YU.dic", "size_i": "2039905", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sr_ME.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sr_ME.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sr_RS.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sr_RS.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sr_YU.aff", "size_i": "136", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sr_YU.dic", "size_i": "3635943", "regex": "false"}
+]

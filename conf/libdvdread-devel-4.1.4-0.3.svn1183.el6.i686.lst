@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/dvdread-config", "size_i": "887", "regex": "false"},
+	{"name_s": "/usr/include/dvdread", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/dvdread/bitreader.h", "size_i": "1269", "regex": "false"},
+	{"name_s": "/usr/include/dvdread/dvd_reader.h", "size_i": "11194", "regex": "false"},
+	{"name_s": "/usr/include/dvdread/dvd_udf.h", "size_i": "2230", "regex": "false"},
+	{"name_s": "/usr/include/dvdread/ifo_print.h", "size_i": "994", "regex": "false"},
+	{"name_s": "/usr/include/dvdread/ifo_read.h", "size_i": "8210", "regex": "false"},
+	{"name_s": "/usr/include/dvdread/ifo_types.h", "size_i": "18919", "regex": "false"},
+	{"name_s": "/usr/include/dvdread/nav_print.h", "size_i": "1468", "regex": "false"},
+	{"name_s": "/usr/include/dvdread/nav_read.h", "size_i": "1567", "regex": "false"},
+	{"name_s": "/usr/include/dvdread/nav_types.h", "size_i": "8643", "regex": "false"},
+	{"name_s": "/usr/lib/libdvdread.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/dvdread.pc", "size_i": "197", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdvdread-devel-4.1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdvdread-devel-4.1.4/DEVELOPMENT-POLICY.txt", "size_i": "1289", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdvdread-devel-4.1.4/TODO", "size_i": "818", "regex": "false"}
+]

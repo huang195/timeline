@@ -1,0 +1,13 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/bin/d8", "size_i": "4375304", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/libv8.so.3", "size_i": "15", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/libv8.so.3.14", "size_i": "15", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/libv8.so.3.14.5", "size_i": "6103848", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/libv8preparser.so.3", "size_i": "24", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/libv8preparser.so.3.14", "size_i": "24", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/libv8preparser.so.3.14.5", "size_i": "192728", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/doc/ruby193-v8-3.14.5.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/doc/ruby193-v8-3.14.5.10/AUTHORS", "size_i": "2029", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/doc/ruby193-v8-3.14.5.10/ChangeLog", "size_i": "136484", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/doc/ruby193-v8-3.14.5.10/LICENSE", "size_i": "2806", "regex": "false"}
+]

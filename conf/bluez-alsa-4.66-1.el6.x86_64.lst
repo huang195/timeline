@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/alsa/bluetooth.conf", "size_i": "523", "regex": "false"},
+	{"name_s": "/usr/lib64/alsa-lib/libasound_module_ctl_bluetooth.so", "size_i": "12160", "regex": "false"},
+	{"name_s": "/usr/lib64/alsa-lib/libasound_module_pcm_bluetooth.so", "size_i": "82016", "regex": "false"}
+]

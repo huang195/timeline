@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/fonts/conf.d/20-unhint-small-dejavu-lgc-sans-mono.conf", "size_i": "74", "regex": "false"},
+	{"name_s": "/etc/fonts/conf.d/58-dejavu-lgc-sans-mono.conf", "size_i": "61", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/20-unhint-small-dejavu-lgc-sans-mono.conf", "size_i": "874", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/58-dejavu-lgc-sans-mono.conf", "size_i": "1545", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuLGCSansMono-Bold.ttf", "size_i": "261760", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuLGCSansMono-BoldOblique.ttf", "size_i": "207296", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuLGCSansMono-Oblique.ttf", "size_i": "214492", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuLGCSansMono.ttf", "size_i": "282704", "regex": "false"}
+]

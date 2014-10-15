@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/bin/pod2usage", "size_i": "3795", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Pod-Usage-1.61", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Pod-Usage-1.61/CHANGES", "size_i": "655", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Pod-Usage-1.61/README", "size_i": "2820", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man1/pod2usage.1.gz", "size_i": "2815", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Pod::Usage.3pm.gz", "size_i": "6924", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Pod", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Pod/Usage.pm", "size_i": "25772", "regex": "false"}
+]

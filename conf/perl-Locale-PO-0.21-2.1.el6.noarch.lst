@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Locale-PO-0.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Locale-PO-0.21/Changes", "size_i": "1856", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Locale-PO-0.21/README", "size_i": "552", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Locale::PO.3pm.gz", "size_i": "4245", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Locale", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Locale/PO.pm", "size_i": "19699", "regex": "false"}
+]

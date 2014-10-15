@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/perl5/vendor_perl/OpenIPMI.pm", "size_i": "71816", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/OpenIPMI", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/OpenIPMI/OpenIPMI.so", "size_i": "780168", "regex": "false"}
+]

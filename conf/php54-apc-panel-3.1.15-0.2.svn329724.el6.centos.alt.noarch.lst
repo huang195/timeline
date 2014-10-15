@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/httpd/conf.d/php54-apc-panel.conf", "size_i": "377", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/apc-panel", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/apc-panel/conf.php", "size_i": "892", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/apc-panel", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/apc-panel/index.php", "size_i": "46207", "regex": "false"}
+]

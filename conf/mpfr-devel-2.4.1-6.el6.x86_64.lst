@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/mpf2mpfr.h", "size_i": "6141", "regex": "false"},
+	{"name_s": "/usr/include/mpfr.h", "size_i": "41781", "regex": "false"},
+	{"name_s": "/usr/lib64/libmpfr.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/info/mpfr.info.gz", "size_i": "42089", "regex": "false"}
+]

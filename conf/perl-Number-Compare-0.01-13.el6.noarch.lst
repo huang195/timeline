@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/perl-Number-Compare-0.01", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Number-Compare-0.01/Changes", "size_i": "93", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Number::Compare.3pm.gz", "size_i": "2488", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Number", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Number/Compare.pm", "size_i": "2441", "regex": "false"}
+]

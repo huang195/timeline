@@ -1,0 +1,15 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/bin/shasum", "size_i": "8639", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Digest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Digest/SHA.pm", "size_i": "20419", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Digest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Digest/SHA", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Digest/SHA/SHA.so", "size_i": "44928", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Digest-SHA-5.85", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Digest-SHA-5.85/Changes", "size_i": "20546", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Digest-SHA-5.85/README", "size_i": "1203", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Digest-SHA-5.85/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Digest-SHA-5.85/examples/dups", "size_i": "1383", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man1/shasum.1.gz", "size_i": "3095", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Digest::SHA.3pm.gz", "size_i": "8137", "regex": "false"}
+]

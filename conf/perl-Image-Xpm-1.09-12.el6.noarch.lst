@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/perl-Image-Xpm-1.09", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Image-Xpm-1.09/README", "size_i": "7960", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Image::Xpm.3pm.gz", "size_i": "4982", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Image", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Image/Xpm.pm", "size_i": "23293", "regex": "false"}
+]

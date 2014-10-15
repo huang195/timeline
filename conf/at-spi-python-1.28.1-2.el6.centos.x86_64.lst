@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/__init__.py", "size_i": "2555", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/__init__.pyc", "size_i": "2289", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/__init__.pyo", "size_i": "2289", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/accessible.py", "size_i": "21610", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/accessible.pyc", "size_i": "22228", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/accessible.pyo", "size_i": "22228", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/constants.py", "size_i": "7662", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/constants.pyc", "size_i": "6406", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/constants.pyo", "size_i": "6406", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/event.py", "size_i": "8648", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/event.pyc", "size_i": "8716", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/event.pyo", "size_i": "8716", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/registry.py", "size_i": "29222", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/registry.pyc", "size_i": "29791", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/registry.pyo", "size_i": "29791", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/utils.py", "size_i": "16124", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/utils.pyc", "size_i": "19404", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pyatspi/utils.pyo", "size_i": "19404", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/67-smc-dyuthi.conf", "size_i": "51", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/67-smc-dyuthi.conf", "size_i": "424", "regex": "false"},
+	{"name_s": "/usr/share/fonts/smc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/smc/Dyuthi3.ttf", "size_i": "207960", "regex": "false"}
+]

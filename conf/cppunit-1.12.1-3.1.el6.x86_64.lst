@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/DllPlugInTester", "size_i": "40232", "regex": "false"},
+	{"name_s": "/usr/lib64/libcppunit-1.12.so.1", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libcppunit-1.12.so.1.0.0", "size_i": "262656", "regex": "false"},
+	{"name_s": "/usr/share/doc/cppunit-1.12.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cppunit-1.12.1/AUTHORS", "size_i": "286", "regex": "false"},
+	{"name_s": "/usr/share/doc/cppunit-1.12.1/BUGS", "size_i": "129", "regex": "false"},
+	{"name_s": "/usr/share/doc/cppunit-1.12.1/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/cppunit-1.12.1/ChangeLog", "size_i": "134059", "regex": "false"},
+	{"name_s": "/usr/share/doc/cppunit-1.12.1/FAQ", "size_i": "1315", "regex": "false"},
+	{"name_s": "/usr/share/doc/cppunit-1.12.1/NEWS", "size_i": "41710", "regex": "false"},
+	{"name_s": "/usr/share/doc/cppunit-1.12.1/README", "size_i": "600", "regex": "false"},
+	{"name_s": "/usr/share/doc/cppunit-1.12.1/THANKS", "size_i": "904", "regex": "false"},
+	{"name_s": "/usr/share/doc/cppunit-1.12.1/TODO", "size_i": "1219", "regex": "false"}
+]

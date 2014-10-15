@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/dba.ini", "size_i": "47", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/dba.so", "size_i": "49968", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-ku-0.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ku-0.21/MPL-1.1.txt", "size_i": "25755", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ku-0.21/README_ku_TR.txt", "size_i": "1991", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ku-0.21/gpl-3.0.txt", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ku-0.21/lgpl-3.0.txt", "size_i": "7639", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ku_SY.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ku_SY.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ku_TR.aff", "size_i": "5404", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ku_TR.dic", "size_i": "42548", "regex": "false"}
+]

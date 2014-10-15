@@ -1,0 +1,14 @@
+[
+	{"name_s": "/lib/udev/rules.d/85-usbmuxd.rules", "size_i": "589", "regex": "false"},
+	{"name_s": "/usr/bin/iproxy", "size_i": "8792", "regex": "false"},
+	{"name_s": "/usr/lib64/libusbmuxd.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libusbmuxd.so.1.0.0", "size_i": "19368", "regex": "false"},
+	{"name_s": "/usr/sbin/usbmuxd", "size_i": "46704", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbmuxd-1.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbmuxd-1.0.2/AUTHORS", "size_i": "71", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbmuxd-1.0.2/COPYING.GPLv2", "size_i": "17988", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbmuxd-1.0.2/COPYING.GPLv3", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbmuxd-1.0.2/COPYING.LGPLv2.1", "size_i": "26434", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbmuxd-1.0.2/README", "size_i": "10460", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbmuxd-1.0.2/README.devel", "size_i": "1487", "regex": "false"}
+]

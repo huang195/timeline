@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/pyldb.h", "size_i": "2792", "regex": "false"},
+	{"name_s": "/usr/lib64/libpyldb-util.so", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/pyldb-util.pc", "size_i": "297", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/PyLdbControlObject.3.gz", "size_i": "270", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/PyLdbDnObject.3.gz", "size_i": "261", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/PyLdbMessageElementObject.3.gz", "size_i": "276", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/PyLdbMessageObject.3.gz", "size_i": "269", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/PyLdbModuleObject.3.gz", "size_i": "268", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/PyLdbObject.3.gz", "size_i": "264", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/PyLdbResultObject.3.gz", "size_i": "271", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/PyLdbTreeObject.3.gz", "size_i": "270", "regex": "false"}
+]

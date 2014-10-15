@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/libreoffice/program/OGLTrans.uno.so", "size_i": "236800", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/config/soffice.cfg/simpress/transitions-ogl.xml", "size_i": "4100", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/registry/ogltrans.xcd", "size_i": "390", "regex": "false"}
+]

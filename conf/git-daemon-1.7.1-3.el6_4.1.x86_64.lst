@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/xinetd.d/git", "size_i": "470", "regex": "false"},
+	{"name_s": "/usr/libexec/git-core/git-daemon", "size_i": "469792", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-daemon-1.7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-daemon-1.7.1/git-daemon.html", "size_i": "22162", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-daemon-1.7.1/git-daemon.txt", "size_i": "10323", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/git-daemon.1.gz", "size_i": "4267", "regex": "false"},
+	{"name_s": "/var/lib/git", "size_i": "4096", "regex": "false"}
+]

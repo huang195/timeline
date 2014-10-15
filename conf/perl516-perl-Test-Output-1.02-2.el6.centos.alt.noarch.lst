@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Output-1.02", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Output-1.02/Changes", "size_i": "3392", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Output-1.02/LICENSE", "size_i": "62", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Output-1.02/README", "size_i": "850", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Output-1.02/TODO", "size_i": "389", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::Output.3pm.gz", "size_i": "4943", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Test/Output.pm", "size_i": "22660", "regex": "false"}
+]

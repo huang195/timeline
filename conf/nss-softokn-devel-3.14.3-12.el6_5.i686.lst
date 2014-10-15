@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/nss-softokn-config", "size_i": "2040", "regex": "false"},
+	{"name_s": "/usr/include/nss3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/nss3/ecl-exp.h", "size_i": "4974", "regex": "false"},
+	{"name_s": "/usr/include/nss3/nsslowhash.h", "size_i": "1172", "regex": "false"},
+	{"name_s": "/usr/include/nss3/shsign.h", "size_i": "512", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/nss-softokn.pc", "size_i": "291", "regex": "false"}
+]

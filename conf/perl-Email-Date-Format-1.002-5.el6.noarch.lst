@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-Email-Date-Format-1.002", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Email-Date-Format-1.002/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Email-Date-Format-1.002/README", "size_i": "63", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Email::Date::Format.3pm.gz", "size_i": "2537", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Email", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Email/Date", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Email/Date/Format.pm", "size_i": "2788", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/emacs/site-lisp/mercurial.elc", "size_i": "45996", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/mq.elc", "size_i": "12825", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/site-start.d/mercurial-site-start.el", "size_i": "271", "regex": "false"}
+]

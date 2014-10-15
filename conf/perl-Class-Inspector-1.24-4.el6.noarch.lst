@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/perl-Class-Inspector-1.24", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Class-Inspector-1.24/Changes", "size_i": "3242", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Class-Inspector-1.24/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Class-Inspector-1.24/README", "size_i": "8350", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Class::Inspector.3pm.gz", "size_i": "4700", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Class::Inspector::Functions.3pm.gz", "size_i": "2571", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Class", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Class/Inspector", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Class/Inspector.pm", "size_i": "17102", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Class/Inspector/Functions.pm", "size_i": "2603", "regex": "false"}
+]

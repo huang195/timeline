@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/bin/xml_grep", "size_i": "13194", "regex": "false"},
+	{"name_s": "/usr/bin/xml_merge", "size_i": "4075", "regex": "false"},
+	{"name_s": "/usr/bin/xml_pp", "size_i": "7749", "regex": "false"},
+	{"name_s": "/usr/bin/xml_spellcheck", "size_i": "6592", "regex": "false"},
+	{"name_s": "/usr/bin/xml_split", "size_i": "21642", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-Twig-3.34", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-Twig-3.34/Changes", "size_i": "51343", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-Twig-3.34/README", "size_i": "3240", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xml_grep.1.gz", "size_i": "3595", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xml_merge.1.gz", "size_i": "2246", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xml_pp.1.gz", "size_i": "3132", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xml_spellcheck.1.gz", "size_i": "3059", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xml_split.1.gz", "size_i": "3394", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::Twig.3pm.gz", "size_i": "45907", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/Twig", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/Twig.pm", "size_i": "442549", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/Twig/XPath.pm", "size_i": "7361", "regex": "false"}
+]

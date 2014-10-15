@@ -1,0 +1,19 @@
+[
+	{"name_s": "/etc/xdg/autostart/strigi-daemon.desktop", "size_i": "308", "regex": "false"},
+	{"name_s": "/usr/bin/deepfind", "size_i": "12528", "regex": "false"},
+	{"name_s": "/usr/bin/deepgrep", "size_i": "16040", "regex": "false"},
+	{"name_s": "/usr/bin/luceneindexer", "size_i": "12632", "regex": "false"},
+	{"name_s": "/usr/bin/strigiclient", "size_i": "130256", "regex": "false"},
+	{"name_s": "/usr/bin/strigicmd", "size_i": "148584", "regex": "false"},
+	{"name_s": "/usr/bin/strigidaemon", "size_i": "312256", "regex": "false"},
+	{"name_s": "/usr/bin/xmlindexer", "size_i": "57664", "regex": "false"},
+	{"name_s": "/usr/share/applications/fedora-strigiclient.desktop", "size_i": "197", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/services/org.freedesktop.xesam.searcher.service", "size_i": "79", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/services/vandenoever.strigi.service", "size_i": "67", "regex": "false"},
+	{"name_s": "/usr/share/doc/strigi-0.7.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/strigi-0.7.0/AUTHORS", "size_i": "271", "regex": "false"},
+	{"name_s": "/usr/share/doc/strigi-0.7.0/COPYING", "size_i": "25578", "regex": "false"},
+	{"name_s": "/usr/share/doc/strigi-0.7.0/ChangeLog", "size_i": "13692", "regex": "false"},
+	{"name_s": "/usr/share/doc/strigi-0.7.0/README", "size_i": "7431", "regex": "false"},
+	{"name_s": "/usr/share/doc/strigi-0.7.0/TODO", "size_i": "3540", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/mvapich-psm/lib/libmpich.a", "size_i": "1443852", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich-psm/lib/libpmpich++.a", "size_i": "2085676", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich-psm/lib/libpmpich.a", "size_i": "10", "regex": "false"}
+]

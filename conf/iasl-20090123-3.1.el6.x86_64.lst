@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/iasl", "size_i": "577720", "regex": "false"},
+	{"name_s": "/usr/share/doc/iasl-20090123", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iasl-20090123/README", "size_i": "1896", "regex": "false"},
+	{"name_s": "/usr/share/doc/iasl-20090123/README.Fedora", "size_i": "412", "regex": "false"},
+	{"name_s": "/usr/share/doc/iasl-20090123/changes.txt", "size_i": "377524", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/iasl.1.gz", "size_i": "1373", "regex": "false"}
+]

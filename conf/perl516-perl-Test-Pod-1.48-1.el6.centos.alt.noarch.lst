@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Pod-1.48", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Pod-1.48/Changes", "size_i": "7197", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Test-Pod-1.48/README", "size_i": "639", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::Pod.3pm.gz", "size_i": "3595", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Test/Pod.pm", "size_i": "6742", "regex": "false"}
+]

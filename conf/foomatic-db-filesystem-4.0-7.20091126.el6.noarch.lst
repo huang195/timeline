@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/foomatic", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/foomatic/db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/foomatic/db/source", "size_i": "4096", "regex": "false"}
+]

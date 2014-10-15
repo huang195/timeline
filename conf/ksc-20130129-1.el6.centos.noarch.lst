@@ -1,0 +1,23 @@
+[
+	{"name_s": "/etc/ksc.conf", "size_i": "126", "regex": "false"},
+	{"name_s": "/usr/bin/ksc", "size_i": "96", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ksc-0.9.4-py2.6.egg-info", "size_i": "252", "regex": "false"},
+	{"name_s": "/usr/share/doc/ksc-20130129", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ksc-20130129/README", "size_i": "1234", "regex": "false"},
+	{"name_s": "/usr/share/ksc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ksc/data", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ksc/data/i686.all-kernel-symbols.txt", "size_i": "200288", "regex": "false"},
+	{"name_s": "/usr/share/ksc/data/ppc64.all-kernel-symbols.txt", "size_i": "191368", "regex": "false"},
+	{"name_s": "/usr/share/ksc/data/s390x.all-kernel-symbols.txt", "size_i": "105792", "regex": "false"},
+	{"name_s": "/usr/share/ksc/data/x86_64.all-kernel-symbols.txt", "size_i": "204195", "regex": "false"},
+	{"name_s": "/usr/share/ksc/keywords.py", "size_i": "2946", "regex": "false"},
+	{"name_s": "/usr/share/ksc/keywords.pyc", "size_i": "2400", "regex": "false"},
+	{"name_s": "/usr/share/ksc/keywords.pyo", "size_i": "2400", "regex": "false"},
+	{"name_s": "/usr/share/ksc/ksc.py", "size_i": "11632", "regex": "false"},
+	{"name_s": "/usr/share/ksc/ksc.pyc", "size_i": "10268", "regex": "false"},
+	{"name_s": "/usr/share/ksc/ksc.pyo", "size_i": "10268", "regex": "false"},
+	{"name_s": "/usr/share/ksc/utils.py", "size_i": "8626", "regex": "false"},
+	{"name_s": "/usr/share/ksc/utils.pyc", "size_i": "8257", "regex": "false"},
+	{"name_s": "/usr/share/ksc/utils.pyo", "size_i": "8257", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ksc.1.gz", "size_i": "972", "regex": "false"}
+]

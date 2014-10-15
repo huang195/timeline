@@ -1,0 +1,20 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/COPYING", "size_i": "1063", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack-cache.rb", "size_i": "21", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack/cache", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack/cache.rb", "size_i": "1630", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack/cache/appengine.rb", "size_i": "1239", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack/cache/cachecontrol.rb", "size_i": "9511", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack/cache/context.rb", "size_i": "8968", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack/cache/entitystore.rb", "size_i": "8074", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack/cache/key.rb", "size_i": "1242", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack/cache/metastore.rb", "size_i": "11380", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack/cache/options.rb", "size_i": "6143", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack/cache/request.rb", "size_i": "1156", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack/cache/response.rb", "size_i": "8432", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-cache-1.2/lib/rack/cache/storage.rb", "size_i": "1675", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/rack-cache-1.2.gemspec", "size_i": "1657", "regex": "false"}
+]

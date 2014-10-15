@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libXext.so.6", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libXext.so.6.4.0", "size_i": "78432", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXext-1.3.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXext-1.3.1/AUTHORS", "size_i": "922", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXext-1.3.1/COPYING", "size_i": "10326", "regex": "false"}
+]

@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/bin/mpage", "size_i": "57896", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpage-2.5.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpage-2.5.6/CHANGES", "size_i": "15865", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpage-2.5.6/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpage-2.5.6/COPYING.LESSER", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpage-2.5.6/Copyright", "size_i": "1285", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpage-2.5.6/FAQ", "size_i": "1139", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpage-2.5.6/NEWS", "size_i": "1538", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpage-2.5.6/README", "size_i": "5953", "regex": "false"},
+	{"name_s": "/usr/share/doc/mpage-2.5.6/TODO", "size_i": "5441", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mpage.1.gz", "size_i": "5263", "regex": "false"},
+	{"name_s": "/usr/share/mpage", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mpage/CP850.PC", "size_i": "2829", "regex": "false"},
+	{"name_s": "/usr/share/mpage/ISO+STD+OTH", "size_i": "2884", "regex": "false"},
+	{"name_s": "/usr/share/mpage/ISO-8859.1", "size_i": "2826", "regex": "false"},
+	{"name_s": "/usr/share/mpage/ISO-8859.15", "size_i": "2855", "regex": "false"},
+	{"name_s": "/usr/share/mpage/ISO-Latin.1", "size_i": "2722", "regex": "false"},
+	{"name_s": "/usr/share/mpage/ISO-Latin.2", "size_i": "3754", "regex": "false"}
+]

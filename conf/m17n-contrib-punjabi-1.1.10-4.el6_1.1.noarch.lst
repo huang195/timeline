@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/m17n/icons/pa-inscript.png", "size_i": "1370", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/pa-jhelum.png", "size_i": "1507", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/pa-phonetic.png", "size_i": "1717", "regex": "false"},
+	{"name_s": "/usr/share/m17n/pa-inscript.mim", "size_i": "3084", "regex": "false"},
+	{"name_s": "/usr/share/m17n/pa-jhelum.mim", "size_i": "3199", "regex": "false"},
+	{"name_s": "/usr/share/m17n/pa-phonetic.mim", "size_i": "2614", "regex": "false"}
+]

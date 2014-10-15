@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/include/fipscheck.h", "size_i": "2925", "regex": "false"},
+	{"name_s": "/usr/lib64/libfipscheck.so", "size_i": "28", "regex": "false"}
+]

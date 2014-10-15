@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/zlib1.dll", "size_i": "72704", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/zconf.h", "size_i": "9544", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/zlib.h", "size_i": "66188", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libz.dll.a", "size_i": "37124", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libz.la", "size_i": "911", "regex": "false"}
+]

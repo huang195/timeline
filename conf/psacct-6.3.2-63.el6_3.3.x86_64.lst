@@ -1,0 +1,23 @@
+[
+	{"name_s": "/etc/logrotate.d/psacct", "size_i": "329", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/psacct", "size_i": "1556", "regex": "false"},
+	{"name_s": "/sbin/accton", "size_i": "7240", "regex": "false"},
+	{"name_s": "/usr/bin/ac", "size_i": "21064", "regex": "false"},
+	{"name_s": "/usr/bin/lastcomm", "size_i": "19560", "regex": "false"},
+	{"name_s": "/usr/sbin/accton", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/sbin/dump-acct", "size_i": "11080", "regex": "false"},
+	{"name_s": "/usr/sbin/dump-utmp", "size_i": "11112", "regex": "false"},
+	{"name_s": "/usr/sbin/sa", "size_i": "28360", "regex": "false"},
+	{"name_s": "/usr/share/doc/psacct-6.3.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/psacct-6.3.2/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/psacct-6.3.2/README", "size_i": "4015", "regex": "false"},
+	{"name_s": "/usr/share/info/accounting.info.gz", "size_i": "10441", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ac.1.gz", "size_i": "2381", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/lastcomm.1.gz", "size_i": "1448", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/accton.8.gz", "size_i": "528", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dump-acct.8.gz", "size_i": "669", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dump-utmp.8.gz", "size_i": "510", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sa.8.gz", "size_i": "2528", "regex": "false"},
+	{"name_s": "/var/account", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/account/pacct", "size_i": "0", "regex": "false"}
+]

@@ -1,0 +1,22 @@
+[
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/plperl.so", "size_i": "98760", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/cs/LC_MESSAGES/plperl-9.2.mo", "size_i": "4823", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/de/LC_MESSAGES/plperl-9.2.mo", "size_i": "5027", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/es/LC_MESSAGES/plperl-9.2.mo", "size_i": "4996", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/fr/LC_MESSAGES/plperl-9.2.mo", "size_i": "5052", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/it/LC_MESSAGES/plperl-9.2.mo", "size_i": "5103", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/ja/LC_MESSAGES/plperl-9.2.mo", "size_i": "5100", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/pl/LC_MESSAGES/plperl-9.2.mo", "size_i": "4929", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/pt_BR/LC_MESSAGES/plperl-9.2.mo", "size_i": "4895", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/ro/LC_MESSAGES/plperl-9.2.mo", "size_i": "5043", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/ru/LC_MESSAGES/plperl-9.2.mo", "size_i": "6194", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/tr/LC_MESSAGES/plperl-9.2.mo", "size_i": "4707", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/zh_CN/LC_MESSAGES/plperl-9.2.mo", "size_i": "4480", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/zh_TW/LC_MESSAGES/plperl-9.2.mo", "size_i": "4237", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/pgsql/extension/plperl--1.0.sql", "size_i": "323", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/pgsql/extension/plperl--unpackaged--1.0.sql", "size_i": "367", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/pgsql/extension/plperl.control", "size_i": "176", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/pgsql/extension/plperlu--1.0.sql", "size_i": "337", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/pgsql/extension/plperlu--unpackaged--1.0.sql", "size_i": "376", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/pgsql/extension/plperlu.control", "size_i": "187", "regex": "false"}
+]

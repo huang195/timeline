@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/xelatex", "size_i": "5", "regex": "false"},
+	{"name_s": "/usr/bin/xetex", "size_i": "6824544", "regex": "false"}
+]

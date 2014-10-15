@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-Memory-Cycle-1.04", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Memory-Cycle-1.04/Changes", "size_i": "1055", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Memory-Cycle-1.04/README", "size_i": "81", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Memory::Cycle.3pm.gz", "size_i": "2924", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Test/Memory", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Test/Memory/Cycle.pm", "size_i": "7244", "regex": "false"}
+]

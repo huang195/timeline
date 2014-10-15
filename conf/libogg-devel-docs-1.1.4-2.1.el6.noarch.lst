@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/libogg-1.1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libogg-1.1.4/AUTHORS", "size_i": "66", "regex": "false"},
+	{"name_s": "/usr/share/doc/libogg-1.1.4/CHANGES", "size_i": "1324", "regex": "false"},
+	{"name_s": "/usr/share/doc/libogg-1.1.4/COPYING", "size_i": "1466", "regex": "false"},
+	{"name_s": "/usr/share/doc/libogg-1.1.4/README", "size_i": "4390", "regex": "false"}
+]

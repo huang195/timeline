@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/xmlrpc3-common-3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmlrpc3-common-3.0/LICENSE.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/java/xmlrpc3-common-3.0.jar", "size_i": "96971", "regex": "false"},
+	{"name_s": "/usr/share/java/xmlrpc3-common.jar", "size_i": "22", "regex": "false"}
+]

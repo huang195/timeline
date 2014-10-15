@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/gpxe-roms-qemu-0.9.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpxe-roms-qemu-0.9.7/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpxe-roms-qemu-0.9.7/COPYRIGHTS", "size_i": "908", "regex": "false"},
+	{"name_s": "/usr/share/gpxe", "size_i": "20480", "regex": "false"},
+	{"name_s": "/usr/share/gpxe/e1000-0x100e.rom", "size_i": "69120", "regex": "false"},
+	{"name_s": "/usr/share/gpxe/ne.rom", "size_i": "54272", "regex": "false"},
+	{"name_s": "/usr/share/gpxe/pcnet32.rom", "size_i": "54784", "regex": "false"},
+	{"name_s": "/usr/share/gpxe/rtl8029.rom", "size_i": "54272", "regex": "false"},
+	{"name_s": "/usr/share/gpxe/rtl8139.rom", "size_i": "54272", "regex": "false"},
+	{"name_s": "/usr/share/gpxe/virtio-net.rom", "size_i": "53760", "regex": "false"}
+]

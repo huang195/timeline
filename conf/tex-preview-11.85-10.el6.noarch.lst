@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/share/texmf/doc/latex/styles", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/texmf/doc/latex/styles/preview.dvi", "size_i": "98224", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/latex/preview", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/latex/preview/prauctex.cfg", "size_i": "1476", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/latex/preview/prauctex.def", "size_i": "1631", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/latex/preview/prcounters.def", "size_i": "1349", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/latex/preview/preview.sty", "size_i": "13352", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/latex/preview/prfootnotes.def", "size_i": "903", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/latex/preview/prlyx.def", "size_i": "1058", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/latex/preview/prshowbox.def", "size_i": "1020", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/latex/preview/prshowlabels.def", "size_i": "2264", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/latex/preview/prtightpage.def", "size_i": "4116", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/latex/preview/prtracingall.def", "size_i": "1013", "regex": "false"}
+]

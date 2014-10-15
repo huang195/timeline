@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/X11/extensions/XKBbells.h", "size_i": "4967", "regex": "false"},
+	{"name_s": "/usr/include/X11/extensions/XKBconfig.h", "size_i": "7111", "regex": "false"},
+	{"name_s": "/usr/include/X11/extensions/XKBfile.h", "size_i": "11313", "regex": "false"},
+	{"name_s": "/usr/include/X11/extensions/XKBrules.h", "size_i": "5269", "regex": "false"},
+	{"name_s": "/usr/include/X11/extensions/XKM.h", "size_i": "2858", "regex": "false"},
+	{"name_s": "/usr/include/X11/extensions/XKMformat.h", "size_i": "6955", "regex": "false"},
+	{"name_s": "/usr/lib/libxkbfile.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/xkbfile.pc", "size_i": "224", "regex": "false"}
+]

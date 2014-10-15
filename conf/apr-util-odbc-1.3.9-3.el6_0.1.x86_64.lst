@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/apr-util-1/apr_dbd_odbc-1.so", "size_i": "29184", "regex": "false"},
+	{"name_s": "/usr/lib64/apr-util-1/apr_dbd_odbc.so", "size_i": "17", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/perl-Package-Generator-0.103", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Package-Generator-0.103/Changes", "size_i": "594", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Package-Generator-0.103/README", "size_i": "968", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Package::Generator.3pm.gz", "size_i": "2933", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Package::Reaper.3pm.gz", "size_i": "2597", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Package", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Package/Generator.pm", "size_i": "4937", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Package/Reaper.pm", "size_i": "2721", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/tsflags.conf", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/tsflags.py", "size_i": "1294", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/tsflags.pyc", "size_i": "883", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/tsflags.pyo", "size_i": "883", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-tsflags-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-tsflags-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/httpd/conf.d/revocator.conf", "size_i": "845", "regex": "false"},
+	{"name_s": "/usr/bin/crlhelper", "size_i": "24936", "regex": "false"},
+	{"name_s": "/usr/bin/ldapget", "size_i": "21864", "regex": "false"},
+	{"name_s": "/usr/lib64/httpd/modules/mod_rev.so", "size_i": "20048", "regex": "false"},
+	{"name_s": "/usr/lib64/librevocation.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/librevocation.so.0", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/librevocation.so.1.0.0", "size_i": "176968", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_revocator-1.0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_revocator-1.0.3/LICENSE", "size_i": "11357", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_revocator-1.0.3/README", "size_i": "7789", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_revocator-1.0.3/mod_revocator.html", "size_i": "11918", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnome/applet.py", "size_i": "193", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnome/applet.pyc", "size_i": "344", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnome/applet.pyo", "size_i": "344", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnomeapplet.so", "size_i": "21168", "regex": "false"}
+]

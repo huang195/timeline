@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/libmcpp.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libmcpp.so.0.3.0", "size_i": "139912", "regex": "false"}
+]

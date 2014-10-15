@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/httpd/conf.d/wsgi.conf", "size_i": "43", "regex": "false"},
+	{"name_s": "/usr/lib64/httpd/modules/mod_wsgi.so", "size_i": "152520", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_wsgi-3.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_wsgi-3.2/LICENCE", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_wsgi-3.2/README", "size_i": "17209", "regex": "false"}
+]

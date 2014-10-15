@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-tn-0.20060123", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-tn-0.20060123/README_tn_ZA.txt", "size_i": "4822", "regex": "false"},
+	{"name_s": "/usr/share/myspell/tn_BW.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/tn_BW.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/tn_ZA.aff", "size_i": "901", "regex": "false"},
+	{"name_s": "/usr/share/myspell/tn_ZA.dic", "size_i": "96109", "regex": "false"}
+]

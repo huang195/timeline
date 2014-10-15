@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-km-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-km-1.1/CHANGELOG", "size_i": "312", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-km-1.1/LICENCES-km.txt", "size_i": "414", "regex": "false"},
+	{"name_s": "/usr/share/myspell/km_KH.aff", "size_i": "925", "regex": "false"},
+	{"name_s": "/usr/share/myspell/km_KH.dic", "size_i": "2139169", "regex": "false"}
+]

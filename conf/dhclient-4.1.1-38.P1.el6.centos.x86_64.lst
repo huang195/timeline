@@ -1,0 +1,19 @@
+[
+	{"name_s": "/etc/NetworkManager", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/NetworkManager/dispatcher.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/NetworkManager/dispatcher.d/10-dhclient", "size_i": "926", "regex": "false"},
+	{"name_s": "/etc/dhcp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/dhcp/dhclient.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/sbin/dhclient", "size_i": "572256", "regex": "false"},
+	{"name_s": "/sbin/dhclient-script", "size_i": "25352", "regex": "false"},
+	{"name_s": "/usr/lib64/pm-utils/sleep.d/56dhclient", "size_i": "1808", "regex": "false"},
+	{"name_s": "/usr/share/doc/dhclient-4.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dhclient-4.1.1/README.dhclient.d", "size_i": "2088", "regex": "false"},
+	{"name_s": "/usr/share/doc/dhclient-4.1.1/dhclient.conf.sample", "size_i": "1008", "regex": "false"},
+	{"name_s": "/usr/share/doc/dhclient-4.1.1/dhclient6.conf.sample", "size_i": "382", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/dhclient.conf.5.gz", "size_i": "9725", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/dhclient.leases.5.gz", "size_i": "1169", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dhclient-script.8.gz", "size_i": "4576", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dhclient.8.gz", "size_i": "5751", "regex": "false"},
+	{"name_s": "/var/lib/dhclient", "size_i": "4096", "regex": "false"}
+]

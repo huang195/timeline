@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/udev/rules.d/60-fprint-autosuspend.rules", "size_i": "1652", "regex": "false"},
+	{"name_s": "/usr/lib64/libfprint.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libfprint.so.0.0.0", "size_i": "208144", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfprint-0.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfprint-0.1.0/AUTHORS", "size_i": "478", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfprint-0.1.0/COPYING", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfprint-0.1.0/INSTALL", "size_i": "15578", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfprint-0.1.0/NEWS", "size_i": "887", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfprint-0.1.0/README", "size_i": "1920", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfprint-0.1.0/THANKS", "size_i": "347", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfprint-0.1.0/TODO", "size_i": "836", "regex": "false"},
+	{"name_s": "/usr/share/hal/fdi/information/20thirdparty/10-fingerprint-reader-fprint.fdi", "size_i": "10672", "regex": "false"}
+]

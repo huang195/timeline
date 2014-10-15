@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib/dri", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mesa-dri-filesystem-9.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mesa-dri-filesystem-9.2/COPYING", "size_i": "25493", "regex": "false"}
+]

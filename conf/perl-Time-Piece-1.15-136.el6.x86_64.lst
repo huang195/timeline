@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/perl5/Time/Piece.pm", "size_i": "22655", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Time/Seconds.pm", "size_i": "4507", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Time/Piece", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Time/Piece/Piece.so", "size_i": "16664", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Time::Piece.3pm.gz", "size_i": "5244", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Time::Seconds.3pm.gz", "size_i": "2593", "regex": "false"}
+]

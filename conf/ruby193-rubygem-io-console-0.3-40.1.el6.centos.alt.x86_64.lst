@@ -1,0 +1,14 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/io-console-0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/io-console-0.3/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/io-console-0.3/lib/io", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/io-console-0.3/lib/io/console.so", "size_i": "12600", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/ruby/io/console.so", "size_i": "73", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/io-console-0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/io-console-0.3/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/io-console-0.3/lib/io", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/io-console-0.3/lib/io/console", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/io-console-0.3/lib/io/console/size.rb", "size_i": "331", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/io-console-0.3.gemspec", "size_i": "215", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/ruby/io", "size_i": "62", "regex": "false"}
+]

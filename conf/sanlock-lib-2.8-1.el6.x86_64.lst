@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libsanlock.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libsanlock.so.1.0", "size_i": "72296", "regex": "false"},
+	{"name_s": "/usr/lib64/libsanlock_client.so.1", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libsanlock_client.so.1.0", "size_i": "22632", "regex": "false"},
+	{"name_s": "/usr/lib64/libwdmd.so.1", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libwdmd.so.1.0", "size_i": "10216", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libgfchangelog.so.0", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libgfchangelog.so.0.0.0", "size_i": "29784", "regex": "false"},
+	{"name_s": "/usr/lib64/libgfrpc.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libgfrpc.so.0.0.0", "size_i": "99200", "regex": "false"},
+	{"name_s": "/usr/lib64/libgfxdr.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libgfxdr.so.0.0.0", "size_i": "90088", "regex": "false"},
+	{"name_s": "/usr/lib64/libglusterfs.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libglusterfs.so.0.0.0", "size_i": "524952", "regex": "false"}
+]

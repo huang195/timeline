@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/keys.conf", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/keys.py", "size_i": "10791", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/keys.pyc", "size_i": "11666", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/keys.pyo", "size_i": "11666", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-keys-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-keys-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

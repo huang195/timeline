@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/apr-util-1/apr_ldap-1.so", "size_i": "9488", "regex": "false"},
+	{"name_s": "/usr/lib64/apr-util-1/apr_ldap.so", "size_i": "13", "regex": "false"}
+]

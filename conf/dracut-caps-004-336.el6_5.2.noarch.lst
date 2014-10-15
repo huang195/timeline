@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/dracut-caps-004", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dracut-caps-004/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/02caps", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/02caps/README", "size_i": "1338", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/02caps/caps.sh", "size_i": "1554", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/02caps/check", "size_i": "87", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/02caps/install", "size_i": "278", "regex": "false"}
+]

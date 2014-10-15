@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/pwl-x86_64.hh", "size_i": "33590", "regex": "false"},
+	{"name_s": "/usr/include/pwl.hh", "size_i": "1677", "regex": "false"},
+	{"name_s": "/usr/lib64/libpwl.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-pwl-devel-0.10.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-pwl-devel-0.10.2/README.doc", "size_i": "5312", "regex": "false"}
+]

@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/jakarta-commons-collections-3.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-collections-3.2.1/LICENSE.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-collections-3.2.1/NOTICE.txt", "size_i": "180", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-collections-3.2.1/PROPOSAL.html", "size_i": "3811", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-collections-3.2.1/README.txt", "size_i": "1576", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-collections-3.2.1/RELEASE-NOTES.html", "size_i": "1420", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-collections-3.2.1.jar", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-collections.jar", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-collections-3.2.1.jar", "size_i": "591015", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-collections.jar", "size_i": "37", "regex": "false"}
+]

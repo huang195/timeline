@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/64-bpg.conf-serif.conf", "size_i": "55", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/64-bpg.conf-serif.conf", "size_i": "352", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bpg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bpg/BPG_Serif_GPL&GNU.ttf", "size_i": "60064", "regex": "false"}
+]

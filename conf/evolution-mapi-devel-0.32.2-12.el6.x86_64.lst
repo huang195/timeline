@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/evolution-data-server-2.32/mapi", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/evolution-data-server-2.32/mapi/em-operation-queue.h", "size_i": "2938", "regex": "false"},
+	{"name_s": "/usr/include/evolution-data-server-2.32/mapi/exchange-mapi-cal-recur-utils.h", "size_i": "1270", "regex": "false"},
+	{"name_s": "/usr/include/evolution-data-server-2.32/mapi/exchange-mapi-cal-tz-utils.h", "size_i": "3711", "regex": "false"},
+	{"name_s": "/usr/include/evolution-data-server-2.32/mapi/exchange-mapi-cal-utils.h", "size_i": "4077", "regex": "false"},
+	{"name_s": "/usr/include/evolution-data-server-2.32/mapi/exchange-mapi-connection.h", "size_i": "11753", "regex": "false"},
+	{"name_s": "/usr/include/evolution-data-server-2.32/mapi/exchange-mapi-defs.h", "size_i": "5842", "regex": "false"},
+	{"name_s": "/usr/include/evolution-data-server-2.32/mapi/exchange-mapi-folder.h", "size_i": "3127", "regex": "false"},
+	{"name_s": "/usr/include/evolution-data-server-2.32/mapi/exchange-mapi-mail-utils.h", "size_i": "2516", "regex": "false"},
+	{"name_s": "/usr/include/evolution-data-server-2.32/mapi/exchange-mapi-utils.h", "size_i": "4391", "regex": "false"},
+	{"name_s": "/usr/lib64/libexchangemapi-1.0.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libexchangemapi-1.0.pc", "size_i": "434", "regex": "false"}
+]

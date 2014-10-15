@@ -1,0 +1,16 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/bin/package-stash-conflicts", "size_i": "880", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Package-Stash-0.36", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Package-Stash-0.36/Changes", "size_i": "4194", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Package-Stash-0.36/LICENSE", "size_i": "18347", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Package-Stash-0.36/README", "size_i": "299", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man1/package-stash-conflicts.1.gz", "size_i": "2007", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Package::Stash.3pm.gz", "size_i": "5030", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Package::Stash::Conflicts.3pm.gz", "size_i": "2011", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Package::Stash::PP.3pm.gz", "size_i": "2898", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Package", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Package/Stash", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Package/Stash.pm", "size_i": "8168", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Package/Stash/Conflicts.pm", "size_i": "823", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Package/Stash/PP.pm", "size_i": "14466", "regex": "false"}
+]

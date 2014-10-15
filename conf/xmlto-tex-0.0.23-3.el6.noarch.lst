@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/xmlto/format/fo/dvi", "size_i": "1415", "regex": "false"},
+	{"name_s": "/usr/share/xmlto/format/fo/pdf", "size_i": "1829", "regex": "false"},
+	{"name_s": "/usr/share/xmlto/format/fo/ps", "size_i": "1746", "regex": "false"}
+]

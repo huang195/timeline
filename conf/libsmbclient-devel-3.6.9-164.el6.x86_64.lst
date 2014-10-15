@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/libsmbclient.h", "size_i": "118245", "regex": "false"},
+	{"name_s": "/usr/include/smb_share_modes.h", "size_i": "2707", "regex": "false"},
+	{"name_s": "/usr/lib64/libsmbclient.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libsmbsharemodes.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/smbclient.pc", "size_i": "375", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/smbsharemodes.pc", "size_i": "310", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/libsmbclient.7.gz", "size_i": "1931", "regex": "false"}
+]

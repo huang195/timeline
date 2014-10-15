@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-sil-padauk.conf", "size_i": "51", "regex": "false"},
+	{"name_s": "/usr/share/doc/sil-padauk-fonts-2.6.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sil-padauk-fonts-2.6.1/OFL-FAQ.txt", "size_i": "24051", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-sil-padauk.conf", "size_i": "332", "regex": "false"},
+	{"name_s": "/usr/share/fonts/sil-padauk", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/sil-padauk/Padauk-Bold.ttf", "size_i": "387952", "regex": "false"},
+	{"name_s": "/usr/share/fonts/sil-padauk/Padauk.ttf", "size_i": "417112", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/67-smc-raghumalayalam.conf", "size_i": "59", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/67-smc-raghumalayalam.conf", "size_i": "440", "regex": "false"},
+	{"name_s": "/usr/share/fonts/smc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/smc/RaghuMalayalamSans2.ttf", "size_i": "56320", "regex": "false"}
+]

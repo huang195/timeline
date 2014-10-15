@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/popt.h", "size_i": "16566", "regex": "false"},
+	{"name_s": "/usr/lib64/libpopt.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/doc/popt-devel-1.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/popt-devel-1.13/README", "size_i": "721", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/popt.3.gz", "size_i": "10429", "regex": "false"}
+]

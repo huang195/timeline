@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/X11/xinit/xinitrc.d/00-start-message-bus.sh", "size_i": "558", "regex": "false"},
+	{"name_s": "/usr/bin/dbus-launch", "size_i": "25528", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dbus-launch.1.gz", "size_i": "2829", "regex": "false"}
+]

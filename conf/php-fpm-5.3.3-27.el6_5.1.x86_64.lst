@@ -1,0 +1,16 @@
+[
+	{"name_s": "/etc/logrotate.d/php-fpm", "size_i": "207", "regex": "false"},
+	{"name_s": "/etc/php-fpm.conf", "size_i": "1695", "regex": "false"},
+	{"name_s": "/etc/php-fpm.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/php-fpm.d/www.conf", "size_i": "10018", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/php-fpm", "size_i": "2060", "regex": "false"},
+	{"name_s": "/etc/sysconfig/php-fpm", "size_i": "43", "regex": "false"},
+	{"name_s": "/usr/sbin/php-fpm", "size_i": "3309920", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-fpm-5.3.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-fpm-5.3.3/LICENSE", "size_i": "1282", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-fpm-5.3.3/php-fpm.conf.default", "size_i": "21549", "regex": "false"},
+	{"name_s": "/usr/share/fpm/status.html", "size_i": "14378", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/php-fpm.8.gz", "size_i": "2160", "regex": "false"},
+	{"name_s": "/var/log/php-fpm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/run/php-fpm", "size_i": "4096", "regex": "false"}
+]

@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/share/doc/perl-Convert-ASN1-0.22", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-ASN1-0.22/ChangeLog", "size_i": "8914", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-ASN1-0.22/README", "size_i": "1068", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-ASN1-0.22/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-ASN1-0.22/examples/ldap", "size_i": "13411", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-ASN1-0.22/examples/ldap-search", "size_i": "1389", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-ASN1-0.22/examples/x509decode", "size_i": "13058", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Convert::ASN1.3pm.gz", "size_i": "6172", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Convert", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Convert/ASN1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Convert/ASN1.pm", "size_i": "9569", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Convert/ASN1.pod", "size_i": "10770", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Convert/ASN1/Debug.pm", "size_i": "4825", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Convert/ASN1/IO.pm", "size_i": "5433", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Convert/ASN1/_decode.pm", "size_i": "14617", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Convert/ASN1/_encode.pm", "size_i": "9206", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Convert/ASN1/parser.pm", "size_i": "23391", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/libpangomm-1.4.so.1", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libpangomm-1.4.so.1.0.30", "size_i": "171536", "regex": "false"},
+	{"name_s": "/usr/share/doc/pangomm-2.26.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pangomm-2.26.0/AUTHORS", "size_i": "667", "regex": "false"},
+	{"name_s": "/usr/share/doc/pangomm-2.26.0/COPYING", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/pangomm-2.26.0/ChangeLog", "size_i": "18707", "regex": "false"},
+	{"name_s": "/usr/share/doc/pangomm-2.26.0/NEWS", "size_i": "2046", "regex": "false"},
+	{"name_s": "/usr/share/doc/pangomm-2.26.0/README", "size_i": "66", "regex": "false"}
+]

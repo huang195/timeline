@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib/esmtp-plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/esmtp-plugins/sasl-cram-md5.so", "size_i": "5876", "regex": "false"},
+	{"name_s": "/usr/lib/esmtp-plugins/sasl-login.so", "size_i": "3980", "regex": "false"},
+	{"name_s": "/usr/lib/esmtp-plugins/sasl-plain.so", "size_i": "3848", "regex": "false"},
+	{"name_s": "/usr/lib/libesmtp.so.5", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libesmtp.so.5.1.5", "size_i": "76800", "regex": "false"},
+	{"name_s": "/usr/share/doc/libesmtp-1.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libesmtp-1.0.4/AUTHORS", "size_i": "44", "regex": "false"},
+	{"name_s": "/usr/share/doc/libesmtp-1.0.4/COPYING.LIB", "size_i": "26542", "regex": "false"},
+	{"name_s": "/usr/share/doc/libesmtp-1.0.4/NEWS", "size_i": "8345", "regex": "false"},
+	{"name_s": "/usr/share/doc/libesmtp-1.0.4/Notes", "size_i": "3541", "regex": "false"},
+	{"name_s": "/usr/share/doc/libesmtp-1.0.4/README", "size_i": "3463", "regex": "false"}
+]

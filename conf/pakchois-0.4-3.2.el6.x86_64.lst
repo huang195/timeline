@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libpakchois.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libpakchois.so.0.1.0", "size_i": "23200", "regex": "false"},
+	{"name_s": "/usr/share/doc/pakchois-0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pakchois-0.4/AUTHORS", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/doc/pakchois-0.4/COPYING", "size_i": "25283", "regex": "false"},
+	{"name_s": "/usr/share/doc/pakchois-0.4/NEWS", "size_i": "386", "regex": "false"},
+	{"name_s": "/usr/share/doc/pakchois-0.4/README", "size_i": "1256", "regex": "false"}
+]

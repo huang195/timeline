@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/bin/wpd2html", "size_i": "15992", "regex": "false"},
+	{"name_s": "/usr/bin/wpd2raw", "size_i": "24840", "regex": "false"},
+	{"name_s": "/usr/bin/wpd2text", "size_i": "11120", "regex": "false"}
+]

@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/bin/cjpeg", "size_i": "25880", "regex": "false"},
+	{"name_s": "/usr/bin/djpeg", "size_i": "26864", "regex": "false"},
+	{"name_s": "/usr/bin/jpegtran", "size_i": "24560", "regex": "false"},
+	{"name_s": "/usr/bin/rdjpgcom", "size_i": "7220", "regex": "false"},
+	{"name_s": "/usr/bin/wrjpgcom", "size_i": "8360", "regex": "false"},
+	{"name_s": "/usr/lib/libjpeg.so.62", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libjpeg.so.62.0.0", "size_i": "289696", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-1.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-1.2.1/ChangeLog.txt", "size_i": "13538", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-1.2.1/README", "size_i": "14410", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-1.2.1/README-turbo.txt", "size_i": "16935", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-1.2.1/change.log", "size_i": "11315", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-1.2.1/usage.txt", "size_i": "29470", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-1.2.1/wizard.txt", "size_i": "9759", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cjpeg.1.gz", "size_i": "4994", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/djpeg.1.gz", "size_i": "2989", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/jpegtran.1.gz", "size_i": "3570", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rdjpgcom.1.gz", "size_i": "903", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/wrjpgcom.1.gz", "size_i": "1227", "regex": "false"}
+]

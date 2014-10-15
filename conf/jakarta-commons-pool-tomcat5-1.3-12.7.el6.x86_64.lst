@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/gcj/jakarta-commons-pool/jakarta-commons-pool-tomcat5-1.3.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/jakarta-commons-pool/jakarta-commons-pool-tomcat5-1.3.jar.so", "size_i": "253120", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-pool-tomcat5-1.3.jar", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-pool-tomcat5.jar", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-pool-tomcat5-1.3.jar", "size_i": "47766", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-pool-tomcat5.jar", "size_i": "36", "regex": "false"}
+]

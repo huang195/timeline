@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-culmus-aharoni-clm.conf", "size_i": "59", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-culmus-aharoni-clm.conf", "size_i": "846", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/AharoniCLM-Bold.afm", "size_i": "14990", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/AharoniCLM-Bold.pfa", "size_i": "48129", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/AharoniCLM-BoldOblique.afm", "size_i": "15184", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/AharoniCLM-BoldOblique.pfa", "size_i": "58053", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/AharoniCLM-Book.afm", "size_i": "14981", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/AharoniCLM-Book.pfa", "size_i": "47958", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/AharoniCLM-BookOblique.afm", "size_i": "15161", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/AharoniCLM-BookOblique.pfa", "size_i": "48545", "regex": "false"}
+]

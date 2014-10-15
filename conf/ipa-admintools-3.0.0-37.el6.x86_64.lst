@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/bash_completion.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/bash_completion.d/ipa", "size_i": "989", "regex": "false"},
+	{"name_s": "/usr/bin/ipa", "size_i": "993", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-admintools-3.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-admintools-3.0.0/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-admintools-3.0.0/Contributors.txt", "size_i": "1271", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-admintools-3.0.0/README", "size_i": "2289", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ipa.1.gz", "size_i": "3845", "regex": "false"}
+]

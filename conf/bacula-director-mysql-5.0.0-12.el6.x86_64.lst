@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/libexec/bacula/create_bacula_database.mysql", "size_i": "568", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/create_mysql_database", "size_i": "291", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/drop_bacula_database.mysql", "size_i": "498", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/drop_bacula_tables.mysql", "size_i": "674", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/drop_mysql_database", "size_i": "405", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/drop_mysql_tables", "size_i": "1142", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/grant_bacula_privileges.mysql", "size_i": "675", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/grant_mysql_privileges", "size_i": "509", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/make_bacula_tables.mysql", "size_i": "559", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/make_catalog_backup.mysql", "size_i": "2055", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/make_mysql_tables", "size_i": "12513", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/update_bacula_tables.mysql", "size_i": "585", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/update_mysql_tables", "size_i": "2020", "regex": "false"},
+	{"name_s": "/usr/sbin/bacula-dir.mysql", "size_i": "825880", "regex": "false"},
+	{"name_s": "/usr/sbin/dbcheck.mysql", "size_i": "385400", "regex": "false"}
+]

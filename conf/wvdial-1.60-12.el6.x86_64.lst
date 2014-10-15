@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/ppp/peers/wvdial", "size_i": "30", "regex": "false"},
+	{"name_s": "/etc/wvdial.conf", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/bin/wvdial", "size_i": "119224", "regex": "false"},
+	{"name_s": "/usr/bin/wvdialconf", "size_i": "49592", "regex": "false"},
+	{"name_s": "/usr/share/doc/wvdial-1.60", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/wvdial-1.60/CHANGES", "size_i": "11677", "regex": "false"},
+	{"name_s": "/usr/share/doc/wvdial-1.60/COPYING.LIB", "size_i": "25265", "regex": "false"},
+	{"name_s": "/usr/share/doc/wvdial-1.60/FAQ", "size_i": "126", "regex": "false"},
+	{"name_s": "/usr/share/doc/wvdial-1.60/README", "size_i": "10581", "regex": "false"},
+	{"name_s": "/usr/share/doc/wvdial-1.60/TODO", "size_i": "1235", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/wvdial.1.gz", "size_i": "2416", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/wvdialconf.1.gz", "size_i": "725", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/wvdial.conf.5.gz", "size_i": "2641", "regex": "false"}
+]

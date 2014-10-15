@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/share/doc/perl-Term-ProgressBar-2.09", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Term-ProgressBar-2.09/BUGS", "size_i": "79", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Term-ProgressBar-2.09/Changes", "size_i": "2227", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Term-ProgressBar-2.09/README", "size_i": "878", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Term-ProgressBar-2.09/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Term-ProgressBar-2.09/examples/powers", "size_i": "329", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Term-ProgressBar-2.09/examples/powers2", "size_i": "302", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Term-ProgressBar-2.09/examples/powers3", "size_i": "479", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Term-ProgressBar-2.09/examples/powers4", "size_i": "549", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Term-ProgressBar-2.09/examples/powers5", "size_i": "617", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Term::ProgressBar.3pm.gz", "size_i": "6232", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Term", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Term/ProgressBar.pm", "size_i": "26989", "regex": "false"}
+]

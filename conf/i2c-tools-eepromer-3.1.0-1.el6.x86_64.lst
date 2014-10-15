@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/sbin/eeprog", "size_i": "12968", "regex": "false"},
+	{"name_s": "/usr/sbin/eeprom", "size_i": "10896", "regex": "false"},
+	{"name_s": "/usr/sbin/eepromer", "size_i": "12016", "regex": "false"},
+	{"name_s": "/usr/share/doc/i2c-tools-eepromer-3.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/i2c-tools-eepromer-3.1.0/README", "size_i": "1606", "regex": "false"},
+	{"name_s": "/usr/share/doc/i2c-tools-eepromer-3.1.0/README.eeprog", "size_i": "410", "regex": "false"},
+	{"name_s": "/usr/share/doc/i2c-tools-eepromer-3.1.0/README.eeprom", "size_i": "3463", "regex": "false"},
+	{"name_s": "/usr/share/doc/i2c-tools-eepromer-3.1.0/README.eepromer", "size_i": "837", "regex": "false"}
+]

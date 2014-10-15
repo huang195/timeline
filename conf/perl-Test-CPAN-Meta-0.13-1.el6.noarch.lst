@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-CPAN-Meta-0.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-CPAN-Meta-0.13/Artistic", "size_i": "6111", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-CPAN-Meta-0.13/Changes", "size_i": "2753", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-CPAN-Meta-0.13/LICENSE", "size_i": "355", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-CPAN-Meta-0.13/README", "size_i": "2359", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-CPAN-Meta-0.13/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-CPAN-Meta-0.13/examples/94metatest.t", "size_i": "622", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-CPAN-Meta-0.13/examples/examples.txt", "size_i": "493", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::CPAN::Meta.3pm.gz", "size_i": "3213", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::CPAN::Meta::Version.3pm.gz", "size_i": "3697", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/CPAN", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/CPAN/Meta", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/CPAN/Meta.pm", "size_i": "5164", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/CPAN/Meta/Version.pm", "size_i": "24953", "regex": "false"}
+]

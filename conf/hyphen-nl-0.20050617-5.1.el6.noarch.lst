@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-nl-0.20050617", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-nl-0.20050617/README_hyph_nl_NL.txt", "size_i": "2904", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_nl_AW.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_nl_BE.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_nl_NL.dic", "size_i": "116507", "regex": "false"}
+]

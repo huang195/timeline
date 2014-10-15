@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libutempter.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libutempter.so.1.1.5", "size_i": "6816", "regex": "false"},
+	{"name_s": "/usr/libexec/utempter", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/utempter/utempter", "size_i": "6800", "regex": "false"},
+	{"name_s": "/usr/share/doc/libutempter-1.1.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libutempter-1.1.5/COPYING", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/libutempter-1.1.5/README", "size_i": "642", "regex": "false"}
+]

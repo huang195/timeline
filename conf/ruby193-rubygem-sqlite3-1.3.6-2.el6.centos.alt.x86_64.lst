@@ -1,0 +1,22 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/sqlite3-1.3.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/sqlite3-1.3.6/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/sqlite3-1.3.6/lib/sqlite3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/sqlite3-1.3.6/lib/sqlite3/sqlite3_native.so", "size_i": "34152", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/LICENSE", "size_i": "1500", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/README.rdoc", "size_i": "2472", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/lib/sqlite3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/lib/sqlite3.rb", "size_i": "249", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/lib/sqlite3/constants.rb", "size_i": "1745", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/lib/sqlite3/database.rb", "size_i": "19855", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/lib/sqlite3/errors.rb", "size_i": "1419", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/lib/sqlite3/pragmas.rb", "size_i": "7755", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/lib/sqlite3/resultset.rb", "size_i": "5745", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/lib/sqlite3/statement.rb", "size_i": "4072", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/lib/sqlite3/translator.rb", "size_i": "4114", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/lib/sqlite3/value.rb", "size_i": "1057", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sqlite3-1.3.6/lib/sqlite3/version.rb", "size_i": "457", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/sqlite3-1.3.6.gemspec", "size_i": "2372", "regex": "false"}
+]

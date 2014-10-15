@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/rc.d/init.d/qemu-ga", "size_i": "1895", "regex": "false"},
+	{"name_s": "/etc/sysconfig/qemu-ga", "size_i": "1703", "regex": "false"},
+	{"name_s": "/usr/bin/qemu-ga", "size_i": "211768", "regex": "false"},
+	{"name_s": "/usr/libexec/qemu-ga", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/qemu-ga/fsfreeze-hook", "size_i": "1180", "regex": "false"},
+	{"name_s": "/usr/libexec/qemu-ga/fsfreeze-hook.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/qemu-kvm/qemu-ga", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/qemu-kvm/qemu-ga/fsfreeze-hook.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/qemu-kvm/qemu-ga/fsfreeze-hook.d/mysql-flush.sh.sample", "size_i": "1774", "regex": "false"},
+	{"name_s": "/var/log/qemu-ga", "size_i": "4096", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/plymouth/themes/solar", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/solar/box.png", "size_i": "870", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/solar/bullet.png", "size_i": "296", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/solar/entry.png", "size_i": "350", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/solar/lock.png", "size_i": "1896", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/solar/progress_bar.png", "size_i": "246", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/solar/solar.plymouth", "size_i": "165", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/solar/star.png", "size_i": "355666", "regex": "false"}
+]

@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse/features", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse/features/org.eclipse.mylyn.java_feature_3.4.2.v20100916-0100-e3x", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse/features/org.eclipse.mylyn.java_feature_3.4.2.v20100916-0100-e3x/about.html", "size_i": "1308", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse/features/org.eclipse.mylyn.java_feature_3.4.2.v20100916-0100-e3x/epl-v10.html", "size_i": "16536", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse/features/org.eclipse.mylyn.java_feature_3.4.2.v20100916-0100-e3x/feature.properties", "size_i": "8962", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse/features/org.eclipse.mylyn.java_feature_3.4.2.v20100916-0100-e3x/feature.xml", "size_i": "1860", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse/features/org.eclipse.mylyn.java_feature_3.4.2.v20100916-0100-e3x/license.html", "size_i": "9051", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse/plugins/org.eclipse.mylyn.ide.ant_3.4.0.v20100916-0100-e3x.jar", "size_i": "18591", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse/plugins/org.eclipse.mylyn.ide.ui_3.4.0.v20100916-0100-e3x.jar", "size_i": "27643", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse/plugins/org.eclipse.mylyn.java.tasks_3.4.0.v20100916-0100-e3x.jar", "size_i": "14217", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-java/eclipse/plugins/org.eclipse.mylyn.java.ui_3.4.0.v20100916-0100-e3x.jar", "size_i": "140900", "regex": "false"}
+]

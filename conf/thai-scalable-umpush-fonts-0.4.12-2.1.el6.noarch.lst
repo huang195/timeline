@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/fonts/conf.d/90-thai-scalable-synthetic-umpush.conf", "size_i": "71", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/90-thai-scalable-synthetic-umpush.conf", "size_i": "602", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Umpush-Bold.ttf", "size_i": "64880", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Umpush-BoldOblique.ttf", "size_i": "74268", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Umpush-Light.ttf", "size_i": "65444", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Umpush-LightOblique.ttf", "size_i": "75456", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Umpush-Oblique.ttf", "size_i": "75424", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Umpush.ttf", "size_i": "65680", "regex": "false"}
+]

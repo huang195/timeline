@@ -1,0 +1,14 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/include/uv-private", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/include/uv-private/ngx-queue.h", "size_i": "5200", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/include/uv-private/tree.h", "size_i": "52889", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/include/uv-private/uv-linux.h", "size_i": "1781", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/include/uv-private/uv-unix.h", "size_i": "14977", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/include/uv.h", "size_i": "67857", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib64/libuv.so", "size_i": "13", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib64/pkgconfig/libuv.pc", "size_i": "309", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-libuv-devel-0.10.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-libuv-devel-0.10.5/AUTHORS", "size_i": "3144", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-libuv-devel-0.10.5/LICENSE", "size_i": "1786", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-libuv-devel-0.10.5/README.md", "size_i": "3265", "regex": "false"}
+]

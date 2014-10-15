@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/lauxlib.h", "size_i": "5777", "regex": "false"},
+	{"name_s": "/usr/include/lua.h", "size_i": "11688", "regex": "false"},
+	{"name_s": "/usr/include/lua.hpp", "size_i": "191", "regex": "false"},
+	{"name_s": "/usr/include/luaconf.h", "size_i": "22128", "regex": "false"},
+	{"name_s": "/usr/include/lualib.h", "size_i": "1026", "regex": "false"},
+	{"name_s": "/usr/lib/liblua.so", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/lua.pc", "size_i": "224", "regex": "false"}
+]

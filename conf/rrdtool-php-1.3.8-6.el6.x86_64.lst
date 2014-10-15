@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/php.d/rrdtool.ini", "size_i": "55", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/rrdtool.so", "size_i": "21680", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-php-1.3.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-php-1.3.8/README", "size_i": "2736", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-php-1.3.8/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-php-1.3.8/examples/rrd_create.php", "size_i": "783", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-php-1.3.8/examples/rrd_fetch.php", "size_i": "1213", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-php-1.3.8/examples/rrd_graph.php", "size_i": "1258", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-php-1.3.8/examples/rrd_last.php", "size_i": "549", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-php-1.3.8/examples/rrd_update.php", "size_i": "499", "regex": "false"}
+]

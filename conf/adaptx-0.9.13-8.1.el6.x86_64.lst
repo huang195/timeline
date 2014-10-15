@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/gcj/adaptx", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/adaptx/adaptx-0.9.13.jar.db", "size_i": "24576", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/adaptx/adaptx-0.9.13.jar.so", "size_i": "1635176", "regex": "false"},
+	{"name_s": "/usr/share/doc/adaptx-0.9.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/adaptx-0.9.13/CHANGELOG", "size_i": "30245", "regex": "false"},
+	{"name_s": "/usr/share/doc/adaptx-0.9.13/LICENSE", "size_i": "1843", "regex": "false"},
+	{"name_s": "/usr/share/doc/adaptx-0.9.13/contributors.html", "size_i": "10070", "regex": "false"},
+	{"name_s": "/usr/share/java/adaptx-0.9.13.jar", "size_i": "396170", "regex": "false"},
+	{"name_s": "/usr/share/java/adaptx.jar", "size_i": "17", "regex": "false"}
+]

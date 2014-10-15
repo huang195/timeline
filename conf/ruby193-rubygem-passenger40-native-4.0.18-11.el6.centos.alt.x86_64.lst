@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/logrotate.d/ruby193-passenger", "size_i": "137", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/passenger-4.0.18/agents", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/passenger-4.0.18/agents/PassengerHelperAgent", "size_i": "1396328", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/passenger-4.0.18/agents/PassengerLoggingAgent", "size_i": "587144", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/passenger-4.0.18/agents/PassengerWatchdog", "size_i": "402488", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/passenger-4.0.18/agents/SpawnPreparer", "size_i": "12800", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/var/log/passenger-analytics", "size_i": "4096", "regex": "false"}
+]

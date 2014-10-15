@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/rc.d/init.d/ipmievd", "size_i": "2056", "regex": "false"},
+	{"name_s": "/etc/sysconfig/ipmievd", "size_i": "51", "regex": "false"},
+	{"name_s": "/usr/bin/ipmitool", "size_i": "652360", "regex": "false"},
+	{"name_s": "/usr/sbin/ipmievd", "size_i": "291592", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipmitool", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipmitool/AUTHORS", "size_i": "151", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipmitool/COPYING", "size_i": "1524", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipmitool/ChangeLog", "size_i": "15105", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipmitool/README", "size_i": "12748", "regex": "false"},
+	{"name_s": "/usr/share/ipmitool", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ipmitool/oem_ibm_sel_map", "size_i": "44550", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ipmitool.1.gz", "size_i": "20928", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ipmievd.8.gz", "size_i": "2972", "regex": "false"}
+]

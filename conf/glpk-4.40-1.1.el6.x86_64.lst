@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libglpk.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libglpk.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libglpk.so.0.25.0", "size_i": "828176", "regex": "false"},
+	{"name_s": "/usr/share/doc/glpk-4.40", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/glpk-4.40/COPYING", "size_i": "35149", "regex": "false"},
+	{"name_s": "/usr/share/doc/glpk-4.40/README", "size_i": "1510", "regex": "false"}
+]

@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/ldbadd", "size_i": "9192", "regex": "false"},
+	{"name_s": "/usr/bin/ldbdel", "size_i": "7664", "regex": "false"},
+	{"name_s": "/usr/bin/ldbedit", "size_i": "11632", "regex": "false"},
+	{"name_s": "/usr/bin/ldbmodify", "size_i": "9288", "regex": "false"},
+	{"name_s": "/usr/bin/ldbrename", "size_i": "6888", "regex": "false"},
+	{"name_s": "/usr/bin/ldbsearch", "size_i": "11152", "regex": "false"},
+	{"name_s": "/usr/lib64/ldb/libldb-cmdline.so", "size_i": "20776", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldbadd.1.gz", "size_i": "1000", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldbdel.1.gz", "size_i": "967", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldbedit.1.gz", "size_i": "1635", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldbmodify.1.gz", "size_i": "953", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldbrename.1.gz", "size_i": "981", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldbsearch.1.gz", "size_i": "1031", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/rdma/compat-dapl/dat.conf", "size_i": "1147", "regex": "false"},
+	{"name_s": "/usr/lib/libdaplcma.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libdaplcma.so.1.0.2", "size_i": "105016", "regex": "false"},
+	{"name_s": "/usr/lib/libdaplscm.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libdaplscm.so.1.0.2", "size_i": "102744", "regex": "false"},
+	{"name_s": "/usr/lib/libdat.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libdat.so.1.0.2", "size_i": "38712", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-dapl-1.2.19", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-dapl-1.2.19/AUTHORS", "size_i": "266", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-dapl-1.2.19/COPYING", "size_i": "1235", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-dapl-1.2.19/ChangeLog", "size_i": "72145", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-dapl-1.2.19/README", "size_i": "16886", "regex": "false"}
+]

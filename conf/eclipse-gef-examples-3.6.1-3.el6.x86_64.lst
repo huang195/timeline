@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/share/doc/eclipse-gef-examples-3.6.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-gef-examples-3.6.1/epl-v10.html", "size_i": "16536", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-gef-examples-3.6.1/notice.html", "size_i": "6004", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse/features", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse/features/org.eclipse.gef.examples_3.6.1.201107192118", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse/features/org.eclipse.gef.examples_3.6.1.201107192118/eclipse_update_120.jpg", "size_i": "21695", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse/features/org.eclipse.gef.examples_3.6.1.201107192118/epl-v10.html", "size_i": "16536", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse/features/org.eclipse.gef.examples_3.6.1.201107192118/feature.properties", "size_i": "10207", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse/features/org.eclipse.gef.examples_3.6.1.201107192118/feature.xml", "size_i": "1869", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse/features/org.eclipse.gef.examples_3.6.1.201107192118/license.html", "size_i": "9051", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse/plugins/org.eclipse.gef.examples.flow_3.6.0.201107192118.jar", "size_i": "87968", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse/plugins/org.eclipse.gef.examples.logic_3.6.1.201107192118.jar", "size_i": "238962", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse/plugins/org.eclipse.gef.examples.shapes_3.6.0.201107192118.jar", "size_i": "52343", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/gef-examples/eclipse/plugins/org.eclipse.gef.examples.text_3.6.0.201107192118.jar", "size_i": "137763", "regex": "false"}
+]

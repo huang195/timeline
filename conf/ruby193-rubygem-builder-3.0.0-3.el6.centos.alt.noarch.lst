@@ -1,0 +1,15 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/builder-3.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/builder-3.0.0/README", "size_i": "7267", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/builder-3.0.0/README.rdoc", "size_i": "7471", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/builder-3.0.0/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/builder-3.0.0/lib/blankslate.rb", "size_i": "3405", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/builder-3.0.0/lib/builder", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/builder-3.0.0/lib/builder.rb", "size_i": "342", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/builder-3.0.0/lib/builder/blankslate.rb", "size_i": "693", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/builder-3.0.0/lib/builder/xchar.rb", "size_i": "6201", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/builder-3.0.0/lib/builder/xmlbase.rb", "size_i": "4650", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/builder-3.0.0/lib/builder/xmlevents.rb", "size_i": "1872", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/builder-3.0.0/lib/builder/xmlmarkup.rb", "size_i": "10840", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/builder-3.0.0.gemspec", "size_i": "1316", "regex": "false"}
+]

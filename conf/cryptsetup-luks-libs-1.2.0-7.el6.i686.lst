@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/.libcryptsetup.so.1.1.0.hmac", "size_i": "65", "regex": "false"},
+	{"name_s": "/lib/.libcryptsetup.so.1.hmac", "size_i": "65", "regex": "false"},
+	{"name_s": "/lib/libcryptsetup.so.1", "size_i": "22", "regex": "false"},
+	{"name_s": "/lib/libcryptsetup.so.1.1.0", "size_i": "99412", "regex": "false"}
+]

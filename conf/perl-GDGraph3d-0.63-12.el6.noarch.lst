@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/share/doc/perl-GDGraph3d-0.63", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GDGraph3d-0.63/Changes", "size_i": "2145", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/GD::Graph3d.3pm.gz", "size_i": "3429", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD/Graph", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD/Graph/axestype3d.pm", "size_i": "23329", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD/Graph/bars3d.pm", "size_i": "10006", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD/Graph/cylinder.pm", "size_i": "4302", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD/Graph/cylinder3d.pm", "size_i": "919", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD/Graph/lines3d.pm", "size_i": "16922", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD/Graph/pie3d.pm", "size_i": "8218", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD/Graph3d.pm", "size_i": "4819", "regex": "false"}
+]

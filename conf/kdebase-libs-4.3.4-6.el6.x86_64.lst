@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libdolphinprivate.so.4", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/libdolphinprivate.so.4.3.0", "size_i": "459544", "regex": "false"},
+	{"name_s": "/usr/lib64/libkonq.so.5", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libkonq.so.5.3.0", "size_i": "220688", "regex": "false"},
+	{"name_s": "/usr/lib64/libkonqsidebarplugin.so.4", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/lib64/libkonqsidebarplugin.so.4.3.0", "size_i": "13624", "regex": "false"},
+	{"name_s": "/usr/lib64/libkonquerorprivate.so.4", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/libkonquerorprivate.so.4.3.0", "size_i": "41912", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/libraw1394", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libraw1394/csr.h", "size_i": "1058", "regex": "false"},
+	{"name_s": "/usr/include/libraw1394/ieee1394.h", "size_i": "1270", "regex": "false"},
+	{"name_s": "/usr/include/libraw1394/raw1394.h", "size_i": "46413", "regex": "false"},
+	{"name_s": "/usr/lib64/libraw1394.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libraw1394.pc", "size_i": "219", "regex": "false"},
+	{"name_s": "/usr/share/doc/libraw1394-devel-2.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libraw1394-devel-2.0.4/libraw1394.sgml", "size_i": "146388", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/jomolhari-fonts-0.003", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jomolhari-fonts-0.003/FONTLOG.txt", "size_i": "1412", "regex": "false"},
+	{"name_s": "/usr/share/doc/jomolhari-fonts-0.003/OFL-FAQ.txt", "size_i": "18298", "regex": "false"},
+	{"name_s": "/usr/share/doc/jomolhari-fonts-0.003/OFL.txt", "size_i": "4345", "regex": "false"},
+	{"name_s": "/usr/share/fonts/jomolhari", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/jomolhari/Jomolhari-alpha3c-0605331.ttf", "size_i": "2269108", "regex": "false"}
+]

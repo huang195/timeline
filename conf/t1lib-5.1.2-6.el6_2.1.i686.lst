@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/lib/libt1.so.5", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib/libt1.so.5.1.2", "size_i": "282724", "regex": "false"},
+	{"name_s": "/usr/lib/libt1x.so.5", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libt1x.so.5.1.2", "size_i": "16680", "regex": "false"},
+	{"name_s": "/usr/sbin/t1libconfig", "size_i": "3921", "regex": "false"},
+	{"name_s": "/usr/share/doc/t1lib-5.1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/t1lib-5.1.2/Changes", "size_i": "25142", "regex": "false"},
+	{"name_s": "/usr/share/doc/t1lib-5.1.2/LGPL", "size_i": "25275", "regex": "false"},
+	{"name_s": "/usr/share/doc/t1lib-5.1.2/LICENSE", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/t1lib-5.1.2/README", "size_i": "7090", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/FontDatabase.5.gz", "size_i": "1074", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/t1libconfig.8.gz", "size_i": "732", "regex": "false"},
+	{"name_s": "/usr/share/t1lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/t1lib/FontDatabase", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/t1lib/t1lib.config", "size_i": "0", "regex": "false"}
+]

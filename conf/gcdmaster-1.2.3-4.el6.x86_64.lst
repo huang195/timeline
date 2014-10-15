@@ -1,0 +1,16 @@
+[
+	{"name_s": "/etc/gconf/schemas/gcdmaster.schemas", "size_i": "884", "regex": "false"},
+	{"name_s": "/usr/bin/gcdmaster", "size_i": "1256448", "regex": "false"},
+	{"name_s": "/usr/share/application-registry/gcdmaster.applications", "size_i": "196", "regex": "false"},
+	{"name_s": "/usr/share/applications/gcdmaster.desktop", "size_i": "268", "regex": "false"},
+	{"name_s": "/usr/share/gcdmaster", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gcdmaster/glade", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gcdmaster/glade/Preferences.glade", "size_i": "14352", "regex": "false"},
+	{"name_s": "/usr/share/gcdmaster/glade/ProjectChooser.glade", "size_i": "28688", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gcdmaster.1.gz", "size_i": "7004", "regex": "false"},
+	{"name_s": "/usr/share/mime-info/gcdmaster.keys", "size_i": "1020", "regex": "false"},
+	{"name_s": "/usr/share/mime-info/gcdmaster.mime", "size_i": "107", "regex": "false"},
+	{"name_s": "/usr/share/mime/packages/gcdmaster.xml", "size_i": "1482", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/gcdmaster-doc.png", "size_i": "7796", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/gcdmaster.png", "size_i": "4402", "regex": "false"}
+]

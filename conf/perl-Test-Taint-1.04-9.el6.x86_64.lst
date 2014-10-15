@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Test/Taint.pm", "size_i": "8641", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Test/Taint", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Test/Taint/Taint.so", "size_i": "7648", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Taint-1.04", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Taint-1.04/Changes", "size_i": "1163", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Taint.3pm.gz", "size_i": "3338", "regex": "false"}
+]

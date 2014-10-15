@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/PackageKit/CommandNotFound.conf", "size_i": "1465", "regex": "false"},
+	{"name_s": "/etc/profile.d/PackageKit.sh", "size_i": "837", "regex": "false"},
+	{"name_s": "/usr/libexec/pk-command-not-found", "size_i": "44968", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-command-not-found-0.5.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-command-not-found-0.5.8/AUTHORS", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-command-not-found-0.5.8/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-command-not-found-0.5.8/NEWS", "size_i": "205506", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-command-not-found-0.5.8/README", "size_i": "279", "regex": "false"}
+]

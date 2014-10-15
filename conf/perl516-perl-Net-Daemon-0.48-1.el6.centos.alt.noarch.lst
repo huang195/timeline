@@ -1,0 +1,15 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Net-Daemon-0.48", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Net-Daemon-0.48/ChangeLog", "size_i": "7406", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Net-Daemon-0.48/LICENSE.Artistic", "size_i": "8114", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Net-Daemon-0.48/LICENSE.GPL", "size_i": "21093", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Net-Daemon-0.48/README", "size_i": "19285", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Net::Daemon.3pm.gz", "size_i": "8971", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Net::Daemon::Log.3pm.gz", "size_i": "3336", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Net::Daemon::Test.3pm.gz", "size_i": "3529", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Net", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Net/Daemon", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Net/Daemon.pm", "size_i": "37779", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Net/Daemon/Log.pm", "size_i": "7074", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Net/Daemon/Test.pm", "size_i": "9582", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/svrcore.h", "size_i": "8712", "regex": "false"},
+	{"name_s": "/usr/lib/libsvrcore.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/svrcore.pc", "size_i": "239", "regex": "false"}
+]

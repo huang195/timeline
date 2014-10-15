@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libspectre.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libspectre.so.1.1.4", "size_i": "61384", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspectre-0.2.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspectre-0.2.4/AUTHORS", "size_i": "76", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspectre-0.2.4/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspectre-0.2.4/NEWS", "size_i": "3607", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspectre-0.2.4/README", "size_i": "811", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspectre-0.2.4/TODO", "size_i": "411", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/lib/firmware/rt73.bin", "size_i": "2048", "regex": "false"},
+	{"name_s": "/usr/share/doc/rt73usb-firmware-1.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rt73usb-firmware-1.8/LICENSE.ralink-firmware.txt", "size_i": "2103", "regex": "false"}
+]

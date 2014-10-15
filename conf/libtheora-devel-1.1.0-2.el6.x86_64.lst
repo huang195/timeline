@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/theora", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/theora/codec.h", "size_i": "25695", "regex": "false"},
+	{"name_s": "/usr/include/theora/theora.h", "size_i": "33293", "regex": "false"},
+	{"name_s": "/usr/include/theora/theoradec.h", "size_i": "15877", "regex": "false"},
+	{"name_s": "/usr/include/theora/theoraenc.h", "size_i": "25309", "regex": "false"},
+	{"name_s": "/usr/lib64/libtheora.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libtheoradec.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libtheoraenc.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/theora.pc", "size_i": "251", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/theoradec.pc", "size_i": "267", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/theoraenc.pc", "size_i": "278", "regex": "false"}
+]

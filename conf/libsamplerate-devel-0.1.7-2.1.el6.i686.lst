@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/samplerate.h", "size_i": "5442", "regex": "false"},
+	{"name_s": "/usr/lib/libsamplerate.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/samplerate.pc", "size_i": "222", "regex": "false"}
+]

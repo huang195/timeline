@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/ant.d/swing", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-swing-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-swing-1.7.1.jar.so", "size_i": "32912", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-swing.jar", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-swing-1.7.1.jar", "size_i": "6768", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-swing.jar", "size_i": "19", "regex": "false"}
+]

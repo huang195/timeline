@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/mbstring.ini", "size_i": "57", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/mbstring.so", "size_i": "2183496", "regex": "false"}
+]

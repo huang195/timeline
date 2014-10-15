@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/libhowl.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libhowl.so.0.0.0", "size_i": "60416", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Devel-Cycle-1.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Devel-Cycle-1.10/Changes", "size_i": "1321", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Devel-Cycle-1.10/README", "size_i": "1578", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Devel::Cycle.3pm.gz", "size_i": "4023", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Devel", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Devel/Cycle.pm", "size_i": "13483", "regex": "false"}
+]

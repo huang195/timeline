@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libXpm.so.4", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libXpm.so.4.11.0", "size_i": "67800", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXpm-3.5.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXpm-3.5.10/AUTHORS", "size_i": "171", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXpm-3.5.10/COPYING", "size_i": "3793", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXpm-3.5.10/ChangeLog", "size_i": "30227", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/opt/rh/php54/root/etc/php.d/apc.ini", "size_i": "3197", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/apc.so", "size_i": "160864", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-apc-3.1.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-apc-3.1.15/CHANGELOG", "size_i": "9665", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-apc-3.1.15/INSTALL", "size_i": "19377", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-apc-3.1.15/LICENSE", "size_i": "3218", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-apc-3.1.15/NOTICE", "size_i": "1739", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-apc-3.1.15/TECHNOTES.txt", "size_i": "16114", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-apc-3.1.15/TODO", "size_i": "1413", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-apc-3.1.15/apc.php", "size_i": "46149", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/var/lib/pear/pkgxml/php54-php-pecl-apc.xml", "size_i": "36177", "regex": "false"}
+]

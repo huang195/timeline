@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/svn2cl", "size_i": "11168", "regex": "false"},
+	{"name_s": "/usr/share/doc/subversion-svn2cl-1.6.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/subversion-svn2cl-1.6.11/NEWS", "size_i": "3232", "regex": "false"},
+	{"name_s": "/usr/share/doc/subversion-svn2cl-1.6.11/README", "size_i": "4226", "regex": "false"},
+	{"name_s": "/usr/share/doc/subversion-svn2cl-1.6.11/TODO", "size_i": "457", "regex": "false"},
+	{"name_s": "/usr/share/doc/subversion-svn2cl-1.6.11/authors.xml", "size_i": "374", "regex": "false"},
+	{"name_s": "/usr/share/doc/subversion-svn2cl-1.6.11/svn2html.css", "size_i": "1218", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/svn2cl.1.gz", "size_i": "3397", "regex": "false"},
+	{"name_s": "/usr/share/svn2cl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/svn2cl/svn2cl.xsl", "size_i": "17054", "regex": "false"},
+	{"name_s": "/usr/share/svn2cl/svn2html.xsl", "size_i": "7265", "regex": "false"}
+]

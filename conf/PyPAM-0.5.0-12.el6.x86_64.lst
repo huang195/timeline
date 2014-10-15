@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/PAMmodule.so", "size_i": "17864", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/PyPAM-0.5.0-py2.6.egg-info", "size_i": "271", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyPAM-0.5.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyPAM-0.5.0/AUTHORS", "size_i": "33", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyPAM-0.5.0/COPYING", "size_i": "26536", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyPAM-0.5.0/ChangeLog", "size_i": "892", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyPAM-0.5.0/INSTALL", "size_i": "214", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyPAM-0.5.0/NEWS", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyPAM-0.5.0/README", "size_i": "947", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyPAM-0.5.0/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyPAM-0.5.0/examples/pamexample.c", "size_i": "1416", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyPAM-0.5.0/examples/pamtest.py", "size_i": "1075", "regex": "false"}
+]

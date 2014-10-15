@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/plutil", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/bin/plutil-1.2", "size_i": "7592", "regex": "false"},
+	{"name_s": "/usr/lib64/libplist++.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libplist++.so.1.1.2", "size_i": "50576", "regex": "false"},
+	{"name_s": "/usr/lib64/libplist.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libplist.so.1.1.2", "size_i": "31632", "regex": "false"},
+	{"name_s": "/usr/share/doc/libplist-1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libplist-1.2/AUTHORS", "size_i": "52", "regex": "false"},
+	{"name_s": "/usr/share/doc/libplist-1.2/COPYING.LESSER", "size_i": "26434", "regex": "false"},
+	{"name_s": "/usr/share/doc/libplist-1.2/README", "size_i": "885", "regex": "false"}
+]

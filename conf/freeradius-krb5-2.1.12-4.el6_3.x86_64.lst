@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/raddb/modules/krb5", "size_i": "153", "regex": "false"},
+	{"name_s": "/usr/lib64/freeradius/rlm_krb5-2.1.12.so", "size_i": "11304", "regex": "false"},
+	{"name_s": "/usr/lib64/freeradius/rlm_krb5.so", "size_i": "18", "regex": "false"}
+]

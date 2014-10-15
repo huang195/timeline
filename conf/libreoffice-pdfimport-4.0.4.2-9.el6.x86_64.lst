@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libreoffice/program/pdfimport.uno.so", "size_i": "577800", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/xpdfimport", "size_i": "49624", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/registry/pdfimport.xcd", "size_i": "7286", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xpdfimport", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xpdfimport/xpdfimport_err.pdf", "size_i": "21204", "regex": "false"}
+]

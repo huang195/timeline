@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libXdamage.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libXdamage.so.1.1.0", "size_i": "8904", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXdamage-1.1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXdamage-1.1.3/AUTHORS", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXdamage-1.1.3/COPYING", "size_i": "1135", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXdamage-1.1.3/ChangeLog", "size_i": "14020", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXdamage-1.1.3/README", "size_i": "800", "regex": "false"}
+]

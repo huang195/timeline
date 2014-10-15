@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/coreutils", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/coreutils/libstdbuf.so", "size_i": "5576", "regex": "false"}
+]

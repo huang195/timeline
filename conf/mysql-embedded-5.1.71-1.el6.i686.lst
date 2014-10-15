@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/mysql/libmysqld.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/mysql/libmysqld.so.0.0.1", "size_i": "7760456", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-embedded-5.1.71", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-embedded-5.1.71/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-embedded-5.1.71/README.mysql-license", "size_i": "290", "regex": "false"}
+]

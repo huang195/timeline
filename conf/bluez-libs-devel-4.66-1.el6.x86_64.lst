@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/include/bluetooth", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/bluetooth/bluetooth.h", "size_i": "3901", "regex": "false"},
+	{"name_s": "/usr/include/bluetooth/bnep.h", "size_i": "3743", "regex": "false"},
+	{"name_s": "/usr/include/bluetooth/cmtp.h", "size_i": "1600", "regex": "false"},
+	{"name_s": "/usr/include/bluetooth/hci.h", "size_i": "47067", "regex": "false"},
+	{"name_s": "/usr/include/bluetooth/hci_lib.h", "size_i": "8842", "regex": "false"},
+	{"name_s": "/usr/include/bluetooth/hidp.h", "size_i": "2087", "regex": "false"},
+	{"name_s": "/usr/include/bluetooth/l2cap.h", "size_i": "4805", "regex": "false"},
+	{"name_s": "/usr/include/bluetooth/rfcomm.h", "size_i": "2309", "regex": "false"},
+	{"name_s": "/usr/include/bluetooth/sco.h", "size_i": "1541", "regex": "false"},
+	{"name_s": "/usr/include/bluetooth/sdp.h", "size_i": "17047", "regex": "false"},
+	{"name_s": "/usr/include/bluetooth/sdp_lib.h", "size_i": "21650", "regex": "false"},
+	{"name_s": "/usr/lib64/libbluetooth.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/bluez.pc", "size_i": "201", "regex": "false"}
+]

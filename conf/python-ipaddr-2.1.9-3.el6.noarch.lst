@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ipaddr-2.1.9-py2.6.egg-info", "size_i": "587", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ipaddr.py", "size_i": "62385", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ipaddr.pyc", "size_i": "60821", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ipaddr.pyo", "size_i": "60622", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-ipaddr-2.1.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-ipaddr-2.1.9/COPYING", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-ipaddr-2.1.9/README", "size_i": "386", "regex": "false"}
+]

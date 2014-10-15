@@ -1,0 +1,6 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/CORE/libperl.so", "size_i": "1632224", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto", "size_i": "4096", "regex": "false"}
+]

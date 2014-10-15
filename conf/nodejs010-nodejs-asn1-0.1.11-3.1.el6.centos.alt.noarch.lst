@@ -1,0 +1,16 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/asn1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/asn1/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/asn1/lib/ber", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/asn1/lib/ber/errors.js", "size_i": "239", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/asn1/lib/ber/index.js", "size_i": "469", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/asn1/lib/ber/reader.js", "size_i": "5760", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/asn1/lib/ber/types.js", "size_i": "638", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/asn1/lib/ber/writer.js", "size_i": "7603", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/asn1/lib/index.js", "size_i": "320", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/asn1/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/asn1/package.json", "size_i": "715", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-asn1-0.1.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-asn1-0.1.11/LICENSE", "size_i": "1076", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-asn1-0.1.11/README.md", "size_i": "1201", "regex": "false"}
+]

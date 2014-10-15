@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/lib64/perl5/Bundle", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Bundle/DBD", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Bundle/DBD/mysql.pm", "size_i": "364", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/DBD", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/DBD/mysql", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/DBD/mysql.pm", "size_i": "57165", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/DBD/mysql/GetInfo.pm", "size_i": "16095", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/DBD/mysql/INSTALL.pod", "size_i": "22221", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/DBD", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/DBD/mysql", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/DBD/mysql/mysql.so", "size_i": "131048", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-MySQL-4.013", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-MySQL-4.013/ChangeLog", "size_i": "58695", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-MySQL-4.013/INSTALL.html", "size_i": "28866", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-MySQL-4.013/README", "size_i": "3387", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-MySQL-4.013/TODO", "size_i": "896", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Bundle::DBD::mysql.3pm.gz", "size_i": "1882", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DBD::mysql.3pm.gz", "size_i": "15297", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DBD::mysql::INSTALL.3pm.gz", "size_i": "9915", "regex": "false"}
+]

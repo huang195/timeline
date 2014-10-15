@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/share/ghostscript/conf.d/FAPIcidfmap.ko", "size_i": "2345", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/conf.d/cidfmap.ko", "size_i": "646", "regex": "false"}
+]

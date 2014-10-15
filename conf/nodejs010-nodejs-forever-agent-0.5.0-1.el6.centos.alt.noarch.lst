@@ -1,0 +1,6 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/forever-agent", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/forever-agent/index.js", "size_i": "3647", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/forever-agent/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/forever-agent/package.json", "size_i": "501", "regex": "false"}
+]

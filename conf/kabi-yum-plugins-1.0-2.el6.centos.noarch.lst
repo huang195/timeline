@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/kabi.conf", "size_i": "283", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/kabi.py", "size_i": "4479", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/kabi.pyc", "size_i": "3215", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/kabi.pyo", "size_i": "3215", "regex": "false"}
+]

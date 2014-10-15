@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/libasprintf.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libasprintf.so.0.0.0", "size_i": "6840", "regex": "false"},
+	{"name_s": "/usr/lib64/libgettextpo.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libgettextpo.so.0.4.0", "size_i": "271992", "regex": "false"}
+]

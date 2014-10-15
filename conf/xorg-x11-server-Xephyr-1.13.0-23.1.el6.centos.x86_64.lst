@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/Xephyr", "size_i": "2149760", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/Xephyr.1.gz", "size_i": "1596", "regex": "false"}
+]

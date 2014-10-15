@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/wbclient.h", "size_i": "35975", "regex": "false"},
+	{"name_s": "/usr/lib/libwbclient.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/wbclient.pc", "size_i": "268", "regex": "false"}
+]

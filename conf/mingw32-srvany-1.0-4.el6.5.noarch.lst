@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/srvany.exe", "size_i": "57271", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-srvany-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-srvany-1.0/AUTHORS", "size_i": "43", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-srvany-1.0/COPYING", "size_i": "719", "regex": "false"}
+]

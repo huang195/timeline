@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libpath_utils.so.1", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libpath_utils.so.1.0.0", "size_i": "10172", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpath_utils-0.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpath_utils-0.2.1/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpath_utils-0.2.1/COPYING.LESSER", "size_i": "7643", "regex": "false"}
+]

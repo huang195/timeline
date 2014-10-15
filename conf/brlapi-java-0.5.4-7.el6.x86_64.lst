@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/java/libbrlapi_java.so", "size_i": "25872", "regex": "false"},
+	{"name_s": "/usr/share/java/brlapi.jar", "size_i": "10842", "regex": "false"}
+]

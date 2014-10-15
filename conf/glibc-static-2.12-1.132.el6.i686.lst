@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib/libBrokenLocale.a", "size_i": "1246", "regex": "false"},
+	{"name_s": "/usr/lib/libanl.a", "size_i": "13100", "regex": "false"},
+	{"name_s": "/usr/lib/libc.a", "size_i": "3546978", "regex": "false"},
+	{"name_s": "/usr/lib/libc_stubs.a", "size_i": "10269", "regex": "false"},
+	{"name_s": "/usr/lib/libcrypt.a", "size_i": "43618", "regex": "false"},
+	{"name_s": "/usr/lib/libdl.a", "size_i": "9742", "regex": "false"},
+	{"name_s": "/usr/lib/libm.a", "size_i": "549928", "regex": "false"},
+	{"name_s": "/usr/lib/libnsl.a", "size_i": "147558", "regex": "false"},
+	{"name_s": "/usr/lib/libpthread.a", "size_i": "122540", "regex": "false"},
+	{"name_s": "/usr/lib/libresolv.a", "size_i": "109342", "regex": "false"},
+	{"name_s": "/usr/lib/librt.a", "size_i": "64354", "regex": "false"},
+	{"name_s": "/usr/lib/libutil.a", "size_i": "9744", "regex": "false"}
+]

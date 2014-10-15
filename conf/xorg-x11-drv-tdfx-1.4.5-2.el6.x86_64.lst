@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/tdfx_drv.so", "size_i": "62720", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/tdfx.xinf", "size_i": "212", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/tdfx.4.gz", "size_i": "855", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/tibetan-machine-uni-fonts-1.901", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/tibetan-machine-uni-fonts-1.901/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/tibetan-machine-uni-fonts-1.901/README", "size_i": "965", "regex": "false"},
+	{"name_s": "/usr/share/fonts/tibetan-machine-uni", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/tibetan-machine-uni/TibMachUni-1.901b.ttf", "size_i": "4511176", "regex": "false"}
+]

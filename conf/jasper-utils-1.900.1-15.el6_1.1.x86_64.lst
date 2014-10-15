@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/bin/jiv", "size_i": "19888", "regex": "false"},
+	{"name_s": "/usr/bin/tmrdemo", "size_i": "5920", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/jiv.1.gz", "size_i": "400", "regex": "false"}
+]

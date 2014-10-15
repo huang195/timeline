@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/gcj/librepository", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/librepository/librepository.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/librepository/librepository.jar.so", "size_i": "244232", "regex": "false"},
+	{"name_s": "/usr/share/doc/librepository-1.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/librepository-1.0.0/ChangeLog.txt", "size_i": "1855", "regex": "false"},
+	{"name_s": "/usr/share/doc/librepository-1.0.0/README.txt", "size_i": "2278", "regex": "false"},
+	{"name_s": "/usr/share/doc/librepository-1.0.0/licence-LGPL.txt", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/java/librepository.jar", "size_i": "55960", "regex": "false"}
+]

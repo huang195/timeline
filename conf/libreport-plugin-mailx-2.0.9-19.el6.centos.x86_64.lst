@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/libreport/events.d/mailx_event.conf", "size_i": "289", "regex": "false"},
+	{"name_s": "/etc/libreport/events/report_Mailx.xml", "size_i": "20452", "regex": "false"},
+	{"name_s": "/etc/libreport/plugins/mailx.conf", "size_i": "331", "regex": "false"},
+	{"name_s": "/usr/bin/reporter-mailx", "size_i": "10072", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/reporter-mailx.1.gz", "size_i": "1276", "regex": "false"}
+]

@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027/README", "size_i": "3131", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027/changes.pod", "size_i": "16232", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027/contrib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027/contrib/MailTool.pm", "size_i": "9737", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027/contrib/README", "size_i": "180", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027/examples/mime_fwd", "size_i": "1270", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027/examples/mime_gif", "size_i": "1846", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027/examples/mime_hack", "size_i": "1054", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027/examples/mime_longlines", "size_i": "3035", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027/examples/mime_postcard", "size_i": "1998", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Lite-3.027/examples/nodisp", "size_i": "324", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/MIME::Lite.3pm.gz", "size_i": "21093", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/MIME::changes.3pm.gz", "size_i": "9300", "regex": "false"},
+	{"name_s": "/usr/share/perl5/MIME", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/MIME/Lite.pm", "size_i": "104504", "regex": "false"},
+	{"name_s": "/usr/share/perl5/MIME/changes.pod", "size_i": "16232", "regex": "false"}
+]

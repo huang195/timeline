@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/gcj/pentaho-reporting-flow-engine", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/pentaho-reporting-flow-engine/flow-engine.jar.db", "size_i": "24576", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/pentaho-reporting-flow-engine/flow-engine.jar.so", "size_i": "1373304", "regex": "false"},
+	{"name_s": "/usr/share/doc/pentaho-reporting-flow-engine-0.9.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pentaho-reporting-flow-engine-0.9.2/ChangeLog.txt", "size_i": "116286", "regex": "false"},
+	{"name_s": "/usr/share/doc/pentaho-reporting-flow-engine-0.9.2/README.txt", "size_i": "2219", "regex": "false"},
+	{"name_s": "/usr/share/doc/pentaho-reporting-flow-engine-0.9.2/licence-LGPL.txt", "size_i": "27688", "regex": "false"},
+	{"name_s": "/usr/share/java/flow-engine.jar", "size_i": "355010", "regex": "false"}
+]

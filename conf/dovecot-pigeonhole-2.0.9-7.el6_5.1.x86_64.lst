@@ -1,0 +1,17 @@
+[
+	{"name_s": "/etc/dovecot/conf.d/20-managesieve.conf", "size_i": "2401", "regex": "false"},
+	{"name_s": "/etc/dovecot/conf.d/90-sieve.conf", "size_i": "2511", "regex": "false"},
+	{"name_s": "/usr/bin/sieve-dump", "size_i": "26712", "regex": "false"},
+	{"name_s": "/usr/bin/sieve-test", "size_i": "30808", "regex": "false"},
+	{"name_s": "/usr/bin/sievec", "size_i": "30808", "regex": "false"},
+	{"name_s": "/usr/lib64/dovecot/settings", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/dovecot/settings/libmanagesieve_login_settings.so", "size_i": "14568", "regex": "false"},
+	{"name_s": "/usr/lib64/dovecot/settings/libmanagesieve_settings.so", "size_i": "6672", "regex": "false"},
+	{"name_s": "/usr/libexec/dovecot/managesieve", "size_i": "72496", "regex": "false"},
+	{"name_s": "/usr/libexec/dovecot/managesieve-login", "size_i": "31120", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sieve-dump.1.gz", "size_i": "1799", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sieve-test.1.gz", "size_i": "3387", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sievec.1.gz", "size_i": "2177", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sieved.1.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/pigeonhole.7.gz", "size_i": "1827", "regex": "false"}
+]

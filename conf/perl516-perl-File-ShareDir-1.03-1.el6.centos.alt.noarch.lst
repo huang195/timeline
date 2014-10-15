@@ -1,0 +1,19 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-ShareDir-1.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-ShareDir-1.03/Changes", "size_i": "975", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-ShareDir-1.03/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-ShareDir-1.03/README", "size_i": "7369", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/File::ShareDir.3pm.gz", "size_i": "4270", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/File", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/File/ShareDir.pm", "size_i": "14467", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/auto", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/auto/share", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/auto/share/dist", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/auto/share/dist/File-ShareDir", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/auto/share/dist/File-ShareDir/sample.txt", "size_i": "159", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/auto/share/dist/File-ShareDir/subdir", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/auto/share/dist/File-ShareDir/subdir/sample.txt", "size_i": "166", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/auto/share/module", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/auto/share/module/File-ShareDir", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/auto/share/module/File-ShareDir/test_file.txt", "size_i": "18", "regex": "false"}
+]

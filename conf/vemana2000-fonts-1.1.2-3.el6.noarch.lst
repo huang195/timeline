@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/fonts/conf.d/69-vemana2000.conf", "size_i": "51", "regex": "false"},
+	{"name_s": "/usr/share/doc/vemana2000-fonts-1.1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/vemana2000-fonts-1.1.2/gpl.txt", "size_i": "17988", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/69-vemana2000.conf", "size_i": "340", "regex": "false"},
+	{"name_s": "/usr/share/fonts/vemana2000", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/vemana2000/vemana2000.ttf", "size_i": "209904", "regex": "false"}
+]

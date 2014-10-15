@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/bunzip2", "size_i": "86739", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/bz2-1.dll", "size_i": "189797", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/bzcat", "size_i": "86739", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/bzcmp", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/bzdiff", "size_i": "2128", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/bzegrep", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/bzfgrep", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/bzgrep", "size_i": "1677", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/bzip2", "size_i": "86739", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/bzip2recover", "size_i": "49866", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/bzless", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/bzmore", "size_i": "1259", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/bzlib.h", "size_i": "6245", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libbz2.dll.a", "size_i": "22638", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-bzip2-1.0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-bzip2-1.0.5/LICENSE", "size_i": "1901", "regex": "false"}
+]

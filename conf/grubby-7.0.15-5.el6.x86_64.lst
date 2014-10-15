@@ -1,0 +1,10 @@
+[
+	{"name_s": "/sbin/grubby", "size_i": "45896", "regex": "false"},
+	{"name_s": "/sbin/installkernel", "size_i": "2670", "regex": "false"},
+	{"name_s": "/sbin/new-kernel-pkg", "size_i": "13892", "regex": "false"},
+	{"name_s": "/usr/share/doc/grubby-7.0.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/grubby-7.0.15/COPYING", "size_i": "17990", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/grubby.8.gz", "size_i": "2711", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/installkernel.8.gz", "size_i": "451", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/new-kernel-pkg.8.gz", "size_i": "936", "regex": "false"}
+]

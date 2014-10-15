@@ -1,0 +1,13 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Digest-1.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Digest-1.17/Changes", "size_i": "3583", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Digest-1.17/README", "size_i": "416", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Digest-1.17/digest-bench", "size_i": "535", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Digest.3pm.gz", "size_i": "5559", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Digest::base.3pm.gz", "size_i": "2132", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Digest::file.3pm.gz", "size_i": "2303", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Digest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Digest.pm", "size_i": "10597", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Digest/base.pm", "size_i": "1804", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Digest/file.pm", "size_i": "1732", "regex": "false"}
+]

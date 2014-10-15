@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libclutter-glx-1.0.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib64/libclutter-glx-1.0.so.0.0.6", "size_i": "856424", "regex": "false"},
+	{"name_s": "/usr/share/doc/clutter-1.0.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/clutter-1.0.6/AUTHORS", "size_i": "781", "regex": "false"},
+	{"name_s": "/usr/share/doc/clutter-1.0.6/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/clutter-1.0.6/NEWS", "size_i": "65302", "regex": "false"},
+	{"name_s": "/usr/share/doc/clutter-1.0.6/README", "size_i": "32438", "regex": "false"}
+]

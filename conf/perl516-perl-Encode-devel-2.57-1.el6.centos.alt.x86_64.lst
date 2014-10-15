@@ -1,0 +1,11 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/bin/enc2xs", "size_i": "39218", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Encode/Changes.e2x", "size_i": "179", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Encode/ConfigLocal_PM.e2x", "size_i": "184", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Encode/Makefile_PL.e2x", "size_i": "4921", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Encode/README.e2x", "size_i": "553", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Encode/_PM.e2x", "size_i": "250", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Encode/_T.e2x", "size_i": "133", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Encode/encode.h", "size_i": "4049", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man1/enc2xs.1.gz", "size_i": "5401", "regex": "false"}
+]

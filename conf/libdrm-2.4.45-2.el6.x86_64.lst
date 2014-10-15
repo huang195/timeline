@@ -1,0 +1,15 @@
+[
+	{"name_s": "/lib/udev/rules.d/91-drm-modeset.rules", "size_i": "56", "regex": "false"},
+	{"name_s": "/usr/lib64/libdrm.so.2", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libdrm.so.2.4.0", "size_i": "43976", "regex": "false"},
+	{"name_s": "/usr/lib64/libdrm_intel.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libdrm_intel.so.1.0.0", "size_i": "135736", "regex": "false"},
+	{"name_s": "/usr/lib64/libdrm_nouveau.so.1", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libdrm_nouveau.so.1.0.0", "size_i": "21208", "regex": "false"},
+	{"name_s": "/usr/lib64/libdrm_nouveau2.so.2", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libdrm_nouveau2.so.2.0.0", "size_i": "23312", "regex": "false"},
+	{"name_s": "/usr/lib64/libdrm_radeon.so.1", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libdrm_radeon.so.1.0.1", "size_i": "45752", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdrm-2.4.45", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdrm-2.4.45/README", "size_i": "1627", "regex": "false"}
+]

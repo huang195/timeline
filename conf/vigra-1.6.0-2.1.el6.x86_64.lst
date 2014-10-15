@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libvigraimpex.so.2", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libvigraimpex.so.2.0.160", "size_i": "340504", "regex": "false"},
+	{"name_s": "/usr/share/doc/vigra-1.6.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/vigra-1.6.0/LICENSE.txt", "size_i": "1415", "regex": "false"},
+	{"name_s": "/usr/share/doc/vigra-1.6.0/README.txt", "size_i": "2019", "regex": "false"}
+]

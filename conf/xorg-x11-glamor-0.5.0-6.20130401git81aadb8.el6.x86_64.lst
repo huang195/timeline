@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libglamor.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libglamor.so.0.0.0", "size_i": "213040", "regex": "false"},
+	{"name_s": "/usr/lib64/xorg/modules/libglamoregl.so", "size_i": "13344", "regex": "false"},
+	{"name_s": "/usr/share/X11/xorg.conf.d/glamor.conf", "size_i": "61", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-glamor-0.5.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-glamor-0.5.0/COPYING", "size_i": "1097", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-glamor-0.5.0/README", "size_i": "3622", "regex": "false"}
+]

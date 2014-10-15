@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/include/gstreamer-0.10/gst/interfaces/photography-enumtypes.h", "size_i": "1245", "regex": "false"},
+	{"name_s": "/usr/include/gstreamer-0.10/gst/interfaces/photography.h", "size_i": "13074", "regex": "false"},
+	{"name_s": "/usr/include/gstreamer-0.10/gst/signalprocessor", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gstreamer-0.10/gst/signalprocessor/gstsignalprocessor.h", "size_i": "4682", "regex": "false"},
+	{"name_s": "/usr/include/gstreamer-0.10/gst/video", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gstreamer-0.10/gst/video/gstbasevideocodec.h", "size_i": "4258", "regex": "false"},
+	{"name_s": "/usr/include/gstreamer-0.10/gst/video/gstbasevideodecoder.h", "size_i": "5274", "regex": "false"},
+	{"name_s": "/usr/include/gstreamer-0.10/gst/video/gstbasevideoencoder.h", "size_i": "4139", "regex": "false"},
+	{"name_s": "/usr/include/gstreamer-0.10/gst/video/gstbasevideoparse.h", "size_i": "4558", "regex": "false"},
+	{"name_s": "/usr/include/gstreamer-0.10/gst/video/gstbasevideoutils.h", "size_i": "2485", "regex": "false"},
+	{"name_s": "/usr/lib/libgstbasevideo-0.10.so", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/lib/libgstphotography-0.10.so", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/lib/libgstsignalprocessor-0.10.so", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/gstreamer-plugins-bad-0.10.pc", "size_i": "315", "regex": "false"}
+]

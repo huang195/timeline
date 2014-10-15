@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib/libpng.so.3", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libpng.so.3.49.0", "size_i": "168308", "regex": "false"},
+	{"name_s": "/usr/lib/libpng12.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libpng12.so.0.49.0", "size_i": "158736", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpng-1.2.49", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpng-1.2.49/CHANGES", "size_i": "135299", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpng-1.2.49/CMakeLists.txt", "size_i": "7634", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpng-1.2.49/LICENSE", "size_i": "4197", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpng-1.2.49/README", "size_i": "14606", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpng-1.2.49/TODO", "size_i": "1231", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpng-1.2.49/example.c", "size_i": "30591", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpng-1.2.49/libpng-1.2.49.txt", "size_i": "136032", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/png.5.gz", "size_i": "1141", "regex": "false"}
+]

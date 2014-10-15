@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/hbaapi.h", "size_i": "26019", "regex": "false"},
+	{"name_s": "/usr/include/vendorhbaapi.h", "size_i": "13067", "regex": "false"},
+	{"name_s": "/usr/lib64/libHBAAPI.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/HBAAPI.pc", "size_i": "199", "regex": "false"}
+]

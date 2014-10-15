@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/httpd/conf.d/auth_pgsql.conf", "size_i": "3512", "regex": "false"},
+	{"name_s": "/usr/lib64/httpd/modules/mod_auth_pgsql.so", "size_i": "24720", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_pgsql-2.0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_pgsql-2.0.3/INSTALL", "size_i": "1193", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_pgsql-2.0.3/LICENSE", "size_i": "2090", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_pgsql-2.0.3/README", "size_i": "677", "regex": "false"},
+	{"name_s": "/var/www/manual/mod/mod_auth_pgsql.html", "size_i": "30244", "regex": "false"}
+]

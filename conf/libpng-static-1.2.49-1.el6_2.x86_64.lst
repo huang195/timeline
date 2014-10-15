@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libpng.a", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/lib64/libpng12.a", "size_i": "244130", "regex": "false"}
+]

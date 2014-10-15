@@ -1,0 +1,22 @@
+[
+	{"name_s": "/lib64/libncurses.so.5", "size_i": "17", "regex": "false"},
+	{"name_s": "/lib64/libncurses.so.5.7", "size_i": "140096", "regex": "false"},
+	{"name_s": "/lib64/libncursesw.so.5", "size_i": "18", "regex": "false"},
+	{"name_s": "/lib64/libncursesw.so.5.7", "size_i": "193168", "regex": "false"},
+	{"name_s": "/lib64/libtinfo.so.5", "size_i": "15", "regex": "false"},
+	{"name_s": "/lib64/libtinfo.so.5.7", "size_i": "135896", "regex": "false"},
+	{"name_s": "/usr/lib64/libform.so.5", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libform.so.5.7", "size_i": "63072", "regex": "false"},
+	{"name_s": "/usr/lib64/libformw.so.5", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libformw.so.5.7", "size_i": "67328", "regex": "false"},
+	{"name_s": "/usr/lib64/libmenu.so.5", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libmenu.so.5.7", "size_i": "29656", "regex": "false"},
+	{"name_s": "/usr/lib64/libmenuw.so.5", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libmenuw.so.5.7", "size_i": "30456", "regex": "false"},
+	{"name_s": "/usr/lib64/libpanel.so.5", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libpanel.so.5.7", "size_i": "11680", "regex": "false"},
+	{"name_s": "/usr/lib64/libpanelw.so.5", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libpanelw.so.5.7", "size_i": "11680", "regex": "false"},
+	{"name_s": "/usr/lib64/libtic.so.5", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/lib64/libtic.so.5.7", "size_i": "77416", "regex": "false"}
+]

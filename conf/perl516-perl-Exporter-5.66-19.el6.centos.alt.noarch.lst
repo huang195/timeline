@@ -1,0 +1,7 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Exporter.3pm.gz", "size_i": "8472", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Exporter::Heavy.3pm.gz", "size_i": "1774", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Exporter", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Exporter.pm", "size_i": "18671", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Exporter/Heavy.pm", "size_i": "6378", "regex": "false"}
+]

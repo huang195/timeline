@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libibus-qt.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libibus-qt.so.1.3.0", "size_i": "344616", "regex": "false"},
+	{"name_s": "/usr/lib64/qt4/plugins/inputmethods/libqtim-ibus.so", "size_i": "123408", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-qt-1.3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-qt-1.3.0/AUTHORS", "size_i": "44", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-qt-1.3.0/INSTALL", "size_i": "215", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-qt-1.3.0/README", "size_i": "69", "regex": "false"}
+]

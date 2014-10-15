@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib/libORBit-2.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libORBit-2.so.0.1.0", "size_i": "378012", "regex": "false"},
+	{"name_s": "/usr/lib/libORBit-imodule-2.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libORBit-imodule-2.so.0.0.0", "size_i": "34788", "regex": "false"},
+	{"name_s": "/usr/lib/libORBitCosNaming-2.so.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libORBitCosNaming-2.so.0.1.0", "size_i": "21376", "regex": "false"},
+	{"name_s": "/usr/lib/orbit-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/orbit-2.0/Everything_module.so", "size_i": "27524", "regex": "false"},
+	{"name_s": "/usr/share/doc/ORBit2-2.14.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ORBit2-2.14.17/AUTHORS", "size_i": "650", "regex": "false"},
+	{"name_s": "/usr/share/doc/ORBit2-2.14.17/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/ORBit2-2.14.17/README", "size_i": "624", "regex": "false"},
+	{"name_s": "/usr/share/doc/ORBit2-2.14.17/TODO", "size_i": "3160", "regex": "false"}
+]

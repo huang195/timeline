@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/gnome-python-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gnome-python-2.0/pygnomevfs.h", "size_i": "3141", "regex": "false"},
+	{"name_s": "/usr/include/gnome-python-2.0/pygnomevfsbonobo.h", "size_i": "1245", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/gnome-python-2.0.pc", "size_i": "305", "regex": "false"}
+]

@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/COPYING", "size_i": "12487", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/README", "size_i": "3247", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/docs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/docs/Convert", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/docs/Convert/BinHex", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/docs/Convert/BinHex.pm.html", "size_i": "28793", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/docs/Convert/BinHex/hqxred.gif", "size_i": "1441", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/docs/Convert/BinHex/redapple-sm.gif", "size_i": "149", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/docs/Convert/BinHex/redapple-tiny.gif", "size_i": "82", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/docs/Convert/BinHex/redapple.gif", "size_i": "982", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/examples/binhex.pl", "size_i": "3815", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Convert-BinHex-1.119/examples/debinhex.pl", "size_i": "5503", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Convert::BinHex.3pm.gz", "size_i": "9344", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Convert", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Convert/BinHex.pm", "size_i": "44699", "regex": "false"}
+]

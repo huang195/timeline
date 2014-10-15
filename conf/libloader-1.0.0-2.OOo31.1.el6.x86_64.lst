@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/gcj/libloader", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/libloader/libloader.jar.db", "size_i": "8192", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/libloader/libloader.jar.so", "size_i": "307880", "regex": "false"},
+	{"name_s": "/usr/share/doc/libloader-1.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libloader-1.0.0/ChangeLog.txt", "size_i": "5068", "regex": "false"},
+	{"name_s": "/usr/share/doc/libloader-1.0.0/README.txt", "size_i": "2218", "regex": "false"},
+	{"name_s": "/usr/share/doc/libloader-1.0.0/licence-LGPL.txt", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/java/libloader.jar", "size_i": "81823", "regex": "false"}
+]

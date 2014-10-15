@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/perl5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/5.10.0/x86_64-linux-thread-multi/CORE/libperl.so", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/CORE/libperl.so", "size_i": "1485896", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl", "size_i": "4096", "regex": "false"}
+]

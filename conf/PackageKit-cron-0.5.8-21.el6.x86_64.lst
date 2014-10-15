@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/cron.daily/packagekit-background.cron", "size_i": "1344", "regex": "false"},
+	{"name_s": "/etc/sysconfig/packagekit-background", "size_i": "409", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-cron-0.5.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-cron-0.5.8/AUTHORS", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-cron-0.5.8/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-cron-0.5.8/NEWS", "size_i": "205506", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-cron-0.5.8/README", "size_i": "279", "regex": "false"}
+]

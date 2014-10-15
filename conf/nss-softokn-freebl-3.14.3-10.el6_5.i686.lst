@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/libfreebl3.chk", "size_i": "899", "regex": "false"},
+	{"name_s": "/lib/libfreebl3.so", "size_i": "370312", "regex": "false"},
+	{"name_s": "/usr/lib/libfreebl3.chk", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libfreebl3.so", "size_i": "23", "regex": "false"}
+]

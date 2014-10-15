@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/imap.ini", "size_i": "49", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/imap.so", "size_i": "102184", "regex": "false"}
+]

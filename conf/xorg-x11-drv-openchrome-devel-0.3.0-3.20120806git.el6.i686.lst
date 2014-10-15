@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/libchromeXvMC.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libchromeXvMCPro.so", "size_i": "25", "regex": "false"}
+]

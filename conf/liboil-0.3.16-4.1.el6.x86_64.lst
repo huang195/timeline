@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/liboil-0.3.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/liboil-0.3.so.0.3.0", "size_i": "582952", "regex": "false"},
+	{"name_s": "/usr/share/doc/liboil-0.3.16", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/liboil-0.3.16/AUTHORS", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/doc/liboil-0.3.16/BUG-REPORTING", "size_i": "3009", "regex": "false"},
+	{"name_s": "/usr/share/doc/liboil-0.3.16/COPYING", "size_i": "4521", "regex": "false"},
+	{"name_s": "/usr/share/doc/liboil-0.3.16/NEWS", "size_i": "526", "regex": "false"},
+	{"name_s": "/usr/share/doc/liboil-0.3.16/README", "size_i": "2562", "regex": "false"}
+]

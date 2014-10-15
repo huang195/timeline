@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/libcryptsetup.h", "size_i": "19642", "regex": "false"},
+	{"name_s": "/usr/lib64/libcryptsetup.so", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libcryptsetup.pc", "size_i": "187", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/infiniband", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/infiniband/ibnetdisc.h", "size_i": "7830", "regex": "false"},
+	{"name_s": "/usr/include/infiniband/ibnetdisc_osd.h", "size_i": "1604", "regex": "false"},
+	{"name_s": "/usr/lib/libibnetdisc.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ibnd_debug.3.gz", "size_i": "118", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ibnd_destroy_fabric.3.gz", "size_i": "127", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ibnd_discover_fabric.3.gz", "size_i": "1061", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ibnd_find_node_dr.3.gz", "size_i": "122", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ibnd_find_node_guid.3.gz", "size_i": "439", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ibnd_iter_nodes.3.gz", "size_i": "428", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ibnd_iter_nodes_type.3.gz", "size_i": "122", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ibnd_show_progress.3.gz", "size_i": "126", "regex": "false"}
+]

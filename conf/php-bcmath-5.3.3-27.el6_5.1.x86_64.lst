@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/bcmath.ini", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/bcmath.so", "size_i": "29584", "regex": "false"}
+]

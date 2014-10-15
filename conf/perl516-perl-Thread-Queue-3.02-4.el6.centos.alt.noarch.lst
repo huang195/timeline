@@ -1,0 +1,11 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Thread-Queue-3.02", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Thread-Queue-3.02/Changes", "size_i": "1350", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Thread-Queue-3.02/README", "size_i": "583", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Thread-Queue-3.02/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Thread-Queue-3.02/examples/callback.pl", "size_i": "3038", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Thread-Queue-3.02/examples/queue.pl", "size_i": "1536", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Thread::Queue.3pm.gz", "size_i": "5202", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Thread", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Thread/Queue.pm", "size_i": "15931", "regex": "false"}
+]

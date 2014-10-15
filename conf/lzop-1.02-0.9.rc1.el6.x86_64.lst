@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/lzop", "size_i": "65136", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzop-1.02", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzop-1.02/AUTHORS", "size_i": "101", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzop-1.02/COPYING", "size_i": "18094", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzop-1.02/ChangeLog", "size_i": "106", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzop-1.02/NEWS", "size_i": "2324", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzop-1.02/README", "size_i": "1620", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzop-1.02/THANKS", "size_i": "618", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/lzop.1.gz", "size_i": "7673", "regex": "false"}
+]

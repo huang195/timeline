@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-madan.conf", "size_i": "48", "regex": "false"},
+	{"name_s": "/usr/share/doc/madan-fonts-2.000", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/madan-fonts-2.000/license.txt", "size_i": "371", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-madan.conf", "size_i": "744", "regex": "false"},
+	{"name_s": "/usr/share/fonts/madan", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/madan/madan.ttf", "size_i": "254796", "regex": "false"}
+]

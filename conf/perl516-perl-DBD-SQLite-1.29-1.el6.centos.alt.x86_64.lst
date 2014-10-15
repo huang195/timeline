@@ -1,0 +1,14 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/DBD", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/DBD/SQLite", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/DBD/SQLite.pm", "size_i": "49245", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/DBD/SQLite/Cookbook.pod", "size_i": "3574", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/DBD", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/DBD/SQLite", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/DBD/SQLite/SQLite.so", "size_i": "85712", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-DBD-SQLite-1.29", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-DBD-SQLite-1.29/Changes", "size_i": "24022", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-DBD-SQLite-1.29/README", "size_i": "33916", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/DBD::SQLite.3pm.gz", "size_i": "14219", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/DBD::SQLite::Cookbook.3pm.gz", "size_i": "3190", "regex": "false"}
+]

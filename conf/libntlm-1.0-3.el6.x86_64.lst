@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libntlm.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libntlm.so.0.0.15", "size_i": "27928", "regex": "false"},
+	{"name_s": "/usr/share/doc/libntlm-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libntlm-1.0/AUTHORS", "size_i": "24047", "regex": "false"},
+	{"name_s": "/usr/share/doc/libntlm-1.0/COPYING", "size_i": "26432", "regex": "false"},
+	{"name_s": "/usr/share/doc/libntlm-1.0/README", "size_i": "3440", "regex": "false"},
+	{"name_s": "/usr/share/doc/libntlm-1.0/THANKS", "size_i": "878", "regex": "false"}
+]

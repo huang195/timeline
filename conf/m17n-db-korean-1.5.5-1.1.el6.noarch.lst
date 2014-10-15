@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/icons/ko-han2.png", "size_i": "1541", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/ko-romaja.png", "size_i": "1532", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ko-han2.mim", "size_i": "11291", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ko-romaja.mim", "size_i": "10303", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/libreoffice/program/libflashlo.so", "size_i": "245568", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/libsvgfilterlo.so", "size_i": "953000", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/registry/graphicfilter.xcd", "size_i": "65620", "regex": "false"}
+]

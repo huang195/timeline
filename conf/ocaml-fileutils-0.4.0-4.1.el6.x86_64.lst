@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/ocaml/fileutils", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/fileutils/FilePath.cmi", "size_i": "6934", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/fileutils/FileUtil.cmi", "size_i": "8862", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/fileutils/FileUtilStr.cmi", "size_i": "849", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/fileutils/META", "size_i": "224", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/fileutils/fileutils-str.cma", "size_i": "751", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/fileutils/fileutils.cma", "size_i": "45957", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-fileutils-0.4.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-fileutils-0.4.0/COPYING", "size_i": "27424", "regex": "false"}
+]

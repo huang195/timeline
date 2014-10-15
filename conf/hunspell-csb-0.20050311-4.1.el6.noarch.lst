@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-csb-0.20050311", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-csb-0.20050311/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-csb-0.20050311/Copyright", "size_i": "1094", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-csb-0.20050311/Crawler.txt", "size_i": "2618", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-csb-0.20050311/README", "size_i": "2628", "regex": "false"},
+	{"name_s": "/usr/share/myspell/csb_PL.aff", "size_i": "159", "regex": "false"},
+	{"name_s": "/usr/share/myspell/csb_PL.dic", "size_i": "47020", "regex": "false"}
+]

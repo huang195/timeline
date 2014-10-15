@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/share/doc/xalan-j2-2.7.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xalan-j2-2.7.0/KEYS", "size_i": "20404", "regex": "false"},
+	{"name_s": "/usr/share/doc/xalan-j2-2.7.0/serializer.LICENSE.txt", "size_i": "11357", "regex": "false"},
+	{"name_s": "/usr/share/doc/xalan-j2-2.7.0/serializer.NOTICE.txt", "size_i": "866", "regex": "false"},
+	{"name_s": "/usr/share/doc/xalan-j2-2.7.0/xalan.LICENSE.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/xalan-j2-2.7.0/xalan.NOTICE.txt", "size_i": "2150", "regex": "false"},
+	{"name_s": "/usr/share/java/jaxp_transform_impl.jar", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/java/xalan-j2-2.7.0.jar", "size_i": "1740924", "regex": "false"},
+	{"name_s": "/usr/share/java/xalan-j2-serializer-2.7.0.jar", "size_i": "192913", "regex": "false"},
+	{"name_s": "/usr/share/java/xalan-j2-serializer.jar", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/share/java/xalan-j2.jar", "size_i": "18", "regex": "false"}
+]

@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/libxslt.py", "size_i": "48277", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/libxslt.pyc", "size_i": "61753", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/libxslt.pyo", "size_i": "61753", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/libxsltmod.so", "size_i": "78472", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/AUTHORS", "size_i": "2092", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/ChangeLog.gz", "size_i": "73532", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/Copyright", "size_i": "2968", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/FEATURES", "size_i": "5334", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/NEWS", "size_i": "35560", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/README", "size_i": "655", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/TODO", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/basic.py", "size_i": "682", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/exslt.py", "size_i": "1385", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/extelem.py", "size_i": "2183", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/extfunc.py", "size_i": "1611", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/libxsltclass.txt", "size_i": "4695", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/pyxsltproc.py", "size_i": "9078", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/test.xml", "size_i": "8", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxslt-python-1.1.26/test.xsl", "size_i": "208", "regex": "false"}
+]

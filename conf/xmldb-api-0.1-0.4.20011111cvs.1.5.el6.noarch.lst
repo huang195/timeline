@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/xmldb-api-0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmldb-api-0.1/xmldb-api-license.txt", "size_i": "2299", "regex": "false"},
+	{"name_s": "/usr/share/java/xmldb-api-0.1.jar", "size_i": "9221", "regex": "false"},
+	{"name_s": "/usr/share/java/xmldb-api.jar", "size_i": "17", "regex": "false"}
+]

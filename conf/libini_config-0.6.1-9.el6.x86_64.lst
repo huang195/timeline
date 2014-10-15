@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libini_config.so.2", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libini_config.so.2.0.0", "size_i": "32080", "regex": "false"},
+	{"name_s": "/usr/share/doc/libini_config-0.6.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libini_config-0.6.1/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/libini_config-0.6.1/COPYING.LESSER", "size_i": "7643", "regex": "false"}
+]

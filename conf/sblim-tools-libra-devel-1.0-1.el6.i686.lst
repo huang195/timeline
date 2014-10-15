@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/sblim", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/sblim/smt_libra_conf.h", "size_i": "1175", "regex": "false"},
+	{"name_s": "/usr/include/sblim/smt_libra_execscripts.h", "size_i": "1340", "regex": "false"},
+	{"name_s": "/usr/include/sblim/smt_libra_monitors.h", "size_i": "1251", "regex": "false"},
+	{"name_s": "/usr/include/sblim/smt_libra_rastr.h", "size_i": "729", "regex": "false"},
+	{"name_s": "/usr/lib/libRaTools.so", "size_i": "19", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/minizip", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/minizip/crypt.h", "size_i": "4712", "regex": "false"},
+	{"name_s": "/usr/include/minizip/ioapi.h", "size_i": "2535", "regex": "false"},
+	{"name_s": "/usr/include/minizip/mztools.h", "size_i": "681", "regex": "false"},
+	{"name_s": "/usr/include/minizip/unzip.h", "size_i": "12968", "regex": "false"},
+	{"name_s": "/usr/include/minizip/zip.h", "size_i": "8847", "regex": "false"},
+	{"name_s": "/usr/lib/libminizip.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/minizip.pc", "size_i": "224", "regex": "false"}
+]

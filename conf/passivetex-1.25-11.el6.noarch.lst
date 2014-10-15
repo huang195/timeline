@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/share/doc/passivetex-1.25", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/passivetex-1.25/LICENSE", "size_i": "683", "regex": "false"},
+	{"name_s": "/usr/share/doc/passivetex-1.25/README.passivetex", "size_i": "845", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/xmltex/passivetex", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/xmltex/passivetex/dummyels.sty", "size_i": "5924", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/xmltex/passivetex/fotex.sty", "size_i": "74924", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/xmltex/passivetex/fotex.xmt", "size_i": "57417", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/xmltex/passivetex/mlnames.sty", "size_i": "13957", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/xmltex/passivetex/nomulticol.sty", "size_i": "32920", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/xmltex/passivetex/ucharacters.sty", "size_i": "130813", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/xmltex/passivetex/unicode.sty", "size_i": "23178", "regex": "false"}
+]

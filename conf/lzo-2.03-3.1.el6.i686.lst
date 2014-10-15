@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/liblzo2.so.2", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/liblzo2.so.2.0.0", "size_i": "136380", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzo-2.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzo-2.03/AUTHORS", "size_i": "112", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzo-2.03/COPYING", "size_i": "18098", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzo-2.03/NEWS", "size_i": "10834", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzo-2.03/THANKS", "size_i": "690", "regex": "false"}
+]

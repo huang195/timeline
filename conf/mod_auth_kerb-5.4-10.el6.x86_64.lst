@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/httpd/conf.d/auth_kerb.conf", "size_i": "707", "regex": "false"},
+	{"name_s": "/usr/lib64/httpd/modules/mod_auth_kerb.so", "size_i": "37616", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_kerb-5.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_kerb-5.4/LICENSE", "size_i": "8145", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_kerb-5.4/LICENSE.ASL", "size_i": "11357", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_auth_kerb-5.4/README", "size_i": "7100", "regex": "false"}
+]

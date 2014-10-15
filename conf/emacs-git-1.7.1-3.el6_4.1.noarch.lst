@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/emacs-git-1.7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/emacs-git-1.7.1/README", "size_i": "1470", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/git", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/git/git-blame.elc", "size_i": "12365", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/git/git.elc", "size_i": "79726", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/site-start.d/git-init.el", "size_i": "190", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/icon-name-mapping", "size_i": "2447", "regex": "false"},
+	{"name_s": "/usr/share/doc/icon-naming-utils-0.8.90", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/icon-naming-utils-0.8.90/AUTHORS", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/doc/icon-naming-utils-0.8.90/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/icon-naming-utils-0.8.90/README", "size_i": "1578", "regex": "false"},
+	{"name_s": "/usr/share/icon-naming-utils", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/icon-naming-utils/legacy-icon-mapping.dtd", "size_i": "247", "regex": "false"},
+	{"name_s": "/usr/share/icon-naming-utils/legacy-icon-mapping.xml", "size_i": "36501", "regex": "false"},
+	{"name_s": "/usr/share/pkgconfig/icon-naming-utils.pc", "size_i": "223", "regex": "false"}
+]

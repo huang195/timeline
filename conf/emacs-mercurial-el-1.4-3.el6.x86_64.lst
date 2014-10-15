@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/share/emacs/site-lisp/mercurial.el", "size_i": "44379", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/mq.el", "size_i": "12558", "regex": "false"}
+]

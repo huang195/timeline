@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libvpx.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libvpx.so.1.3", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libvpx.so.1.3.0", "size_i": "1330216", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvpx-1.3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvpx-1.3.0/AUTHORS", "size_i": "3628", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvpx-1.3.0/CHANGELOG", "size_i": "24601", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvpx-1.3.0/LICENSE", "size_i": "1537", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvpx-1.3.0/README", "size_i": "4426", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/form-data", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/form-data/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/form-data/lib/form_data.js", "size_i": "8619", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/form-data/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/form-data/node_modules/async", "size_i": "49", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/form-data/node_modules/combined-stream", "size_i": "59", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/form-data/node_modules/mime", "size_i": "48", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/form-data/package.json", "size_i": "863", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-form-data-0.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-form-data-0.1.1/License", "size_i": "1118", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-form-data-0.1.1/Readme.md", "size_i": "4192", "regex": "false"}
+]

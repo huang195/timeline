@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/pywsman.py", "size_i": "51957", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pywsman.pyc", "size_i": "70401", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pywsman.pyo", "size_i": "70401", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/_pywsman.so", "size_i": "217576", "regex": "false"},
+	{"name_s": "/usr/share/doc/openwsman-python-2.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openwsman-python-2.2.3/AUTHORS", "size_i": "309", "regex": "false"},
+	{"name_s": "/usr/share/doc/openwsman-python-2.2.3/COPYING", "size_i": "1497", "regex": "false"},
+	{"name_s": "/usr/share/doc/openwsman-python-2.2.3/ChangeLog", "size_i": "13824", "regex": "false"},
+	{"name_s": "/usr/share/doc/openwsman-python-2.2.3/README", "size_i": "8468", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Locale::Maketext::Simple.3pm.gz", "size_i": "4223", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Locale/Maketext", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Locale/Maketext/Simple.pm", "size_i": "9707", "regex": "false"}
+]

@@ -1,0 +1,18 @@
+[
+	{"name_s": "/etc/edac", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/edac/labels.db", "size_i": "3910", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/edac", "size_i": "1380", "regex": "false"},
+	{"name_s": "/usr/bin/edac-util", "size_i": "15676", "regex": "false"},
+	{"name_s": "/usr/lib/libedac.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libedac.so.1.0.0", "size_i": "9852", "regex": "false"},
+	{"name_s": "/usr/sbin/edac-ctl", "size_i": "10839", "regex": "false"},
+	{"name_s": "/usr/share/doc/edac-utils-0.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/edac-utils-0.9/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/edac-utils-0.9/ChangeLog", "size_i": "3660", "regex": "false"},
+	{"name_s": "/usr/share/doc/edac-utils-0.9/DISCLAIMER", "size_i": "1232", "regex": "false"},
+	{"name_s": "/usr/share/doc/edac-utils-0.9/NEWS", "size_i": "1835", "regex": "false"},
+	{"name_s": "/usr/share/doc/edac-utils-0.9/README", "size_i": "798", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/edac-util.1.gz", "size_i": "2020", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/edac.3.gz", "size_i": "3227", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/edac-ctl.8.gz", "size_i": "1326", "regex": "false"}
+]

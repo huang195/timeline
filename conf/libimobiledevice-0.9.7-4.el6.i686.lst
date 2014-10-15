@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/idevice_id", "size_i": "6180", "regex": "false"},
+	{"name_s": "/usr/bin/idevicebackup", "size_i": "19872", "regex": "false"},
+	{"name_s": "/usr/bin/ideviceinfo", "size_i": "10020", "regex": "false"},
+	{"name_s": "/usr/bin/idevicesyslog", "size_i": "6604", "regex": "false"},
+	{"name_s": "/usr/lib/libimobiledevice.so.0", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib/libimobiledevice.so.0.0.0", "size_i": "81788", "regex": "false"},
+	{"name_s": "/usr/share/doc/libimobiledevice-0.9.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libimobiledevice-0.9.7/AUTHORS", "size_i": "166", "regex": "false"},
+	{"name_s": "/usr/share/doc/libimobiledevice-0.9.7/COPYING.LESSER", "size_i": "26434", "regex": "false"},
+	{"name_s": "/usr/share/doc/libimobiledevice-0.9.7/README", "size_i": "1276", "regex": "false"},
+	{"name_s": "/usr/share/hal/fdi/information/20thirdparty/31-apple-mobile-device.fdi", "size_i": "511", "regex": "false"}
+]

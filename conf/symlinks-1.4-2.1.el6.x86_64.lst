@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/symlinks", "size_i": "10912", "regex": "false"},
+	{"name_s": "/usr/share/doc/symlinks-1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/symlinks-1.4/symlinks-LICENSE.txt", "size_i": "787", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/symlinks.8.gz", "size_i": "1327", "regex": "false"}
+]

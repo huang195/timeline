@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libcollection.so.2", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libcollection.so.2.0.0", "size_i": "46904", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcollection-0.6.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcollection-0.6.0/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcollection-0.6.0/COPYING.LESSER", "size_i": "7643", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/python27/root/usr/lib/python2.7/site-packages/six-1.3.0-py2.7.egg-info", "size_i": "1249", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/lib/python2.7/site-packages/six.py", "size_i": "12415", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/lib/python2.7/site-packages/six.pyc", "size_i": "14566", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/lib/python2.7/site-packages/six.pyo", "size_i": "14566", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/doc/python27-python-six-1.3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/doc/python27-python-six-1.3.0/LICENSE", "size_i": "1066", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/doc/python27-python-six-1.3.0/README", "size_i": "612", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/doc/python27-python-six-1.3.0/index.rst", "size_i": "22272", "regex": "false"}
+]

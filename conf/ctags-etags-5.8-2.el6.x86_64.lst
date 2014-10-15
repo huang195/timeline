@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/etags.ctags", "size_i": "5", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctags-etags-5.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctags-etags-5.8/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/etags.ctags.1.gz", "size_i": "10", "regex": "false"}
+]

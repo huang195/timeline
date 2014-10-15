@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/libreport/events.d/koops_event.conf", "size_i": "533", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/abrt-oops", "size_i": "1642", "regex": "false"},
+	{"name_s": "/usr/bin/abrt-action-analyze-oops", "size_i": "6824", "regex": "false"},
+	{"name_s": "/usr/bin/abrt-dump-oops", "size_i": "15352", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/abrt-action-analyze-oops.1.gz", "size_i": "886", "regex": "false"}
+]

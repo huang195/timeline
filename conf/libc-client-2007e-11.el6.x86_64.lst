@@ -1,0 +1,21 @@
+[
+	{"name_s": "/etc/c-client.cf", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/lib64/libc-client.so.2007", "size_i": "1117824", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/IPv6.txt", "size_i": "4816", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/LICENSE.txt", "size_i": "11359", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/NOTICE", "size_i": "759", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/RELNOTES", "size_i": "33992", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/SUPPORT", "size_i": "829", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/bugs.txt", "size_i": "11957", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/calendar.txt", "size_i": "15122", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/commndmt.txt", "size_i": "4992", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/drivers.txt", "size_i": "7736", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/formats.txt", "size_i": "9126", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/imaprc.txt", "size_i": "27119", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/internal.txt", "size_i": "115073", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/locking.txt", "size_i": "19341", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/md5.txt", "size_i": "3784", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/mixfmt.txt", "size_i": "14538", "regex": "false"},
+	{"name_s": "/usr/share/doc/libc-client-2007e/naming.txt", "size_i": "5023", "regex": "false"}
+]

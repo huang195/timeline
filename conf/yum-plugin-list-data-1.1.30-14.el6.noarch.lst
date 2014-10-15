@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/list-data.conf", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/list-data.py", "size_i": "11229", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/list-data.pyc", "size_i": "12761", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/list-data.pyo", "size_i": "12761", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-list-data-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-list-data-1.1.30/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/yum-list-data.1.gz", "size_i": "1306", "regex": "false"}
+]

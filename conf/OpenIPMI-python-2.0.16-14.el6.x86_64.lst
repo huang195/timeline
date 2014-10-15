@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/OpenIPMI.py", "size_i": "87366", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/OpenIPMI.pyc", "size_i": "143268", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/OpenIPMI.pyo", "size_i": "143268", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/_OpenIPMI.so", "size_i": "495560", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/post-transaction-actions.conf", "size_i": "54", "regex": "false"},
+	{"name_s": "/etc/yum/post-actions", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/post-transaction-actions.py", "size_i": "6289", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/post-transaction-actions.pyc", "size_i": "4904", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/post-transaction-actions.pyo", "size_i": "4904", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-post-transaction-actions-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-post-transaction-actions-1.1.30/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-post-transaction-actions-1.1.30/sample.action", "size_i": "773", "regex": "false"}
+]

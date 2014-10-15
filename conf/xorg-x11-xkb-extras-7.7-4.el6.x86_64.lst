@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/xkbbell", "size_i": "9296", "regex": "false"},
+	{"name_s": "/usr/bin/xkbevd", "size_i": "28568", "regex": "false"},
+	{"name_s": "/usr/bin/xkbprint", "size_i": "86928", "regex": "false"},
+	{"name_s": "/usr/bin/xkbvleds", "size_i": "20096", "regex": "false"},
+	{"name_s": "/usr/bin/xkbwatch", "size_i": "16448", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xkb-extras-7.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xkb-extras-7.7/COPYING", "size_i": "3437", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xkb-extras-7.7/README", "size_i": "912", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xkbbell.1.gz", "size_i": "1053", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xkbevd.1.gz", "size_i": "1831", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xkbprint.1.gz", "size_i": "1528", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xkbvleds.1.gz", "size_i": "1139", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xkbwatch.1.gz", "size_i": "842", "regex": "false"}
+]

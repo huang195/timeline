@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/cdrdao", "size_i": "557984", "regex": "false"},
+	{"name_s": "/usr/bin/cue2toc", "size_i": "20216", "regex": "false"},
+	{"name_s": "/usr/bin/toc2cddb", "size_i": "215232", "regex": "false"},
+	{"name_s": "/usr/bin/toc2cue", "size_i": "216096", "regex": "false"},
+	{"name_s": "/usr/share/cdrdao", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/cdrdao/drivers", "size_i": "12413", "regex": "false"},
+	{"name_s": "/usr/share/doc/cdrdao-1.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cdrdao-1.2.3/AUTHORS", "size_i": "300", "regex": "false"},
+	{"name_s": "/usr/share/doc/cdrdao-1.2.3/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/cdrdao-1.2.3/CREDITS", "size_i": "1422", "regex": "false"},
+	{"name_s": "/usr/share/doc/cdrdao-1.2.3/ChangeLog", "size_i": "22692", "regex": "false"},
+	{"name_s": "/usr/share/doc/cdrdao-1.2.3/README", "size_i": "47523", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cdrdao.1.gz", "size_i": "9505", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cue2toc.1.gz", "size_i": "4019", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/toc2cddb.1.gz", "size_i": "464", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/toc2cue.1.gz", "size_i": "780", "regex": "false"}
+]

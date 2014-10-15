@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/uuid-config", "size_i": "4273", "regex": "false"},
+	{"name_s": "/usr/include/uuid.h", "size_i": "4383", "regex": "false"},
+	{"name_s": "/usr/lib64/libossp-uuid.so", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/ossp-uuid.pc", "size_i": "1681", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ossp-uuid.3.gz", "size_i": "8691", "regex": "false"}
+]

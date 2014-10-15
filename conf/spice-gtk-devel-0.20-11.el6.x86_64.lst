@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/spice-client-gtk-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/spice-client-gtk-2.0/spice-grabsequence.h", "size_i": "1825", "regex": "false"},
+	{"name_s": "/usr/include/spice-client-gtk-2.0/spice-gtk-session.h", "size_i": "2427", "regex": "false"},
+	{"name_s": "/usr/include/spice-client-gtk-2.0/spice-widget-enums.h", "size_i": "246", "regex": "false"},
+	{"name_s": "/usr/include/spice-client-gtk-2.0/spice-widget.h", "size_i": "3422", "regex": "false"},
+	{"name_s": "/usr/include/spice-client-gtk-2.0/usb-device-widget.h", "size_i": "3040", "regex": "false"},
+	{"name_s": "/usr/lib64/libspice-client-gtk-2.0.so", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/spice-client-gtk-2.0.pc", "size_i": "294", "regex": "false"}
+]

@@ -1,0 +1,20 @@
+[
+	{"name_s": "/etc/ld.so.conf.d/sblim-cmpi-nfsv3-i386.conf", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib/cmpi/libLinux_NFSv3SettingContext.so", "size_i": "16188", "regex": "false"},
+	{"name_s": "/usr/lib/cmpi/libLinux_NFSv3SystemConfiguration.so", "size_i": "6240", "regex": "false"},
+	{"name_s": "/usr/lib/cmpi/libLinux_NFSv3SystemConfigurationUtil.so", "size_i": "63496", "regex": "false"},
+	{"name_s": "/usr/lib/cmpi/libLinux_NFSv3SystemSetting.so", "size_i": "12476", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-nfsv3-1.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-nfsv3-1.1.1/AUTHORS", "size_i": "96", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-nfsv3-1.1.1/COPYING", "size_i": "11249", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-nfsv3-1.1.1/DEBUG", "size_i": "250", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-nfsv3-1.1.1/README", "size_i": "8366", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-nfsv3-1.1.1/README.TEST", "size_i": "718", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-nfsv3-1.1.1/README.tog-pegasus", "size_i": "1956", "regex": "false"},
+	{"name_s": "/usr/share/sblim-cmpi-nfsv3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/sblim-cmpi-nfsv3/Linux_NFSv3SystemConfiguration.mof", "size_i": "3541", "regex": "false"},
+	{"name_s": "/usr/share/sblim-cmpi-nfsv3/Linux_NFSv3SystemConfiguration.registration", "size_i": "287", "regex": "false"},
+	{"name_s": "/usr/share/sblim-cmpi-nfsv3/Linux_NFSv3SystemSetting.mof", "size_i": "4378", "regex": "false"},
+	{"name_s": "/usr/share/sblim-cmpi-nfsv3/Linux_NFSv3SystemSetting.registration", "size_i": "159", "regex": "false"},
+	{"name_s": "/usr/share/sblim-cmpi-nfsv3/provider-register.sh", "size_i": "14955", "regex": "false"}
+]

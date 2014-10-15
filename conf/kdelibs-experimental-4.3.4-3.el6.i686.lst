@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/libknotificationitem-1.so.1", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/lib/libknotificationitem-1.so.1.0.0", "size_i": "89176", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/interfaces/org.kde.NotificationItem.xml", "size_i": "2982", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/interfaces/org.kde.NotificationItemWatcher.xml", "size_i": "1051", "regex": "false"}
+]

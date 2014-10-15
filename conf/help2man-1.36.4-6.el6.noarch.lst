@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/help2man", "size_i": "14709", "regex": "false"},
+	{"name_s": "/usr/share/doc/help2man-1.36.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/help2man-1.36.4/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/help2man-1.36.4/NEWS", "size_i": "2979", "regex": "false"},
+	{"name_s": "/usr/share/doc/help2man-1.36.4/README", "size_i": "452", "regex": "false"},
+	{"name_s": "/usr/share/doc/help2man-1.36.4/THANKS", "size_i": "1089", "regex": "false"},
+	{"name_s": "/usr/share/info/help2man.info.gz", "size_i": "5248", "regex": "false"},
+	{"name_s": "/usr/share/locale/fi/LC_MESSAGES/help2man.mo", "size_i": "4807", "regex": "false"},
+	{"name_s": "/usr/share/locale/fr/LC_MESSAGES/help2man.mo", "size_i": "5641", "regex": "false"},
+	{"name_s": "/usr/share/locale/pl/LC_MESSAGES/help2man.mo", "size_i": "5293", "regex": "false"},
+	{"name_s": "/usr/share/locale/sv/LC_MESSAGES/help2man.mo", "size_i": "5240", "regex": "false"},
+	{"name_s": "/usr/share/man/fi/man1/help2man.1.gz", "size_i": "1822", "regex": "false"},
+	{"name_s": "/usr/share/man/fr/man1/help2man.1.gz", "size_i": "2040", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/help2man.1.gz", "size_i": "1660", "regex": "false"},
+	{"name_s": "/usr/share/man/pl/man1/help2man.1.gz", "size_i": "1884", "regex": "false"},
+	{"name_s": "/usr/share/man/sv/man1/help2man.1.gz", "size_i": "1788", "regex": "false"}
+]

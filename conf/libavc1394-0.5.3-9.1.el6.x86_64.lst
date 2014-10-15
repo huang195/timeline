@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/dvcont", "size_i": "13120", "regex": "false"},
+	{"name_s": "/usr/bin/mkrfc2734", "size_i": "6904", "regex": "false"},
+	{"name_s": "/usr/bin/panelctl", "size_i": "12152", "regex": "false"},
+	{"name_s": "/usr/lib64/libavc1394.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libavc1394.so.0.3.0", "size_i": "16304", "regex": "false"},
+	{"name_s": "/usr/lib64/librom1394.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/librom1394.so.0.3.0", "size_i": "14952", "regex": "false"},
+	{"name_s": "/usr/share/doc/libavc1394-0.5.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libavc1394-0.5.3/AUTHORS", "size_i": "283", "regex": "false"},
+	{"name_s": "/usr/share/doc/libavc1394-0.5.3/COPYING", "size_i": "26428", "regex": "false"},
+	{"name_s": "/usr/share/doc/libavc1394-0.5.3/ChangeLog", "size_i": "7467", "regex": "false"},
+	{"name_s": "/usr/share/doc/libavc1394-0.5.3/NEWS", "size_i": "845", "regex": "false"},
+	{"name_s": "/usr/share/doc/libavc1394-0.5.3/README", "size_i": "2862", "regex": "false"},
+	{"name_s": "/usr/share/doc/libavc1394-0.5.3/TODO", "size_i": "68", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dvcont.1.gz", "size_i": "1536", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mkrfc2734.1.gz", "size_i": "889", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/panelctl.1.gz", "size_i": "1050", "regex": "false"}
+]

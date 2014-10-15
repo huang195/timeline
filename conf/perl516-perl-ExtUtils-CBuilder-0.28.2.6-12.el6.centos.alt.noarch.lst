@@ -1,0 +1,20 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/ExtUtils::CBuilder.3pm.gz", "size_i": "4832", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/ExtUtils::CBuilder::Platform::Windows.3pm.gz", "size_i": "2096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder.pm", "size_i": "8876", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Base.pm", "size_i": "10315", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform/Unix.pm", "size_i": "1048", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform/VMS.pm", "size_i": "11004", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform/Windows", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform/Windows.pm", "size_i": "9039", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform/Windows/BCC.pm", "size_i": "3487", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform/Windows/GCC.pm", "size_i": "4242", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform/Windows/MSVC.pm", "size_i": "3202", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform/aix.pm", "size_i": "621", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform/cygwin.pm", "size_i": "928", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform/darwin.pm", "size_i": "516", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform/dec_osf.pm", "size_i": "424", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/CBuilder/Platform/os2.pm", "size_i": "2739", "regex": "false"}
+]

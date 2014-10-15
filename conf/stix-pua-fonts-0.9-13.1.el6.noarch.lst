@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/fonts/conf.d/61-stix-pua.conf", "size_i": "49", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/61-stix-pua.conf", "size_i": "244", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXNonUni.otf", "size_i": "57708", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXNonUniBol.otf", "size_i": "27462", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXNonUniBolIta.otf", "size_i": "37316", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXNonUniIta.otf", "size_i": "42044", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/lib/libcap.so.1", "size_i": "14", "regex": "false"},
+	{"name_s": "/lib/libcap.so.1.10", "size_i": "10448", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-libcap1-1.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-libcap1-1.10/capability.notes", "size_i": "2519", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-libcap1-1.10/capfaq-0.2.txt", "size_i": "11907", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/ladspa.h", "size_i": "27593", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-devel-1.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-devel-1.13/background.html", "size_i": "1047", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-devel-1.13/changes.html", "size_i": "2258", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-devel-1.13/download.html", "size_i": "421", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-devel-1.13/example_plugins.html", "size_i": "1880", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-devel-1.13/index.html", "size_i": "877", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-devel-1.13/installation.html", "size_i": "929", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-devel-1.13/license.html", "size_i": "683", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-devel-1.13/overview.html", "size_i": "1248", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-devel-1.13/shared_plugins.html", "size_i": "1010", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-devel-1.13/unique_ids.html", "size_i": "786", "regex": "false"}
+]

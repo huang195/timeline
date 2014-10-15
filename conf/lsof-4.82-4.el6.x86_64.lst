@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/sbin/lsof", "size_i": "141048", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00.README.FIRST", "size_i": "1206", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00.README.FIRST_4.82", "size_i": "795", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00CREDITS", "size_i": "8445", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00DCACHE", "size_i": "30857", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00DIALECTS", "size_i": "189", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00DIST", "size_i": "162357", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00FAQ", "size_i": "309287", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00LSOF-L", "size_i": "2814", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00MANIFEST", "size_i": "3521", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00PORTING", "size_i": "63287", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00QUICKSTART", "size_i": "36577", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00README", "size_i": "59031", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00TEST", "size_i": "34027", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsof-4.82/00XCONFIG", "size_i": "21942", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/lsof.8.gz", "size_i": "36028", "regex": "false"}
+]

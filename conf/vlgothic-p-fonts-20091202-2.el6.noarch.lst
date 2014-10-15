@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-vlgothic-pgothic.conf", "size_i": "59", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-vlgothic-pgothic.conf", "size_i": "875", "regex": "false"},
+	{"name_s": "/usr/share/fonts/vlgothic", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/vlgothic/VL-PGothic-Regular.ttf", "size_i": "3979768", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/X11/xinit/xinput.d/im-cedilla.conf", "size_i": "102", "regex": "false"},
+	{"name_s": "/etc/gtk-2.0/im-multipress.conf", "size_i": "890", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/immodules/im-am-et.so", "size_i": "17492", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/immodules/im-cedilla.so", "size_i": "4296", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/immodules/im-cyrillic-translit.so", "size_i": "7380", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/immodules/im-inuktitut.so", "size_i": "7804", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/immodules/im-ipa.so", "size_i": "4908", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/immodules/im-multipress.so", "size_i": "10024", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/immodules/im-thai.so", "size_i": "9948", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/immodules/im-ti-er.so", "size_i": "17480", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/immodules/im-ti-et.so", "size_i": "17480", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/immodules/im-viqr.so", "size_i": "7692", "regex": "false"}
+]

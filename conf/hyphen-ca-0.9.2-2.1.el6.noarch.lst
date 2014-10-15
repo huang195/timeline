@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-ca-0.9.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-ca-0.9.2/LICENSES-en.txt", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-ca-0.9.2/LLICENCIES-ca.txt", "size_i": "640", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-ca-0.9.2/release-note_ca.txt", "size_i": "326", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-ca-0.9.2/release-note_en.txt", "size_i": "301", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_ca_AD.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_ca_ES.dic", "size_i": "6309", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_ca_FR.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_ca_IT.dic", "size_i": "14", "regex": "false"}
+]

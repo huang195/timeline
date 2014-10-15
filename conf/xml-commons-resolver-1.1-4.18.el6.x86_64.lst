@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/xml-resolver", "size_i": "514", "regex": "false"},
+	{"name_s": "/usr/bin/xml-xparse", "size_i": "508", "regex": "false"},
+	{"name_s": "/usr/bin/xml-xread", "size_i": "505", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/xml-commons-resolver", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/xml-commons-resolver/xml-commons-resolver-1.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/xml-commons-resolver/xml-commons-resolver-1.1.jar.so", "size_i": "355328", "regex": "false"},
+	{"name_s": "/usr/share/doc/xml-commons-resolver-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xml-commons-resolver-1.1/KEYS", "size_i": "4962", "regex": "false"},
+	{"name_s": "/usr/share/doc/xml-commons-resolver-1.1/LICENSE.resolver.txt", "size_i": "2638", "regex": "false"},
+	{"name_s": "/usr/share/java/xml-commons-resolver-1.1.jar", "size_i": "56968", "regex": "false"},
+	{"name_s": "/usr/share/java/xml-commons-resolver.jar", "size_i": "28", "regex": "false"}
+]

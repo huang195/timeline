@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/libreoffice/program/classes/ScriptProviderForJavaScript.jar", "size_i": "14987", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/classes/js.jar", "size_i": "621767", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/services/scriptproviderforjavascript.rdb", "size_i": "634", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/javascript", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/javascript/ExportSheetsToHTML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/javascript/ExportSheetsToHTML/exportsheetstohtml.js", "size_i": "3785", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/javascript/ExportSheetsToHTML/parcel-descriptor.xml", "size_i": "1385", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/javascript/HelloWorld", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/javascript/HelloWorld/helloworld.js", "size_i": "1459", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/javascript/HelloWorld/parcel-descriptor.xml", "size_i": "1300", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/javascript/Highlight", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/javascript/Highlight/ButtonPressHandler.js", "size_i": "4721", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/javascript/Highlight/ShowDialog.js", "size_i": "4375", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/javascript/Highlight/parcel-descriptor.xml", "size_i": "1584", "regex": "false"}
+]

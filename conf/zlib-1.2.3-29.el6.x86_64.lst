@@ -1,0 +1,8 @@
+[
+	{"name_s": "/lib64/libz.so.1", "size_i": "13", "regex": "false"},
+	{"name_s": "/lib64/libz.so.1.2.3", "size_i": "88600", "regex": "false"},
+	{"name_s": "/usr/share/doc/zlib-1.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/zlib-1.2.3/ChangeLog", "size_i": "42929", "regex": "false"},
+	{"name_s": "/usr/share/doc/zlib-1.2.3/FAQ", "size_i": "15080", "regex": "false"},
+	{"name_s": "/usr/share/doc/zlib-1.2.3/README", "size_i": "5696", "regex": "false"}
+]

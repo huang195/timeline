@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/libexec/bacula/create_bacula_database.postgresql", "size_i": "588", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/create_postgresql_database", "size_i": "1655", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/drop_bacula_database.postgresql", "size_i": "518", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/drop_bacula_tables.postgresql", "size_i": "694", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/drop_postgresql_database", "size_i": "233", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/drop_postgresql_tables", "size_i": "834", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/grant_bacula_privileges.postgresql", "size_i": "700", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/grant_postgresql_privileges", "size_i": "2349", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/make_bacula_tables.postgresql", "size_i": "579", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/make_catalog_backup.postgresql", "size_i": "2070", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/make_postgresql_tables", "size_i": "13196", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/update_bacula_tables.postgresql", "size_i": "610", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/update_postgresql_tables", "size_i": "2377", "regex": "false"},
+	{"name_s": "/usr/sbin/bacula-dir.postgresql", "size_i": "833600", "regex": "false"},
+	{"name_s": "/usr/sbin/dbcheck.postgresql", "size_i": "389152", "regex": "false"}
+]

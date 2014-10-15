@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/seabios-1.7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/seabios-1.7.1/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/seabios-1.7.1/COPYING.LESSER", "size_i": "7639", "regex": "false"},
+	{"name_s": "/usr/share/doc/seabios-1.7.1/README", "size_i": "7553", "regex": "false"},
+	{"name_s": "/usr/share/doc/seabios-1.7.1/TODO", "size_i": "697", "regex": "false"}
+]

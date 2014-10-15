@@ -1,0 +1,20 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-IPC-Run3-0.045", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-IPC-Run3-0.045/Changes", "size_i": "5235", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-IPC-Run3-0.045/LICENSE", "size_i": "300", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-IPC-Run3-0.045/README", "size_i": "525", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/IPC::Run3.3pm.gz", "size_i": "6768", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/IPC::Run3::ProfArrayBuffer.3pm.gz", "size_i": "2294", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/IPC::Run3::ProfLogReader.3pm.gz", "size_i": "2348", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/IPC::Run3::ProfLogger.3pm.gz", "size_i": "2362", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/IPC::Run3::ProfPP.3pm.gz", "size_i": "2332", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/IPC::Run3::ProfReporter.3pm.gz", "size_i": "3059", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/IPC", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/IPC/Run3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/IPC/Run3.pm", "size_i": "24850", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/IPC/Run3/ProfArrayBuffer.pm", "size_i": "1265", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/IPC/Run3/ProfLogReader.pm", "size_i": "2945", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/IPC/Run3/ProfLogger.pm", "size_i": "2582", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/IPC/Run3/ProfPP.pm", "size_i": "3759", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/IPC/Run3/ProfReporter.pm", "size_i": "5565", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/ld.so.conf.d/ctapi-i686.conf", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/ctapi", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctapi-common-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctapi-common-1.1/LICENSE", "size_i": "1086", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctapi-common-1.1/README", "size_i": "265", "regex": "false"}
+]

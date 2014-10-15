@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-is-0.20090823", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-is-0.20090823/LICENSE_en_US.txt", "size_i": "1100", "regex": "false"},
+	{"name_s": "/usr/share/myspell/is_IS.aff", "size_i": "70", "regex": "false"},
+	{"name_s": "/usr/share/myspell/is_IS.dic", "size_i": "2436658", "regex": "false"}
+]

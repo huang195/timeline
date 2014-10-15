@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/lpg", "size_i": "1109896", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpg-2.0.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpg-2.0.17/Ast.txt", "size_i": "2182", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpg-2.0.17/Getting", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpg-2.0.17/Getting", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpg-2.0.17/LPG", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpg-2.0.17/Using", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpg-2.0.17/Using", "size_i": "0", "regex": "false"}
+]

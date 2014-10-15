@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/modprobe.d/blacklist.conf", "size_i": "884", "regex": "false"},
+	{"name_s": "/usr/share/doc/hwdata-0.233", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hwdata-0.233/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/hwdata-0.233/LICENSE", "size_i": "175", "regex": "false"},
+	{"name_s": "/usr/share/hwdata", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/MonitorsDB", "size_i": "355009", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/oui.txt", "size_i": "3119077", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/pci.ids", "size_i": "872050", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/pnp.ids", "size_i": "55055", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/upgradelist", "size_i": "1622", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/usb.ids", "size_i": "512875", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videodrivers", "size_i": "1980", "regex": "false"}
+]

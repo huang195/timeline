@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/culmus-fonts-common-0.103", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/culmus-fonts-common-0.103/CHANGES", "size_i": "7563", "regex": "false"},
+	{"name_s": "/usr/share/doc/culmus-fonts-common-0.103/GNU-GPL", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/culmus-fonts-common-0.103/LICENSE", "size_i": "2550", "regex": "false"},
+	{"name_s": "/usr/share/doc/culmus-fonts-common-0.103/LICENSE-BITSTREAM", "size_i": "565", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus", "size_i": "4096", "regex": "false"}
+]

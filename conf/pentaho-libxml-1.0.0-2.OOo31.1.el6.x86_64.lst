@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/gcj/pentaho-libxml", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/pentaho-libxml/libxml.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/pentaho-libxml/libxml.jar.so", "size_i": "315648", "regex": "false"},
+	{"name_s": "/usr/share/doc/pentaho-libxml-1.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pentaho-libxml-1.0.0/ChangeLog.txt", "size_i": "5031", "regex": "false"},
+	{"name_s": "/usr/share/doc/pentaho-libxml-1.0.0/README.txt", "size_i": "2053", "regex": "false"},
+	{"name_s": "/usr/share/doc/pentaho-libxml-1.0.0/licence-LGPL.txt", "size_i": "27688", "regex": "false"},
+	{"name_s": "/usr/share/java/libxml.jar", "size_i": "70657", "regex": "false"}
+]

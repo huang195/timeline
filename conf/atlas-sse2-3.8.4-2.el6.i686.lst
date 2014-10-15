@@ -1,0 +1,20 @@
+[
+	{"name_s": "/etc/ld.so.conf.d/atlas-sse2.conf", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/libatlas.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/libatlas.so.3.0", "size_i": "3284920", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/libcblas.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/libcblas.so.3.0", "size_i": "126944", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/libclapack.so.3", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/libclapack.so.3.0", "size_i": "92168", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/libf77blas.so.3", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/libf77blas.so.3.0", "size_i": "122072", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/liblapack.so.3", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/liblapack.so.3.0", "size_i": "4742128", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/libptcblas.so.3", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/libptcblas.so.3.0", "size_i": "127008", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/libptf77blas.so.3", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-sse2/libptf77blas.so.3.0", "size_i": "122124", "regex": "false"},
+	{"name_s": "/usr/share/doc/atlas-sse2-3.8.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/atlas-sse2-3.8.4/README.RHEL", "size_i": "3249", "regex": "false"}
+]

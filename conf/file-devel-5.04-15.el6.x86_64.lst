@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/magic.h", "size_i": "3890", "regex": "false"},
+	{"name_s": "/usr/lib64/libmagic.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libmagic.3.gz", "size_i": "2785", "regex": "false"}
+]

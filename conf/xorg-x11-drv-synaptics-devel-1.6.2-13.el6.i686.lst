@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/xorg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/xorg/synaptics-properties.h", "size_i": "6068", "regex": "false"},
+	{"name_s": "/usr/include/xorg/synaptics.h", "size_i": "2829", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/xorg-synaptics.pc", "size_i": "120", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-synaptics-devel-1.6.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-synaptics-devel-1.6.2/COPYING", "size_i": "1749", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/sudo_plugin.h", "size_i": "7321", "regex": "false"},
+	{"name_s": "/usr/share/doc/sudo-devel-1.8.6p3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sudo-devel-1.8.6p3/sample_plugin.c", "size_i": "13277", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sudo_plugin.8.gz", "size_i": "12541", "regex": "false"}
+]

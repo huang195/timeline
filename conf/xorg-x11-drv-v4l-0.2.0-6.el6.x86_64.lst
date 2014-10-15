@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/v4l_drv.so", "size_i": "17264", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/v4l.4.gz", "size_i": "753", "regex": "false"}
+]

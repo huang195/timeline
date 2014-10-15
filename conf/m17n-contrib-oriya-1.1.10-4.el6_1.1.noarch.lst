@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/m17n/icons/or-inscript.png", "size_i": "1543", "regex": "false"},
+	{"name_s": "/usr/share/m17n/or-inscript.mim", "size_i": "3312", "regex": "false"},
+	{"name_s": "/usr/share/m17n/or-phonetic.mim", "size_i": "3272", "regex": "false"}
+]

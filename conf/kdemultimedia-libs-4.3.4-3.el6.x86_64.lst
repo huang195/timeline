@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/kde4/dragonpart.so", "size_i": "123840", "regex": "false"},
+	{"name_s": "/usr/lib64/kde4/kcm_audiocd.so", "size_i": "62904", "regex": "false"},
+	{"name_s": "/usr/lib64/kde4/kcm_cddb.so", "size_i": "54672", "regex": "false"},
+	{"name_s": "/usr/lib64/kde4/kio_audiocd.so", "size_i": "65888", "regex": "false"},
+	{"name_s": "/usr/lib64/kde4/libaudiocd_encoder_flac.so", "size_i": "17488", "regex": "false"},
+	{"name_s": "/usr/lib64/kde4/libaudiocd_encoder_lame.so", "size_i": "83616", "regex": "false"},
+	{"name_s": "/usr/lib64/kde4/libaudiocd_encoder_vorbis.so", "size_i": "58288", "regex": "false"},
+	{"name_s": "/usr/lib64/kde4/libaudiocd_encoder_wav.so", "size_i": "11616", "regex": "false"},
+	{"name_s": "/usr/lib64/libaudiocdplugins.so.4", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/libaudiocdplugins.so.4.3.0", "size_i": "11080", "regex": "false"},
+	{"name_s": "/usr/lib64/libkcddb.so.4", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libkcddb.so.4.3.0", "size_i": "244352", "regex": "false"},
+	{"name_s": "/usr/lib64/libkcompactdisc.so.4", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libkcompactdisc.so.4.3.0", "size_i": "129672", "regex": "false"}
+]

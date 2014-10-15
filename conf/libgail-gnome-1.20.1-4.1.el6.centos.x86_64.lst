@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/gtk-2.0/modules/libgail-gnome.so", "size_i": "25392", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgail-gnome-1.20.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgail-gnome-1.20.1/AUTHORS", "size_i": "149", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgail-gnome-1.20.1/COPYING", "size_i": "25292", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgail-gnome-1.20.1/NEWS", "size_i": "1136", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgail-gnome-1.20.1/README", "size_i": "1173", "regex": "false"}
+]

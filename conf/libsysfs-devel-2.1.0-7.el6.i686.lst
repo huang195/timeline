@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/sysfs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/sysfs/dlist.h", "size_i": "7471", "regex": "false"},
+	{"name_s": "/usr/include/sysfs/libsysfs.h", "size_i": "8819", "regex": "false"},
+	{"name_s": "/usr/lib/libsysfs.a", "size_i": "56772", "regex": "false"},
+	{"name_s": "/usr/lib/libsysfs.so", "size_i": "17", "regex": "false"}
+]

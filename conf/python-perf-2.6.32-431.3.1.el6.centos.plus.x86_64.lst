@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/perf-0.1-py2.6.egg-info", "size_i": "261", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/perf.so", "size_i": "161312", "regex": "false"}
+]

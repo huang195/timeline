@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/bin/bsh-desktop", "size_i": "750", "regex": "false"},
+	{"name_s": "/usr/share/applications/fedora-bsh-desktop.desktop", "size_i": "202", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/16x16/apps/bsh.png", "size_i": "1183", "regex": "false"}
+]

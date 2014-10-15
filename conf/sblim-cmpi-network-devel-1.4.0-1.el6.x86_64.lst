@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/include/sblim", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/sblim/OSBase_CommonNetwork.h", "size_i": "1888", "regex": "false"},
+	{"name_s": "/usr/lib64/libOSBase_CommonNetwork.so", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-network-1.4.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-network-1.4.0/AUTHORS", "size_i": "98", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-network-1.4.0/COPYING", "size_i": "11249", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-network-1.4.0/DEBUG", "size_i": "250", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-network-1.4.0/README", "size_i": "5334", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-network-1.4.0/README.TEST", "size_i": "718", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-network-1.4.0/README.tog-pegasus", "size_i": "1802", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/abrt/abrt-harvest-vmcore.conf", "size_i": "314", "regex": "false"},
+	{"name_s": "/etc/libreport/events.d/vmcore_event.conf", "size_i": "452", "regex": "false"},
+	{"name_s": "/etc/libreport/events/analyze_VMcore.xml", "size_i": "13095", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/abrt-vmcore", "size_i": "1178", "regex": "false"},
+	{"name_s": "/usr/bin/abrt-action-analyze-vmcore", "size_i": "5025", "regex": "false"},
+	{"name_s": "/usr/sbin/abrt-harvest-vmcore", "size_i": "1910", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/abrt-action-analyze-vmcore.1.gz", "size_i": "1003", "regex": "false"}
+]

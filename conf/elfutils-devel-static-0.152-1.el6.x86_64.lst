@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libasm.a", "size_i": "77310", "regex": "false"},
+	{"name_s": "/usr/lib64/libdw.a", "size_i": "502000", "regex": "false"}
+]

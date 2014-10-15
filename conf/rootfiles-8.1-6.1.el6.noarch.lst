@@ -1,0 +1,7 @@
+[
+	{"name_s": "/root/.bash_logout", "size_i": "18", "regex": "false"},
+	{"name_s": "/root/.bash_profile", "size_i": "176", "regex": "false"},
+	{"name_s": "/root/.bashrc", "size_i": "176", "regex": "false"},
+	{"name_s": "/root/.cshrc", "size_i": "100", "regex": "false"},
+	{"name_s": "/root/.tcshrc", "size_i": "129", "regex": "false"}
+]

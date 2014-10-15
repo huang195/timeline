@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/perl5/DBD", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/DBD/SQLite", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/DBD/SQLite.pm", "size_i": "47521", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/DBD/SQLite/Cookbook.pod", "size_i": "3574", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/DBD", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/DBD/SQLite", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/DBD/SQLite/SQLite.so", "size_i": "102832", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-SQLite-1.27", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-SQLite-1.27/Changes", "size_i": "23310", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DBD-SQLite-1.27/README", "size_i": "32039", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DBD::SQLite.3pm.gz", "size_i": "13569", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DBD::SQLite::Cookbook.3pm.gz", "size_i": "3108", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/mozilla/plugins/libtotem-cone-plugin.so", "size_i": "99176", "regex": "false"},
+	{"name_s": "/usr/lib64/mozilla/plugins/libtotem-gmp-plugin.so", "size_i": "106984", "regex": "false"},
+	{"name_s": "/usr/lib64/mozilla/plugins/libtotem-mully-plugin.so", "size_i": "70904", "regex": "false"},
+	{"name_s": "/usr/lib64/mozilla/plugins/libtotem-narrowspace-plugin.so", "size_i": "79752", "regex": "false"},
+	{"name_s": "/usr/libexec/totem-plugin-viewer", "size_i": "230056", "regex": "false"}
+]

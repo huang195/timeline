@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libmtdev.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libmtdev.so.1.0.0", "size_i": "18752", "regex": "false"},
+	{"name_s": "/usr/share/doc/mtdev-1.1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mtdev-1.1.2/COPYING", "size_i": "1209", "regex": "false"},
+	{"name_s": "/usr/share/doc/mtdev-1.1.2/README", "size_i": "540", "regex": "false"}
+]

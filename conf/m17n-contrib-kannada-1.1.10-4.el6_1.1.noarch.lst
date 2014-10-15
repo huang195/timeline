@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/icons/kn-inscript.png", "size_i": "1165", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/kn-kgp.png", "size_i": "1242", "regex": "false"},
+	{"name_s": "/usr/share/m17n/kn-inscript.mim", "size_i": "3636", "regex": "false"},
+	{"name_s": "/usr/share/m17n/kn-kgp.mim", "size_i": "3492", "regex": "false"}
+]

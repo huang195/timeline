@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/portreserve", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/portreserve", "size_i": "2023", "regex": "false"},
+	{"name_s": "/sbin/portrelease", "size_i": "11", "regex": "false"},
+	{"name_s": "/sbin/portreserve", "size_i": "11048", "regex": "false"},
+	{"name_s": "/usr/share/doc/portreserve-0.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/portreserve-0.0.4/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/portreserve-0.0.4/ChangeLog", "size_i": "1925", "regex": "false"},
+	{"name_s": "/usr/share/doc/portreserve-0.0.4/NEWS", "size_i": "109", "regex": "false"},
+	{"name_s": "/usr/share/doc/portreserve-0.0.4/README", "size_i": "747", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/portrelease.1.gz", "size_i": "735", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/portreserve.1.gz", "size_i": "1144", "regex": "false"},
+	{"name_s": "/var/run/portreserve", "size_i": "4096", "regex": "false"}
+]

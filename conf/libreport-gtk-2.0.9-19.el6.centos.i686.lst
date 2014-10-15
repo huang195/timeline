@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/bin/report-gtk", "size_i": "102604", "regex": "false"},
+	{"name_s": "/usr/lib/libreport-gtk.so.0", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libreport-gtk.so.0.0.1", "size_i": "21300", "regex": "false"}
+]

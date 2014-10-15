@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/libgnomemm-2.6.so.1", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libgnomemm-2.6.so.1.0.5", "size_i": "25720", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomemm26-2.28.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomemm26-2.28.0/AUTHORS", "size_i": "908", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomemm26-2.28.0/COPYING", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomemm26-2.28.0/ChangeLog", "size_i": "10912", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomemm26-2.28.0/INSTALL", "size_i": "7831", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomemm26-2.28.0/NEWS", "size_i": "1579", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomemm26-2.28.0/README", "size_i": "101", "regex": "false"}
+]

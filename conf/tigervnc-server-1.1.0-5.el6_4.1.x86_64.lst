@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/rc.d/init.d/vncserver", "size_i": "3236", "regex": "false"},
+	{"name_s": "/etc/sysconfig/vncservers", "size_i": "765", "regex": "false"},
+	{"name_s": "/usr/bin/Xvnc", "size_i": "2393032", "regex": "false"},
+	{"name_s": "/usr/bin/vncconfig", "size_i": "85800", "regex": "false"},
+	{"name_s": "/usr/bin/vncpasswd", "size_i": "19912", "regex": "false"},
+	{"name_s": "/usr/bin/vncserver", "size_i": "20378", "regex": "false"},
+	{"name_s": "/usr/bin/x0vncserver", "size_i": "475600", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/Xvnc.1.gz", "size_i": "4685", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/vncconfig.1.gz", "size_i": "1702", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/vncpasswd.1.gz", "size_i": "1073", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/vncserver.1.gz", "size_i": "2435", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/x0vncserver.1.gz", "size_i": "3706", "regex": "false"}
+]

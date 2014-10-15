@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/gnome-settings-daemon-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gnome-settings-daemon-2.0/gnome-settings-daemon", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gnome-settings-daemon-2.0/gnome-settings-daemon/gnome-settings-client.h", "size_i": "4272", "regex": "false"},
+	{"name_s": "/usr/include/gnome-settings-daemon-2.0/gnome-settings-daemon/gnome-settings-plugin.h", "size_i": "11297", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/gnome-settings-daemon.pc", "size_i": "295", "regex": "false"}
+]

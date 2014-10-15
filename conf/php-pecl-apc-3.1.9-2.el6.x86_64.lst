@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/php.d/apc.ini", "size_i": "3073", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/apc.so", "size_i": "147360", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-apc-3.1.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-apc-3.1.9/CHANGELOG", "size_i": "9665", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-apc-3.1.9/INSTALL", "size_i": "19377", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-apc-3.1.9/LICENSE", "size_i": "3218", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-apc-3.1.9/NOTICE", "size_i": "1739", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-apc-3.1.9/TECHNOTES.txt", "size_i": "16114", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-apc-3.1.9/TODO", "size_i": "1413", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-apc-3.1.9/apc.php", "size_i": "46148", "regex": "false"},
+	{"name_s": "/usr/share/pear/.pkgxml/php-pecl-apc.xml", "size_i": "31782", "regex": "false"},
+	{"name_s": "/usr/share/php-pecl-apc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/php-pecl-apc/apc.php", "size_i": "46148", "regex": "false"}
+]

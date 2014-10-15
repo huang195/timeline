@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/uuid", "size_i": "9232", "regex": "false"},
+	{"name_s": "/usr/lib/libossp-uuid.so.16", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libossp-uuid.so.16.0.21", "size_i": "45832", "regex": "false"},
+	{"name_s": "/usr/share/doc/uuid-1.6.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/uuid-1.6.1/AUTHORS", "size_i": "484", "regex": "false"},
+	{"name_s": "/usr/share/doc/uuid-1.6.1/ChangeLog", "size_i": "21512", "regex": "false"},
+	{"name_s": "/usr/share/doc/uuid-1.6.1/HISTORY", "size_i": "16583", "regex": "false"},
+	{"name_s": "/usr/share/doc/uuid-1.6.1/NEWS", "size_i": "1085", "regex": "false"},
+	{"name_s": "/usr/share/doc/uuid-1.6.1/PORTING", "size_i": "1148", "regex": "false"},
+	{"name_s": "/usr/share/doc/uuid-1.6.1/README", "size_i": "2841", "regex": "false"},
+	{"name_s": "/usr/share/doc/uuid-1.6.1/SEEALSO", "size_i": "1680", "regex": "false"},
+	{"name_s": "/usr/share/doc/uuid-1.6.1/THANKS", "size_i": "1348", "regex": "false"},
+	{"name_s": "/usr/share/doc/uuid-1.6.1/TODO", "size_i": "701", "regex": "false"},
+	{"name_s": "/usr/share/doc/uuid-1.6.1/USERS", "size_i": "1334", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/uuid-config.1.gz", "size_i": "2637", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/uuid.1.gz", "size_i": "4247", "regex": "false"}
+]

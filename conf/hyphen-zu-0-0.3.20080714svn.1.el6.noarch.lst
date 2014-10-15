@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-zu-0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-zu-0/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-zu-0/CREDITS", "size_i": "467", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-zu-0/README", "size_i": "1020", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_zu_ZA.dic", "size_i": "2004", "regex": "false"}
+]

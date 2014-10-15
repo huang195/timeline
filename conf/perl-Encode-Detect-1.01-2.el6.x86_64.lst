@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/perl5/Encode", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Encode/Detect", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Encode/Detect.pm", "size_i": "3078", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Encode/Detect/Detector.pm", "size_i": "3525", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Encode", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Encode/Detect", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Encode/Detect/Detector", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Encode/Detect/Detector/Detector.so", "size_i": "151704", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Encode-Detect-1.01", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Encode-Detect-1.01/Changes", "size_i": "296", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Encode-Detect-1.01/LICENSE", "size_i": "25755", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Encode::Detect.3pm.gz", "size_i": "2174", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Encode::Detect::Detector.3pm.gz", "size_i": "2568", "regex": "false"}
+]

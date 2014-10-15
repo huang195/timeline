@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/share/doc/perl-Time-modules-2006.0814", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Time-modules-2006.0814/CHANGELOG", "size_i": "5495", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Time-modules-2006.0814/README", "size_i": "604", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Time::CTime.3pm.gz", "size_i": "2685", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Time::DaysInMonth.3pm.gz", "size_i": "2100", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Time::JulianDay.3pm.gz", "size_i": "2821", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Time::ParseDate.3pm.gz", "size_i": "3592", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Time::Timezone.3pm.gz", "size_i": "2242", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Time", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Time/CTime.pm", "size_i": "5576", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Time/DaysInMonth.pm", "size_i": "1330", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Time/JulianDay.pm", "size_i": "5924", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Time/ParseDate.pm", "size_i": "29875", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Time/Timezone.pm", "size_i": "9923", "regex": "false"}
+]

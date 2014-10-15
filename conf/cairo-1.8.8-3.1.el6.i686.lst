@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib/libcairo.so.2", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libcairo.so.2.10800.8", "size_i": "523308", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairo-1.8.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairo-1.8.8/AUTHORS", "size_i": "7409", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairo-1.8.8/BIBLIOGRAPHY", "size_i": "3754", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairo-1.8.8/BUGS", "size_i": "3713", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairo-1.8.8/COPYING", "size_i": "1539", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairo-1.8.8/COPYING-LGPL-2.1", "size_i": "26528", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairo-1.8.8/COPYING-MPL-1.1", "size_i": "25755", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairo-1.8.8/NEWS", "size_i": "227878", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairo-1.8.8/README", "size_i": "6673", "regex": "false"}
+]

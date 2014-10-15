@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gconf.so", "size_i": "83664", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-gconf-2.28.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-gconf-2.28.0/basic-gconf-app.py", "size_i": "9494", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-gconf-2.28.0/simple-controller.py", "size_i": "683", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-gconf-2.28.0/simple-view.py", "size_i": "825", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/argtypes/gconf-arg-types.py", "size_i": "1397", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/argtypes/gconf-arg-types.pyc", "size_i": "1657", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/argtypes/gconf-arg-types.pyo", "size_i": "1657", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/gconf.defs", "size_i": "40194", "regex": "false"}
+]

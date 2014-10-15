@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libnetfilter_conntrack.so.3", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/lib/libnetfilter_conntrack.so.3.0.0", "size_i": "81956", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnetfilter_conntrack-0.0.100", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnetfilter_conntrack-0.0.100/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnetfilter_conntrack-0.0.100/README", "size_i": "2532", "regex": "false"}
+]

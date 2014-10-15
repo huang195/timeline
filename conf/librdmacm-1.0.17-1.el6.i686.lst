@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/librdmacm.so.1", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/librdmacm.so.1.0.0", "size_i": "80104", "regex": "false"},
+	{"name_s": "/usr/lib/rsocket/librspreload.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/rsocket/librspreload.so.1.0.0", "size_i": "22320", "regex": "false"},
+	{"name_s": "/usr/share/doc/librdmacm-1.0.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/librdmacm-1.0.17/AUTHORS", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/doc/librdmacm-1.0.17/COPYING", "size_i": "19820", "regex": "false"},
+	{"name_s": "/usr/share/doc/librdmacm-1.0.17/README", "size_i": "1700", "regex": "false"}
+]

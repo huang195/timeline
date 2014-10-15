@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libcurl.so.4", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libcurl.so.4.1.1", "size_i": "343088", "regex": "false"}
+]

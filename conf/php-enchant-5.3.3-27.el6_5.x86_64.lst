@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/enchant.ini", "size_i": "55", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/enchant.so", "size_i": "22288", "regex": "false"}
+]

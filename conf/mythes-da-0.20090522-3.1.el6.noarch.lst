@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/mythes-da-0.20090522", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-da-0.20090522/README_th_da_DK.txt", "size_i": "947", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-da-0.20090522/README_th_en-US.txt", "size_i": "947", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-da-0.20090522/release_note.txt", "size_i": "533", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_da_DK_v2.dat", "size_i": "1022810", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_da_DK_v2.idx", "size_i": "185663", "regex": "false"}
+]

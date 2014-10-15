@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/hspell", "size_i": "19216", "regex": "false"},
+	{"name_s": "/usr/bin/hspell-i", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/bin/multispell", "size_i": "9577", "regex": "false"},
+	{"name_s": "/usr/lib64/libhspell.so.0", "size_i": "52912", "regex": "false"},
+	{"name_s": "/usr/share/doc/hspell-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hspell-1.1/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/hspell-1.1/LICENSE", "size_i": "480", "regex": "false"},
+	{"name_s": "/usr/share/doc/hspell-1.1/README", "size_i": "7767", "regex": "false"},
+	{"name_s": "/usr/share/doc/hspell-1.1/WHATSNEW", "size_i": "18254", "regex": "false"},
+	{"name_s": "/usr/share/hspell", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hspell/hebrew.wgz", "size_i": "112181", "regex": "false"},
+	{"name_s": "/usr/share/hspell/hebrew.wgz.desc", "size_i": "133919", "regex": "false"},
+	{"name_s": "/usr/share/hspell/hebrew.wgz.hints", "size_i": "4434", "regex": "false"},
+	{"name_s": "/usr/share/hspell/hebrew.wgz.prefixes", "size_i": "44653", "regex": "false"},
+	{"name_s": "/usr/share/hspell/hebrew.wgz.sizes", "size_i": "33", "regex": "false"},
+	{"name_s": "/usr/share/hspell/hebrew.wgz.stems", "size_i": "367685", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/hspell.1.gz", "size_i": "5178", "regex": "false"}
+]

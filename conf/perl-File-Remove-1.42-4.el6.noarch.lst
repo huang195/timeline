@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-File-Remove-1.42", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Remove-1.42/Changes", "size_i": "5105", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Remove-1.42/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Remove-1.42/README", "size_i": "3253", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::Remove.3pm.gz", "size_i": "3235", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Remove.pm", "size_i": "8000", "regex": "false"}
+]

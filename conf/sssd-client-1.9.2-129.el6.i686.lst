@@ -1,0 +1,18 @@
+[
+	{"name_s": "/lib/libnss_sss.so.2", "size_i": "29496", "regex": "false"},
+	{"name_s": "/lib/security/pam_sss.so", "size_i": "28156", "regex": "false"},
+	{"name_s": "/usr/lib/krb5/plugins/authdata/sssd_pac_plugin.so", "size_i": "15492", "regex": "false"},
+	{"name_s": "/usr/lib/krb5/plugins/libkrb5/sssd_krb5_locator_plugin.so", "size_i": "9208", "regex": "false"},
+	{"name_s": "/usr/share/doc/sssd-client-1.9.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sssd-client-1.9.2/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/sssd-client-1.9.2/COPYING.LESSER", "size_i": "7643", "regex": "false"},
+	{"name_s": "/usr/share/man/ca/man8/pam_sss.8.gz", "size_i": "1727", "regex": "false"},
+	{"name_s": "/usr/share/man/fr/man8/pam_sss.8.gz", "size_i": "1685", "regex": "false"},
+	{"name_s": "/usr/share/man/fr/man8/sssd_krb5_locator_plugin.8.gz", "size_i": "1095", "regex": "false"},
+	{"name_s": "/usr/share/man/ja/man8/pam_sss.8.gz", "size_i": "1936", "regex": "false"},
+	{"name_s": "/usr/share/man/ja/man8/sssd_krb5_locator_plugin.8.gz", "size_i": "1281", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pam_sss.8.gz", "size_i": "1557", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sssd_krb5_locator_plugin.8.gz", "size_i": "1008", "regex": "false"},
+	{"name_s": "/usr/share/man/uk/man8/pam_sss.8.gz", "size_i": "2198", "regex": "false"},
+	{"name_s": "/usr/share/man/uk/man8/sssd_krb5_locator_plugin.8.gz", "size_i": "1387", "regex": "false"}
+]

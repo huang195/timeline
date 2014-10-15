@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/m17n/icons/ja-tcode.png", "size_i": "1836", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ja-tcode.mim", "size_i": "21491", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ja-trycode.mim", "size_i": "50850", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/opt/rh/php54/root/etc/php.d/odbc.ini", "size_i": "49", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php.d/pdo_odbc.ini", "size_i": "57", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/odbc.so", "size_i": "64904", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/pdo_odbc.so", "size_i": "24160", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-hsb-0.20080619", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-hsb-0.20080619/COPYING", "size_i": "2700", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-hsb-0.20080619/README", "size_i": "2924", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_hsb_DE.dic", "size_i": "10819", "regex": "false"}
+]

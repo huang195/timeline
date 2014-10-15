@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/X11/extensions/Xrender.h", "size_i": "12805", "regex": "false"},
+	{"name_s": "/usr/lib64/libXrender.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/xrender.pc", "size_i": "245", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXrender-devel-0.9.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXrender-devel-0.9.7/libXrender.txt", "size_i": "17034", "regex": "false"}
+]

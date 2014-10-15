@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/share/doc/jakarta-commons-logging-1.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-logging-1.0.4/LICENSE.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-logging-1.0.4/PROPOSAL.html", "size_i": "3601", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-logging-1.0.4/RELEASE-NOTES.txt", "size_i": "4945", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-logging-1.0.4/STATUS.html", "size_i": "5195", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-logging-1.0.4.jar", "size_i": "33", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-logging-api-1.0.4.jar", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-logging-api.jar", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-logging.jar", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-logging-1.0.4.jar", "size_i": "38870", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-logging-api-1.0.4.jar", "size_i": "25443", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-logging-api.jar", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-logging.jar", "size_i": "33", "regex": "false"}
+]

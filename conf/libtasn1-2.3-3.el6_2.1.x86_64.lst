@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/libtasn1.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libtasn1.so.3.1.6", "size_i": "66320", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtasn1-2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtasn1-2.3/AUTHORS", "size_i": "155", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtasn1-2.3/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtasn1-2.3/COPYING.LIB", "size_i": "26432", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtasn1-2.3/ChangeLog", "size_i": "90216", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtasn1-2.3/NEWS", "size_i": "12054", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtasn1-2.3/README", "size_i": "493", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtasn1-2.3/THANKS", "size_i": "648", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtasn1-2.3/TODO", "size_i": "525", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtasn1-2.3/libtasn1.pdf", "size_i": "210862", "regex": "false"}
+]

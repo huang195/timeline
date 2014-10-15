@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/sigar.h", "size_i": "24858", "regex": "false"},
+	{"name_s": "/usr/include/sigar_fileinfo.h", "size_i": "6501", "regex": "false"},
+	{"name_s": "/usr/include/sigar_format.h", "size_i": "2281", "regex": "false"},
+	{"name_s": "/usr/include/sigar_getline.h", "size_i": "646", "regex": "false"},
+	{"name_s": "/usr/include/sigar_log.h", "size_i": "2284", "regex": "false"},
+	{"name_s": "/usr/include/sigar_private.h", "size_i": "11936", "regex": "false"},
+	{"name_s": "/usr/include/sigar_ptql.h", "size_i": "1958", "regex": "false"},
+	{"name_s": "/usr/include/sigar_util.h", "size_i": "5271", "regex": "false"},
+	{"name_s": "/usr/share/doc/sigar-devel-1.6.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sigar-devel-1.6.5/AUTHORS", "size_i": "478", "regex": "false"},
+	{"name_s": "/usr/share/doc/sigar-devel-1.6.5/LICENSE", "size_i": "10850", "regex": "false"},
+	{"name_s": "/usr/share/doc/sigar-devel-1.6.5/NOTICE", "size_i": "1263", "regex": "false"}
+]

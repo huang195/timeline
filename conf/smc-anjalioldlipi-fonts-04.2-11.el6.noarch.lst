@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/67-smc-anjalioldlipi.conf", "size_i": "58", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/67-smc-anjalioldlipi.conf", "size_i": "438", "regex": "false"},
+	{"name_s": "/usr/share/fonts/smc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/smc/AnjaliOldLipi.ttf", "size_i": "442112", "regex": "false"}
+]

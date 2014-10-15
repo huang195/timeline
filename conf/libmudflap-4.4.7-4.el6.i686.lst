@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/libmudflap.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libmudflap.so.0.0.0", "size_i": "112484", "regex": "false"},
+	{"name_s": "/usr/lib/libmudflapth.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libmudflapth.so.0.0.0", "size_i": "116004", "regex": "false"}
+]

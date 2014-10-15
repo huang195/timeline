@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/lvm2app.h", "size_i": "49526", "regex": "false"},
+	{"name_s": "/usr/include/lvm2cmd.h", "size_i": "2332", "regex": "false"},
+	{"name_s": "/usr/lib64/libdevmapper-event-lvm2.so", "size_i": "43", "regex": "false"},
+	{"name_s": "/usr/lib64/liblvm2app.so", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/lib64/liblvm2cmd.so", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/lvm2app.pc", "size_i": "210", "regex": "false"}
+]

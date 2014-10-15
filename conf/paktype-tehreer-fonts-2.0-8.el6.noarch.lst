@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/67-paktype-tehreer.conf", "size_i": "56", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/67-paktype-tehreer.conf", "size_i": "891", "regex": "false"},
+	{"name_s": "/usr/share/fonts/paktype", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/paktype/PakTypeTehreer.ttf", "size_i": "304120", "regex": "false"}
+]

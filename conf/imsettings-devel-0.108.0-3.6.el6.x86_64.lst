@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/include/imsettings", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/imsettings/imsettings-glib-bindings.h", "size_i": "18263", "regex": "false"},
+	{"name_s": "/usr/include/imsettings/imsettings-info.h", "size_i": "4380", "regex": "false"},
+	{"name_s": "/usr/include/imsettings/imsettings-object.h", "size_i": "3539", "regex": "false"},
+	{"name_s": "/usr/include/imsettings/imsettings-observer.h", "size_i": "7299", "regex": "false"},
+	{"name_s": "/usr/include/imsettings/imsettings-request.h", "size_i": "7525", "regex": "false"},
+	{"name_s": "/usr/include/imsettings/imsettings-utils.h", "size_i": "3766", "regex": "false"},
+	{"name_s": "/usr/include/imsettings/imsettings.h", "size_i": "2256", "regex": "false"},
+	{"name_s": "/usr/lib64/libimsettings-xim.so", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/libimsettings.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/imsettings.pc", "size_i": "228", "regex": "false"},
+	{"name_s": "/usr/share/doc/imsettings-devel-0.108.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/imsettings-devel-0.108.0/AUTHORS", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/doc/imsettings-devel-0.108.0/COPYING", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/imsettings-devel-0.108.0/ChangeLog", "size_i": "66963", "regex": "false"},
+	{"name_s": "/usr/share/doc/imsettings-devel-0.108.0/NEWS", "size_i": "6754", "regex": "false"},
+	{"name_s": "/usr/share/doc/imsettings-devel-0.108.0/README", "size_i": "5648", "regex": "false"}
+]

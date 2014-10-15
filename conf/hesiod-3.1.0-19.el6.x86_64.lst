@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libhesiod.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libhesiod.so.0.0.0", "size_i": "16168", "regex": "false"},
+	{"name_s": "/usr/share/doc/hesiod-3.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hesiod-3.1.0/NEWS", "size_i": "2983", "regex": "false"},
+	{"name_s": "/usr/share/doc/hesiod-3.1.0/README", "size_i": "1960", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/hesiod.conf.5.gz", "size_i": "1060", "regex": "false"}
+]

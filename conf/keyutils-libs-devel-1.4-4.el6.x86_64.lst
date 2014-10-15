@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/include/keyutils.h", "size_i": "6092", "regex": "false"},
+	{"name_s": "/usr/lib64/libkeyutils.so", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_assume_authority.3.gz", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_chown.3.gz", "size_i": "1003", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_clear.3.gz", "size_i": "810", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_describe.3.gz", "size_i": "1343", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_describe_alloc.3.gz", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_get_keyring_ID.3.gz", "size_i": "1140", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_instantiate.3.gz", "size_i": "1904", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_join_session_keyring.3.gz", "size_i": "1053", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_link.3.gz", "size_i": "1034", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_negate.3.gz", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_read.3.gz", "size_i": "1313", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_read_alloc.3.gz", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_revoke.3.gz", "size_i": "850", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_search.3.gz", "size_i": "1455", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_set_reqkey_keyring.3.gz", "size_i": "1088", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_set_timeout.3.gz", "size_i": "943", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_setperm.3.gz", "size_i": "1398", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_unlink.3.gz", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/keyctl_update.3.gz", "size_i": "1071", "regex": "false"}
+]

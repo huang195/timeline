@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/gpg-error-config", "size_i": "1615", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/gpg-error.exe", "size_i": "52520", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/libgpg-error-0.dll", "size_i": "51336", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/gpg-error.h", "size_i": "22595", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libgpg-error.dll.a", "size_i": "5288", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libgpg-error.la", "size_i": "839", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/share/aclocal/gpg-error.m4", "size_i": "2514", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/share/common-lisp/source/gpg-error/gpg-error-codes.lisp", "size_i": "16384", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/share/common-lisp/source/gpg-error/gpg-error-package.lisp", "size_i": "2206", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/share/common-lisp/source/gpg-error/gpg-error.asd", "size_i": "1305", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/share/common-lisp/source/gpg-error/gpg-error.lisp", "size_i": "7152", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/share/locale/de/LC_MESSAGES/libgpg-error.mo", "size_i": "16904", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/share/locale/fr/LC_MESSAGES/libgpg-error.mo", "size_i": "14496", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/share/locale/pl/LC_MESSAGES/libgpg-error.mo", "size_i": "16753", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/share/locale/ro/LC_MESSAGES/libgpg-error.mo", "size_i": "14267", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/share/locale/sv/LC_MESSAGES/libgpg-error.mo", "size_i": "16002", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/share/locale/vi/LC_MESSAGES/libgpg-error.mo", "size_i": "18006", "regex": "false"}
+]

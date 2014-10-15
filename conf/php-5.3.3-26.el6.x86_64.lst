@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/httpd/conf.d/php.conf", "size_i": "674", "regex": "false"},
+	{"name_s": "/usr/lib64/httpd/modules/libphp5.so", "size_i": "3697072", "regex": "false"},
+	{"name_s": "/var/lib/php/session", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/www/icons/php.gif", "size_i": "2523", "regex": "false"}
+]

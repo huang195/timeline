@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/auto-update-debuginfo.conf", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/auto-update-debuginfo.py", "size_i": "3700", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/auto-update-debuginfo.pyc", "size_i": "3542", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/auto-update-debuginfo.pyo", "size_i": "3542", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-auto-update-debug-info-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-auto-update-debug-info-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

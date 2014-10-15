@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-lt-0.20040110", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-lt-0.20040110/README_hyph_lt_LT.txt", "size_i": "908", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_lt_LT.dic", "size_i": "7817", "regex": "false"}
+]

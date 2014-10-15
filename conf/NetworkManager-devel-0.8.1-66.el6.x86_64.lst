@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/NetworkManager", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/NetworkManager/NetworkManager.h", "size_i": "13354", "regex": "false"},
+	{"name_s": "/usr/include/NetworkManager/NetworkManagerVPN.h", "size_i": "6588", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/NetworkManager.pc", "size_i": "251", "regex": "false"},
+	{"name_s": "/usr/share/doc/NetworkManager-devel-0.8.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/NetworkManager-devel-0.8.1/ChangeLog", "size_i": "802077", "regex": "false"},
+	{"name_s": "/usr/share/doc/NetworkManager-devel-0.8.1/spec.html", "size_i": "99153", "regex": "false"}
+]

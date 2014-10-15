@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/ef", "size_i": "405", "regex": "false"},
+	{"name_s": "/usr/lib/libefence.a", "size_i": "17022", "regex": "false"},
+	{"name_s": "/usr/lib/libefence.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libefence.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libefence.so.0.0", "size_i": "13040", "regex": "false"},
+	{"name_s": "/usr/share/doc/ElectricFence-2.2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ElectricFence-2.2.2/CHANGES", "size_i": "1045", "regex": "false"},
+	{"name_s": "/usr/share/doc/ElectricFence-2.2.2/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/ElectricFence-2.2.2/README", "size_i": "906", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/efence.3.gz", "size_i": "5379", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libefence.3.gz", "size_i": "38", "regex": "false"}
+]

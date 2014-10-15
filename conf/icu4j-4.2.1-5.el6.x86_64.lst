@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/icu4j-4.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/icu4j-4.2.1/APIChangeReport.html", "size_i": "22397", "regex": "false"},
+	{"name_s": "/usr/share/doc/icu4j-4.2.1/license.html", "size_i": "1981", "regex": "false"},
+	{"name_s": "/usr/share/doc/icu4j-4.2.1/readme.html", "size_i": "48062", "regex": "false"},
+	{"name_s": "/usr/share/java/icu4j-4.2.1.jar", "size_i": "6337822", "regex": "false"},
+	{"name_s": "/usr/share/java/icu4j.jar", "size_i": "15", "regex": "false"}
+]

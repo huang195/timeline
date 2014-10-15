@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/raddb/ldap.attrmap", "size_i": "3218", "regex": "false"},
+	{"name_s": "/etc/raddb/modules/ldap", "size_i": "5682", "regex": "false"},
+	{"name_s": "/usr/lib64/freeradius/rlm_ldap-2.1.12.so", "size_i": "46544", "regex": "false"},
+	{"name_s": "/usr/lib64/freeradius/rlm_ldap.so", "size_i": "18", "regex": "false"}
+]

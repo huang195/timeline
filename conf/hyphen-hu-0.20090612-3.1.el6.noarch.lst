@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-hu-0.20090612", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-hu-0.20090612/README", "size_i": "77", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-hu-0.20090612/gpl.txt", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-hu-0.20090612/huhyphn.pdf", "size_i": "104152", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_hu_HR.dic", "size_i": "614138", "regex": "false"}
+]

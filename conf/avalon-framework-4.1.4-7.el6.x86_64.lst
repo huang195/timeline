@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/gcj/avalon-framework/avalon-framework-4.1.4.jar.db", "size_i": "8192", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/avalon-framework/avalon-framework-4.1.4.jar.so", "size_i": "306776", "regex": "false"},
+	{"name_s": "/usr/share/doc/avalon-framework-4.1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/avalon-framework-4.1.4/KEYS", "size_i": "4493", "regex": "false"},
+	{"name_s": "/usr/share/doc/avalon-framework-4.1.4/LICENSE.txt", "size_i": "2646", "regex": "false"},
+	{"name_s": "/usr/share/doc/avalon-framework-4.1.4/README.txt", "size_i": "1479", "regex": "false"},
+	{"name_s": "/usr/share/java/avalon-framework-4.1.4.jar", "size_i": "71961", "regex": "false"},
+	{"name_s": "/usr/share/java/avalon-framework.jar", "size_i": "26", "regex": "false"}
+]

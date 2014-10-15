@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/py_rrdtool-0.2.1-py2.6.egg-info", "size_i": "238", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/rrdtoolmodule.so", "size_i": "17832", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-python-1.3.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-python-1.3.8/AUTHORS", "size_i": "33", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-python-1.3.8/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-python-1.3.8/README", "size_i": "741", "regex": "false"}
+]

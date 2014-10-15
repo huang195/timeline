@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/HTML/en/kmid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/HTML/en/kmid/common", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/share/doc/HTML/en/kmid/index.cache.bz2", "size_i": "15432", "regex": "false"},
+	{"name_s": "/usr/share/doc/HTML/en/kmid/index.docbook", "size_i": "38150", "regex": "false"}
+]

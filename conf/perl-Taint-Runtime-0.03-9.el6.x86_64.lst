@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/perl5/Taint", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Taint/Runtime.pm", "size_i": "11979", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Taint/is_taint_bench.pl", "size_i": "2556", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Taint", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Taint/Runtime", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Taint/Runtime/Runtime.so", "size_i": "10864", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Taint-Runtime-0.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Taint-Runtime-0.03/Changes", "size_i": "276", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Taint-Runtime-0.03/README", "size_i": "9223", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Taint::Runtime.3pm.gz", "size_i": "5296", "regex": "false"}
+]

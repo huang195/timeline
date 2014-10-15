@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/libexec/ibus-engine-m17n", "size_i": "26176", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-m17n-1.3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-m17n-1.3.0/AUTHORS", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-m17n-1.3.0/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-m17n-1.3.0/README", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/ibus-m17n", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ibus-m17n/icons", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ibus-m17n/icons/ibus-m17n.svg", "size_i": "8524", "regex": "false"},
+	{"name_s": "/usr/share/ibus/component/m17n.xml", "size_i": "550", "regex": "false"},
+	{"name_s": "/usr/share/locale/zh_CN/LC_MESSAGES/ibus-m17n.mo", "size_i": "409", "regex": "false"}
+]

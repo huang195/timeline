@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/graceful-fs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/graceful-fs/graceful-fs.js", "size_i": "2979", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/graceful-fs/package.json", "size_i": "689", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/graceful-fs/polyfills.js", "size_i": "5939", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-graceful-fs-2.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-graceful-fs-2.0.0/LICENSE", "size_i": "1310", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-graceful-fs-2.0.0/README.md", "size_i": "1228", "regex": "false"}
+]

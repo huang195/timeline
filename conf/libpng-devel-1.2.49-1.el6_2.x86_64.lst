@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/libpng-config", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/bin/libpng12-config", "size_i": "2416", "regex": "false"},
+	{"name_s": "/usr/include/libpng12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libpng12/png.h", "size_i": "161982", "regex": "false"},
+	{"name_s": "/usr/include/libpng12/pngconf.h", "size_i": "50992", "regex": "false"},
+	{"name_s": "/usr/include/png.h", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/include/pngconf.h", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libpng.so", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/lib64/libpng12.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libpng.pc", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libpng12.pc", "size_i": "223", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libpng.3.gz", "size_i": "50637", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libpngpf.3.gz", "size_i": "2331", "regex": "false"}
+]

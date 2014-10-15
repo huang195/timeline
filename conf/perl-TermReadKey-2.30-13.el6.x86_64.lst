@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Term", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Term/ReadKey.pm", "size_i": "16187", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Term", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Term/ReadKey", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Term/ReadKey/ReadKey.so", "size_i": "36344", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Term/ReadKey/autosplit.ix", "size_i": "91", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-TermReadKey-2.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-TermReadKey-2.30/README", "size_i": "6357", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Term::ReadKey.3pm.gz", "size_i": "4563", "regex": "false"}
+]

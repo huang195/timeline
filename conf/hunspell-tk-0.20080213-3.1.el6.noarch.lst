@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-tk-0.20080213", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-tk-0.20080213/README_tk_TM.txt", "size_i": "18846", "regex": "false"},
+	{"name_s": "/usr/share/myspell/tk_TM.aff", "size_i": "856", "regex": "false"},
+	{"name_s": "/usr/share/myspell/tk_TM.dic", "size_i": "81686", "regex": "false"}
+]

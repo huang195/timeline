@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/dbus-1/system.d/org.freedesktop.RealtimeKit1.conf", "size_i": "1075", "regex": "false"},
+	{"name_s": "/usr/libexec/rtkit-daemon", "size_i": "50424", "regex": "false"},
+	{"name_s": "/usr/sbin/rtkitctl", "size_i": "7784", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/interfaces/org.freedesktop.RealtimeKit1.xml", "size_i": "1012", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/system-services/org.freedesktop.RealtimeKit1.service", "size_i": "91", "regex": "false"},
+	{"name_s": "/usr/share/doc/rtkit-0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rtkit-0.5/GPL", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/rtkit-0.5/LICENSE", "size_i": "215", "regex": "false"},
+	{"name_s": "/usr/share/doc/rtkit-0.5/README", "size_i": "9004", "regex": "false"},
+	{"name_s": "/usr/share/doc/rtkit-0.5/rtkit.c", "size_i": "5224", "regex": "false"},
+	{"name_s": "/usr/share/doc/rtkit-0.5/rtkit.h", "size_i": "2371", "regex": "false"},
+	{"name_s": "/usr/share/polkit-1/actions/org.freedesktop.RealtimeKit1.policy", "size_i": "1065", "regex": "false"}
+]

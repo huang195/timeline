@@ -1,0 +1,22 @@
+[
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/Makefile", "size_i": "901", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/README", "size_i": "458", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/advanced.source", "size_i": "1578", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/advanced.sql", "size_i": "1578", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/basics.source", "size_i": "5616", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/basics.sql", "size_i": "5616", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/complex.c", "size_i": "5863", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/complex.so", "size_i": "8144", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/complex.source", "size_i": "7596", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/complex.sql", "size_i": "8112", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/funcs.c", "size_i": "2663", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/funcs.so", "size_i": "5336", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/funcs.source", "size_i": "4628", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/funcs.sql", "size_i": "4800", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/funcs_new.c", "size_i": "3256", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/syscat.source", "size_i": "5935", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/tutorial/syscat.sql", "size_i": "5935", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/doc/postgresql92-postgresql-docs-9.2.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/doc/postgresql92-postgresql-docs-9.2.7/postgresql-9.2.7-US.pdf", "size_i": "9560323", "regex": "false"}
+]

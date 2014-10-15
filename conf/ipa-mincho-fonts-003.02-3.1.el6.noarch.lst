@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-2-ipa-mincho.conf", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-mincho-fonts-003.02", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-mincho-fonts-003.02/IPA_Font_License_Agreement_v1.0.txt", "size_i": "20564", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-mincho-fonts-003.02/Readme_ipam00302.txt", "size_i": "1648", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-2-ipa-mincho.conf", "size_i": "709", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ipa-mincho", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ipa-mincho/ipam.ttf", "size_i": "8061296", "regex": "false"}
+]

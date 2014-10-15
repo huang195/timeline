@@ -1,0 +1,5 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Package::Constants.3pm.gz", "size_i": "2396", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Package", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Package/Constants.pm", "size_i": "2363", "regex": "false"}
+]

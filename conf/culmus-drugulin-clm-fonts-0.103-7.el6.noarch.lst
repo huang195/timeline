@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-culmus-drugulin-clm.conf", "size_i": "60", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-culmus-drugulin-clm.conf", "size_i": "778", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DrugulinCLM-Bold.afm", "size_i": "17225", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DrugulinCLM-Bold.pfa", "size_i": "72926", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DrugulinCLM-BoldItalic.afm", "size_i": "12468", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DrugulinCLM-BoldItalic.pfa", "size_i": "44404", "regex": "false"}
+]

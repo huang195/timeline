@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libdv.so.4", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib/libdv.so.4.0.3", "size_i": "122312", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdv-1.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdv-1.0.0/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdv-1.0.0/COPYRIGHT", "size_i": "861", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdv-1.0.0/ChangeLog", "size_i": "29462", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-khmeros-muol.conf", "size_i": "55", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-khmeros-muol.conf", "size_i": "1776", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros/KhmerOS_muol.ttf", "size_i": "238376", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros/KhmerOS_muollight.ttf", "size_i": "232832", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros/KhmerOS_muolpali.ttf", "size_i": "140748", "regex": "false"}
+]

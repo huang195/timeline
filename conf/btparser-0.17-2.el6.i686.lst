@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/btparser", "size_i": "10504", "regex": "false"},
+	{"name_s": "/usr/lib/libbtparser.so.2", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libbtparser.so.2.2.2", "size_i": "65984", "regex": "false"},
+	{"name_s": "/usr/share/doc/btparser-0.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/btparser-0.17/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/btparser-0.17/ChangeLog", "size_i": "25481", "regex": "false"},
+	{"name_s": "/usr/share/doc/btparser-0.17/NEWS", "size_i": "6855", "regex": "false"},
+	{"name_s": "/usr/share/doc/btparser-0.17/README", "size_i": "1290", "regex": "false"},
+	{"name_s": "/usr/share/doc/btparser-0.17/TODO", "size_i": "655", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/btparser.1.gz", "size_i": "872", "regex": "false"}
+]

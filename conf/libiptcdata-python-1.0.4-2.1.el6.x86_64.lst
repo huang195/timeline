@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/iptcdata.so", "size_i": "26176", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiptcdata-python-1.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiptcdata-python-1.0.4/README", "size_i": "1116", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiptcdata-python-1.0.4/set_iptc.py", "size_i": "1949", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiptcdata-python-1.0.4/show_iptc.py", "size_i": "528", "regex": "false"}
+]

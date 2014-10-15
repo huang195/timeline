@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/printemf", "size_i": "3712", "regex": "false"},
+	{"name_s": "/usr/lib/libEMF.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libEMF.so.1.0.0", "size_i": "212172", "regex": "false"},
+	{"name_s": "/usr/share/doc/libEMF-1.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libEMF-1.0.4/AUTHORS", "size_i": "160", "regex": "false"},
+	{"name_s": "/usr/share/doc/libEMF-1.0.4/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/libEMF-1.0.4/COPYING.LIB", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/libEMF-1.0.4/ChangeLog", "size_i": "2163", "regex": "false"},
+	{"name_s": "/usr/share/doc/libEMF-1.0.4/NEWS", "size_i": "514", "regex": "false"},
+	{"name_s": "/usr/share/doc/libEMF-1.0.4/README", "size_i": "755", "regex": "false"}
+]

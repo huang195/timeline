@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/modesetting_drv.so", "size_i": "37864", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-modesetting-0.5.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-modesetting-0.5.0/COPYING", "size_i": "2259", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-modesetting-0.5.0/README", "size_i": "840", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/modesetting.4.gz", "size_i": "930", "regex": "false"}
+]

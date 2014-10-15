@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/rb", "size_i": "65456", "regex": "false"},
+	{"name_s": "/usr/bin/rx", "size_i": "65456", "regex": "false"},
+	{"name_s": "/usr/bin/rz", "size_i": "65456", "regex": "false"},
+	{"name_s": "/usr/bin/sb", "size_i": "70224", "regex": "false"},
+	{"name_s": "/usr/bin/sx", "size_i": "70224", "regex": "false"},
+	{"name_s": "/usr/bin/sz", "size_i": "70224", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/lrzsz.mo", "size_i": "14021", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rz.1.gz", "size_i": "5810", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sz.1.gz", "size_i": "7390", "regex": "false"}
+]

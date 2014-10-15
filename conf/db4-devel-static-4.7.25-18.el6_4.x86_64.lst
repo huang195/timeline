@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/libdb-4.7.a", "size_i": "2434406", "regex": "false"},
+	{"name_s": "/usr/lib64/libdb_cxx-4.7.a", "size_i": "2627960", "regex": "false"},
+	{"name_s": "/usr/lib64/libdb_java-4.7.a", "size_i": "2665342", "regex": "false"},
+	{"name_s": "/usr/lib64/libdb_tcl-4.7.a", "size_i": "2770240", "regex": "false"}
+]

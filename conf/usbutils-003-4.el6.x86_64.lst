@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/lsusb", "size_i": "109544", "regex": "false"},
+	{"name_s": "/usr/bin/lsusb.py", "size_i": "13406", "regex": "false"},
+	{"name_s": "/usr/bin/usb-devices", "size_i": "4202", "regex": "false"},
+	{"name_s": "/usr/bin/usbhid-dump", "size_i": "19376", "regex": "false"},
+	{"name_s": "/usr/sbin/lsusb", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbutils-003", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbutils-003/AUTHORS", "size_i": "88", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbutils-003/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbutils-003/ChangeLog", "size_i": "8372", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbutils-003/NEWS", "size_i": "4922", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbutils-003/README", "size_i": "74", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/usb-devices.1.gz", "size_i": "772", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/lsusb.8.gz", "size_i": "902", "regex": "false"},
+	{"name_s": "/usr/share/pkgconfig/usbutils.pc", "size_i": "95", "regex": "false"}
+]

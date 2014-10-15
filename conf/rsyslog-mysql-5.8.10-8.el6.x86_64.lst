@@ -1,0 +1,5 @@
+[
+	{"name_s": "/lib64/rsyslog/ommysql.so", "size_i": "14352", "regex": "false"},
+	{"name_s": "/usr/share/doc/rsyslog-mysql-5.8.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rsyslog-mysql-5.8.10/createDB.sql", "size_i": "1046", "regex": "false"}
+]

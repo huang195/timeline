@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libnfnetlink.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libnfnetlink.so.0.2.0", "size_i": "25384", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnfnetlink-1.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnfnetlink-1.0.0/LICENSE", "size_i": "17990", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnfnetlink-1.0.0/README", "size_i": "1483", "regex": "false"}
+]

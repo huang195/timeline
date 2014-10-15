@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libmusicbrainz.so.4", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libmusicbrainz.so.4.0.3", "size_i": "169360", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmusicbrainz-2.1.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmusicbrainz-2.1.5/AUTHORS", "size_i": "2854", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmusicbrainz-2.1.5/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmusicbrainz-2.1.5/ChangeLog", "size_i": "6899", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmusicbrainz-2.1.5/README", "size_i": "1541", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmusicbrainz-2.1.5/TODO", "size_i": "271", "regex": "false"}
+]

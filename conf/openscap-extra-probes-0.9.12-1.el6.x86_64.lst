@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/libexec/openscap/probe_gconf", "size_i": "39040", "regex": "false"},
+	{"name_s": "/usr/libexec/openscap/probe_ldap57", "size_i": "43136", "regex": "false"}
+]

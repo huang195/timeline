@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/libdv", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libdv/dv.h", "size_i": "5775", "regex": "false"},
+	{"name_s": "/usr/include/libdv/dv_types.h", "size_i": "16119", "regex": "false"},
+	{"name_s": "/usr/lib/libdv.so", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libdv.pc", "size_i": "192", "regex": "false"}
+]

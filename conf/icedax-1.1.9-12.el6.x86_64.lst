@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/bin/cdda2ogg", "size_i": "2286", "regex": "false"},
+	{"name_s": "/usr/bin/cdda2wav", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/bin/icedax", "size_i": "316632", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/COPYING", "size_i": "17921", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax/FAQ", "size_i": "10095", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax/Frontends", "size_i": "1001", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax/HOWTOUSE", "size_i": "2316", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax/NEEDED", "size_i": "423", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax/OtherProgs", "size_i": "96", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax/README", "size_i": "22437", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax/THANKS", "size_i": "1177", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax/TODO", "size_i": "1264", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax/cdda_links", "size_i": "165", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax/tracknames.pl", "size_i": "4356", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax/tracknames.pl.efi", "size_i": "4356", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedax-1.1.9/icedax/tracknames.txt", "size_i": "1136", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cdda2ogg.1.gz", "size_i": "1525", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/icedax.1.gz", "size_i": "11978", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/list_audio_tracks.1.gz", "size_i": "870", "regex": "false"}
+]

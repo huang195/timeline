@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-Net-SMTP-SSL-1.01", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-SMTP-SSL-1.01/Changes", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-SMTP-SSL-1.01/README", "size_i": "867", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Net::SMTP::SSL.3pm.gz", "size_i": "2215", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Net", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Net/SMTP", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Net/SMTP/SSL.pm", "size_i": "1390", "regex": "false"}
+]

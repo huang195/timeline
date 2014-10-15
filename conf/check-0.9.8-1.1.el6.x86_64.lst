@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/libcheck.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libcheck.so.0.0.0", "size_i": "29440", "regex": "false"},
+	{"name_s": "/usr/share/doc/check-0.9.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/check-0.9.8/AUTHORS", "size_i": "1240", "regex": "false"},
+	{"name_s": "/usr/share/doc/check-0.9.8/COPYING.LESSER", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/check-0.9.8/ChangeLog", "size_i": "33962", "regex": "false"},
+	{"name_s": "/usr/share/doc/check-0.9.8/ChangeLogOld", "size_i": "3680", "regex": "false"},
+	{"name_s": "/usr/share/doc/check-0.9.8/NEWS", "size_i": "10690", "regex": "false"},
+	{"name_s": "/usr/share/doc/check-0.9.8/README", "size_i": "2720", "regex": "false"},
+	{"name_s": "/usr/share/doc/check-0.9.8/SVNChangeLog", "size_i": "175837", "regex": "false"},
+	{"name_s": "/usr/share/doc/check-0.9.8/THANKS", "size_i": "363", "regex": "false"},
+	{"name_s": "/usr/share/doc/check-0.9.8/TODO", "size_i": "6774", "regex": "false"},
+	{"name_s": "/usr/share/info/check.info.gz", "size_i": "25526", "regex": "false"}
+]

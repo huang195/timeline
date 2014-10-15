@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/libMrm.so.3", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libMrm.so.3.0.2", "size_i": "155336", "regex": "false"},
+	{"name_s": "/usr/lib64/libUil.so.3", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libUil.so.3.0.2", "size_i": "540976", "regex": "false"},
+	{"name_s": "/usr/lib64/libXm.so.3", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libXm.so.3.0.2", "size_i": "2857560", "regex": "false"},
+	{"name_s": "/usr/share/doc/openmotif22-2.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openmotif22-2.2.3/COPYRIGHT.MOTIF", "size_i": "4484", "regex": "false"},
+	{"name_s": "/usr/share/doc/openmotif22-2.2.3/README", "size_i": "330", "regex": "false"},
+	{"name_s": "/usr/share/doc/openmotif22-2.2.3/RELEASE", "size_i": "47", "regex": "false"},
+	{"name_s": "/usr/share/doc/openmotif22-2.2.3/RELNOTES", "size_i": "5139", "regex": "false"}
+]

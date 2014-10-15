@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/include/QtCrypto", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/QtCrypto", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qca.h", "size_i": "1409", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qca_basic.h", "size_i": "30826", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qca_cert.h", "size_i": "72048", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qca_core.h", "size_i": "41390", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qca_export.h", "size_i": "1413", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qca_keystore.h", "size_i": "19371", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qca_publickey.h", "size_i": "38733", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qca_securelayer.h", "size_i": "34345", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qca_securemessage.h", "size_i": "22742", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qca_support.h", "size_i": "27536", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qca_textfilter.h", "size_i": "7583", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qca_tools.h", "size_i": "20384", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qcaprovider.h", "size_i": "76896", "regex": "false"},
+	{"name_s": "/usr/include/QtCrypto/qpipe.h", "size_i": "11206", "regex": "false"},
+	{"name_s": "/usr/lib64/libqca.prl", "size_i": "341", "regex": "false"},
+	{"name_s": "/usr/lib64/libqca.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/qca2.pc", "size_i": "228", "regex": "false"},
+	{"name_s": "/usr/lib64/qt4/mkspecs/features/crypto.prf", "size_i": "1025", "regex": "false"}
+]

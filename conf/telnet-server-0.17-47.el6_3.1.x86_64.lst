@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/xinetd.d/telnet", "size_i": "305", "regex": "false"},
+	{"name_s": "/usr/sbin/in.telnetd", "size_i": "49624", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/issue.net.5.gz", "size_i": "691", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/in.telnetd.8.gz", "size_i": "4742", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/telnetd.8.gz", "size_i": "15", "regex": "false"}
+]

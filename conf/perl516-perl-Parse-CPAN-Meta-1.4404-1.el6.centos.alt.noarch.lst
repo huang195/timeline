@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Parse-CPAN-Meta-1.4404", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Parse-CPAN-Meta-1.4404/Changes", "size_i": "2630", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Parse::CPAN::Meta.3pm.gz", "size_i": "3671", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Parse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Parse/CPAN", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Parse/CPAN/Meta.pm", "size_i": "7582", "regex": "false"}
+]

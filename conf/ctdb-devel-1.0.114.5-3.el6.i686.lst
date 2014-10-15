@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/ctdb.h", "size_i": "24812", "regex": "false"},
+	{"name_s": "/usr/include/ctdb_private.h", "size_i": "55666", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/ctdb.pc", "size_i": "344", "regex": "false"}
+]

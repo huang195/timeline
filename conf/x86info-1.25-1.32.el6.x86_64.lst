@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/sbin/lsmsr", "size_i": "78600", "regex": "false"},
+	{"name_s": "/usr/sbin/x86info", "size_i": "80816", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/x86info.1.gz", "size_i": "1509", "regex": "false"}
+]

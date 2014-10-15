@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libmusicbrainz3.so.6", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libmusicbrainz3.so.6.2.0", "size_i": "335728", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmusicbrainz3-3.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmusicbrainz3-3.0.2/AUTHORS.txt", "size_i": "3499", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmusicbrainz3-3.0.2/COPYING.txt", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmusicbrainz3-3.0.2/NEWS.txt", "size_i": "7122", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmusicbrainz3-3.0.2/README.txt", "size_i": "1308", "regex": "false"}
+]

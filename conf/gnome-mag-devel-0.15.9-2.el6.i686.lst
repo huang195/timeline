@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/gnome-mag-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gnome-mag-1.0/magnifier", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gnome-mag-1.0/magnifier/GNOME_Magnifier.h", "size_i": "92939", "regex": "false"},
+	{"name_s": "/usr/lib/libgnome-mag.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/gnome-mag-1.0.pc", "size_i": "303", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-mag-0.15.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-mag-0.15.9/AUTHORS", "size_i": "110", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-mag-0.15.9/COPYING", "size_i": "25292", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-mag-0.15.9/NEWS", "size_i": "19210", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-mag-0.15.9/README", "size_i": "1751", "regex": "false"},
+	{"name_s": "/usr/share/idl/gnome-mag-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/idl/gnome-mag-1.0/GNOME_Magnifier.idl", "size_i": "10396", "regex": "false"}
+]

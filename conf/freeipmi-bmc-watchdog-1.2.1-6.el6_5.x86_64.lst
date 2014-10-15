@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/rc.d/init.d/bmc-watchdog", "size_i": "2774", "regex": "false"},
+	{"name_s": "/etc/sysconfig/bmc-watchdog", "size_i": "1495", "regex": "false"},
+	{"name_s": "/usr/sbin/bmc-watchdog", "size_i": "106496", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeipmi/COPYING.bmc-watchdog", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeipmi/DISCLAIMER.bmc-watchdog", "size_i": "1376", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeipmi/DISCLAIMER.bmc-watchdog.UC", "size_i": "2243", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/bmc-watchdog.8.gz", "size_i": "5177", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/perl-Carp-Clan-6.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Carp-Clan-6.03/Artistic.txt", "size_i": "6111", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Carp-Clan-6.03/Changes", "size_i": "3113", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Carp-Clan-6.03/GNU_GPL.txt", "size_i": "17985", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Carp-Clan-6.03/README", "size_i": "4503", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Carp::Clan.3pm.gz", "size_i": "3454", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Carp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Carp/Clan.pm", "size_i": "8494", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Carp/Clan.pod", "size_i": "3755", "regex": "false"}
+]

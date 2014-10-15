@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/locale/en/LC_MESSAGES/systemtap.mo", "size_i": "8559", "regex": "false"},
+	{"name_s": "/usr/share/locale/fr/LC_MESSAGES/systemtap.mo", "size_i": "38436", "regex": "false"},
+	{"name_s": "/usr/share/locale/pl/LC_MESSAGES/systemtap.mo", "size_i": "584", "regex": "false"}
+]

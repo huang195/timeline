@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/include/odb.h", "size_i": "8067", "regex": "false"},
+	{"name_s": "/usr/include/op_config.h", "size_i": "1203", "regex": "false"},
+	{"name_s": "/usr/include/op_cpu_type.h", "size_i": "5178", "regex": "false"},
+	{"name_s": "/usr/include/op_events.h", "size_i": "3936", "regex": "false"},
+	{"name_s": "/usr/include/op_list.h", "size_i": "4522", "regex": "false"},
+	{"name_s": "/usr/include/op_sample_file.h", "size_i": "796", "regex": "false"},
+	{"name_s": "/usr/include/op_types.h", "size_i": "657", "regex": "false"},
+	{"name_s": "/usr/include/opagent.h", "size_i": "5122", "regex": "false"},
+	{"name_s": "/usr/lib64/libodb.a", "size_i": "14404", "regex": "false"},
+	{"name_s": "/usr/lib64/libop.a", "size_i": "71406", "regex": "false"},
+	{"name_s": "/usr/lib64/libopabi.a", "size_i": "83756", "regex": "false"},
+	{"name_s": "/usr/lib64/liboputil++.a", "size_i": "686792", "regex": "false"},
+	{"name_s": "/usr/lib64/liboputil.a", "size_i": "30674", "regex": "false"}
+]

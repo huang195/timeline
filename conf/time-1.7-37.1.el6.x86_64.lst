@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/time", "size_i": "15320", "regex": "false"},
+	{"name_s": "/usr/share/doc/time-1.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/time-1.7/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/time-1.7/NEWS", "size_i": "811", "regex": "false"},
+	{"name_s": "/usr/share/doc/time-1.7/README", "size_i": "663", "regex": "false"},
+	{"name_s": "/usr/share/info/time.info.gz", "size_i": "4983", "regex": "false"}
+]

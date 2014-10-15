@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-vi-0.20080604", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-vi-0.20080604/Copyright", "size_i": "493", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-vi-0.20080604/README_vi_VN.txt", "size_i": "2935", "regex": "false"},
+	{"name_s": "/usr/share/myspell/vi_VN.aff", "size_i": "1779", "regex": "false"},
+	{"name_s": "/usr/share/myspell/vi_VN.dic", "size_i": "39890", "regex": "false"}
+]

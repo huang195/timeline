@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/perl-File-Find-Rule-Perl-1.09", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Find-Rule-Perl-1.09/Changes", "size_i": "915", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Find-Rule-Perl-1.09/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::Find::Rule::Perl.3pm.gz", "size_i": "3026", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Find", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Find/Rule", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Find/Rule/Perl.pm", "size_i": "7197", "regex": "false"}
+]

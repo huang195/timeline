@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libsvnjavahl-1.la", "size_i": "1048", "regex": "false"},
+	{"name_s": "/usr/lib64/libsvnjavahl-1.so", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libsvnjavahl-1.so.0", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libsvnjavahl-1.so.0.0.0", "size_i": "246240", "regex": "false"},
+	{"name_s": "/usr/share/java/svn-javahl.jar", "size_i": "87785", "regex": "false"}
+]

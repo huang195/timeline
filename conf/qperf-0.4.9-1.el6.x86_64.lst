@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/qperf", "size_i": "124976", "regex": "false"},
+	{"name_s": "/usr/share/doc/qperf-0.4.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/qperf-0.4.9/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/qperf.1.gz", "size_i": "3886", "regex": "false"}
+]

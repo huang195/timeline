@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/share/texmf-errata", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/texmf-errata/dvips", "size_i": "4096", "regex": "false"}
+]

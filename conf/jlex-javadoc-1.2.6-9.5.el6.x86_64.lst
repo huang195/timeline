@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/javadoc/jlex", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jlex-1.2.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jlex-1.2.6/JLex", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jlex-1.2.6/JLex/Main.html", "size_i": "7209", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jlex-1.2.6/JLex/package-summary.html", "size_i": "3572", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jlex-1.2.6/allclasses-frame.html", "size_i": "689", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jlex-1.2.6/allclasses-noframe.html", "size_i": "3313", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jlex-1.2.6/index.html", "size_i": "876", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jlex-1.2.6/package-list", "size_i": "5", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jlex-1.2.6/stylesheet.css", "size_i": "4692", "regex": "false"}
+]

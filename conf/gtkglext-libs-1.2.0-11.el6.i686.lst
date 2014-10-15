@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib/libgdkglext-x11-1.0.so.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libgdkglext-x11-1.0.so.0.0.0", "size_i": "397400", "regex": "false"},
+	{"name_s": "/usr/lib/libgtkglext-x11-1.0.so.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libgtkglext-x11-1.0.so.0.0.0", "size_i": "10308", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkglext-libs-1.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkglext-libs-1.2.0/AUTHORS", "size_i": "474", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkglext-libs-1.2.0/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkglext-libs-1.2.0/COPYING.LIB", "size_i": "26536", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkglext-libs-1.2.0/ChangeLog", "size_i": "47438", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkglext-libs-1.2.0/README", "size_i": "4028", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkglext-libs-1.2.0/TODO", "size_i": "226", "regex": "false"}
+]

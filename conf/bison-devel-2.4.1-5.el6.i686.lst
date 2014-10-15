@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib/liby.a", "size_i": "2362", "regex": "false"},
+	{"name_s": "/usr/share/doc/bison-devel-2.4.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bison-devel-2.4.1/COPYING", "size_i": "35147", "regex": "false"}
+]

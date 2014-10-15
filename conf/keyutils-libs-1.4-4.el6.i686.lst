@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/libkeyutils.so.1", "size_i": "18", "regex": "false"},
+	{"name_s": "/lib/libkeyutils.so.1.3", "size_i": "9536", "regex": "false"},
+	{"name_s": "/usr/share/doc/keyutils-libs-1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/keyutils-libs-1.4/LICENCE.LGPL", "size_i": "26432", "regex": "false"}
+]

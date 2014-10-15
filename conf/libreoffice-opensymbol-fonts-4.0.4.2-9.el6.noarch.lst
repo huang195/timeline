@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/libreoffice-opensymbol-fonts-4.0.4.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libreoffice-opensymbol-fonts-4.0.4.2/LICENSE", "size_i": "436392", "regex": "false"},
+	{"name_s": "/usr/share/fonts/opensymbol", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/opensymbol/opens___.ttf", "size_i": "203608", "regex": "false"}
+]

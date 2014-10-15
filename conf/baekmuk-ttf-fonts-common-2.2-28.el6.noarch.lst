@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/X11/fontpath.d/baekmuk-ttf", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/doc/baekmuk-ttf-fonts-common-2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/baekmuk-ttf-fonts-common-2.2/COPYRIGHT", "size_i": "482", "regex": "false"},
+	{"name_s": "/usr/share/doc/baekmuk-ttf-fonts-common-2.2/COPYRIGHT.ko", "size_i": "498", "regex": "false"},
+	{"name_s": "/usr/share/doc/baekmuk-ttf-fonts-common-2.2/README", "size_i": "581", "regex": "false"},
+	{"name_s": "/usr/share/fonts/baekmuk-ttf", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/baekmuk-ttf/fonts.dir", "size_i": "560", "regex": "false"},
+	{"name_s": "/usr/share/fonts/baekmuk-ttf/fonts.scale", "size_i": "560", "regex": "false"}
+]

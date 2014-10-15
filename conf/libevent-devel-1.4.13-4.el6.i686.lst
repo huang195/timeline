@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/event_rpcgen.py", "size_i": "45502", "regex": "false"},
+	{"name_s": "/usr/lib/libevent.a", "size_i": "133014", "regex": "false"},
+	{"name_s": "/usr/lib/libevent.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libevent_core.a", "size_i": "47248", "regex": "false"},
+	{"name_s": "/usr/lib/libevent_core.so", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib/libevent_extra.a", "size_i": "103130", "regex": "false"},
+	{"name_s": "/usr/lib/libevent_extra.so", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/evdns.3.gz", "size_i": "4659", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/event.3.gz", "size_i": "5596", "regex": "false"}
+]

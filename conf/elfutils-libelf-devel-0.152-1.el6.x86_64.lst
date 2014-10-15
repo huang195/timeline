@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/gelf.h", "size_i": "12700", "regex": "false"},
+	{"name_s": "/usr/include/libelf.h", "size_i": "15935", "regex": "false"},
+	{"name_s": "/usr/include/nlist.h", "size_i": "3504", "regex": "false"},
+	{"name_s": "/usr/lib64/libelf.so", "size_i": "11", "regex": "false"}
+]

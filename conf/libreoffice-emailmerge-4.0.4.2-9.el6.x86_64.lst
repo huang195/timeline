@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/libreoffice/program/mailmerge.py", "size_i": "16636", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/mailmerge.pyc", "size_i": "19869", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/mailmerge.pyo", "size_i": "19869", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/msgbox.py", "size_i": "9426", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/msgbox.pyc", "size_i": "7309", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/msgbox.pyo", "size_i": "7309", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/officehelper.py", "size_i": "3166", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/officehelper.pyc", "size_i": "2259", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/officehelper.pyo", "size_i": "2259", "regex": "false"}
+]

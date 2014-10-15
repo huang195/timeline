@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/libieee1284_test", "size_i": "6764", "regex": "false"},
+	{"name_s": "/usr/lib/libieee1284.so.3", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libieee1284.so.3.2.2", "size_i": "43632", "regex": "false"},
+	{"name_s": "/usr/share/doc/libieee1284-0.2.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libieee1284-0.2.11/AUTHORS", "size_i": "76", "regex": "false"},
+	{"name_s": "/usr/share/doc/libieee1284-0.2.11/COPYING", "size_i": "18002", "regex": "false"},
+	{"name_s": "/usr/share/doc/libieee1284-0.2.11/NEWS", "size_i": "1781", "regex": "false"},
+	{"name_s": "/usr/share/doc/libieee1284-0.2.11/README", "size_i": "2262", "regex": "false"},
+	{"name_s": "/usr/share/doc/libieee1284-0.2.11/TODO", "size_i": "556", "regex": "false"}
+]

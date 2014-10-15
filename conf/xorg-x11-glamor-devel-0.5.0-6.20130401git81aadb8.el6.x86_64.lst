@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/xorg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/xorg/glamor.h", "size_i": "13003", "regex": "false"},
+	{"name_s": "/usr/lib64/libglamor.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/glamor-egl.pc", "size_i": "385", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/glamor.pc", "size_i": "287", "regex": "false"}
+]

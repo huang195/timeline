@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/block-stream", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/block-stream/block-stream.js", "size_i": "6555", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/block-stream/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/block-stream/node_modules/inherits", "size_i": "54", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/block-stream/package.json", "size_i": "490", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-block-stream-0.0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-block-stream-0.0.7/LICENCE", "size_i": "1318", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-block-stream-0.0.7/README.md", "size_i": "369", "regex": "false"}
+]

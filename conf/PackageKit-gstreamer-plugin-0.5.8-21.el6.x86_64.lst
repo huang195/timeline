@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/libexec/gst-install-plugins-helper", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/libexec/pk-gstreamer-install", "size_i": "13376", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-gstreamer-plugin-0.5.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-gstreamer-plugin-0.5.8/AUTHORS", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-gstreamer-plugin-0.5.8/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-gstreamer-plugin-0.5.8/NEWS", "size_i": "205506", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-gstreamer-plugin-0.5.8/README", "size_i": "279", "regex": "false"}
+]

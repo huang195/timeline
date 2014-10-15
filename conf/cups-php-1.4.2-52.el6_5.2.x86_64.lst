@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/cups.ini", "size_i": "52", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/phpcups.so", "size_i": "15568", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/perl5/Data", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Data/UUID.pm", "size_i": "4529", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Data/UUID.pod", "size_i": "2059", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/OSSP", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/OSSP/uuid.pm", "size_i": "10401", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/OSSP/uuid.pod", "size_i": "5823", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/OSSP", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/OSSP/uuid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/OSSP/uuid/uuid.so", "size_i": "23800", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Data::UUID.3.gz", "size_i": "2021", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/OSSP::uuid.3.gz", "size_i": "3849", "regex": "false"}
+]

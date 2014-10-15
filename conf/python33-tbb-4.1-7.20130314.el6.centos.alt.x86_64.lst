@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/python33/root/usr/lib64/libtbb.so.2", "size_i": "220888", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/lib64/libtbbmalloc.so.2", "size_i": "109464", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/lib64/libtbbmalloc_proxy.so.2", "size_i": "9072", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/share/doc/python33-tbb-4.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/share/doc/python33-tbb-4.1/COPYING", "size_i": "18826", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/share/doc/python33-tbb-4.1/Release_Notes.txt", "size_i": "5662", "regex": "false"}
+]

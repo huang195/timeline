@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libnss_compat_ossl.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib64/libnss_compat_ossl.so.0.0.0", "size_i": "81832", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss_compat_ossl-0.9.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss_compat_ossl-0.9.6/COPYING", "size_i": "1059", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss_compat_ossl-0.9.6/README", "size_i": "3324", "regex": "false"}
+]

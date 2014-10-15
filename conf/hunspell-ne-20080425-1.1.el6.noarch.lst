@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-ne-20080425", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ne-20080425/README_ne_NP.txt", "size_i": "749", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ne_IN.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ne_IN.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ne_NP.aff", "size_i": "69440", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ne_NP.dic", "size_i": "889370", "regex": "false"}
+]

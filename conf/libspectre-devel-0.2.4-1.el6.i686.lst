@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/include/libspectre", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libspectre/spectre-document.h", "size_i": "8093", "regex": "false"},
+	{"name_s": "/usr/include/libspectre/spectre-exporter.h", "size_i": "1764", "regex": "false"},
+	{"name_s": "/usr/include/libspectre/spectre-macros.h", "size_i": "1357", "regex": "false"},
+	{"name_s": "/usr/include/libspectre/spectre-page.h", "size_i": "4849", "regex": "false"},
+	{"name_s": "/usr/include/libspectre/spectre-render-context.h", "size_i": "6335", "regex": "false"},
+	{"name_s": "/usr/include/libspectre/spectre-status.h", "size_i": "2510", "regex": "false"},
+	{"name_s": "/usr/include/libspectre/spectre-version.h", "size_i": "1222", "regex": "false"},
+	{"name_s": "/usr/include/libspectre/spectre.h", "size_i": "1174", "regex": "false"},
+	{"name_s": "/usr/lib/libspectre.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libspectre.pc", "size_i": "191", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspectre-devel-0.2.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspectre-devel-0.2.4/ChangeLog", "size_i": "59842", "regex": "false"}
+]

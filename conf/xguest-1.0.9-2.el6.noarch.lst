@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/sabayon/profiles/xguest.zip", "size_i": "16604", "regex": "false"},
+	{"name_s": "/etc/security/namespace.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/security/namespace.d/ls", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/security/namespace.d/xguest.conf", "size_i": "147", "regex": "false"},
+	{"name_s": "/usr/share/doc/xguest-1.0.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xguest-1.0.9/LICENSE", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/xguest-1.0.9/README", "size_i": "3555", "regex": "false"}
+]

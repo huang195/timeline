@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/plist", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/plist/__init__.py", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/plist/__init__.pyc", "size_i": "175", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/plist/__init__.pyo", "size_i": "175", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/plist/_plist.so", "size_i": "1075142", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/plist/plist.py", "size_i": "26492", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/plist/plist.pyc", "size_i": "45916", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/plist/plist.pyo", "size_i": "45916", "regex": "false"}
+]

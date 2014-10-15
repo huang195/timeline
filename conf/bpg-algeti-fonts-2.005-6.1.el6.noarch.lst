@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/64-bpg.conf-algeti.conf", "size_i": "56", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/64-bpg.conf-algeti.conf", "size_i": "364", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bpg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bpg/BPG_Algeti_GPL&GNU.ttf", "size_i": "42116", "regex": "false"}
+]

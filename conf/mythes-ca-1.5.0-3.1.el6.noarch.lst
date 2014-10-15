@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/share/doc/mythes-ca-1.5.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-ca-1.5.0/LICENCES-fr.txt", "size_i": "121", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-ca-1.5.0/LICENCIAS-es.txt", "size_i": "132", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-ca-1.5.0/LICENSES-en.txt", "size_i": "114", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-ca-1.5.0/LLICENCIES-ca.txt", "size_i": "134", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-ca-1.5.0/README_th_ca_ES_v3.txt", "size_i": "2004", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-ca-1.5.0/release_note-ca.txt", "size_i": "349", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ca_AD_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ca_AD_v2.idx", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ca_ES_v2.dat", "size_i": "620700", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ca_ES_v2.idx", "size_i": "128202", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ca_FR_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ca_FR_v2.idx", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ca_IT_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ca_IT_v2.idx", "size_i": "15", "regex": "false"}
+]

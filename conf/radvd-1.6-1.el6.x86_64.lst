@@ -1,0 +1,18 @@
+[
+	{"name_s": "/etc/radvd.conf", "size_i": "433", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/radvd", "size_i": "1910", "regex": "false"},
+	{"name_s": "/etc/sysconfig/radvd", "size_i": "250", "regex": "false"},
+	{"name_s": "/usr/sbin/radvd", "size_i": "94992", "regex": "false"},
+	{"name_s": "/usr/sbin/radvdump", "size_i": "22800", "regex": "false"},
+	{"name_s": "/usr/share/doc/radvd-1.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/radvd-1.6/CHANGES", "size_i": "16977", "regex": "false"},
+	{"name_s": "/usr/share/doc/radvd-1.6/COPYRIGHT", "size_i": "2189", "regex": "false"},
+	{"name_s": "/usr/share/doc/radvd-1.6/INTRO.html", "size_i": "4413", "regex": "false"},
+	{"name_s": "/usr/share/doc/radvd-1.6/README", "size_i": "2325", "regex": "false"},
+	{"name_s": "/usr/share/doc/radvd-1.6/TODO", "size_i": "3711", "regex": "false"},
+	{"name_s": "/usr/share/doc/radvd-1.6/radvd.conf.example", "size_i": "3439", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/radvd.conf.5.gz", "size_i": "6389", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/radvd.8.gz", "size_i": "2276", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/radvdump.8.gz", "size_i": "1154", "regex": "false"},
+	{"name_s": "/var/run/radvd", "size_i": "4096", "regex": "false"}
+]

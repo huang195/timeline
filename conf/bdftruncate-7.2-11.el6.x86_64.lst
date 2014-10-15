@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/bdftruncate", "size_i": "7368", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/bdftruncate.1.gz", "size_i": "588", "regex": "false"}
+]

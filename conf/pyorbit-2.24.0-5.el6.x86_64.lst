@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/CORBA.py", "size_i": "1002", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/CORBA.pyc", "size_i": "157", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/CORBA.pyo", "size_i": "157", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/ORBit.so", "size_i": "105312", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/PortableServer.py", "size_i": "1026", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/PortableServer.pyc", "size_i": "166", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/PortableServer.pyo", "size_i": "166", "regex": "false"},
+	{"name_s": "/usr/share/doc/pyorbit-2.24.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pyorbit-2.24.0/AUTHORS", "size_i": "266", "regex": "false"},
+	{"name_s": "/usr/share/doc/pyorbit-2.24.0/ChangeLog", "size_i": "10106", "regex": "false"},
+	{"name_s": "/usr/share/doc/pyorbit-2.24.0/NEWS", "size_i": "4318", "regex": "false"},
+	{"name_s": "/usr/share/doc/pyorbit-2.24.0/README", "size_i": "2432", "regex": "false"}
+]

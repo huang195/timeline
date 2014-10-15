@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/lib/freerdp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-cache.so.1.0", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-cache.so.1.0.2", "size_i": "21084", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-channels.so.1.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-channels.so.1.0.2", "size_i": "14388", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-codec.so.1.0", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-codec.so.1.0.2", "size_i": "60024", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-core.so.1.0", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-core.so.1.0.2", "size_i": "298096", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-gdi.so.1.0", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-gdi.so.1.0.2", "size_i": "82008", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-kbd.so.1.0", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-kbd.so.1.0.2", "size_i": "50952", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-rail.so.1.0", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-rail.so.1.0.2", "size_i": "11584", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-utils.so.1.0", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib/libfreerdp-utils.so.1.0.2", "size_i": "55912", "regex": "false"},
+	{"name_s": "/usr/share/doc/freerdp-libs-1.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/freerdp-libs-1.0.2/ChangeLog", "size_i": "3903", "regex": "false"},
+	{"name_s": "/usr/share/doc/freerdp-libs-1.0.2/LICENSE", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/freerdp-libs-1.0.2/README", "size_i": "1126", "regex": "false"}
+]

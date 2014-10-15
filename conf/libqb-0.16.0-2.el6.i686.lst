@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libqb.so.0", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libqb.so.0.16.0", "size_i": "137880", "regex": "false"},
+	{"name_s": "/usr/sbin/qb-blackbox", "size_i": "3864", "regex": "false"},
+	{"name_s": "/usr/share/doc/libqb-0.16.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libqb-0.16.0/COPYING", "size_i": "24486", "regex": "false"}
+]

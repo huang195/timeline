@@ -1,0 +1,6 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/oauth-sign", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/oauth-sign/index.js", "size_i": "1086", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/oauth-sign/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/oauth-sign/package.json", "size_i": "485", "regex": "false"}
+]

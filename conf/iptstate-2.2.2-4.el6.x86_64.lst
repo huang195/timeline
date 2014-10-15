@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/sbin/iptstate", "size_i": "67456", "regex": "false"},
+	{"name_s": "/usr/share/doc/iptstate-2.2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iptstate-2.2.2/LICENSE", "size_i": "1222", "regex": "false"},
+	{"name_s": "/usr/share/doc/iptstate-2.2.2/README", "size_i": "5737", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/iptstate.8.gz", "size_i": "3261", "regex": "false"}
+]

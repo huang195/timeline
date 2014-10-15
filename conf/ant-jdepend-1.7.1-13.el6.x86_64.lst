@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/ant.d/jdepend", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-jdepend-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-jdepend-1.7.1.jar.so", "size_i": "44016", "regex": "false"},
+	{"name_s": "/usr/share/ant/etc/jdepend-frames.xsl", "size_i": "18994", "regex": "false"},
+	{"name_s": "/usr/share/ant/etc/jdepend.xsl", "size_i": "11757", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-jdepend.jar", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-jdepend-1.7.1.jar", "size_i": "8303", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-jdepend.jar", "size_i": "21", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libdbi.so.0", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libdbi.so.0.0.5", "size_i": "57272", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdbi-0.8.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdbi-0.8.3/AUTHORS", "size_i": "1524", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdbi-0.8.3/COPYING", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdbi-0.8.3/ChangeLog", "size_i": "1744", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdbi-0.8.3/README", "size_i": "5856", "regex": "false"}
+]

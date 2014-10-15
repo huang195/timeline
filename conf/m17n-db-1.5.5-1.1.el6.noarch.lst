@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/share/doc/m17n-db-1.5.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-db-1.5.5/AUTHORS", "size_i": "207", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-db-1.5.5/COPYING", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-db-1.5.5/README", "size_i": "2327", "regex": "false"},
+	{"name_s": "/usr/share/m17n", "size_i": "12288", "regex": "false"},
+	{"name_s": "/usr/share/m17n/CHARSET.tbl", "size_i": "14574", "regex": "false"},
+	{"name_s": "/usr/share/m17n/CODING.tbl", "size_i": "4007", "regex": "false"},
+	{"name_s": "/usr/share/m17n/FONTENC.tbl", "size_i": "3045", "regex": "false"},
+	{"name_s": "/usr/share/m17n/FONTSIZE.tbl", "size_i": "1469", "regex": "false"},
+	{"name_s": "/usr/share/m17n/LANGUAGE.tbl", "size_i": "17801", "regex": "false"},
+	{"name_s": "/usr/share/m17n/SCRIPT-LANGUAGE.tbl", "size_i": "2280", "regex": "false"},
+	{"name_s": "/usr/share/m17n/SCRIPT-OTF.tbl", "size_i": "1761", "regex": "false"},
+	{"name_s": "/usr/share/m17n/SCRIPT.tbl", "size_i": "5690", "regex": "false"},
+	{"name_s": "/usr/share/m17n/global.mim", "size_i": "5091", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/m17n/mdb.dir", "size_i": "4687", "regex": "false"}
+]

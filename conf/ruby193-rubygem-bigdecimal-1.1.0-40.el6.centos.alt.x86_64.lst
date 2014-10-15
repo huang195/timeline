@@ -1,0 +1,16 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/bigdecimal-1.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/bigdecimal-1.1.0/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/bigdecimal-1.1.0/lib/bigdecimal.so", "size_i": "62560", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/ruby/bigdecimal.so", "size_i": "75", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bigdecimal-1.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bigdecimal-1.1.0/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bigdecimal-1.1.0/lib/bigdecimal", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bigdecimal-1.1.0/lib/bigdecimal/jacobian.rb", "size_i": "2093", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bigdecimal-1.1.0/lib/bigdecimal/ludcmp.rb", "size_i": "2146", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bigdecimal-1.1.0/lib/bigdecimal/math.rb", "size_i": "5108", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bigdecimal-1.1.0/lib/bigdecimal/newton.rb", "size_i": "1821", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bigdecimal-1.1.0/lib/bigdecimal/util.rb", "size_i": "2490", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/bigdecimal-1.1.0.gemspec", "size_i": "217", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/ruby/bigdecimal", "size_i": "72", "regex": "false"}
+]

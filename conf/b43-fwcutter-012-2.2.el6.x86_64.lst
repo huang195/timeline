@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/b43-fwcutter", "size_i": "25040", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-fwcutter-012", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-fwcutter-012/COPYING", "size_i": "1302", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-fwcutter-012/README", "size_i": "1730", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-fwcutter-012/README.Fedora", "size_i": "1078", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/b43-fwcutter.1.gz", "size_i": "656", "regex": "false"}
+]

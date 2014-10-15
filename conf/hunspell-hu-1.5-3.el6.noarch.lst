@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-hu-1.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-hu-1.5/LEIRAS.txt", "size_i": "419", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-hu-1.5/README_hu_HU.txt", "size_i": "826", "regex": "false"},
+	{"name_s": "/usr/share/myspell/hu_HU.aff", "size_i": "1918257", "regex": "false"},
+	{"name_s": "/usr/share/myspell/hu_HU.dic", "size_i": "1516870", "regex": "false"}
+]

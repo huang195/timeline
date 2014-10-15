@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/.fipscheck.hmac", "size_i": "65", "regex": "false"},
+	{"name_s": "/usr/bin/fipscheck", "size_i": "10512", "regex": "false"},
+	{"name_s": "/usr/bin/fipshmac", "size_i": "10480", "regex": "false"},
+	{"name_s": "/usr/share/doc/fipscheck-1.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/fipscheck-1.2.0/AUTHORS", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/share/doc/fipscheck-1.2.0/COPYING", "size_i": "1469", "regex": "false"},
+	{"name_s": "/usr/share/doc/fipscheck-1.2.0/ChangeLog", "size_i": "1736", "regex": "false"},
+	{"name_s": "/usr/share/doc/fipscheck-1.2.0/README", "size_i": "3871", "regex": "false"}
+]

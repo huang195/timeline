@@ -1,0 +1,18 @@
+[
+	{"name_s": "/etc/pam.d/ssh-keycat", "size_i": "341", "regex": "false"},
+	{"name_s": "/etc/pam.d/sshd", "size_i": "575", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/sshd", "size_i": "4534", "regex": "false"},
+	{"name_s": "/etc/ssh/sshd_config", "size_i": "3879", "regex": "false"},
+	{"name_s": "/etc/sysconfig/sshd", "size_i": "438", "regex": "false"},
+	{"name_s": "/usr/libexec/openssh/sftp-server", "size_i": "63544", "regex": "false"},
+	{"name_s": "/usr/libexec/openssh/ssh-keycat", "size_i": "43080", "regex": "false"},
+	{"name_s": "/usr/sbin/.sshd.hmac", "size_i": "65", "regex": "false"},
+	{"name_s": "/usr/sbin/sshd", "size_i": "546680", "regex": "false"},
+	{"name_s": "/usr/share/doc/openssh-server-5.3p1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openssh-server-5.3p1/HOWTO.ssh-keycat", "size_i": "457", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/moduli.5.gz", "size_i": "1762", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/sshd_config.5.gz", "size_i": "11250", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sftp-server.8.gz", "size_i": "1701", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sshd.8.gz", "size_i": "11451", "regex": "false"},
+	{"name_s": "/var/empty/sshd", "size_i": "4096", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/ethtool-0.6-py2.6.egg-info", "size_i": "288", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/ethtool.so", "size_i": "38248", "regex": "false"},
+	{"name_s": "/usr/sbin/pethtool", "size_i": "9156", "regex": "false"},
+	{"name_s": "/usr/sbin/pifconfig", "size_i": "3104", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-ethtool-0.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-ethtool-0.6/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pethtool.8.gz", "size_i": "894", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pifconfig.8.gz", "size_i": "685", "regex": "false"}
+]

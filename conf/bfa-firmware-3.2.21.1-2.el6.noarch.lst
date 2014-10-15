@@ -1,0 +1,22 @@
+[
+	{"name_s": "/lib/firmware/cbfw-3.0.0.0.bin", "size_i": "358080", "regex": "false"},
+	{"name_s": "/lib/firmware/cbfw-3.0.3.1.bin", "size_i": "366576", "regex": "false"},
+	{"name_s": "/lib/firmware/cbfw-3.1.0.0.bin", "size_i": "384624", "regex": "false"},
+	{"name_s": "/lib/firmware/cbfw-3.2.1.0.bin", "size_i": "412416", "regex": "false"},
+	{"name_s": "/lib/firmware/cbfw-3.2.1.1.bin", "size_i": "412528", "regex": "false"},
+	{"name_s": "/lib/firmware/cbfw.bin", "size_i": "16", "regex": "false"},
+	{"name_s": "/lib/firmware/ct2fw-3.0.0.0.bin", "size_i": "498128", "regex": "false"},
+	{"name_s": "/lib/firmware/ct2fw-3.0.3.1.bin", "size_i": "521792", "regex": "false"},
+	{"name_s": "/lib/firmware/ct2fw-3.1.0.0.bin", "size_i": "570568", "regex": "false"},
+	{"name_s": "/lib/firmware/ct2fw-3.2.1.0.bin", "size_i": "582104", "regex": "false"},
+	{"name_s": "/lib/firmware/ct2fw-3.2.1.1.bin", "size_i": "582440", "regex": "false"},
+	{"name_s": "/lib/firmware/ct2fw.bin", "size_i": "17", "regex": "false"},
+	{"name_s": "/lib/firmware/ctfw-3.0.0.0.bin", "size_i": "472144", "regex": "false"},
+	{"name_s": "/lib/firmware/ctfw-3.0.3.1.bin", "size_i": "498120", "regex": "false"},
+	{"name_s": "/lib/firmware/ctfw-3.1.0.0.bin", "size_i": "530504", "regex": "false"},
+	{"name_s": "/lib/firmware/ctfw-3.2.1.0.bin", "size_i": "537048", "regex": "false"},
+	{"name_s": "/lib/firmware/ctfw-3.2.1.1.bin", "size_i": "537160", "regex": "false"},
+	{"name_s": "/lib/firmware/ctfw.bin", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/doc/bfa-firmware-3.2.21.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bfa-firmware-3.2.21.1/LICENSE", "size_i": "1850", "regex": "false"}
+]

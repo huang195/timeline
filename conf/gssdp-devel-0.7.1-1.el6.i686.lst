@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/include/gssdp-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gssdp-1.0/libgssdp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gssdp-1.0/libgssdp/gssdp-client.h", "size_i": "2894", "regex": "false"},
+	{"name_s": "/usr/include/gssdp-1.0/libgssdp/gssdp-error.h", "size_i": "1159", "regex": "false"},
+	{"name_s": "/usr/include/gssdp-1.0/libgssdp/gssdp-resource-browser.h", "size_i": "3963", "regex": "false"},
+	{"name_s": "/usr/include/gssdp-1.0/libgssdp/gssdp-resource-group.h", "size_i": "4135", "regex": "false"},
+	{"name_s": "/usr/include/gssdp-1.0/libgssdp/gssdp.h", "size_i": "960", "regex": "false"},
+	{"name_s": "/usr/lib/libgssdp-1.0.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/gssdp-1.0.pc", "size_i": "257", "regex": "false"}
+]

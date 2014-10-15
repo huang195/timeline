@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/testcover", "size_i": "3325", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-ExtUtils-MakeMaker-Coverage-0.05", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-ExtUtils-MakeMaker-Coverage-0.05/Changes", "size_i": "795", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-ExtUtils-MakeMaker-Coverage-0.05/README", "size_i": "919", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ExtUtils::MakeMaker::Coverage.3pm.gz", "size_i": "3677", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/MakeMaker/Coverage.pm", "size_i": "7535", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/cron.hourly/mcelog.cron", "size_i": "273", "regex": "false"},
+	{"name_s": "/etc/mcelog/mcelog.conf", "size_i": "6157", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/mcelogd", "size_i": "2034", "regex": "false"},
+	{"name_s": "/etc/sysconfig/mcelogd", "size_i": "271", "regex": "false"},
+	{"name_s": "/usr/sbin/mcelog", "size_i": "105632", "regex": "false"},
+	{"name_s": "/usr/share/doc/mcelog-1.0pre3_20120814_2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mcelog-1.0pre3_20120814_2/CHANGES", "size_i": "4859", "regex": "false"},
+	{"name_s": "/usr/share/doc/mcelog-1.0pre3_20120814_2/README", "size_i": "3049", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/mcelog.8.gz", "size_i": "3876", "regex": "false"}
+]

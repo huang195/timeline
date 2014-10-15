@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/wqy-zenhei-fonts-common-0.9.45", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/wqy-zenhei-fonts-common-0.9.45/AUTHORS", "size_i": "16066", "regex": "false"},
+	{"name_s": "/usr/share/doc/wqy-zenhei-fonts-common-0.9.45/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/wqy-zenhei-fonts-common-0.9.45/ChangeLog", "size_i": "14020", "regex": "false"},
+	{"name_s": "/usr/share/doc/wqy-zenhei-fonts-common-0.9.45/README", "size_i": "19503", "regex": "false"},
+	{"name_s": "/usr/share/doc/wqy-zenhei-fonts-common-0.9.45/zenheiset", "size_i": "1448", "regex": "false"}
+]

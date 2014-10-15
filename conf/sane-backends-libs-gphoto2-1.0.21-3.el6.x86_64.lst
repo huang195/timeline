@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/sane/libsane-gphoto2.so.1", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/sane/libsane-gphoto2.so.1.0.21", "size_i": "41088", "regex": "false"}
+]

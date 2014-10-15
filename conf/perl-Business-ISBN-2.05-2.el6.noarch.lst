@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/share/doc/perl-Business-ISBN-2.05", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Business-ISBN-2.05/Changes", "size_i": "6932", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Business-ISBN-2.05/LICENSE", "size_i": "63", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Business-ISBN-2.05/README", "size_i": "525", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Business-ISBN-2.05/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Business-ISBN-2.05/examples/README", "size_i": "69", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ISBN.3pm.gz", "size_i": "5144", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ISBN10.3pm.gz", "size_i": "2015", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ISBN13.3pm.gz", "size_i": "2015", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Business", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Business/ISBN.pm", "size_i": "19266", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Business/ISBN10.pm", "size_i": "1944", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Business/ISBN13.pm", "size_i": "2416", "regex": "false"}
+]

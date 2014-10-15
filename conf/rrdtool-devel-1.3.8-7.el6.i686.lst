@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/rrd.h", "size_i": "10063", "regex": "false"},
+	{"name_s": "/usr/include/rrd_format.h", "size_i": "17743", "regex": "false"},
+	{"name_s": "/usr/lib/librrd.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/librrd_th.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/librrd.pc", "size_i": "183", "regex": "false"},
+	{"name_s": "/usr/lib/tclrrd1.3.8.so", "size_i": "14180", "regex": "false"}
+]

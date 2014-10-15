@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libopenobex.so.1", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenobex.so.1.4.0", "size_i": "37216", "regex": "false"},
+	{"name_s": "/usr/share/doc/openobex-1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openobex-1.4/AUTHORS", "size_i": "391", "regex": "false"},
+	{"name_s": "/usr/share/doc/openobex-1.4/COPYING", "size_i": "18011", "regex": "false"},
+	{"name_s": "/usr/share/doc/openobex-1.4/COPYING.LIB", "size_i": "26432", "regex": "false"},
+	{"name_s": "/usr/share/doc/openobex-1.4/ChangeLog", "size_i": "2607", "regex": "false"},
+	{"name_s": "/usr/share/doc/openobex-1.4/README", "size_i": "873", "regex": "false"}
+]

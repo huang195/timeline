@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/tbb-doc-2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/tbb-doc-2.2/Getting_Started.pdf", "size_i": "122342", "regex": "false"},
+	{"name_s": "/usr/share/doc/tbb-doc-2.2/Reference.pdf", "size_i": "889829", "regex": "false"},
+	{"name_s": "/usr/share/doc/tbb-doc-2.2/Tutorial.pdf", "size_i": "540208", "regex": "false"}
+]

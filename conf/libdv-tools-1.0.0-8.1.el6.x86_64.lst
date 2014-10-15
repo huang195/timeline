@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/dubdv", "size_i": "9824", "regex": "false"},
+	{"name_s": "/usr/bin/dvconnect", "size_i": "19296", "regex": "false"},
+	{"name_s": "/usr/bin/encodedv", "size_i": "10920", "regex": "false"},
+	{"name_s": "/usr/bin/playdv", "size_i": "24760", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdv-tools-1.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdv-tools-1.0.0/README.dvconnect", "size_i": "1723", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdv-tools-1.0.0/README.encoder", "size_i": "3867", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dubdv.1.gz", "size_i": "1211", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dvconnect.1.gz", "size_i": "1342", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/encodedv.1.gz", "size_i": "2459", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/playdv.1.gz", "size_i": "2328", "regex": "false"}
+]

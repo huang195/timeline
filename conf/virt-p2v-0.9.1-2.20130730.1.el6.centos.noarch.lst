@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/share/virt-p2v", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/virt-p2v/virt-p2v-0.9.1-2.20130730.1.el6.centos.iso", "size_i": "90769408", "regex": "false"}
+]

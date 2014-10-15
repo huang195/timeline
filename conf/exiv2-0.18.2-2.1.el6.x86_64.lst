@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/exiv2", "size_i": "151024", "regex": "false"},
+	{"name_s": "/usr/share/doc/exiv2-0.18.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/exiv2-0.18.2/COPYING", "size_i": "17986", "regex": "false"},
+	{"name_s": "/usr/share/doc/exiv2-0.18.2/README", "size_i": "5950", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/exiv2.1.gz", "size_i": "5393", "regex": "false"}
+]

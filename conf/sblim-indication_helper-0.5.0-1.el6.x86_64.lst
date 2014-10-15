@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libind_helper.so.0", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libind_helper.so.0.0.0", "size_i": "19032", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-indication_helper-0.5.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-indication_helper-0.5.0/COPYING", "size_i": "11249", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-indication_helper-0.5.0/ChangeLog", "size_i": "6267", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-indication_helper-0.5.0/README", "size_i": "1889", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-indication_helper-0.5.0/TODO", "size_i": "70", "regex": "false"}
+]

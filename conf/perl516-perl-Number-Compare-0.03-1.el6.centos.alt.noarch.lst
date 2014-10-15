@@ -1,0 +1,7 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Number-Compare-0.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Number-Compare-0.03/Changes", "size_i": "580", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Number::Compare.3pm.gz", "size_i": "2576", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Number", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Number/Compare.pm", "size_i": "2398", "regex": "false"}
+]

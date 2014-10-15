@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/libhangul.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libhangul.so.0.1.2", "size_i": "52800", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhangul-0.0.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhangul-0.0.10/AUTHORS", "size_i": "86", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhangul-0.0.10/COPYING", "size_i": "26432", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhangul-0.0.10/ChangeLog", "size_i": "64570", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhangul-0.0.10/NEWS", "size_i": "1453", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhangul-0.0.10/README", "size_i": "597", "regex": "false"},
+	{"name_s": "/usr/share/libhangul", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/libhangul/hanja", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/libhangul/hanja/hanja.txt", "size_i": "6451338", "regex": "false"}
+]

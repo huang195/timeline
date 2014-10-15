@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/snappy-c.h", "size_i": "5393", "regex": "false"},
+	{"name_s": "/usr/include/snappy-sinksource.h", "size_i": "4931", "regex": "false"},
+	{"name_s": "/usr/include/snappy-stubs-public.h", "size_i": "2913", "regex": "false"},
+	{"name_s": "/usr/include/snappy.h", "size_i": "7425", "regex": "false"},
+	{"name_s": "/usr/lib/libsnappy.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/doc/snappy-devel-1.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/snappy-devel-1.1.0/format_description.txt", "size_i": "4388", "regex": "false"},
+	{"name_s": "/usr/share/doc/snappy-devel-1.1.0/framing_format.txt", "size_i": "4646", "regex": "false"}
+]

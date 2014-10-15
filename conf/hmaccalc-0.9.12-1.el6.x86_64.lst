@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/sha1hmac", "size_i": "20104", "regex": "false"},
+	{"name_s": "/usr/bin/sha256hmac", "size_i": "20112", "regex": "false"},
+	{"name_s": "/usr/bin/sha384hmac", "size_i": "20112", "regex": "false"},
+	{"name_s": "/usr/bin/sha512hmac", "size_i": "20112", "regex": "false"},
+	{"name_s": "/usr/lib64/hmaccalc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/hmaccalc/sha1hmac.hmac", "size_i": "40", "regex": "false"},
+	{"name_s": "/usr/lib64/hmaccalc/sha256hmac.hmac", "size_i": "64", "regex": "false"},
+	{"name_s": "/usr/lib64/hmaccalc/sha384hmac.hmac", "size_i": "96", "regex": "false"},
+	{"name_s": "/usr/lib64/hmaccalc/sha512hmac.hmac", "size_i": "128", "regex": "false"},
+	{"name_s": "/usr/share/doc/hmaccalc-0.9.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hmaccalc-0.9.12/LICENSE", "size_i": "1476", "regex": "false"},
+	{"name_s": "/usr/share/doc/hmaccalc-0.9.12/README", "size_i": "1571", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sha1hmac.8.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sha256hmac.8.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sha384hmac.8.gz", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sha512hmac.8.gz", "size_i": "1776", "regex": "false"}
+]

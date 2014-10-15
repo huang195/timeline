@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/block", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/block/__init__.py", "size_i": "8719", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/block/__init__.pyc", "size_i": "7969", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/block/__init__.pyo", "size_i": "7969", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/block/device.py", "size_i": "30636", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/block/device.pyc", "size_i": "33543", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/block/device.pyo", "size_i": "33543", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/block/dmmodule.so", "size_i": "43344", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/block/dmraidmodule.so", "size_i": "44528", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/block/maps.py", "size_i": "11198", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/block/maps.pyc", "size_i": "14242", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/block/maps.pyo", "size_i": "14242", "regex": "false"},
+	{"name_s": "/usr/share/doc/pyblock-0.48", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pyblock-0.48/COPYING", "size_i": "15132", "regex": "false"}
+]

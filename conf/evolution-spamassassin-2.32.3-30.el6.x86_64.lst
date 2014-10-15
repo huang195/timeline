@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/evolution/2.32/plugins/liborg-gnome-sa-junk-plugin.so", "size_i": "30136", "regex": "false"},
+	{"name_s": "/usr/lib64/evolution/2.32/plugins/org-gnome-sa-junk-plugin.eplug", "size_i": "1029", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/libreport/internal_libreport_gtk.h", "size_i": "1783", "regex": "false"},
+	{"name_s": "/usr/lib/libreport-gtk.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libreport-gtk.pc", "size_i": "241", "regex": "false"}
+]

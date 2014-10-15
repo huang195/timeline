@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-YAML-Tiny-1.40", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-YAML-Tiny-1.40/Changes", "size_i": "6160", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-YAML-Tiny-1.40/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-YAML-Tiny-1.40/README", "size_i": "16080", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/YAML::Tiny.3pm.gz", "size_i": "7616", "regex": "false"},
+	{"name_s": "/usr/share/perl5/YAML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/YAML/Tiny.pm", "size_i": "29679", "regex": "false"}
+]

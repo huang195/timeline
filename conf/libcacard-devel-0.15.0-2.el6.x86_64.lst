@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/include/cacard", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/cacard/cac.h", "size_i": "741", "regex": "false"},
+	{"name_s": "/usr/include/cacard/card_7816.h", "size_i": "2003", "regex": "false"},
+	{"name_s": "/usr/include/cacard/card_7816t.h", "size_i": "7076", "regex": "false"},
+	{"name_s": "/usr/include/cacard/eventt.h", "size_i": "518", "regex": "false"},
+	{"name_s": "/usr/include/cacard/vcard.h", "size_i": "2903", "regex": "false"},
+	{"name_s": "/usr/include/cacard/vcard_emul.h", "size_i": "2158", "regex": "false"},
+	{"name_s": "/usr/include/cacard/vcard_emul_type.h", "size_i": "1003", "regex": "false"},
+	{"name_s": "/usr/include/cacard/vcardt.h", "size_i": "1712", "regex": "false"},
+	{"name_s": "/usr/include/cacard/vevent.h", "size_i": "562", "regex": "false"},
+	{"name_s": "/usr/include/cacard/vreader.h", "size_i": "1899", "regex": "false"},
+	{"name_s": "/usr/include/cacard/vreadert.h", "size_i": "564", "regex": "false"},
+	{"name_s": "/usr/include/cacard/vscard_common.h", "size_i": "4858", "regex": "false"},
+	{"name_s": "/usr/lib64/libcacard.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libcacard.pc", "size_i": "223", "regex": "false"}
+]

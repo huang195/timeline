@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/libslang.so.2", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libslang.so.2.2.1", "size_i": "1090368", "regex": "false"},
+	{"name_s": "/usr/share/doc/slang-2.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/slang-2.2.1/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/slang-2.2.1/NEWS", "size_i": "7411", "regex": "false"},
+	{"name_s": "/usr/share/doc/slang-2.2.1/README", "size_i": "1156", "regex": "false"},
+	{"name_s": "/usr/share/doc/slang-2.2.1/changes.txt", "size_i": "148093", "regex": "false"},
+	{"name_s": "/usr/share/doc/slang-2.2.1/grammar.txt", "size_i": "2790", "regex": "false"},
+	{"name_s": "/usr/share/doc/slang-2.2.1/slang.txt", "size_i": "280468", "regex": "false"},
+	{"name_s": "/usr/share/doc/slang-2.2.1/slangfun.txt", "size_i": "252432", "regex": "false"}
+]

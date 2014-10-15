@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/ftbench", "size_i": "16792", "regex": "false"},
+	{"name_s": "/usr/bin/ftchkwd", "size_i": "8400", "regex": "false"},
+	{"name_s": "/usr/bin/ftdiff", "size_i": "80448", "regex": "false"},
+	{"name_s": "/usr/bin/ftdump", "size_i": "15024", "regex": "false"},
+	{"name_s": "/usr/bin/ftgamma", "size_i": "69952", "regex": "false"},
+	{"name_s": "/usr/bin/ftgrid", "size_i": "82368", "regex": "false"},
+	{"name_s": "/usr/bin/ftlint", "size_i": "8776", "regex": "false"},
+	{"name_s": "/usr/bin/ftmemchk", "size_i": "10888", "regex": "false"},
+	{"name_s": "/usr/bin/ftmulti", "size_i": "65632", "regex": "false"},
+	{"name_s": "/usr/bin/ftstring", "size_i": "78848", "regex": "false"},
+	{"name_s": "/usr/bin/fttimer", "size_i": "10896", "regex": "false"},
+	{"name_s": "/usr/bin/ftvalid", "size_i": "17376", "regex": "false"},
+	{"name_s": "/usr/bin/ftview", "size_i": "84736", "regex": "false"},
+	{"name_s": "/usr/share/doc/freetype-demos-2.3.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/freetype-demos-2.3.11/ChangeLog", "size_i": "257569", "regex": "false"},
+	{"name_s": "/usr/share/doc/freetype-demos-2.3.11/README", "size_i": "1847", "regex": "false"}
+]

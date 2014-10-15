@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/rarian", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/rarian/rarian-info.h", "size_i": "2122", "regex": "false"},
+	{"name_s": "/usr/include/rarian/rarian-main.h", "size_i": "1601", "regex": "false"},
+	{"name_s": "/usr/include/rarian/rarian-man.h", "size_i": "1642", "regex": "false"},
+	{"name_s": "/usr/include/rarian/rarian-reg-utils.h", "size_i": "1969", "regex": "false"},
+	{"name_s": "/usr/include/rarian/rarian.h", "size_i": "1304", "regex": "false"},
+	{"name_s": "/usr/lib/librarian.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/rarian.pc", "size_i": "207", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/gcj/classpathx-jaf", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/classpathx-jaf/classpathx-jaf-1.0.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/classpathx-jaf/classpathx-jaf-1.0.jar.so", "size_i": "167664", "regex": "false"},
+	{"name_s": "/usr/share/doc/classpathx-jaf-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/classpathx-jaf-1.0/AUTHORS", "size_i": "84", "regex": "false"},
+	{"name_s": "/usr/share/doc/classpathx-jaf-1.0/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/classpathx-jaf-1.0/ChangeLog", "size_i": "678", "regex": "false"},
+	{"name_s": "/usr/share/java/activation.jar", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/java/classpathx-jaf-1.0.jar", "size_i": "46341", "regex": "false"},
+	{"name_s": "/usr/share/java/classpathx-jaf.jar", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/java/jaf.jar", "size_i": "18", "regex": "false"}
+]

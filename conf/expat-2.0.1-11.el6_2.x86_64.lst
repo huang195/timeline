@@ -1,0 +1,9 @@
+[
+	{"name_s": "/lib64/libexpat.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/lib64/libexpat.so.1.5.2", "size_i": "165264", "regex": "false"},
+	{"name_s": "/usr/bin/xmlwf", "size_i": "22416", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-2.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-2.0.1/COPYING", "size_i": "1208", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-2.0.1/README", "size_i": "5701", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xmlwf.1.gz", "size_i": "3429", "regex": "false"}
+]

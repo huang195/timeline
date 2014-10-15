@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/glusterfs/3.4.0.36rhs/xlator/mount/api.so", "size_i": "6688", "regex": "false"},
+	{"name_s": "/usr/lib64/libgfapi.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libgfapi.so.0.0.0", "size_i": "79096", "regex": "false"}
+]

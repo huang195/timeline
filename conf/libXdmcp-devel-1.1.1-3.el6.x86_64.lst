@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/X11/Xdmcp.h", "size_i": "6395", "regex": "false"},
+	{"name_s": "/usr/lib64/libXdmcp.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/xdmcp.pc", "size_i": "222", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXdmcp-devel-1.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXdmcp-devel-1.1.1/README", "size_i": "687", "regex": "false"}
+]

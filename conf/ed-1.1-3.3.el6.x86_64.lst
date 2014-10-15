@@ -1,0 +1,14 @@
+[
+	{"name_s": "/bin/ed", "size_i": "49264", "regex": "false"},
+	{"name_s": "/bin/red", "size_i": "49264", "regex": "false"},
+	{"name_s": "/usr/share/doc/ed-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ed-1.1/AUTHORS", "size_i": "907", "regex": "false"},
+	{"name_s": "/usr/share/doc/ed-1.1/COPYING", "size_i": "35068", "regex": "false"},
+	{"name_s": "/usr/share/doc/ed-1.1/ChangeLog", "size_i": "3447", "regex": "false"},
+	{"name_s": "/usr/share/doc/ed-1.1/NEWS", "size_i": "105", "regex": "false"},
+	{"name_s": "/usr/share/doc/ed-1.1/README", "size_i": "5643", "regex": "false"},
+	{"name_s": "/usr/share/doc/ed-1.1/TODO", "size_i": "493", "regex": "false"},
+	{"name_s": "/usr/share/info/ed.info.gz", "size_i": "17836", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ed.1.gz", "size_i": "7069", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/red.1.gz", "size_i": "7", "regex": "false"}
+]

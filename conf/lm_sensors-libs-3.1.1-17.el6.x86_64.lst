@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libsensors.so.4", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libsensors.so.4.2.0", "size_i": "66192", "regex": "false"}
+]

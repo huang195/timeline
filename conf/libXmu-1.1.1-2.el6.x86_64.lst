@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libXmu.so.6", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libXmu.so.6.2.0", "size_i": "104928", "regex": "false"},
+	{"name_s": "/usr/lib64/libXmuu.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libXmuu.so.1.0.0", "size_i": "13928", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXmu-1.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXmu-1.1.1/COPYING", "size_i": "3544", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXmu-1.1.1/ChangeLog", "size_i": "33921", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXmu-1.1.1/README", "size_i": "1343", "regex": "false"}
+]

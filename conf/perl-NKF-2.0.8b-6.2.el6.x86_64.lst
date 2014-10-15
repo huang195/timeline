@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/perl5/NKF.pm", "size_i": "9247", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/NKF", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/NKF/NKF.so", "size_i": "278320", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-NKF-2.0.8b", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-NKF-2.0.8b/nkf.copyright", "size_i": "827", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-NKF-2.0.8b/nkf.doc", "size_i": "14598", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/NKF.3pm.gz", "size_i": "1944", "regex": "false"}
+]

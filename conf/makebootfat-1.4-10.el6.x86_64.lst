@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/makebootfat", "size_i": "36624", "regex": "false"},
+	{"name_s": "/usr/share/doc/makebootfat-1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/makebootfat-1.4/AUTHORS", "size_i": "294", "regex": "false"},
+	{"name_s": "/usr/share/doc/makebootfat-1.4/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/makebootfat-1.4/HISTORY", "size_i": "1176", "regex": "false"},
+	{"name_s": "/usr/share/doc/makebootfat-1.4/README", "size_i": "404", "regex": "false"},
+	{"name_s": "/usr/share/doc/makebootfat-1.4/README.usbboot", "size_i": "2065", "regex": "false"},
+	{"name_s": "/usr/share/makebootfat", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/makebootfat/x86", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/makebootfat/x86/ldlinux.bss", "size_i": "512", "regex": "false"},
+	{"name_s": "/usr/share/makebootfat/x86/ldlinux.sys", "size_i": "9340", "regex": "false"},
+	{"name_s": "/usr/share/makebootfat/x86/mbrfat.bin", "size_i": "428", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/makebootfat.1.gz", "size_i": "3139", "regex": "false"}
+]

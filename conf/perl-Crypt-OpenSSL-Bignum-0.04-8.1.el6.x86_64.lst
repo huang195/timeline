@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/lib64/perl5/Crypt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Crypt/OpenSSL", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Crypt/OpenSSL/Bignum", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Crypt/OpenSSL/Bignum.pm", "size_i": "6475", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Crypt/OpenSSL/Bignum/CTX.pm", "size_i": "748", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL/Bignum", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL/Bignum/Bignum.so", "size_i": "44176", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Crypt-OpenSSL-Bignum-0.04", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Crypt-OpenSSL-Bignum-0.04/Changes", "size_i": "521", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Crypt-OpenSSL-Bignum-0.04/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Crypt-OpenSSL-Bignum-0.04/README", "size_i": "1111", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Crypt::OpenSSL::Bignum.3pm.gz", "size_i": "3642", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Crypt::OpenSSL::Bignum::CTX.3pm.gz", "size_i": "1903", "regex": "false"}
+]

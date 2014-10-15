@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/perl-Business-ISBN-Data-20081208", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Business-ISBN-Data-20081208/Changes", "size_i": "2314", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Business-ISBN-Data-20081208/LICENSE", "size_i": "69", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Business-ISBN-Data-20081208/README", "size_i": "702", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Business-ISBN-Data-20081208/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Business-ISBN-Data-20081208/examples/README", "size_i": "69", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Business::ISBN::Data.3.gz", "size_i": "2794", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Business", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Business/ISBN", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Business/ISBN/Data.pm", "size_i": "22192", "regex": "false"}
+]

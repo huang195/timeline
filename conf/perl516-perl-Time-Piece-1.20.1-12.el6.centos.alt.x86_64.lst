@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/Time/Piece.pm", "size_i": "23509", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/Time/Seconds.pm", "size_i": "5320", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/auto/Time/Piece", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/auto/Time/Piece/Piece.so", "size_i": "23656", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Time::Piece.3pm.gz", "size_i": "5530", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Time::Seconds.3pm.gz", "size_i": "2655", "regex": "false"}
+]

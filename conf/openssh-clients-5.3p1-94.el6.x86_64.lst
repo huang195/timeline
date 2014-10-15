@@ -1,0 +1,22 @@
+[
+	{"name_s": "/etc/ssh/ssh_config", "size_i": "2047", "regex": "false"},
+	{"name_s": "/usr/bin/.ssh.hmac", "size_i": "65", "regex": "false"},
+	{"name_s": "/usr/bin/scp", "size_i": "59456", "regex": "false"},
+	{"name_s": "/usr/bin/sftp", "size_i": "96328", "regex": "false"},
+	{"name_s": "/usr/bin/slogin", "size_i": "5", "regex": "false"},
+	{"name_s": "/usr/bin/ssh", "size_i": "405800", "regex": "false"},
+	{"name_s": "/usr/bin/ssh-add", "size_i": "142576", "regex": "false"},
+	{"name_s": "/usr/bin/ssh-agent", "size_i": "125000", "regex": "false"},
+	{"name_s": "/usr/bin/ssh-copy-id", "size_i": "1389", "regex": "false"},
+	{"name_s": "/usr/bin/ssh-keyscan", "size_i": "229312", "regex": "false"},
+	{"name_s": "/usr/libexec/openssh/ssh-pkcs11-helper", "size_i": "100400", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/scp.1.gz", "size_i": "2312", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sftp.1.gz", "size_i": "4324", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/slogin.1.gz", "size_i": "13955", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ssh-add.1.gz", "size_i": "2930", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ssh-agent.1.gz", "size_i": "3224", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ssh-copy-id.1.gz", "size_i": "1056", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ssh-keyscan.1.gz", "size_i": "1961", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ssh.1.gz", "size_i": "13955", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/ssh_config.5.gz", "size_i": "10775", "regex": "false"}
+]

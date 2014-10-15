@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-ro-3.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-ro-3.3/COPYING.GPL", "size_i": "18324", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-ro-3.3/README", "size_i": "332", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_ro_RO.dic", "size_i": "28651", "regex": "false"}
+]

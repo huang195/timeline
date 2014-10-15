@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtksourceview2.so", "size_i": "97472", "regex": "false"},
+	{"name_s": "/usr/share/doc/pygtksourceview-2.8.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pygtksourceview-2.8.0/AUTHORS", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/share/doc/pygtksourceview-2.8.0/COPYING", "size_i": "25292", "regex": "false"},
+	{"name_s": "/usr/share/doc/pygtksourceview-2.8.0/NEWS", "size_i": "1819", "regex": "false"},
+	{"name_s": "/usr/share/doc/pygtksourceview-2.8.0/README", "size_i": "121", "regex": "false"}
+]

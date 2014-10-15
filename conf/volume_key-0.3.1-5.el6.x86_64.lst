@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/volume_key", "size_i": "25904", "regex": "false"},
+	{"name_s": "/usr/share/doc/volume_key-0.3.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/volume_key-0.3.1/README", "size_i": "7080", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/volume_key.8.gz", "size_i": "2597", "regex": "false"}
+]

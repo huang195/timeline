@@ -1,0 +1,12 @@
+[
+	{"name_s": "/boot/dracut", "size_i": "4096", "regex": "false"},
+	{"name_s": "/sbin/dracut-catimages", "size_i": "3320", "regex": "false"},
+	{"name_s": "/sbin/dracut-gencmdline", "size_i": "18082", "regex": "false"},
+	{"name_s": "/usr/share/doc/dracut-tools-004", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dracut-tools-004/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/dracut-tools-004/NEWS", "size_i": "9762", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dracut-catimages.8.gz", "size_i": "632", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dracut-gencmdline.8.gz", "size_i": "341", "regex": "false"},
+	{"name_s": "/var/lib/dracut", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/dracut/overlay", "size_i": "4096", "regex": "false"}
+]

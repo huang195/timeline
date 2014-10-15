@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/perl5/PadWalker.pm", "size_i": "4200", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/PadWalker", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/PadWalker/PadWalker.so", "size_i": "23504", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-PadWalker-1.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-PadWalker-1.9/Changes", "size_i": "4314", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-PadWalker-1.9/README", "size_i": "4161", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/PadWalker.3pm.gz", "size_i": "3569", "regex": "false"}
+]

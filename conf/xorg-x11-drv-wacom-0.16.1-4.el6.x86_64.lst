@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/xsetwacom", "size_i": "42544", "regex": "false"},
+	{"name_s": "/usr/lib64/xorg/modules/input/wacom_drv.so", "size_i": "103616", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-wacom-0.16.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-wacom-0.16.1/AUTHORS", "size_i": "695", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-wacom-0.16.1/ChangeLog", "size_i": "608199", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-wacom-0.16.1/GPL", "size_i": "15131", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-wacom-0.16.1/README", "size_i": "1671", "regex": "false"},
+	{"name_s": "/usr/share/hal/fdi/policy/20thirdparty/10-wacom.fdi", "size_i": "976", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xsetwacom.1.gz", "size_i": "3845", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/wacom.4.gz", "size_i": "4649", "regex": "false"}
+]

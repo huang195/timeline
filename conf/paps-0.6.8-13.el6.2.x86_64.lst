@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/cups", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/cups/paps.convs", "size_i": "319", "regex": "false"},
+	{"name_s": "/usr/bin/paps", "size_i": "29448", "regex": "false"},
+	{"name_s": "/usr/lib/cups/filter/texttopaps", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/share/doc/paps-0.6.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/paps-0.6.8/AUTHORS", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/doc/paps-0.6.8/COPYING.LIB", "size_i": "25308", "regex": "false"},
+	{"name_s": "/usr/share/doc/paps-0.6.8/README", "size_i": "149", "regex": "false"},
+	{"name_s": "/usr/share/doc/paps-0.6.8/TODO", "size_i": "275", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/paps.1.gz", "size_i": "1168", "regex": "false"}
+]

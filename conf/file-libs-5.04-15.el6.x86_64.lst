@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libmagic.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libmagic.so.1.0.0", "size_i": "115768", "regex": "false"},
+	{"name_s": "/usr/share/file", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/file/magic", "size_i": "8", "regex": "false"},
+	{"name_s": "/usr/share/magic", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/magic.5.gz", "size_i": "5571", "regex": "false"},
+	{"name_s": "/usr/share/misc/magic", "size_i": "600714", "regex": "false"},
+	{"name_s": "/usr/share/misc/magic.mgc", "size_i": "1786800", "regex": "false"}
+]

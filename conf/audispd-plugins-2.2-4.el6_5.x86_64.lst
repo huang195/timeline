@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/audisp/audisp-remote.conf", "size_i": "693", "regex": "false"},
+	{"name_s": "/etc/audisp/plugins.d/au-remote.conf", "size_i": "238", "regex": "false"},
+	{"name_s": "/etc/audisp/plugins.d/audispd-zos-remote.conf", "size_i": "436", "regex": "false"},
+	{"name_s": "/etc/audisp/zos-remote.conf", "size_i": "246", "regex": "false"},
+	{"name_s": "/sbin/audisp-remote", "size_i": "34856", "regex": "false"},
+	{"name_s": "/sbin/audispd-zos-remote", "size_i": "31504", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/audisp-remote.conf.5.gz", "size_i": "3145", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/zos-remote.conf.5.gz", "size_i": "1305", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/audisp-remote.8.gz", "size_i": "722", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/audispd-zos-remote.8.gz", "size_i": "3810", "regex": "false"},
+	{"name_s": "/var/spool/audit", "size_i": "4096", "regex": "false"}
+]

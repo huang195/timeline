@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/cron.daily/0yum.cron", "size_i": "4983", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/yum-cron", "size_i": "1903", "regex": "false"},
+	{"name_s": "/etc/sysconfig/yum-cron", "size_i": "2022", "regex": "false"},
+	{"name_s": "/etc/yum/yum-daily.yum", "size_i": "19", "regex": "false"},
+	{"name_s": "/etc/yum/yum-weekly.yum", "size_i": "46", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-cron-3.2.29", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-cron-3.2.29/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/yum-cron.8.gz", "size_i": "1255", "regex": "false"}
+]

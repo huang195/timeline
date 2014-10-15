@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/xfreerdp", "size_i": "610968", "regex": "false"},
+	{"name_s": "/usr/share/applications/xfreerdp.desktop", "size_i": "241", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/256x256/apps/freerdp.png", "size_i": "6586", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xfreerdp.1.gz", "size_i": "3045", "regex": "false"}
+]

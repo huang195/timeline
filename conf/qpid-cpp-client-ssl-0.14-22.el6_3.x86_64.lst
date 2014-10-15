@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/libsslcommon.so.7", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libsslcommon.so.7.0.0", "size_i": "233360", "regex": "false"},
+	{"name_s": "/usr/lib64/qpid/client/sslconnector.so", "size_i": "131504", "regex": "false"}
+]

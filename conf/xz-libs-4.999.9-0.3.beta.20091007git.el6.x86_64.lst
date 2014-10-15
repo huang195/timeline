@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/liblzma.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/liblzma.so.0.0.0", "size_i": "134920", "regex": "false"},
+	{"name_s": "/usr/share/doc/xz-libs-4.999.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xz-libs-4.999.9/COPYING.GPLv2", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/xz-libs-4.999.9/COPYING.GPLv3", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/xz-libs-4.999.9/COPYING.LGPLv2.1", "size_i": "26436", "regex": "false"}
+]

@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/intltool-extract", "size_i": "27980", "regex": "false"},
+	{"name_s": "/usr/bin/intltool-merge", "size_i": "39941", "regex": "false"},
+	{"name_s": "/usr/bin/intltool-prepare", "size_i": "8605", "regex": "false"},
+	{"name_s": "/usr/bin/intltool-update", "size_i": "34549", "regex": "false"},
+	{"name_s": "/usr/bin/intltoolize", "size_i": "7152", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/intltool.m4", "size_i": "10381", "regex": "false"},
+	{"name_s": "/usr/share/doc/intltool-0.41.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/intltool-0.41.0/AUTHORS", "size_i": "210", "regex": "false"},
+	{"name_s": "/usr/share/doc/intltool-0.41.0/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/intltool-0.41.0/README", "size_i": "8396", "regex": "false"},
+	{"name_s": "/usr/share/intltool", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/intltool/Makefile.in.in", "size_i": "6911", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/intltool-extract.8.gz", "size_i": "954", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/intltool-merge.8.gz", "size_i": "1096", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/intltool-prepare.8.gz", "size_i": "1230", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/intltool-update.8.gz", "size_i": "1486", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/intltoolize.8.gz", "size_i": "702", "regex": "false"}
+]

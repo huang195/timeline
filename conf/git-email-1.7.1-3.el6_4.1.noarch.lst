@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/libexec/git-core/git-send-email", "size_i": "36381", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-email-1.7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-email-1.7.1/git-send-email.html", "size_i": "24083", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-email-1.7.1/git-send-email.txt", "size_i": "11373", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/git-send-email.1.gz", "size_i": "4530", "regex": "false"}
+]

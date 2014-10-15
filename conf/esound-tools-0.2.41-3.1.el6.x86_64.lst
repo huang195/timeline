@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/bin/esdcat", "size_i": "6800", "regex": "false"},
+	{"name_s": "/usr/bin/esdctl", "size_i": "11320", "regex": "false"},
+	{"name_s": "/usr/bin/esddsp", "size_i": "2019", "regex": "false"},
+	{"name_s": "/usr/bin/esdfilt", "size_i": "6928", "regex": "false"},
+	{"name_s": "/usr/bin/esdloop", "size_i": "7448", "regex": "false"},
+	{"name_s": "/usr/bin/esdmon", "size_i": "6800", "regex": "false"},
+	{"name_s": "/usr/bin/esdplay", "size_i": "6784", "regex": "false"},
+	{"name_s": "/usr/bin/esdrec", "size_i": "6800", "regex": "false"},
+	{"name_s": "/usr/bin/esdsample", "size_i": "8816", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/esdcat.1.gz", "size_i": "2334", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/esdctl.1.gz", "size_i": "2276", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/esddsp.1.gz", "size_i": "2107", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/esdfilt.1.gz", "size_i": "2133", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/esdloop.1.gz", "size_i": "1935", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/esdmon.1.gz", "size_i": "2056", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/esdplay.1.gz", "size_i": "2005", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/esdrec.1.gz", "size_i": "705", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/esdsample.1.gz", "size_i": "937", "regex": "false"}
+]

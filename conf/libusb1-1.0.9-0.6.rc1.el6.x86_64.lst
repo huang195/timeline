@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libusb-1.0.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libusb-1.0.so.0.1.0", "size_i": "60808", "regex": "false"},
+	{"name_s": "/usr/share/doc/libusb1-1.0.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libusb1-1.0.9/AUTHORS", "size_i": "556", "regex": "false"},
+	{"name_s": "/usr/share/doc/libusb1-1.0.9/COPYING", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/libusb1-1.0.9/ChangeLog", "size_i": "116303", "regex": "false"},
+	{"name_s": "/usr/share/doc/libusb1-1.0.9/NEWS", "size_i": "1243", "regex": "false"},
+	{"name_s": "/usr/share/doc/libusb1-1.0.9/README", "size_i": "726", "regex": "false"}
+]

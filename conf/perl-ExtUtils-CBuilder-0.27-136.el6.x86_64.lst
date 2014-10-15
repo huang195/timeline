@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/share/man/man3/ExtUtils::CBuilder.3pm.gz", "size_i": "4641", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ExtUtils::CBuilder::Platform::Windows.3pm.gz", "size_i": "2095", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder.pm", "size_i": "9334", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Base.pm", "size_i": "7651", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform/Unix.pm", "size_i": "1044", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform/VMS.pm", "size_i": "10548", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform/Windows", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform/Windows.pm", "size_i": "8888", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform/Windows/BCC.pm", "size_i": "3483", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform/Windows/GCC.pm", "size_i": "4238", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform/Windows/MSVC.pm", "size_i": "3198", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform/aix.pm", "size_i": "617", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform/cygwin.pm", "size_i": "924", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform/darwin.pm", "size_i": "512", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform/dec_osf.pm", "size_i": "420", "regex": "false"},
+	{"name_s": "/usr/share/perl5/ExtUtils/CBuilder/Platform/os2.pm", "size_i": "2735", "regex": "false"}
+]

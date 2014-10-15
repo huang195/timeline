@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/libgnarl-4.4.so", "size_i": "214832", "regex": "false"},
+	{"name_s": "/usr/lib/libgnat-4.4.so", "size_i": "3008672", "regex": "false"}
+]

@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/lib64/pgsql/tutorial", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/Makefile", "size_i": "960", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/README", "size_i": "517", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/advanced.source", "size_i": "1636", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/advanced.sql", "size_i": "1636", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/basics.source", "size_i": "5688", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/basics.sql", "size_i": "5688", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/complex.c", "size_i": "5923", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/complex.so", "size_i": "8064", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/complex.source", "size_i": "7662", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/complex.sql", "size_i": "7878", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/funcs.c", "size_i": "2719", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/funcs.so", "size_i": "5272", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/funcs.source", "size_i": "4695", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/funcs.sql", "size_i": "4767", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/funcs_new.c", "size_i": "3312", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/syscat.source", "size_i": "5766", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/tutorial/syscat.sql", "size_i": "5766", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-docs-8.4.18", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-docs-8.4.18/postgresql-8.4.18-US.pdf", "size_i": "7652704", "regex": "false"}
+]

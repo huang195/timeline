@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/krbVmodule.so", "size_i": "156048", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-krbV-1.0.90", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-krbV-1.0.90/COPYING", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-krbV-1.0.90/README", "size_i": "103", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-krbV-1.0.90/krbV-code-snippets.py", "size_i": "7955", "regex": "false"}
+]

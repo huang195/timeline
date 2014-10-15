@@ -1,0 +1,12 @@
+[
+	{"name_s": "/opt/rh/php54/root/etc/php.d/dom.ini", "size_i": "47", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php.d/wddx.ini", "size_i": "49", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php.d/xmlreader.ini", "size_i": "59", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php.d/xmlwriter.ini", "size_i": "59", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php.d/xsl.ini", "size_i": "47", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/dom.so", "size_i": "171128", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/wddx.so", "size_i": "33256", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/xmlreader.so", "size_i": "30192", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/xmlwriter.so", "size_i": "44912", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/xsl.so", "size_i": "33928", "regex": "false"}
+]

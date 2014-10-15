@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/share/doc/perl-AppConfig-1.66", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-AppConfig-1.66/Changes", "size_i": "5856", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-AppConfig-1.66/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-AppConfig-1.66/README", "size_i": "29363", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-AppConfig-1.66/TODO", "size_i": "2031", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/AppConfig.3pm.gz", "size_i": "11400", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/AppConfig::Args.3pm.gz", "size_i": "3250", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/AppConfig::CGI.3pm.gz", "size_i": "2708", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/AppConfig::File.3pm.gz", "size_i": "4820", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/AppConfig::Getopt.3pm.gz", "size_i": "2973", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/AppConfig::State.3pm.gz", "size_i": "7970", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/AppConfig::Sys.3pm.gz", "size_i": "2701", "regex": "false"},
+	{"name_s": "/usr/share/perl5/AppConfig", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/AppConfig.pm", "size_i": "32517", "regex": "false"},
+	{"name_s": "/usr/share/perl5/AppConfig/Args.pm", "size_i": "7679", "regex": "false"},
+	{"name_s": "/usr/share/perl5/AppConfig/CGI.pm", "size_i": "6927", "regex": "false"},
+	{"name_s": "/usr/share/perl5/AppConfig/File.pm", "size_i": "24082", "regex": "false"},
+	{"name_s": "/usr/share/perl5/AppConfig/Getopt.pm", "size_i": "8261", "regex": "false"},
+	{"name_s": "/usr/share/perl5/AppConfig/State.pm", "size_i": "47129", "regex": "false"},
+	{"name_s": "/usr/share/perl5/AppConfig/Sys.pm", "size_i": "7982", "regex": "false"}
+]

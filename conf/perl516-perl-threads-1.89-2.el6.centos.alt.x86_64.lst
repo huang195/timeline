@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/threads", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/threads/threads.so", "size_i": "36168", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/threads.pm", "size_i": "35372", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-threads-1.89", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-threads-1.89/Changes", "size_i": "8604", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-threads-1.89/README", "size_i": "482", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/threads.3pm.gz", "size_i": "13268", "regex": "false"}
+]

@@ -1,0 +1,16 @@
+[
+	{"name_s": "/etc/raddb/sql/postgresql", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/postgresql/admin.sql", "size_i": "836", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/postgresql/admin.sqlpostgres-sql", "size_i": "850", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/postgresql/cisco_h323_db_schema.sql", "size_i": "17931", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/postgresql/counter.conf", "size_i": "4485", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/postgresql/dialup.conf", "size_i": "13992", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/postgresql/ippool.conf", "size_i": "4365", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/postgresql/ippool.sql", "size_i": "749", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/postgresql/nas.sql", "size_i": "360", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/postgresql/schema.sql", "size_i": "5309", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/postgresql/update_radacct_group_trigger.sql", "size_i": "1005", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/postgresql/voip-postpaid.conf", "size_i": "4652", "regex": "false"},
+	{"name_s": "/usr/lib64/freeradius/rlm_sql_postgresql-2.1.12.so", "size_i": "28432", "regex": "false"},
+	{"name_s": "/usr/lib64/freeradius/rlm_sql_postgresql.so", "size_i": "28", "regex": "false"}
+]

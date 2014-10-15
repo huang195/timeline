@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/sbin/seunshare", "size_i": "27432", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/sandbox.5.gz", "size_i": "686", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/seunshare.8.gz", "size_i": "793", "regex": "false"},
+	{"name_s": "/usr/share/sandbox/sandboxX.sh", "size_i": "627", "regex": "false"},
+	{"name_s": "/usr/share/sandbox/start", "size_i": "160", "regex": "false"}
+]

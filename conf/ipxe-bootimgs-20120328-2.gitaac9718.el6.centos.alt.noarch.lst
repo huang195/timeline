@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/ipxe-bootimgs-20120328", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipxe-bootimgs-20120328/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipxe-bootimgs-20120328/COPYRIGHTS", "size_i": "558", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipxe-bootimgs-20120328/USAGE", "size_i": "590", "regex": "false"},
+	{"name_s": "/usr/share/ipxe", "size_i": "20480", "regex": "false"},
+	{"name_s": "/usr/share/ipxe/ipxe.dsk", "size_i": "325632", "regex": "false"},
+	{"name_s": "/usr/share/ipxe/ipxe.iso", "size_i": "1048576", "regex": "false"},
+	{"name_s": "/usr/share/ipxe/ipxe.lkrn", "size_i": "327858", "regex": "false"},
+	{"name_s": "/usr/share/ipxe/ipxe.usb", "size_i": "344064", "regex": "false"},
+	{"name_s": "/usr/share/ipxe/undionly.kpxe", "size_i": "62282", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/m17n-contrib-1.1.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-contrib-1.1.10/AUTHORS", "size_i": "5110", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-contrib-1.1.10/COPYING", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-contrib-1.1.10/NEWS", "size_i": "2694", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-contrib-1.1.10/README", "size_i": "1931", "regex": "false"},
+	{"name_s": "/usr/share/locale/eo/LC_MESSAGES/m17n-contrib.mo", "size_i": "1401", "regex": "false"},
+	{"name_s": "/usr/share/m17n/scripts", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/m17n/scripts/tbl2mim.awk", "size_i": "1572", "regex": "false"}
+]

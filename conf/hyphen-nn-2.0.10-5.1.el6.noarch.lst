@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-nn-2.0.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-nn-2.0.10/README_hyph_nn_NO.txt", "size_i": "289", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_nn_NO.dic", "size_i": "186678", "regex": "false"}
+]

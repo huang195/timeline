@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/mozilla/plugins/packagekit-plugin.so", "size_i": "45144", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-browser-plugin-0.5.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-browser-plugin-0.5.8/AUTHORS", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-browser-plugin-0.5.8/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-browser-plugin-0.5.8/NEWS", "size_i": "205506", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-browser-plugin-0.5.8/README", "size_i": "279", "regex": "false"}
+]

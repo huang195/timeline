@@ -1,0 +1,18 @@
+[
+	{"name_s": "/etc/modprobe.d/rds.conf", "size_i": "101", "regex": "false"},
+	{"name_s": "/usr/bin/rds-info", "size_i": "16504", "regex": "false"},
+	{"name_s": "/usr/bin/rds-ping", "size_i": "11072", "regex": "false"},
+	{"name_s": "/usr/bin/rds-stress", "size_i": "44856", "regex": "false"},
+	{"name_s": "/usr/share/doc/rds-tools-2.0.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rds-tools-2.0.6/docs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rds-tools-2.0.6/docs/rds-architecture.txt", "size_i": "13663", "regex": "false"},
+	{"name_s": "/usr/share/doc/rds-tools-2.0.6/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rds-tools-2.0.6/examples/Makefile", "size_i": "67", "regex": "false"},
+	{"name_s": "/usr/share/doc/rds-tools-2.0.6/examples/README", "size_i": "240", "regex": "false"},
+	{"name_s": "/usr/share/doc/rds-tools-2.0.6/examples/rds-sample.c", "size_i": "10774", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rds-info.1.gz", "size_i": "1792", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rds-ping.1.gz", "size_i": "936", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rds-stress.1.gz", "size_i": "2964", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/rds-rdma.7.gz", "size_i": "4614", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/rds.7.gz", "size_i": "5546", "regex": "false"}
+]

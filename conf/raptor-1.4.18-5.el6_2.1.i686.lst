@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/rapper", "size_i": "20168", "regex": "false"},
+	{"name_s": "/usr/lib/libraptor.so.1", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libraptor.so.1.1.0", "size_i": "422628", "regex": "false"},
+	{"name_s": "/usr/share/doc/raptor-1.4.18", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/raptor-1.4.18/AUTHORS", "size_i": "94", "regex": "false"},
+	{"name_s": "/usr/share/doc/raptor-1.4.18/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/raptor-1.4.18/COPYING.LIB", "size_i": "25284", "regex": "false"},
+	{"name_s": "/usr/share/doc/raptor-1.4.18/ChangeLog", "size_i": "74625", "regex": "false"},
+	{"name_s": "/usr/share/doc/raptor-1.4.18/LICENSE-2.0.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/raptor-1.4.18/LICENSE.html", "size_i": "3495", "regex": "false"},
+	{"name_s": "/usr/share/doc/raptor-1.4.18/LICENSE.txt", "size_i": "2743", "regex": "false"},
+	{"name_s": "/usr/share/doc/raptor-1.4.18/NEWS", "size_i": "18459", "regex": "false"},
+	{"name_s": "/usr/share/doc/raptor-1.4.18/README", "size_i": "6418", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rapper.1.gz", "size_i": "2394", "regex": "false"}
+]

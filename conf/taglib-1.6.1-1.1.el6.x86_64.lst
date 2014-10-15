@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libtag.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libtag.so.1.6.1", "size_i": "576880", "regex": "false"},
+	{"name_s": "/usr/lib64/libtag_c.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libtag_c.so.0.0.0", "size_i": "15288", "regex": "false"},
+	{"name_s": "/usr/share/doc/taglib-1.6.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/taglib-1.6.1/AUTHORS", "size_i": "355", "regex": "false"},
+	{"name_s": "/usr/share/doc/taglib-1.6.1/COPYING.LGPL", "size_i": "25308", "regex": "false"},
+	{"name_s": "/usr/share/doc/taglib-1.6.1/NEWS", "size_i": "2511", "regex": "false"}
+]

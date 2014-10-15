@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/java/jaxp_transform_impl.jar", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/java/saxon-6.5.5.jar", "size_i": "612882", "regex": "false"},
+	{"name_s": "/usr/share/java/saxon.jar", "size_i": "15", "regex": "false"}
+]

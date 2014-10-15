@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/asn1Coding", "size_i": "12704", "regex": "false"},
+	{"name_s": "/usr/bin/asn1Decoding", "size_i": "12224", "regex": "false"},
+	{"name_s": "/usr/bin/asn1Parser", "size_i": "10896", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/asn1Coding.1.gz", "size_i": "811", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/asn1Decoding.1.gz", "size_i": "785", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/asn1Parser.1.gz", "size_i": "824", "regex": "false"}
+]

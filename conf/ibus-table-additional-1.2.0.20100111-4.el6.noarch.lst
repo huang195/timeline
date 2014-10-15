@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/ibus-table/icons/compose.svg", "size_i": "5573", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/icons/latex.svg", "size_i": "3856", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/compose.db", "size_i": "139264", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/latex.db", "size_i": "147456", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/template.txt", "size_i": "4385", "regex": "false"}
+]

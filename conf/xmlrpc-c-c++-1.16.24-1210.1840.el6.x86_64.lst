@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/libxmlrpc++.so.4", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc++.so.4.16", "size_i": "73720", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc_cpp.so.4", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc_cpp.so.4.16", "size_i": "20416", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc_packetsocket.so.4", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc_packetsocket.so.4.16", "size_i": "21144", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc_server++.so.4", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc_server++.so.4.16", "size_i": "25848", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc_server_abyss++.so.4", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc_server_abyss++.so.4.16", "size_i": "22344", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc_server_cgi++.so.4", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc_server_cgi++.so.4.16", "size_i": "17176", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc_server_pstream++.so.4", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib64/libxmlrpc_server_pstream++.so.4.16", "size_i": "11920", "regex": "false"}
+]

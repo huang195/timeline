@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Class-Singleton-1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Class-Singleton-1.4/Changes", "size_i": "1638", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Class-Singleton-1.4/README", "size_i": "9597", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Class::Singleton.3pm.gz", "size_i": "5280", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Class", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Class/Singleton.pm", "size_i": "12327", "regex": "false"}
+]

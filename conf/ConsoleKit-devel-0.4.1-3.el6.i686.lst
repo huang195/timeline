@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/ConsoleKit", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/ConsoleKit/ck-connector", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/ConsoleKit/ck-connector/ck-connector.h", "size_i": "2872", "regex": "false"},
+	{"name_s": "/usr/lib/libck-connector.so", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/ck-connector.pc", "size_i": "265", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/interfaces/org.freedesktop.ConsoleKit.Manager.xml", "size_i": "14059", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/interfaces/org.freedesktop.ConsoleKit.Seat.xml", "size_i": "5304", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/interfaces/org.freedesktop.ConsoleKit.Session.xml", "size_i": "16704", "regex": "false"}
+]

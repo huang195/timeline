@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/rpm/macros.scl", "size_i": "11422", "regex": "false"},
+	{"name_s": "/usr/lib/rpm/brp-scl-compress", "size_i": "1811", "regex": "false"},
+	{"name_s": "/usr/lib/rpm/brp-scl-python-bytecompile", "size_i": "3112", "regex": "false"},
+	{"name_s": "/usr/lib/rpm/fileattrs/scl.attr", "size_i": "114", "regex": "false"},
+	{"name_s": "/usr/lib/rpm/scldeps.sh", "size_i": "140", "regex": "false"}
+]

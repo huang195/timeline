@@ -1,0 +1,22 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/Changes", "size_i": "2857", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/README", "size_i": "1777", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/demo", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/demo/XML.xml", "size_i": "243", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/demo/demo_XML", "size_i": "212", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/demo/demo_multiple.pl", "size_i": "155", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/demo/demo_nowrite.pl", "size_i": "95", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/demo/demo_persistence.pl", "size_i": "400", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/demo/demo_persistence_simple.pl", "size_i": "258", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/demo/demo_simple.pl", "size_i": "415", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/demo/demo_singles.pl", "size_i": "229", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/demo/demo_virtual.pl", "size_i": "472", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Inline-Files-0.68/demo/demo_write.pl", "size_i": "96", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Inline::Files.3pm.gz", "size_i": "4597", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Inline::Files::Virtual.3pm.gz", "size_i": "4884", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Inline", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Inline/Files", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Inline/Files.pm", "size_i": "10581", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Inline/Files/Virtual.pm", "size_i": "18930", "regex": "false"}
+]

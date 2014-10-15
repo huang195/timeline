@@ -1,0 +1,21 @@
+[
+	{"name_s": "/etc/qpid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/qpid/qpidc.conf", "size_i": "929", "regex": "false"},
+	{"name_s": "/usr/lib64/libqpidclient.so.7", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libqpidclient.so.7.0.0", "size_i": "789096", "regex": "false"},
+	{"name_s": "/usr/lib64/libqpidcommon.so.7", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libqpidcommon.so.7.0.0", "size_i": "2762040", "regex": "false"},
+	{"name_s": "/usr/lib64/libqpidmessaging.so.3", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/libqpidmessaging.so.3.2.1", "size_i": "531056", "regex": "false"},
+	{"name_s": "/usr/lib64/libqpidtypes.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libqpidtypes.so.1.2.1", "size_i": "116008", "regex": "false"},
+	{"name_s": "/usr/lib64/qpid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/qpid/client", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/qpid-cpp-client-0.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/qpid-cpp-client-0.14/DESIGN", "size_i": "3604", "regex": "false"},
+	{"name_s": "/usr/share/doc/qpid-cpp-client-0.14/INSTALL", "size_i": "12659", "regex": "false"},
+	{"name_s": "/usr/share/doc/qpid-cpp-client-0.14/LICENSE", "size_i": "13143", "regex": "false"},
+	{"name_s": "/usr/share/doc/qpid-cpp-client-0.14/NOTICE", "size_i": "873", "regex": "false"},
+	{"name_s": "/usr/share/doc/qpid-cpp-client-0.14/README.txt", "size_i": "1441", "regex": "false"},
+	{"name_s": "/usr/share/doc/qpid-cpp-client-0.14/RELEASE_NOTES", "size_i": "401", "regex": "false"}
+]

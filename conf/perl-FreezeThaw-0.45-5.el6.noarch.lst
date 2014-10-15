@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/perl-FreezeThaw-0.45", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-FreezeThaw-0.45/Changes", "size_i": "1230", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-FreezeThaw-0.45/README", "size_i": "929", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/FreezeThaw.3pm.gz", "size_i": "4865", "regex": "false"},
+	{"name_s": "/usr/share/perl5/FreezeThaw.pm", "size_i": "24593", "regex": "false"}
+]

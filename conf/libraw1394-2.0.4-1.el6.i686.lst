@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/dumpiso", "size_i": "7848", "regex": "false"},
+	{"name_s": "/usr/bin/sendiso", "size_i": "7928", "regex": "false"},
+	{"name_s": "/usr/bin/testlibraw", "size_i": "9952", "regex": "false"},
+	{"name_s": "/usr/lib/libraw1394.so.11", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libraw1394.so.11.0.1", "size_i": "59836", "regex": "false"},
+	{"name_s": "/usr/share/doc/libraw1394-2.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libraw1394-2.0.4/COPYING.LIB", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/libraw1394-2.0.4/NEWS", "size_i": "4217", "regex": "false"},
+	{"name_s": "/usr/share/doc/libraw1394-2.0.4/README", "size_i": "2369", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dumpiso.1.gz", "size_i": "745", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sendiso.1.gz", "size_i": "790", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/testlibraw.1.gz", "size_i": "560", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/isodump.5.gz", "size_i": "840", "regex": "false"}
+]

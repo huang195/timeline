@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/libboost_iostreams-mt.so.5", "size_i": "52844", "regex": "false"},
+	{"name_s": "/usr/lib/libboost_iostreams.so.5", "size_i": "52760", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-iostreams-1.41.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-iostreams-1.41.0/LICENSE_1_0.txt", "size_i": "1338", "regex": "false"}
+]

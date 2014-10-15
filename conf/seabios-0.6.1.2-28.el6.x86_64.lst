@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/seabios-0.6.1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/seabios-0.6.1.2/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/seabios-0.6.1.2/COPYING.LESSER", "size_i": "7639", "regex": "false"},
+	{"name_s": "/usr/share/doc/seabios-0.6.1.2/README", "size_i": "8264", "regex": "false"},
+	{"name_s": "/usr/share/doc/seabios-0.6.1.2/TODO", "size_i": "950", "regex": "false"},
+	{"name_s": "/usr/share/seabios", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/seabios/bios.bin", "size_i": "131072", "regex": "false"}
+]

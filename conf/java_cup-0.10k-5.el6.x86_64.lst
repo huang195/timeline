@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/gcj/java_cup", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/java_cup/java_cup-0.10k.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/java_cup/java_cup-0.10k.jar.so", "size_i": "398056", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/java_cup/java_cup-runtime-0.10k.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/java_cup/java_cup-runtime-0.10k.jar.so", "size_i": "50336", "regex": "false"},
+	{"name_s": "/usr/share/doc/java_cup-0.10k", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/java_cup-0.10k/CHANGELOG", "size_i": "14415", "regex": "false"},
+	{"name_s": "/usr/share/doc/java_cup-0.10k/LICENSE", "size_i": "1120", "regex": "false"},
+	{"name_s": "/usr/share/doc/java_cup-0.10k/README", "size_i": "2098", "regex": "false"},
+	{"name_s": "/usr/share/java/java_cup-0.10k.jar", "size_i": "73310", "regex": "false"},
+	{"name_s": "/usr/share/java/java_cup-runtime-0.10k.jar", "size_i": "9053", "regex": "false"},
+	{"name_s": "/usr/share/java/java_cup-runtime.jar", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/share/java/java_cup.jar", "size_i": "18", "regex": "false"}
+]

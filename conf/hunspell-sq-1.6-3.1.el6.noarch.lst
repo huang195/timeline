@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-sq-1.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-sq-1.6/Copyright", "size_i": "1018", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-sq-1.6/README.txt", "size_i": "304", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sq_AL.aff", "size_i": "7180", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sq_AL.dic", "size_i": "2330679", "regex": "false"}
+]

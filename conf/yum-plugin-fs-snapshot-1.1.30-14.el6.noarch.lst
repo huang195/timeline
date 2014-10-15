@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/fs-snapshot.conf", "size_i": "152", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/fs-snapshot.py", "size_i": "11728", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/fs-snapshot.pyc", "size_i": "8646", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/fs-snapshot.pyo", "size_i": "8646", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-fs-snapshot-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-fs-snapshot-1.1.30/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/yum-fs-snapshot.1.gz", "size_i": "593", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/yum-fs-snapshot.conf.5.gz", "size_i": "667", "regex": "false"}
+]

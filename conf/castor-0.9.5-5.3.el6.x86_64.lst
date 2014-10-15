@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/castor", "size_i": "557", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/castor", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/castor/castor-0.9.5.jar.db", "size_i": "86016", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/castor/castor-0.9.5.jar.so", "size_i": "7041952", "regex": "false"},
+	{"name_s": "/usr/share/castor", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/castor-0.9.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/castor-0.9.5/CHANGELOG", "size_i": "106385", "regex": "false"},
+	{"name_s": "/usr/share/doc/castor-0.9.5/LICENSE", "size_i": "1843", "regex": "false"},
+	{"name_s": "/usr/share/doc/castor-0.9.5/README", "size_i": "780", "regex": "false"},
+	{"name_s": "/usr/share/java/castor-0.9.5.jar", "size_i": "1604095", "regex": "false"},
+	{"name_s": "/usr/share/java/castor.jar", "size_i": "16", "regex": "false"}
+]

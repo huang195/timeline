@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libcups.so.2", "size_i": "314672", "regex": "false"},
+	{"name_s": "/usr/lib/libcupscgi.so.1", "size_i": "61280", "regex": "false"},
+	{"name_s": "/usr/lib/libcupsdriver.so.1", "size_i": "36336", "regex": "false"},
+	{"name_s": "/usr/lib/libcupsimage.so.2", "size_i": "103032", "regex": "false"},
+	{"name_s": "/usr/lib/libcupsmime.so.1", "size_i": "21000", "regex": "false"},
+	{"name_s": "/usr/lib/libcupsppdc.so.1", "size_i": "125868", "regex": "false"}
+]

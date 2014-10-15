@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/siliconmotion_drv.so", "size_i": "112184", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/siliconmotion.xinf", "size_i": "496", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/siliconmotion.4.gz", "size_i": "2758", "regex": "false"}
+]

@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/qmf-tool", "size_i": "25653", "regex": "false"},
+	{"name_s": "/usr/bin/qpid-cluster", "size_i": "12357", "regex": "false"},
+	{"name_s": "/usr/bin/qpid-cluster-store", "size_i": "2610", "regex": "false"},
+	{"name_s": "/usr/bin/qpid-config", "size_i": "30901", "regex": "false"},
+	{"name_s": "/usr/bin/qpid-printevents", "size_i": "4048", "regex": "false"},
+	{"name_s": "/usr/bin/qpid-queue-stats", "size_i": "5210", "regex": "false"},
+	{"name_s": "/usr/bin/qpid-route", "size_i": "22518", "regex": "false"},
+	{"name_s": "/usr/bin/qpid-stat", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/bin/qpid-tool", "size_i": "23316", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/qpid_tools-0.14-py2.6.egg-info", "size_i": "280", "regex": "false"},
+	{"name_s": "/usr/share/doc/qpid-tools-0.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/qpid-tools-0.14/LICENSE.txt", "size_i": "11359", "regex": "false"},
+	{"name_s": "/usr/share/doc/qpid-tools-0.14/NOTICE.txt", "size_i": "695", "regex": "false"}
+]

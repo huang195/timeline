@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/share/doc/nasm-doc-2.07", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdo10.html", "size_i": "8867", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdo11.html", "size_i": "8873", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdo12.html", "size_i": "10293", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdoc0.html", "size_i": "38932", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdoc1.html", "size_i": "9728", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdoc2.html", "size_i": "37515", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdoc3.html", "size_i": "40827", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdoc4.html", "size_i": "89654", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdoc5.html", "size_i": "4308", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdoc6.html", "size_i": "19533", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdoc7.html", "size_i": "69841", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdoc8.html", "size_i": "42662", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdoc9.html", "size_i": "24974", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdoca.html", "size_i": "9676", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdocb.html", "size_i": "182862", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdocc.html", "size_i": "67901", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/html/nasmdoci.html", "size_i": "80544", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/nasmdoc.ps.gz", "size_i": "196746", "regex": "false"},
+	{"name_s": "/usr/share/doc/nasm-doc-2.07/nasmdoc.txt.gz", "size_i": "137367", "regex": "false"}
+]

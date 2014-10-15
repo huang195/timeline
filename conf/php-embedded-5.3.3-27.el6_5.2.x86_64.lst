@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libphp5-5.3.3.so", "size_i": "3676560", "regex": "false"},
+	{"name_s": "/usr/lib64/libphp5.so", "size_i": "16", "regex": "false"}
+]

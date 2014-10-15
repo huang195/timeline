@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/ipcount", "size_i": "3724", "regex": "false"},
+	{"name_s": "/usr/bin/iptab", "size_i": "982", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-IP-1.25", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-IP-1.25/COPYING", "size_i": "1851", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-IP-1.25/Changes", "size_i": "2518", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-IP-1.25/README", "size_i": "839", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Net::IP.3pm.gz", "size_i": "6549", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Net", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Net/IP.pm", "size_i": "66082", "regex": "false"}
+]

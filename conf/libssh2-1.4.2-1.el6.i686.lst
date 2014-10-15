@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/libssh2.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libssh2.so.1.0.1", "size_i": "159736", "regex": "false"},
+	{"name_s": "/usr/share/doc/libssh2-1.4.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libssh2-1.4.2/AUTHORS", "size_i": "787", "regex": "false"},
+	{"name_s": "/usr/share/doc/libssh2-1.4.2/COPYING", "size_i": "1881", "regex": "false"},
+	{"name_s": "/usr/share/doc/libssh2-1.4.2/ChangeLog", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/doc/libssh2-1.4.2/NEWS", "size_i": "157605", "regex": "false"},
+	{"name_s": "/usr/share/doc/libssh2-1.4.2/README", "size_i": "2995", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libhbalinux.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libhbalinux.pc", "size_i": "204", "regex": "false"}
+]

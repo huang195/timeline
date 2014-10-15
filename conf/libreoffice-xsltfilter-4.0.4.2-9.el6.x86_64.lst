@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/lib64/libreoffice/share/registry/xsltfilter.xcd", "size_i": "15706", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/docbook", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/docbook/DocBookTemplate.stw", "size_i": "6688", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/docbook/docbooktosoffheadings.xsl", "size_i": "61626", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/docbook/sofftodocbookheadings.xsl", "size_i": "41139", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/export/uof", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/export/uof/odf2uof_presentation.xsl", "size_i": "199110", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/export/uof/odf2uof_spreadsheet.xsl", "size_i": "351084", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/export/uof/odf2uof_text.xsl", "size_i": "247061", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/export/xhtml", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/export/xhtml/body.xsl", "size_i": "134018", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/export/xhtml/header.xsl", "size_i": "18979", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/export/xhtml/opendoc2xhtml.xsl", "size_i": "8789", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/export/xhtml/table.xsl", "size_i": "9131", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/import/uof", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/import/uof/uof2odf_presentation.xsl", "size_i": "215296", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/import/uof/uof2odf_spreadsheet.xsl", "size_i": "468765", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/xslt/import/uof/uof2odf_text.xsl", "size_i": "265770", "regex": "false"},
+	{"name_s": "/usr/share/applications/libreoffice-xsltfilter.desktop", "size_i": "3381", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libSDL.a", "size_i": "849386", "regex": "false"},
+	{"name_s": "/usr/lib64/libSDLmain.a", "size_i": "1116", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-fo-0.2.37", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-fo-0.2.37/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-fo-0.2.37/Copyright", "size_i": "856", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-fo-0.2.37/README", "size_i": "2604", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-fo-0.2.37/contributors", "size_i": "1452", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fo_FO.aff", "size_i": "79", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fo_FO.dic", "size_i": "1495564", "regex": "false"}
+]

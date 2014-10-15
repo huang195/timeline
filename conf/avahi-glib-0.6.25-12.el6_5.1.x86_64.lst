@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libavahi-glib.so.1", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libavahi-glib.so.1.0.1", "size_i": "11040", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/wn.h", "size_i": "18520", "regex": "false"},
+	{"name_s": "/usr/lib/libWN.so", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/binsrch.3.gz", "size_i": "941", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/morph.3.gz", "size_i": "1393", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/wnintro.3.gz", "size_i": "2988", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/wnsearch.3.gz", "size_i": "4714", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/wnutil.3.gz", "size_i": "2193", "regex": "false"}
+]

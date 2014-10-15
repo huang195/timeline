@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/dhcp/dhclient.d/nis.sh", "size_i": "3221", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/ypbind", "size_i": "4799", "regex": "false"},
+	{"name_s": "/etc/yp.conf", "size_i": "585", "regex": "false"},
+	{"name_s": "/usr/sbin/ypbind", "size_i": "45296", "regex": "false"},
+	{"name_s": "/usr/share/doc/ypbind-1.20.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ypbind-1.20.4/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/ypbind-1.20.4/NEWS", "size_i": "2826", "regex": "false"},
+	{"name_s": "/usr/share/doc/ypbind-1.20.4/README", "size_i": "1005", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/ypbind.mo", "size_i": "6717", "regex": "false"},
+	{"name_s": "/usr/share/locale/sv/LC_MESSAGES/ypbind.mo", "size_i": "7744", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/yp.conf.5.gz", "size_i": "803", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ypbind.8.gz", "size_i": "2557", "regex": "false"},
+	{"name_s": "/var/yp/binding", "size_i": "4096", "regex": "false"}
+]

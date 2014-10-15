@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/include/dat", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/dat/dat.h", "size_i": "46855", "regex": "false"},
+	{"name_s": "/usr/include/dat/dat_error.h", "size_i": "13257", "regex": "false"},
+	{"name_s": "/usr/include/dat/dat_platform_specific.h", "size_i": "7059", "regex": "false"},
+	{"name_s": "/usr/include/dat/dat_redirection.h", "size_i": "24243", "regex": "false"},
+	{"name_s": "/usr/include/dat/dat_registry.h", "size_i": "3639", "regex": "false"},
+	{"name_s": "/usr/include/dat/dat_vendor_specific.h", "size_i": "2010", "regex": "false"},
+	{"name_s": "/usr/include/dat/udat.h", "size_i": "13814", "regex": "false"},
+	{"name_s": "/usr/include/dat/udat_config.h", "size_i": "2686", "regex": "false"},
+	{"name_s": "/usr/include/dat/udat_redirection.h", "size_i": "11820", "regex": "false"},
+	{"name_s": "/usr/include/dat/udat_vendor_specific.h", "size_i": "2067", "regex": "false"},
+	{"name_s": "/usr/lib64/libdaplcma.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libdaplscm.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libdat.so", "size_i": "15", "regex": "false"}
+]

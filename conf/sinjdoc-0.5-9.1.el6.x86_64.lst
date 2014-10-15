@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/sinjdoc", "size_i": "132", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/sinjdoc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/sinjdoc/sinjdoc.jar.db", "size_i": "28672", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/sinjdoc/sinjdoc.jar.so", "size_i": "1902056", "regex": "false"},
+	{"name_s": "/usr/share/doc/sinjdoc-0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sinjdoc-0.5/AUTHORS", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/doc/sinjdoc-0.5/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/sinjdoc-0.5/ChangeLog", "size_i": "80063", "regex": "false"},
+	{"name_s": "/usr/share/doc/sinjdoc-0.5/README", "size_i": "844", "regex": "false"},
+	{"name_s": "/usr/share/java/sinjdoc.jar", "size_i": "414906", "regex": "false"}
+]

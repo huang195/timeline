@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/wavpack", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/wavpack/wavpack.h", "size_i": "12999", "regex": "false"},
+	{"name_s": "/usr/lib/libwavpack.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/wavpack.pc", "size_i": "173", "regex": "false"},
+	{"name_s": "/usr/share/doc/wavpack-devel-4.60", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/wavpack-devel-4.60/ChangeLog", "size_i": "20487", "regex": "false"},
+	{"name_s": "/usr/share/doc/wavpack-devel-4.60/README", "size_i": "5485", "regex": "false"},
+	{"name_s": "/usr/share/doc/wavpack-devel-4.60/file_format.txt", "size_i": "13081", "regex": "false"},
+	{"name_s": "/usr/share/doc/wavpack-devel-4.60/library_use.txt", "size_i": "56640", "regex": "false"},
+	{"name_s": "/usr/share/doc/wavpack-devel-4.60/style.css", "size_i": "1190", "regex": "false"},
+	{"name_s": "/usr/share/doc/wavpack-devel-4.60/wavpack_doc.html", "size_i": "52819", "regex": "false"}
+]

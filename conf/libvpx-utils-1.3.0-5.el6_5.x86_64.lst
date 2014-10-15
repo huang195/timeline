@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/decode_to_md5", "size_i": "10984", "regex": "false"},
+	{"name_s": "/usr/bin/decode_with_drops", "size_i": "8216", "regex": "false"},
+	{"name_s": "/usr/bin/error_resilient", "size_i": "9000", "regex": "false"},
+	{"name_s": "/usr/bin/force_keyframe", "size_i": "9016", "regex": "false"},
+	{"name_s": "/usr/bin/vp8_postproc", "size_i": "8240", "regex": "false"},
+	{"name_s": "/usr/bin/vp8_scalable_patterns", "size_i": "13032", "regex": "false"},
+	{"name_s": "/usr/bin/vp8_set_maps", "size_i": "9960", "regex": "false"},
+	{"name_s": "/usr/bin/vp8_simple_decoder", "size_i": "7712", "regex": "false"},
+	{"name_s": "/usr/bin/vp8_simple_encoder", "size_i": "8984", "regex": "false"},
+	{"name_s": "/usr/bin/vp8_twopass_encoder", "size_i": "9504", "regex": "false"},
+	{"name_s": "/usr/bin/vp8cx_set_ref", "size_i": "9544", "regex": "false"},
+	{"name_s": "/usr/bin/vp9_spatial_scalable_encoder", "size_i": "16312", "regex": "false"},
+	{"name_s": "/usr/bin/vpxdec", "size_i": "69000", "regex": "false"},
+	{"name_s": "/usr/bin/vpxenc", "size_i": "83480", "regex": "false"}
+]

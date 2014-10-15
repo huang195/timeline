@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/libxmlrpc_client.so.3", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libxmlrpc_client.so.3.16", "size_i": "39048", "regex": "false"}
+]

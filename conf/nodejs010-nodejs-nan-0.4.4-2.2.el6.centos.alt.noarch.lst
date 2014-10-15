@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/nan", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/nan/.index.js", "size_i": "6", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/nan/nan.h", "size_i": "33487", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/nan/package.json", "size_i": "491", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-nan-0.4.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-nan-0.4.4/LICENSE", "size_i": "1959", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-nan-0.4.4/README.md", "size_i": "27185", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/share/doc/libpst-0.6.44", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpst-0.6.44/AUTHORS", "size_i": "1354", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpst-0.6.44/COPYING", "size_i": "15131", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpst-0.6.44/ChangeLog", "size_i": "31172", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpst-0.6.44/NEWS", "size_i": "4403", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpst-0.6.44/README", "size_i": "225", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpst-0.6.44/index.html", "size_i": "3712", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpst-0.6.44/rn01re01.html", "size_i": "9741", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpst-0.6.44/rn01re02.html", "size_i": "4372", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpst-0.6.44/rn01re03.html", "size_i": "7486", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpst-0.6.44/rn01re04.html", "size_i": "6196", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpst-0.6.44/rn01re05.html", "size_i": "61039", "regex": "false"}
+]

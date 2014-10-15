@@ -1,0 +1,17 @@
+[
+	{"name_s": "/etc/drirc", "size_i": "1804", "regex": "false"},
+	{"name_s": "/usr/lib/dri/i915_dri.so", "size_i": "365084", "regex": "false"},
+	{"name_s": "/usr/lib/dri/i965_dri.so", "size_i": "898588", "regex": "false"},
+	{"name_s": "/usr/lib/dri/r200_dri.so", "size_i": "307492", "regex": "false"},
+	{"name_s": "/usr/lib/dri/r300_dri.so", "size_i": "5866108", "regex": "false"},
+	{"name_s": "/usr/lib/dri/r600_dri.so", "size_i": "6384604", "regex": "false"},
+	{"name_s": "/usr/lib/dri/radeon_dri.so", "size_i": "276304", "regex": "false"},
+	{"name_s": "/usr/lib/dri/radeonsi_dri.so", "size_i": "5679872", "regex": "false"},
+	{"name_s": "/usr/lib/dri/swrast_dri.so", "size_i": "19700", "regex": "false"},
+	{"name_s": "/usr/lib/libdricore9.2.0-devel.so", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib/libdricore9.2.0-devel.so.1", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib/libdricore9.2.0-devel.so.1.0.0", "size_i": "3914420", "regex": "false"},
+	{"name_s": "/usr/lib/libglapi.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libglapi.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libglapi.so.0.0.0", "size_i": "248848", "regex": "false"}
+]

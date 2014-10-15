@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/bin/avahi-browse", "size_i": "23912", "regex": "false"},
+	{"name_s": "/usr/bin/avahi-browse-domains", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/bin/avahi-publish", "size_i": "16048", "regex": "false"},
+	{"name_s": "/usr/bin/avahi-publish-address", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/bin/avahi-publish-service", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/bin/avahi-resolve", "size_i": "13760", "regex": "false"},
+	{"name_s": "/usr/bin/avahi-resolve-address", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/bin/avahi-resolve-host-name", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/bin/avahi-set-host-name", "size_i": "11064", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/avahi-browse-domains.1.gz", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/avahi-browse.1.gz", "size_i": "1068", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/avahi-publish-address.1.gz", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/avahi-publish-service.1.gz", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/avahi-publish.1.gz", "size_i": "1053", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/avahi-resolve-address.1.gz", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/avahi-resolve-host-name.1.gz", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/avahi-resolve.1.gz", "size_i": "621", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/avahi-set-host-name.1.gz", "size_i": "431", "regex": "false"}
+]

@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/emacs-23.1", "size_i": "11016128", "regex": "false"},
+	{"name_s": "/usr/libexec/emacs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/emacs/23.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/emacs/23.1/x86_64-redhat-linux-gnu", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/applications/emacs.desktop", "size_i": "496", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/128x128/apps/emacs.png", "size_i": "21751", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/16x16/apps/emacs.png", "size_i": "1003", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/16x16/apps/emacs22.png", "size_i": "705", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/24x24/apps/emacs.png", "size_i": "1717", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/24x24/apps/emacs22.png", "size_i": "988", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/32x32/apps/emacs.png", "size_i": "2542", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/32x32/apps/emacs22.png", "size_i": "2404", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/48x48/apps/emacs.png", "size_i": "5393", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/48x48/apps/emacs22.png", "size_i": "3431", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/scalable/apps/emacs.svg", "size_i": "14027", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/scalable/mimetypes/emacs-document.svg", "size_i": "11654", "regex": "false"}
+]

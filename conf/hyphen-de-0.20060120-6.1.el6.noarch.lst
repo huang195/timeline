@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-de-0.20060120", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-de-0.20060120/README_hyph_de_DE.txt", "size_i": "1315", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_de_AT.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_de_BE.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_de_CH.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_de_DE.dic", "size_i": "50110", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_de_LI.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_de_LU.dic", "size_i": "14", "regex": "false"}
+]

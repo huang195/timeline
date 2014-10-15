@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/ksysguarddrc", "size_i": "1127", "regex": "false"},
+	{"name_s": "/usr/bin/ksysguardd", "size_i": "131416", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/skel/.mozilla", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/skel/.mozilla/extensions", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/skel/.mozilla/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/mozilla", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/mozilla/extensions", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/mozilla/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/mozilla", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/mozilla/extensions", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/mozilla/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mozilla", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mozilla/extensions", "size_i": "4096", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/firmware/iwlwifi-6000-4.ucode", "size_i": "454608", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl6000-firmware-9.221.4.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl6000-firmware-9.221.4.1/LICENSE", "size_i": "2046", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl6000-firmware-9.221.4.1/README", "size_i": "4789", "regex": "false"}
+]

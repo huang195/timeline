@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/oscilloscope", "size_i": "3077", "regex": "false"},
+	{"name_s": "/usr/share/doc/oscilloscope-0.10.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/oscilloscope-0.10.4/oscilloscope+tuna.html", "size_i": "13157", "regex": "false"},
+	{"name_s": "/usr/share/doc/oscilloscope-0.10.4/oscilloscope+tuna.pdf", "size_i": "139309", "regex": "false"}
+]

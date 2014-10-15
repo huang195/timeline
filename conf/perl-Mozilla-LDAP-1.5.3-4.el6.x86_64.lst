@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Mozilla/LDAP/API.pm", "size_i": "59351", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Mozilla/LDAP/Conn.pm", "size_i": "58592", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Mozilla/LDAP/Entry.pm", "size_i": "39371", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Mozilla/LDAP/LDIF.pm", "size_i": "39786", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Mozilla/LDAP/Utils.pm", "size_i": "8676", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Mozilla/LDAP/API/API.so", "size_i": "197408", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Mozilla/LDAP/API/autosplit.ix", "size_i": "95", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Mozilla-LDAP-1.5.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Mozilla-LDAP-1.5.3/CREDITS", "size_i": "996", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Mozilla-LDAP-1.5.3/ChangeLog", "size_i": "25640", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Mozilla-LDAP-1.5.3/MPL-1.1.txt", "size_i": "30869", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Mozilla-LDAP-1.5.3/README", "size_i": "4752", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Mozilla::LDAP::API.3pm.gz", "size_i": "9044", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Mozilla::LDAP::Conn.3pm.gz", "size_i": "11219", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Mozilla::LDAP::Entry.3pm.gz", "size_i": "7120", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Mozilla::LDAP::LDIF.3pm.gz", "size_i": "7808", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Mozilla::LDAP::Utils.3pm.gz", "size_i": "2342", "regex": "false"}
+]

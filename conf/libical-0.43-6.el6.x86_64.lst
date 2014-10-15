@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/libical.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libical.so.0.43.0", "size_i": "382672", "regex": "false"},
+	{"name_s": "/usr/lib64/libicalss.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libicalss.so.0.43.0", "size_i": "83320", "regex": "false"},
+	{"name_s": "/usr/lib64/libicalvcal.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libicalvcal.so.0.43.0", "size_i": "76344", "regex": "false"},
+	{"name_s": "/usr/share/doc/libical-0.43", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libical-0.43/COPYING", "size_i": "1459", "regex": "false"},
+	{"name_s": "/usr/share/doc/libical-0.43/ChangeLog", "size_i": "49747", "regex": "false"},
+	{"name_s": "/usr/share/doc/libical-0.43/LICENSE", "size_i": "1459", "regex": "false"},
+	{"name_s": "/usr/share/doc/libical-0.43/NEWS", "size_i": "16814", "regex": "false"},
+	{"name_s": "/usr/share/doc/libical-0.43/README", "size_i": "3728", "regex": "false"},
+	{"name_s": "/usr/share/doc/libical-0.43/THANKS", "size_i": "2398", "regex": "false"},
+	{"name_s": "/usr/share/doc/libical-0.43/TODO", "size_i": "1198", "regex": "false"}
+]

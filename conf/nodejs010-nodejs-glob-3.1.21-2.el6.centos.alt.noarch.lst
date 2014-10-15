@@ -1,0 +1,15 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/glob", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/glob/glob.js", "size_i": "17492", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/glob/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/glob/node_modules/graceful-fs", "size_i": "55", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/glob/node_modules/inherits", "size_i": "52", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/glob/node_modules/minimatch", "size_i": "53", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/glob/package.json", "size_i": "554", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-glob-3.1.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-glob-3.1.21/LICENSE", "size_i": "1310", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-glob-3.1.21/README.md", "size_i": "9042", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-glob-3.1.21/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-glob-3.1.21/examples/g.js", "size_i": "228", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-glob-3.1.21/examples/usr-local.js", "size_i": "218", "regex": "false"}
+]

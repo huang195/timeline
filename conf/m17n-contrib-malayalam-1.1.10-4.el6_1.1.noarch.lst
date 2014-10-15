@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/m17n/icons/ml-inscript.png", "size_i": "1617", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/ml-mozhi.png", "size_i": "1726", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ml-inscript.mim", "size_i": "6708", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ml-mozhi.mim", "size_i": "5258", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ml-swanalekha.mim", "size_i": "49266", "regex": "false"}
+]

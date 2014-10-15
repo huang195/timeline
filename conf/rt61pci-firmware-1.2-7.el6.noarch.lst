@@ -1,0 +1,7 @@
+[
+	{"name_s": "/lib/firmware/rt2561.bin", "size_i": "8192", "regex": "false"},
+	{"name_s": "/lib/firmware/rt2561s.bin", "size_i": "8192", "regex": "false"},
+	{"name_s": "/lib/firmware/rt2661.bin", "size_i": "8192", "regex": "false"},
+	{"name_s": "/usr/share/doc/rt61pci-firmware-1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rt61pci-firmware-1.2/LICENSE.ralink-firmware.txt", "size_i": "2103", "regex": "false"}
+]

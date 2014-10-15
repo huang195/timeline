@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/mkdirp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/mkdirp/index.js", "size_i": "2371", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/mkdirp/package.json", "size_i": "523", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-mkdirp-0.3.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-mkdirp-0.3.5/LICENSE", "size_i": "1141", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-mkdirp-0.3.5/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-mkdirp-0.3.5/examples/pow.js", "size_i": "142", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-mkdirp-0.3.5/readme.markdown", "size_i": "1124", "regex": "false"}
+]

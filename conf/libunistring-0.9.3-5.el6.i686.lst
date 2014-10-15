@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libunistring.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libunistring.so.0.1.2", "size_i": "1130668", "regex": "false"},
+	{"name_s": "/usr/share/doc/libunistring-0.9.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libunistring-0.9.3/AUTHORS", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/doc/libunistring-0.9.3/NEWS", "size_i": "1157", "regex": "false"},
+	{"name_s": "/usr/share/doc/libunistring-0.9.3/README", "size_i": "2005", "regex": "false"}
+]

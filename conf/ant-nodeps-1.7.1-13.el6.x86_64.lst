@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/ant.d/nodeps", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-nodeps-1.7.1.jar.db", "size_i": "20480", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-nodeps-1.7.1.jar.so", "size_i": "1972496", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-nodeps.jar", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-nodeps-1.7.1.jar", "size_i": "438614", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-nodeps.jar", "size_i": "20", "regex": "false"}
+]

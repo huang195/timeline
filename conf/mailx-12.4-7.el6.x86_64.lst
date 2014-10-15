@@ -1,0 +1,15 @@
+[
+	{"name_s": "/bin/mail", "size_i": "0", "regex": "false"},
+	{"name_s": "/bin/mailx", "size_i": "378176", "regex": "false"},
+	{"name_s": "/etc/mail.rc", "size_i": "1909", "regex": "false"},
+	{"name_s": "/usr/bin/Mail", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/bin/nail", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/doc/mailx-12.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mailx-12.4/AUTHORS", "size_i": "886", "regex": "false"},
+	{"name_s": "/usr/share/doc/mailx-12.4/COPYING", "size_i": "32964", "regex": "false"},
+	{"name_s": "/usr/share/doc/mailx-12.4/README", "size_i": "6758", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/Mail.1.gz", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mail.1.gz", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mailx.1.gz", "size_i": "41551", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/nail.1.gz", "size_i": "10", "regex": "false"}
+]

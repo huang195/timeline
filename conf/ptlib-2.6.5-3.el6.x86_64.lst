@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/libpt.so.2.6.5", "size_i": "3841584", "regex": "false"},
+	{"name_s": "/usr/lib64/ptlib-2.6.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ptlib-2.6.5/devices", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ptlib-2.6.5/devices/sound", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ptlib-2.6.5/devices/sound/alsa_pwplugin.so", "size_i": "81384", "regex": "false"},
+	{"name_s": "/usr/lib64/ptlib-2.6.5/devices/videoinput", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ptlib-2.6.5/devices/videoinput/v4l2_pwplugin.so", "size_i": "90472", "regex": "false"},
+	{"name_s": "/usr/share/doc/ptlib-2.6.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ptlib-2.6.5/History.txt", "size_i": "16955", "regex": "false"},
+	{"name_s": "/usr/share/doc/ptlib-2.6.5/ReadMe.txt", "size_i": "33611", "regex": "false"},
+	{"name_s": "/usr/share/doc/ptlib-2.6.5/mpl-1.0.htm", "size_i": "20163", "regex": "false"}
+]

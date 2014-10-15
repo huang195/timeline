@@ -1,0 +1,4 @@
+[
+	{"name_s": "/sbin/dmeventd", "size_i": "32520", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dmeventd.8.gz", "size_i": "764", "regex": "false"}
+]

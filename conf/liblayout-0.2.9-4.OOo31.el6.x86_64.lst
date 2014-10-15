@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/gcj/liblayout", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/liblayout/liblayout.jar.db", "size_i": "77824", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/liblayout/liblayout.jar.so", "size_i": "3971744", "regex": "false"},
+	{"name_s": "/usr/share/doc/liblayout-0.2.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/liblayout-0.2.9/ChangeLog.txt", "size_i": "4376", "regex": "false"},
+	{"name_s": "/usr/share/doc/liblayout-0.2.9/README.txt", "size_i": "2009", "regex": "false"},
+	{"name_s": "/usr/share/doc/liblayout-0.2.9/licence-LGPL.txt", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/java/liblayout.jar", "size_i": "1013136", "regex": "false"}
+]

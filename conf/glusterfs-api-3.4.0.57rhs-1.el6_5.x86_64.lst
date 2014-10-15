@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/gluster", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/gluster/__init__.py", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/gluster/__init__.pyc", "size_i": "139", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/gluster/__init__.pyo", "size_i": "139", "regex": "false"},
+	{"name_s": "/usr/lib64/glusterfs/3.4.0.57rhs/xlator/mount/api.so", "size_i": "6704", "regex": "false"},
+	{"name_s": "/usr/lib64/libgfapi.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libgfapi.so.0.0.0", "size_i": "94936", "regex": "false"}
+]

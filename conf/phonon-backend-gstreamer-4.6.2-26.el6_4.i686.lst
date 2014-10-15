@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/qt4/plugins/phonon_backend/libphonon_gstreamer.so", "size_i": "212736", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/128x128/apps/phonon-gstreamer.png", "size_i": "5924", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/16x16/apps/phonon-gstreamer.png", "size_i": "402", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/22x22/apps/phonon-gstreamer.png", "size_i": "517", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/32x32/apps/phonon-gstreamer.png", "size_i": "897", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/48x48/apps/phonon-gstreamer.png", "size_i": "1532", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/64x64/apps/phonon-gstreamer.png", "size_i": "2358", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/scalable/apps/phonon-gstreamer.svg", "size_i": "5125", "regex": "false"},
+	{"name_s": "/usr/share/kde4/services/phononbackends/gstreamer.desktop", "size_i": "2701", "regex": "false"}
+]

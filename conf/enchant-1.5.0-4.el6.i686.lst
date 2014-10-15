@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/enchant", "size_i": "10784", "regex": "false"},
+	{"name_s": "/usr/bin/enchant-lsmod", "size_i": "5816", "regex": "false"},
+	{"name_s": "/usr/lib/enchant", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/enchant/libenchant_myspell.so", "size_i": "17512", "regex": "false"},
+	{"name_s": "/usr/lib/libenchant.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libenchant.so.1.5.0", "size_i": "41516", "regex": "false"},
+	{"name_s": "/usr/share/doc/enchant-1.5.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/enchant-1.5.0/AUTHORS", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/doc/enchant-1.5.0/COPYING.LIB", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/enchant-1.5.0/README", "size_i": "2437", "regex": "false"},
+	{"name_s": "/usr/share/enchant", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/enchant/enchant.ordering", "size_i": "167", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/enchant.1.gz", "size_i": "1136", "regex": "false"}
+]

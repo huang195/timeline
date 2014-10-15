@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/nfs4_editfacl", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/bin/nfs4_getfacl", "size_i": "16960", "regex": "false"},
+	{"name_s": "/usr/bin/nfs4_setfacl", "size_i": "28832", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs4-acl-tools-0.3.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs4-acl-tools-0.3.3/COPYING", "size_i": "46837", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs4-acl-tools-0.3.3/INSTALL", "size_i": "1664", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs4-acl-tools-0.3.3/README", "size_i": "167", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs4-acl-tools-0.3.3/TODO", "size_i": "2488", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs4-acl-tools-0.3.3/VERSION", "size_i": "115", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/nfs4_editfacl.1.gz", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/nfs4_getfacl.1.gz", "size_i": "908", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/nfs4_setfacl.1.gz", "size_i": "2478", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/nfs4_acl.5.gz", "size_i": "4031", "regex": "false"}
+]

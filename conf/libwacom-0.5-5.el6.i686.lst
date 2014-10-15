@@ -1,0 +1,9 @@
+[
+	{"name_s": "/lib/udev/rules.d/65-libwacom.rules", "size_i": "6426", "regex": "false"},
+	{"name_s": "/usr/bin/libwacom-list-local-devices", "size_i": "5940", "regex": "false"},
+	{"name_s": "/usr/lib/libwacom.so.2", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libwacom.so.2.0.0", "size_i": "29800", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwacom-0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwacom-0.5/COPYING", "size_i": "1081", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwacom-0.5/README", "size_i": "208", "regex": "false"}
+]

@@ -1,0 +1,20 @@
+[
+	{"name_s": "/etc/sysconfig/nspluginwrapper", "size_i": "712", "regex": "false"},
+	{"name_s": "/usr/bin/mozilla-plugin-config", "size_i": "1967", "regex": "false"},
+	{"name_s": "/usr/lib/mozilla/plugins-wrapped", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/mozilla/plugins-wrapped/npwrapper.so", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/lib/nspluginwrapper", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/nspluginwrapper/libnoxshm.so", "size_i": "3268", "regex": "false"},
+	{"name_s": "/usr/lib/nspluginwrapper/npconfig", "size_i": "22384", "regex": "false"},
+	{"name_s": "/usr/lib/nspluginwrapper/npplayer", "size_i": "73328", "regex": "false"},
+	{"name_s": "/usr/lib/nspluginwrapper/npviewer", "size_i": "82", "regex": "false"},
+	{"name_s": "/usr/lib/nspluginwrapper/npviewer.bin", "size_i": "133700", "regex": "false"},
+	{"name_s": "/usr/lib/nspluginwrapper/npviewer.sh", "size_i": "4231", "regex": "false"},
+	{"name_s": "/usr/lib/nspluginwrapper/npwrapper.so", "size_i": "138192", "regex": "false"},
+	{"name_s": "/usr/lib/nspluginwrapper/nspluginplayer", "size_i": "87", "regex": "false"},
+	{"name_s": "/usr/lib/nspluginwrapper/plugin-config", "size_i": "55884", "regex": "false"},
+	{"name_s": "/usr/share/doc/nspluginwrapper-1.4.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nspluginwrapper-1.4.4/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/nspluginwrapper-1.4.4/NEWS", "size_i": "7409", "regex": "false"},
+	{"name_s": "/usr/share/doc/nspluginwrapper-1.4.4/README", "size_i": "3586", "regex": "false"}
+]

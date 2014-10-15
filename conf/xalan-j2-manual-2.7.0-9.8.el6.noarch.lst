@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/xalan-j2-manual-2.7.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xalan-j2-manual-2.7.0/apidocs", "size_i": "33", "regex": "false"},
+	{"name_s": "/usr/share/doc/xalan-j2-manual-2.7.0/xsltc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xalan-j2-manual-2.7.0/xsltc/README.xslt", "size_i": "3567", "regex": "false"},
+	{"name_s": "/usr/share/doc/xalan-j2-manual-2.7.0/xsltc/README.xsltc", "size_i": "4099", "regex": "false"}
+]

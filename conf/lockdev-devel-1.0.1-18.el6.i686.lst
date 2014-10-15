@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/baudboy.h", "size_i": "3149", "regex": "false"},
+	{"name_s": "/usr/include/lockdev.h", "size_i": "2238", "regex": "false"},
+	{"name_s": "/usr/include/ttylock.h", "size_i": "2061", "regex": "false"},
+	{"name_s": "/usr/lib/liblockdev.a", "size_i": "10802", "regex": "false"},
+	{"name_s": "/usr/lib/liblockdev.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/lockdev.3.gz", "size_i": "2367", "regex": "false"}
+]

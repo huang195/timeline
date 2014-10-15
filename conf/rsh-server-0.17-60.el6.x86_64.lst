@@ -1,0 +1,17 @@
+[
+	{"name_s": "/etc/pam.d/rexec", "size_i": "431", "regex": "false"},
+	{"name_s": "/etc/pam.d/rlogin", "size_i": "508", "regex": "false"},
+	{"name_s": "/etc/pam.d/rsh", "size_i": "429", "regex": "false"},
+	{"name_s": "/etc/xinetd.d/rexec", "size_i": "361", "regex": "false"},
+	{"name_s": "/etc/xinetd.d/rlogin", "size_i": "378", "regex": "false"},
+	{"name_s": "/etc/xinetd.d/rsh", "size_i": "431", "regex": "false"},
+	{"name_s": "/usr/sbin/in.rexecd", "size_i": "12792", "regex": "false"},
+	{"name_s": "/usr/sbin/in.rlogind", "size_i": "20928", "regex": "false"},
+	{"name_s": "/usr/sbin/in.rshd", "size_i": "20520", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/in.rexecd.8.gz", "size_i": "2409", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/in.rlogind.8.gz", "size_i": "3088", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/in.rshd.8.gz", "size_i": "3225", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rexecd.8.gz", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rlogind.8.gz", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rshd.8.gz", "size_i": "12", "regex": "false"}
+]

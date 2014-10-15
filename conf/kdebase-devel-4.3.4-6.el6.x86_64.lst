@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/include/kde4/knewmenu.h", "size_i": "4386", "regex": "false"},
+	{"name_s": "/usr/include/kde4/konq_dndpopupmenuplugin.h", "size_i": "2277", "regex": "false"},
+	{"name_s": "/usr/include/kde4/konq_events.h", "size_i": "2937", "regex": "false"},
+	{"name_s": "/usr/include/kde4/konq_fileitemcapabilities.h", "size_i": "3649", "regex": "false"},
+	{"name_s": "/usr/include/kde4/konq_menuactions.h", "size_i": "4610", "regex": "false"},
+	{"name_s": "/usr/include/kde4/konq_operations.h", "size_i": "10153", "regex": "false"},
+	{"name_s": "/usr/include/kde4/konq_popupmenu.h", "size_i": "4407", "regex": "false"},
+	{"name_s": "/usr/include/kde4/konq_popupmenuinformation.h", "size_i": "3747", "regex": "false"},
+	{"name_s": "/usr/include/kde4/konq_popupmenuplugin.h", "size_i": "2406", "regex": "false"},
+	{"name_s": "/usr/include/kde4/konqmimedata.h", "size_i": "2611", "regex": "false"},
+	{"name_s": "/usr/include/kde4/konqsidebarplugin.h", "size_i": "3150", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkonq_export.h", "size_i": "1234", "regex": "false"},
+	{"name_s": "/usr/lib64/kde4/devel/libdolphinprivate.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/kde4/devel/libkonq.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/kde4/devel/libkonqsidebarplugin.so", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/lib64/kde4/devel/libkonquerorprivate.so", "size_i": "30", "regex": "false"}
+]

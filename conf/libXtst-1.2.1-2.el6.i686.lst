@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libXtst.so.6", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libXtst.so.6.1.0", "size_i": "20268", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXtst-1.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXtst-1.2.1/COPYING", "size_i": "3407", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXtst-1.2.1/ChangeLog", "size_i": "32669", "regex": "false"}
+]

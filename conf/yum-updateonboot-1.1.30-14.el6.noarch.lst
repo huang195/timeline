@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/rc.d/init.d/yum-updateonboot", "size_i": "2657", "regex": "false"},
+	{"name_s": "/etc/sysconfig/yum-updateonboot", "size_i": "617", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-updateonboot-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-updateonboot-1.1.30/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-updateonboot-1.1.30/README", "size_i": "1291", "regex": "false"}
+]

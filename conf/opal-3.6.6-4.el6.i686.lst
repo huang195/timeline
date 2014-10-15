@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/lib/libopal.so.3.6.6", "size_i": "11128564", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/codecs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/codecs/audio", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/codecs/audio/g722_audio_pwplugin.so", "size_i": "13352", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/codecs/audio/g726_audio_pwplugin.so", "size_i": "16228", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/codecs/audio/gsm0610_audio_pwplugin.so", "size_i": "39204", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/codecs/audio/gsmamrcodec_pwplugin.so", "size_i": "227968", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/codecs/audio/ima_adpcm_audio_pwplugin.so", "size_i": "6016", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/codecs/audio/lpc10_audio_pwplugin.so", "size_i": "38044", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/codecs/audio/speex_audio_pwplugin.so", "size_i": "21740", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/codecs/video", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/codecs/video/h261-vic_video_pwplugin.so", "size_i": "307940", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/codecs/video/theora_video_pwplugin.so", "size_i": "39896", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/lid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/opal-3.6.6/lid/vpb_lid_pwplugin.so", "size_i": "19324", "regex": "false"},
+	{"name_s": "/usr/share/doc/opal-3.6.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/opal-3.6.6/mpl-1.0.htm", "size_i": "20163", "regex": "false"}
+]

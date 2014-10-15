@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/dropwatch", "size_i": "15352", "regex": "false"},
+	{"name_s": "/usr/share/doc/dropwatch-1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dropwatch-1.3/COPYING", "size_i": "18011", "regex": "false"},
+	{"name_s": "/usr/share/doc/dropwatch-1.3/README", "size_i": "1983", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dropwatch.1.gz", "size_i": "575", "regex": "false"}
+]

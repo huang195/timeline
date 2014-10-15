@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/mythes-hu-0.20090918", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-hu-0.20090918/README_th_hu_HU_v2.txt", "size_i": "18089", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_hu_HU_v2.dat", "size_i": "2146733", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_hu_HU_v2.idx", "size_i": "384442", "regex": "false"}
+]

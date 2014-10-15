@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libXrandr.so.2", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libXrandr.so.2.2.0", "size_i": "35024", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXrandr-1.4.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXrandr-1.4.0/AUTHORS", "size_i": "85", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXrandr-1.4.0/COPYING", "size_i": "3615", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXrandr-1.4.0/ChangeLog", "size_i": "39755", "regex": "false"}
+]

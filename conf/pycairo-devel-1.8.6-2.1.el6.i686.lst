@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/pycairo", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/pycairo/pycairo.h", "size_i": "7262", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/pycairo.pc", "size_i": "134", "regex": "false"}
+]

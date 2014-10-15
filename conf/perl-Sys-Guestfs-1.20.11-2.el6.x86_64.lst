@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Sys", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Sys/Guestfs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Sys/Guestfs.pm", "size_i": "321374", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Sys/Guestfs/Lib.pm", "size_i": "43509", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Sys", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Sys/Guestfs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Sys/Guestfs/Guestfs.so", "size_i": "828400", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Sys-Guestfs-1.20.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Sys-Guestfs-1.20.11/create_disk.pl", "size_i": "1949", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Sys-Guestfs-1.20.11/inspect_vm.pl", "size_i": "1832", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Sys::Guestfs.3pm.gz", "size_i": "70743", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Sys::Guestfs::Lib.3pm.gz", "size_i": "3902", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/guestfs-perl.3.gz", "size_i": "3519", "regex": "false"}
+]

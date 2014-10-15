@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/abrt/libabrt.h", "size_i": "2684", "regex": "false"},
+	{"name_s": "/usr/include/abrt/problem_api.h", "size_i": "2181", "regex": "false"},
+	{"name_s": "/usr/lib64/libabrt.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/abrt.pc", "size_i": "233", "regex": "false"}
+]

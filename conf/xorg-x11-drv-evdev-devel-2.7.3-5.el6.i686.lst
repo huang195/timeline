@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/xorg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/xorg/evdev-properties.h", "size_i": "3451", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/xorg-evdev.pc", "size_i": "117", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-evdev-devel-2.7.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-evdev-devel-2.7.3/COPYING", "size_i": "3598", "regex": "false"}
+]

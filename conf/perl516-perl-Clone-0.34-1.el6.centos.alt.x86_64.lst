@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Clone.pm", "size_i": "2050", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Clone", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Clone/Clone.so", "size_i": "9352", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Clone/autosplit.ix", "size_i": "84", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Clone-0.34", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Clone-0.34/Changes", "size_i": "5608", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Clone.3pm.gz", "size_i": "2585", "regex": "false"}
+]

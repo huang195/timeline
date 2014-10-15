@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/lib64/heartbeat", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/heartbeat/lrmd", "size_i": "82144", "regex": "false"},
+	{"name_s": "/usr/lib64/heartbeat/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/heartbeat/plugins/InterfaceMgr", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/heartbeat/plugins/InterfaceMgr/generic.so", "size_i": "11016", "regex": "false"},
+	{"name_s": "/usr/lib64/heartbeat/plugins/RAExec", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/heartbeat/plugins/RAExec/heartbeat.so", "size_i": "12920", "regex": "false"},
+	{"name_s": "/usr/lib64/heartbeat/plugins/RAExec/lsb.so", "size_i": "15344", "regex": "false"},
+	{"name_s": "/usr/lib64/heartbeat/plugins/RAExec/ocf.so", "size_i": "15792", "regex": "false"},
+	{"name_s": "/usr/sbin/lrmadmin", "size_i": "25184", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-glue-1.0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-glue-1.0.5/AUTHORS", "size_i": "653", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-glue-1.0.5/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/hb_report.8.gz", "size_i": "6800", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/lrmadmin.8.gz", "size_i": "526", "regex": "false"},
+	{"name_s": "/var/lib/heartbeat", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/heartbeat/cores", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/heartbeat/cores/hacluster", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/heartbeat/cores/nobody", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/heartbeat/cores/root", "size_i": "4096", "regex": "false"}
+]

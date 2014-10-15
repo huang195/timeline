@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/guestfs/supermin.d/ntfs.hostfiles", "size_i": "106", "regex": "false"},
+	{"name_s": "/usr/lib64/guestfs/supermin.d/ntfs.img", "size_i": "5852160", "regex": "false"},
+	{"name_s": "/usr/share/doc/libguestfs-winsupport-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libguestfs-winsupport-1.0/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/libguestfs-winsupport-1.0/README", "size_i": "384", "regex": "false"}
+]

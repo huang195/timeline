@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-uk-0.20030903", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-uk-0.20030903/README_hyph_uk_UA.txt", "size_i": "965", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_uk_UA.dic", "size_i": "12635", "regex": "false"}
+]

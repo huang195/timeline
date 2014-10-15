@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib/liblrm.so.2", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/liblrm.so.2.0.0", "size_i": "35104", "regex": "false"},
+	{"name_s": "/usr/lib/libpils.so.2", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libpils.so.2.0.0", "size_i": "35404", "regex": "false"},
+	{"name_s": "/usr/lib/libplumb.so.2", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libplumb.so.2.1.0", "size_i": "214012", "regex": "false"},
+	{"name_s": "/usr/lib/libplumbgpl.so.2", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libplumbgpl.so.2.0.0", "size_i": "5768", "regex": "false"},
+	{"name_s": "/usr/lib/libstonith.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libstonith.so.1.0.0", "size_i": "21548", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-glue-libs-1.0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-glue-libs-1.0.5/AUTHORS", "size_i": "653", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-glue-libs-1.0.5/COPYING.LIB", "size_i": "26434", "regex": "false"}
+]

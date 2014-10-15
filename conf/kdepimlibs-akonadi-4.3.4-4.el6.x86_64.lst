@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libakonadi-kabc.so.4", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-kabc.so.4.3.0", "size_i": "4336", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-kde.so.4", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-kde.so.4.3.0", "size_i": "1203760", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-kmime.so.4", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-kmime.so.4.3.0", "size_i": "79640", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/akonadi-kde", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/akonadi-kde/kcfg2dbus.xsl", "size_i": "4249", "regex": "false"}
+]

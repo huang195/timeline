@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/rpm-warm-cache.conf", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/rpm-warm-cache.py", "size_i": "1824", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/rpm-warm-cache.pyc", "size_i": "1059", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/rpm-warm-cache.pyo", "size_i": "1059", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-rpm-warm-cache-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-rpm-warm-cache-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

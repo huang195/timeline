@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/gtk-2.0/gtkrc", "size_i": "125", "regex": "false"},
+	{"name_s": "/usr/share/doc/system-gnome-theme-60.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/system-gnome-theme-60.0.2/AUTHORS", "size_i": "69", "regex": "false"},
+	{"name_s": "/usr/share/doc/system-gnome-theme-60.0.2/COPYING", "size_i": "17995", "regex": "false"},
+	{"name_s": "/usr/share/themes/System", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/themes/System/index.theme", "size_i": "212", "regex": "false"}
+]

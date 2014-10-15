@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/liblockdev.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/liblockdev.so.1.0.1", "size_i": "11568", "regex": "false"},
+	{"name_s": "/usr/sbin/lockdev", "size_i": "12408", "regex": "false"},
+	{"name_s": "/usr/share/doc/lockdev-1.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lockdev-1.0.1/LICENSE", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/lockdev.8.gz", "size_i": "492", "regex": "false"}
+]

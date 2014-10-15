@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/_volume_key.so", "size_i": "60488", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/volume_key.py", "size_i": "9306", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/volume_key.pyc", "size_i": "12415", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/volume_key.pyo", "size_i": "12415", "regex": "false"}
+]

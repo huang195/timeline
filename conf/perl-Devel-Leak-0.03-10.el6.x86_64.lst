@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/perl5/Devel", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Devel/Leak.pm", "size_i": "1553", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Devel", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Devel/Leak", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Devel/Leak/Leak.so", "size_i": "13504", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Devel-Leak-0.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Devel-Leak-0.03/README", "size_i": "409", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Devel::Leak.3pm.gz", "size_i": "2444", "regex": "false"}
+]

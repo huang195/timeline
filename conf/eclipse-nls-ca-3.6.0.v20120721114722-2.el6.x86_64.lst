@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/eclipse-nls-ca-3.6.0.v20120721114722", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-nls-ca-3.6.0.v20120721114722/org.eclipse.babel.nls_eclipse_ca_3.6.0.v20120721114722", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-nls-ca-3.6.0.v20120721114722/org.eclipse.babel.nls_eclipse_ca_3.6.0.v20120721114722/about.html", "size_i": "1230", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-nls-ca-3.6.0.v20120721114722/org.eclipse.babel.nls_eclipse_ca_3.6.0.v20120721114722/eclipse_update_120.jpg", "size_i": "21695", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-nls-ca-3.6.0.v20120721114722/org.eclipse.babel.nls_eclipse_ca_3.6.0.v20120721114722/epl-v10.html", "size_i": "16536", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-nls-ca-3.6.0.v20120721114722/org.eclipse.babel.nls_eclipse_ca_3.6.0.v20120721114722/feature.properties", "size_i": "6367", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-nls-ca-3.6.0.v20120721114722/org.eclipse.babel.nls_eclipse_ca_3.6.0.v20120721114722/feature.xml", "size_i": "717", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-nls-ca-3.6.0.v20120721114722/org.eclipse.babel.nls_eclipse_ca_3.6.0.v20120721114722/license.html", "size_i": "6506", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/babel/eclipse/plugins/org.eclipse.ant.core.nl_ca_3.6.0.v20120721114722.jar", "size_i": "2063", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/babel/eclipse/plugins/org.eclipse.help.webapp.nl_ca_3.6.0.v20120721114722.jar", "size_i": "2006", "regex": "false"}
+]

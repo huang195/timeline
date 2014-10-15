@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib64/libuv.so.0", "size_i": "13", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib64/libuv.so.0.10", "size_i": "107136", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-libuv-0.10.23", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-libuv-0.10.23/AUTHORS", "size_i": "3442", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-libuv-0.10.23/LICENSE", "size_i": "1786", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-libuv-0.10.23/README.md", "size_i": "3271", "regex": "false"}
+]

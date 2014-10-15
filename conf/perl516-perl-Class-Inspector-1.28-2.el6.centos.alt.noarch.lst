@@ -1,0 +1,12 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Class-Inspector-1.28", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Class-Inspector-1.28/Changes", "size_i": "3670", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Class-Inspector-1.28/LICENSE", "size_i": "20576", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Class-Inspector-1.28/README", "size_i": "8350", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Class::Inspector.3pm.gz", "size_i": "4776", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Class::Inspector::Functions.3pm.gz", "size_i": "2650", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Class", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Class/Inspector", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Class/Inspector.pm", "size_i": "17123", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Class/Inspector/Functions.pm", "size_i": "2603", "regex": "false"}
+]

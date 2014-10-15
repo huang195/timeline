@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/bpg-fonts-common-20090205", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bpg-fonts-common-20090205/BPG_GPL&GNU_Fonts.doc", "size_i": "522752", "regex": "false"},
+	{"name_s": "/usr/share/doc/bpg-fonts-common-20090205/BPG_GPL&GNU_Fonts.gif", "size_i": "124326", "regex": "false"},
+	{"name_s": "/usr/share/doc/bpg-fonts-common-20090205/BPG_GPL&GNU_Fonts.pdf", "size_i": "274466", "regex": "false"},
+	{"name_s": "/usr/share/doc/bpg-fonts-common-20090205/BPG_GPL&GNU_Fonts.txt", "size_i": "1730", "regex": "false"},
+	{"name_s": "/usr/share/doc/bpg-fonts-common-20090205/BPG_GPL&GNU_Fonts_Preview.doc", "size_i": "884224", "regex": "false"},
+	{"name_s": "/usr/share/doc/bpg-fonts-common-20090205/BPG_GPL&GNU_Fonts_Preview.pdf", "size_i": "317610", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bpg", "size_i": "4096", "regex": "false"}
+]

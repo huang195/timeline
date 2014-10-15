@@ -1,0 +1,21 @@
+[
+	{"name_s": "/etc/cron.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/cron.d/0hourly", "size_i": "113", "regex": "false"},
+	{"name_s": "/etc/cron.deny", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/pam.d/crond", "size_i": "293", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/crond", "size_i": "2826", "regex": "false"},
+	{"name_s": "/etc/sysconfig/crond", "size_i": "110", "regex": "false"},
+	{"name_s": "/usr/bin/crontab", "size_i": "51784", "regex": "false"},
+	{"name_s": "/usr/sbin/crond", "size_i": "64096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cronie-1.4.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cronie-1.4.4/AUTHORS", "size_i": "48", "regex": "false"},
+	{"name_s": "/usr/share/doc/cronie-1.4.4/COPYING", "size_i": "4091", "regex": "false"},
+	{"name_s": "/usr/share/doc/cronie-1.4.4/ChangeLog", "size_i": "43891", "regex": "false"},
+	{"name_s": "/usr/share/doc/cronie-1.4.4/INSTALL", "size_i": "364", "regex": "false"},
+	{"name_s": "/usr/share/doc/cronie-1.4.4/README", "size_i": "543", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/crontab.1.gz", "size_i": "2045", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/crontab.5.gz", "size_i": "5504", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/cron.8.gz", "size_i": "2899", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/crond.8.gz", "size_i": "36", "regex": "false"},
+	{"name_s": "/var/spool/cron", "size_i": "4096", "regex": "false"}
+]

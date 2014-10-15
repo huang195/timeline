@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/bin/cscope", "size_i": "330264", "regex": "false"},
+	{"name_s": "/usr/bin/cscope-indexer", "size_i": "3858", "regex": "false"},
+	{"name_s": "/usr/bin/ocs", "size_i": "7275", "regex": "false"},
+	{"name_s": "/usr/share/cscope", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/cscope/xcscope.el", "size_i": "89556", "regex": "false"},
+	{"name_s": "/usr/share/doc/cscope-15.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cscope-15.6/AUTHORS", "size_i": "1689", "regex": "false"},
+	{"name_s": "/usr/share/doc/cscope-15.6/COPYING", "size_i": "1490", "regex": "false"},
+	{"name_s": "/usr/share/doc/cscope-15.6/ChangeLog", "size_i": "18691", "regex": "false"},
+	{"name_s": "/usr/share/doc/cscope-15.6/README", "size_i": "1006", "regex": "false"},
+	{"name_s": "/usr/share/doc/cscope-15.6/TODO", "size_i": "626", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/xcscope.el", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/xcscope.elc", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cscope.1.gz", "size_i": "5818", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xcscope.1.gz", "size_i": "5928", "regex": "false"},
+	{"name_s": "/usr/share/xemacs/site-packages/lisp/xcscope.el", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/xemacs/site-packages/lisp/xcscope.elc", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/lib/cs", "size_i": "4096", "regex": "false"}
+]

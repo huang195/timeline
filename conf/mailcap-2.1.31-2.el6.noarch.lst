@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/mailcap", "size_i": "272", "regex": "false"},
+	{"name_s": "/etc/mime.types", "size_i": "43591", "regex": "false"},
+	{"name_s": "/usr/share/doc/mailcap-2.1.31", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mailcap-2.1.31/COPYING", "size_i": "901", "regex": "false"},
+	{"name_s": "/usr/share/doc/mailcap-2.1.31/NEWS", "size_i": "4218", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/mailcap.4.gz", "size_i": "3895", "regex": "false"}
+]

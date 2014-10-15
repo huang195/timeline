@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/maven/fragments/qdox", "size_i": "575", "regex": "false"},
+	{"name_s": "/usr/share/doc/qdox-1.9.2/LICENSE.txt", "size_i": "577", "regex": "false"},
+	{"name_s": "/usr/share/java/qdox-1.9.2.jar", "size_i": "168828", "regex": "false"},
+	{"name_s": "/usr/share/java/qdox.jar", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/maven2/poms/JPP-qdox.pom", "size_i": "17149", "regex": "false"}
+]

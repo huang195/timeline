@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/share/doc/pki-common-9.0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pki-common-9.0.3/LICENSE", "size_i": "15725", "regex": "false"},
+	{"name_s": "/usr/share/java/pki/pki-certsrv-9.0.3.jar", "size_i": "239640", "regex": "false"},
+	{"name_s": "/usr/share/java/pki/pki-certsrv.jar", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/share/java/pki/pki-cms-9.0.3.jar", "size_i": "1635754", "regex": "false"},
+	{"name_s": "/usr/share/java/pki/pki-cms.jar", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/java/pki/pki-cmsbundle-9.0.3.jar", "size_i": "53856", "regex": "false"},
+	{"name_s": "/usr/share/java/pki/pki-cmsbundle.jar", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/share/java/pki/pki-cmscore-9.0.3.jar", "size_i": "535443", "regex": "false"},
+	{"name_s": "/usr/share/java/pki/pki-cmscore.jar", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/share/pki/scripts/functions", "size_i": "31836", "regex": "false"},
+	{"name_s": "/usr/share/pki/scripts/pki_apache_initscript", "size_i": "4695", "regex": "false"},
+	{"name_s": "/usr/share/pki/setup", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pki/setup/CertServer.directory", "size_i": "860", "regex": "false"},
+	{"name_s": "/usr/share/pki/setup/menu.xml", "size_i": "258", "regex": "false"}
+]

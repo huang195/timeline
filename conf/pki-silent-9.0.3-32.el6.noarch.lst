@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/pkisilent", "size_i": "5270", "regex": "false"},
+	{"name_s": "/usr/share/doc/pki-silent-9.0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pki-silent-9.0.3/LICENSE", "size_i": "15725", "regex": "false"},
+	{"name_s": "/usr/share/java/pki/pki-silent-9.0.3.jar", "size_i": "226271", "regex": "false"},
+	{"name_s": "/usr/share/java/pki/pki-silent.jar", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/share/pki/silent", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pki/silent/pki_silent.template", "size_i": "71988", "regex": "false"},
+	{"name_s": "/usr/share/pki/silent/subca_silent.template", "size_i": "19912", "regex": "false"}
+]

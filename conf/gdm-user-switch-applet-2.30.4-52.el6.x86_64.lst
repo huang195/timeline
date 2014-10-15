@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/bonobo/servers/GNOME_FastUserSwitchApplet.server", "size_i": "34358", "regex": "false"},
+	{"name_s": "/usr/libexec/gdm-user-switch-applet", "size_i": "87744", "regex": "false"},
+	{"name_s": "/usr/share/gnome-2.0/ui/GNOME_FastUserSwitchApplet.xml", "size_i": "464", "regex": "false"}
+]

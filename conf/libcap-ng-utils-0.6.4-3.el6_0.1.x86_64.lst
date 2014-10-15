@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/captest", "size_i": "9784", "regex": "false"},
+	{"name_s": "/usr/bin/filecap", "size_i": "8000", "regex": "false"},
+	{"name_s": "/usr/bin/netcap", "size_i": "13408", "regex": "false"},
+	{"name_s": "/usr/bin/pscap", "size_i": "8536", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcap-ng-utils-0.6.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcap-ng-utils-0.6.4/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/captest.8.gz", "size_i": "841", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/filecap.8.gz", "size_i": "720", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/netcap.8.gz", "size_i": "500", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pscap.8.gz", "size_i": "433", "regex": "false"}
+]

@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/lib/libgmp.so.3", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libgmp.so.3.5.0", "size_i": "331832", "regex": "false"},
+	{"name_s": "/usr/lib/libgmpxx.so.4", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libgmpxx.so.4.1.0", "size_i": "12860", "regex": "false"},
+	{"name_s": "/usr/lib/libmp.so.3", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libmp.so.3.1.14", "size_i": "175224", "regex": "false"},
+	{"name_s": "/usr/lib/sse2/libgmp.so.3", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/sse2/libgmp.so.3.5.0", "size_i": "269364", "regex": "false"},
+	{"name_s": "/usr/lib/sse2/libgmpxx.so.4", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/sse2/libgmpxx.so.4.1.0", "size_i": "12860", "regex": "false"},
+	{"name_s": "/usr/lib/sse2/libmp.so.3", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/sse2/libmp.so.3.1.14", "size_i": "142584", "regex": "false"},
+	{"name_s": "/usr/share/doc/gmp-4.3.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gmp-4.3.1/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/gmp-4.3.1/COPYING.LIB", "size_i": "7639", "regex": "false"},
+	{"name_s": "/usr/share/doc/gmp-4.3.1/NEWS", "size_i": "17758", "regex": "false"},
+	{"name_s": "/usr/share/doc/gmp-4.3.1/README", "size_i": "3979", "regex": "false"}
+]

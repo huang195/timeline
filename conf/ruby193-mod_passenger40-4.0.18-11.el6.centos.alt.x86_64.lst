@@ -1,0 +1,7 @@
+[
+	{"name_s": "/opt/rh/httpd24/root/etc/httpd/conf.d/passenger.conf", "size_i": "787", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/etc/httpd/conf.modules.d/passenger.conf", "size_i": "53", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/lib64/httpd/modules/mod_passenger.so", "size_i": "479976", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/doc/ruby193-mod_passenger40-4.0.18", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/doc/ruby193-mod_passenger40-4.0.18/Users", "size_i": "0", "regex": "false"}
+]

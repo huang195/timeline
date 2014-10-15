@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/dbus-1/interfaces/org.freedesktop.UDisks.Adapter.xml", "size_i": "5050", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/interfaces/org.freedesktop.UDisks.Device.xml", "size_i": "131969", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/interfaces/org.freedesktop.UDisks.Expander.xml", "size_i": "3690", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/interfaces/org.freedesktop.UDisks.Port.xml", "size_i": "5645", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/interfaces/org.freedesktop.UDisks.xml", "size_i": "45045", "regex": "false"},
+	{"name_s": "/usr/share/pkgconfig/udisks.pc", "size_i": "64", "regex": "false"}
+]

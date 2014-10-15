@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/include/gupnp-igd-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-igd-1.0/libgupnp-igd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-igd-1.0/libgupnp-igd/gupnp-simple-igd-thread.h", "size_i": "2857", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-igd-1.0/libgupnp-igd/gupnp-simple-igd.h", "size_i": "3975", "regex": "false"},
+	{"name_s": "/usr/lib64/libgupnp-igd-1.0.so", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/gupnp-igd-1.0.pc", "size_i": "238", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd/GUPnPSimpleIgd.html", "size_i": "24741", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd/GUPnPSimpleIgdThread.html", "size_i": "5541", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd/ch01.html", "size_i": "1996", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd/gupnp-igd.devhelp", "size_i": "2017", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd/gupnp-igd.devhelp2", "size_i": "2384", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd/home.png", "size_i": "654", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd/index.html", "size_i": "1648", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd/index.sgml", "size_i": "2966", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd/left.png", "size_i": "459", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd/right.png", "size_i": "472", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd/style.css", "size_i": "2433", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gupnp-igd/up.png", "size_i": "406", "regex": "false"}
+]

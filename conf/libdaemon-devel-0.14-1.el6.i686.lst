@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/include/libdaemon", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libdaemon/daemon.h", "size_i": "1051", "regex": "false"},
+	{"name_s": "/usr/include/libdaemon/dexec.h", "size_i": "2516", "regex": "false"},
+	{"name_s": "/usr/include/libdaemon/dfork.h", "size_i": "5377", "regex": "false"},
+	{"name_s": "/usr/include/libdaemon/dlog.h", "size_i": "3610", "regex": "false"},
+	{"name_s": "/usr/include/libdaemon/dnonblock.h", "size_i": "1311", "regex": "false"},
+	{"name_s": "/usr/include/libdaemon/dpid.h", "size_i": "2940", "regex": "false"},
+	{"name_s": "/usr/include/libdaemon/dsignal.h", "size_i": "2375", "regex": "false"},
+	{"name_s": "/usr/lib/libdaemon.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libdaemon.pc", "size_i": "250", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdaemon-devel-0.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdaemon-devel-0.14/LICENSE", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdaemon-devel-0.14/README", "size_i": "7174", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdaemon-devel-0.14/README.html", "size_i": "8892", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdaemon-devel-0.14/style.css", "size_i": "976", "regex": "false"}
+]

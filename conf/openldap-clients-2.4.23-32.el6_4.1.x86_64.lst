@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/bin/ldapadd", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/bin/ldapcompare", "size_i": "68768", "regex": "false"},
+	{"name_s": "/usr/bin/ldapdelete", "size_i": "68800", "regex": "false"},
+	{"name_s": "/usr/bin/ldapexop", "size_i": "68792", "regex": "false"},
+	{"name_s": "/usr/bin/ldapmodify", "size_i": "76992", "regex": "false"},
+	{"name_s": "/usr/bin/ldapmodrdn", "size_i": "68768", "regex": "false"},
+	{"name_s": "/usr/bin/ldappasswd", "size_i": "68768", "regex": "false"},
+	{"name_s": "/usr/bin/ldapsearch", "size_i": "89472", "regex": "false"},
+	{"name_s": "/usr/bin/ldapurl", "size_i": "18688", "regex": "false"},
+	{"name_s": "/usr/bin/ldapwhoami", "size_i": "64672", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldapadd.1.gz", "size_i": "3304", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldapcompare.1.gz", "size_i": "2968", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldapdelete.1.gz", "size_i": "2951", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldapexop.1.gz", "size_i": "2716", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldapmodify.1.gz", "size_i": "3304", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldapmodrdn.1.gz", "size_i": "2987", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldappasswd.1.gz", "size_i": "2043", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldapsearch.1.gz", "size_i": "5243", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldapurl.1.gz", "size_i": "1977", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ldapwhoami.1.gz", "size_i": "2250", "regex": "false"}
+]

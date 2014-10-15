@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/expresskeys", "size_i": "115848", "regex": "false"},
+	{"name_s": "/usr/share/doc/wacomexpresskeys-0.4.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/wacomexpresskeys-0.4.2/AUTHORS", "size_i": "379", "regex": "false"},
+	{"name_s": "/usr/share/doc/wacomexpresskeys-0.4.2/BUGS", "size_i": "4556", "regex": "false"},
+	{"name_s": "/usr/share/doc/wacomexpresskeys-0.4.2/ChangeLog", "size_i": "9193", "regex": "false"},
+	{"name_s": "/usr/share/doc/wacomexpresskeys-0.4.2/NEWS", "size_i": "198", "regex": "false"},
+	{"name_s": "/usr/share/doc/wacomexpresskeys-0.4.2/README", "size_i": "1509", "regex": "false"},
+	{"name_s": "/usr/share/doc/wacomexpresskeys-0.4.2/TODO", "size_i": "78", "regex": "false"},
+	{"name_s": "/usr/share/doc/wacomexpresskeys-0.4.2/USAGE", "size_i": "21031", "regex": "false"}
+]

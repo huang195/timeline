@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/sbin/brctl", "size_i": "34032", "regex": "false"},
+	{"name_s": "/usr/share/doc/bridge-utils-1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bridge-utils-1.2/AUTHORS", "size_i": "76", "regex": "false"},
+	{"name_s": "/usr/share/doc/bridge-utils-1.2/COPYING", "size_i": "17983", "regex": "false"},
+	{"name_s": "/usr/share/doc/bridge-utils-1.2/FAQ", "size_i": "68", "regex": "false"},
+	{"name_s": "/usr/share/doc/bridge-utils-1.2/HOWTO", "size_i": "3536", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/brctl.8.gz", "size_i": "2840", "regex": "false"}
+]

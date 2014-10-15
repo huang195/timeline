@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/gnome-window-settings-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gnome-window-settings-2.0/gnome-window-manager.h", "size_i": "7104", "regex": "false"},
+	{"name_s": "/usr/include/gnome-window-settings-2.0/gnome-wm-manager.h", "size_i": "446", "regex": "false"},
+	{"name_s": "/usr/lib64/libgnome-window-settings.so", "size_i": "33", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/gnome-window-settings-2.0.pc", "size_i": "314", "regex": "false"}
+]

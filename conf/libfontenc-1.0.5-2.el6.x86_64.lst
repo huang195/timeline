@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libfontenc.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libfontenc.so.1.0.0", "size_i": "27648", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfontenc-1.0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfontenc-1.0.5/AUTHORS", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfontenc-1.0.5/COPYING", "size_i": "1071", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfontenc-1.0.5/ChangeLog", "size_i": "11214", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfontenc-1.0.5/README", "size_i": "672", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/input/kbd_drv.so", "size_i": "23528", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/kbd.4.gz", "size_i": "1630", "regex": "false"}
+]

@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/lib64/ao", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ao/plugins-2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ao/plugins-2/libalsa09.so", "size_i": "12456", "regex": "false"},
+	{"name_s": "/usr/lib64/ao/plugins-2/libarts.so", "size_i": "6856", "regex": "false"},
+	{"name_s": "/usr/lib64/ao/plugins-2/libesd.so", "size_i": "6792", "regex": "false"},
+	{"name_s": "/usr/lib64/ao/plugins-2/liboss.so", "size_i": "7848", "regex": "false"},
+	{"name_s": "/usr/lib64/ao/plugins-2/libpulse.so", "size_i": "8568", "regex": "false"},
+	{"name_s": "/usr/lib64/libao.so.2", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libao.so.2.1.3", "size_i": "20016", "regex": "false"},
+	{"name_s": "/usr/share/doc/libao-0.8.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libao-0.8.8/AUTHORS", "size_i": "115", "regex": "false"},
+	{"name_s": "/usr/share/doc/libao-0.8.8/CHANGES", "size_i": "2370", "regex": "false"},
+	{"name_s": "/usr/share/doc/libao-0.8.8/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/libao-0.8.8/README", "size_i": "3102", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/libao.conf.5.gz", "size_i": "901", "regex": "false"}
+]

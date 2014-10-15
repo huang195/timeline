@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_friendlyform-1.0b3-py2.6-nspkg.pth", "size_i": "1080", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_friendlyform-1.0b3-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_friendlyform-1.0b3-py2.6.egg-info/PKG-INFO", "size_i": "1121", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_friendlyform-1.0b3-py2.6.egg-info/SOURCES.txt", "size_i": "717", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_friendlyform-1.0b3-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_friendlyform-1.0b3-py2.6.egg-info/entry_points.txt", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_friendlyform-1.0b3-py2.6.egg-info/namespace_packages.txt", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_friendlyform-1.0b3-py2.6.egg-info/not-zip-safe", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_friendlyform-1.0b3-py2.6.egg-info/requires.txt", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_friendlyform-1.0b3-py2.6.egg-info/top_level.txt", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/who", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/who/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/who/plugins/friendlyform.py", "size_i": "11960", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/who/plugins/friendlyform.pyc", "size_i": "9281", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/who/plugins/friendlyform.pyo", "size_i": "9281", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-repoze-who-friendlyform-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-repoze-who-friendlyform-1.0/README.txt", "size_i": "318", "regex": "false"}
+]

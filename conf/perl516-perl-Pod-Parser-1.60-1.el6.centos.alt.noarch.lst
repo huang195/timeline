@@ -1,0 +1,22 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/bin/podselect", "size_i": "2652", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Pod-Parser-1.60", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Pod-Parser-1.60/ANNOUNCE", "size_i": "974", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Pod-Parser-1.60/CHANGES", "size_i": "40184", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Pod-Parser-1.60/README", "size_i": "6079", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Pod-Parser-1.60/TODO", "size_i": "3932", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man1/podselect.1.gz", "size_i": "2488", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Pod::Find.3pm.gz", "size_i": "4023", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Pod::InputObjects.3pm.gz", "size_i": "5009", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Pod::ParseUtils.3pm.gz", "size_i": "5032", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Pod::Parser.3pm.gz", "size_i": "12932", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Pod::PlainText.3pm.gz", "size_i": "3906", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Pod::Select.3pm.gz", "size_i": "5211", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Pod", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Pod/Find.pm", "size_i": "16169", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Pod/InputObjects.pm", "size_i": "28289", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Pod/ParseUtils.pm", "size_i": "21864", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Pod/Parser.pm", "size_i": "67597", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Pod/PlainText.pm", "size_i": "26162", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Pod/Select.pm", "size_i": "24880", "regex": "false"}
+]

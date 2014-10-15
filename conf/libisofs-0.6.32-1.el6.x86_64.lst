@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libisofs.so.6", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libisofs.so.6.28.0", "size_i": "276080", "regex": "false"},
+	{"name_s": "/usr/share/doc/libisofs-0.6.32", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libisofs-0.6.32/AUTHORS", "size_i": "43", "regex": "false"},
+	{"name_s": "/usr/share/doc/libisofs-0.6.32/COPYING", "size_i": "15127", "regex": "false"},
+	{"name_s": "/usr/share/doc/libisofs-0.6.32/COPYRIGHT", "size_i": "847", "regex": "false"},
+	{"name_s": "/usr/share/doc/libisofs-0.6.32/NEWS", "size_i": "565", "regex": "false"},
+	{"name_s": "/usr/share/doc/libisofs-0.6.32/README", "size_i": "8903", "regex": "false"}
+]

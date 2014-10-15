@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/libexec/obex-client", "size_i": "83856", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/services/obex-client.service", "size_i": "71", "regex": "false"},
+	{"name_s": "/usr/share/doc/obexd-0.19", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/obexd-0.19/AUTHORS", "size_i": "304", "regex": "false"},
+	{"name_s": "/usr/share/doc/obexd-0.19/COPYING", "size_i": "18006", "regex": "false"},
+	{"name_s": "/usr/share/doc/obexd-0.19/README", "size_i": "745", "regex": "false"},
+	{"name_s": "/usr/share/doc/obexd-0.19/client-api.txt", "size_i": "8301", "regex": "false"},
+	{"name_s": "/usr/share/doc/obexd-0.19/send-files", "size_i": "1746", "regex": "false"}
+]

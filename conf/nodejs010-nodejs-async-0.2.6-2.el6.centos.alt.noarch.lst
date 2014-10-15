@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/async", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/async/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/async/lib/async.js", "size_i": "30172", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/async/package.json", "size_i": "872", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-async-0.2.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-async-0.2.6/LICENSE", "size_i": "1058", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-async-0.2.6/README.md", "size_i": "40950", "regex": "false"}
+]

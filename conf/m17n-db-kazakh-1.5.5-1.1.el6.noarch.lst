@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/icons/kk-arabic.png", "size_i": "1192", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/kk-kbd.png", "size_i": "1580", "regex": "false"},
+	{"name_s": "/usr/share/m17n/kk-arabic.mim", "size_i": "2466", "regex": "false"},
+	{"name_s": "/usr/share/m17n/kk-kbd.mim", "size_i": "2841", "regex": "false"}
+]

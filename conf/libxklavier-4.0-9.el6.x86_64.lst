@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libxklavier.so.15", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libxklavier.so.15.0.0", "size_i": "115096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxklavier-4.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxklavier-4.0/AUTHORS", "size_i": "47", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxklavier-4.0/COPYING.LIB", "size_i": "25275", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxklavier-4.0/NEWS", "size_i": "2112", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxklavier-4.0/README", "size_i": "75", "regex": "false"}
+]

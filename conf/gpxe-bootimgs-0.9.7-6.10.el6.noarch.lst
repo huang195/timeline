@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/gpxe-bootimgs-0.9.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpxe-bootimgs-0.9.7/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpxe-bootimgs-0.9.7/COPYRIGHTS", "size_i": "908", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpxe-bootimgs-0.9.7/USAGE", "size_i": "590", "regex": "false"},
+	{"name_s": "/usr/share/gpxe", "size_i": "20480", "regex": "false"},
+	{"name_s": "/usr/share/gpxe/gpxe.dsk", "size_i": "204827", "regex": "false"},
+	{"name_s": "/usr/share/gpxe/gpxe.iso", "size_i": "595968", "regex": "false"},
+	{"name_s": "/usr/share/gpxe/gpxe.lkrn", "size_i": "206891", "regex": "false"},
+	{"name_s": "/usr/share/gpxe/gpxe.usb", "size_i": "221211", "regex": "false"},
+	{"name_s": "/usr/share/gpxe/undionly.kpxe", "size_i": "52894", "regex": "false"}
+]

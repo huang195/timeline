@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/gitk", "size_i": "321995", "regex": "false"},
+	{"name_s": "/usr/share/doc/gitk-1.7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gitk-1.7.1/gitk.html", "size_i": "13131", "regex": "false"},
+	{"name_s": "/usr/share/doc/gitk-1.7.1/gitk.txt", "size_i": "3518", "regex": "false"},
+	{"name_s": "/usr/share/gitk", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gitk/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gitk/lib/msgs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gitk/lib/msgs/de.msg", "size_i": "23449", "regex": "false"},
+	{"name_s": "/usr/share/gitk/lib/msgs/es.msg", "size_i": "16177", "regex": "false"},
+	{"name_s": "/usr/share/gitk/lib/msgs/fr.msg", "size_i": "22890", "regex": "false"},
+	{"name_s": "/usr/share/gitk/lib/msgs/hu.msg", "size_i": "25033", "regex": "false"},
+	{"name_s": "/usr/share/gitk/lib/msgs/it.msg", "size_i": "22528", "regex": "false"},
+	{"name_s": "/usr/share/gitk/lib/msgs/ja.msg", "size_i": "30970", "regex": "false"},
+	{"name_s": "/usr/share/gitk/lib/msgs/ru.msg", "size_i": "45049", "regex": "false"},
+	{"name_s": "/usr/share/gitk/lib/msgs/sv.msg", "size_i": "22659", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gitk.1.gz", "size_i": "2066", "regex": "false"}
+]

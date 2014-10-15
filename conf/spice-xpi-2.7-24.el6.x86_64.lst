@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/spice", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/spice/logger.ini", "size_i": "538", "regex": "false"},
+	{"name_s": "/usr/lib64/mozilla/plugins/libnsISpicec.so", "size_i": "133976", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-xpi-2.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-xpi-2.7/COPYING", "size_i": "30826", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-xpi-2.7/README", "size_i": "1659", "regex": "false"}
+]

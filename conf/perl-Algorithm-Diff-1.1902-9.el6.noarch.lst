@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/share/doc/perl-Algorithm-Diff-1.1902", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Algorithm-Diff-1.1902/Changes", "size_i": "1384", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Algorithm-Diff-1.1902/README", "size_i": "3336", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Algorithm-Diff-1.1902/cdiff.pl", "size_i": "12324", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Algorithm-Diff-1.1902/diff.pl", "size_i": "977", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Algorithm-Diff-1.1902/diffnew.pl", "size_i": "17043", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Algorithm-Diff-1.1902/htmldiff.pl", "size_i": "1853", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Algorithm::Diff.3pm.gz", "size_i": "12172", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Algorithm::DiffOld.3pm.gz", "size_i": "2633", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Algorithm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Algorithm/Diff.pm", "size_i": "51091", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Algorithm/DiffOld.pm", "size_i": "8027", "regex": "false"}
+]

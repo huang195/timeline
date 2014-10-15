@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/ps.conf", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/ps.py", "size_i": "6459", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/ps.pyc", "size_i": "4992", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/ps.pyo", "size_i": "4992", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-ps-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-ps-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

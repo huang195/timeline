@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/fonts/conf.d/64-ctan-kerkis-calligraphic.conf", "size_i": "65", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/64-ctan-kerkis-calligraphic.conf", "size_i": "374", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/Kerkis-Calligraphic.afm", "size_i": "14244", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/Kerkis-Calligraphic.pfb", "size_i": "55256", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/ktsy.afm", "size_i": "8798", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/ktsy.pfb", "size_i": "33446", "regex": "false"}
+]

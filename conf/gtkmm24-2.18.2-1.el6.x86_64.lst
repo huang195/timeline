@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/libatkmm-1.6.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libatkmm-1.6.so.1.1.0", "size_i": "312416", "regex": "false"},
+	{"name_s": "/usr/lib64/libgdkmm-2.4.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libgdkmm-2.4.so.1.1.0", "size_i": "306312", "regex": "false"},
+	{"name_s": "/usr/lib64/libgtkmm-2.4.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libgtkmm-2.4.so.1.1.0", "size_i": "4506080", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkmm24-2.18.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkmm24-2.18.2/AUTHORS", "size_i": "667", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkmm24-2.18.2/COPYING", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkmm24-2.18.2/ChangeLog", "size_i": "305079", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkmm24-2.18.2/NEWS", "size_i": "116162", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtkmm24-2.18.2/README", "size_i": "63", "regex": "false"}
+]

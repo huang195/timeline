@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/bash_completion.d/scl.bash", "size_i": "1189", "regex": "false"},
+	{"name_s": "/etc/scl/prefixes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/bin/scl", "size_i": "11952", "regex": "false"},
+	{"name_s": "/usr/bin/scl_enabled", "size_i": "258", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/scl.1.gz", "size_i": "967", "regex": "false"}
+]

@@ -1,0 +1,19 @@
+[
+	{"name_s": "/etc/rc.d/init.d/arpwatch", "size_i": "1521", "regex": "false"},
+	{"name_s": "/etc/sysconfig/arpwatch", "size_i": "205", "regex": "false"},
+	{"name_s": "/usr/sbin/arp2ethers", "size_i": "1280", "regex": "false"},
+	{"name_s": "/usr/sbin/arpsnmp", "size_i": "23512", "regex": "false"},
+	{"name_s": "/usr/sbin/arpwatch", "size_i": "29720", "regex": "false"},
+	{"name_s": "/usr/sbin/massagevendor", "size_i": "1424", "regex": "false"},
+	{"name_s": "/usr/share/doc/arpwatch-2.1a15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/arpwatch-2.1a15/CHANGES", "size_i": "4075", "regex": "false"},
+	{"name_s": "/usr/share/doc/arpwatch-2.1a15/README", "size_i": "1894", "regex": "false"},
+	{"name_s": "/usr/share/doc/arpwatch-2.1a15/arpfetch", "size_i": "593", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/arp2ethers.8.gz", "size_i": "654", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/arpsnmp.8.gz", "size_i": "1628", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/arpwatch.8.gz", "size_i": "2473", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/massagevendor.8.gz", "size_i": "948", "regex": "false"},
+	{"name_s": "/var/lib/arpwatch", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/arpwatch/arp.dat", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/lib/arpwatch/ethercodes.dat", "size_i": "392550", "regex": "false"}
+]

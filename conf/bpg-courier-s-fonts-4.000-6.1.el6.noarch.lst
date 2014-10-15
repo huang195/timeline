@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/64-bpg.conf-courier-s.conf", "size_i": "59", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/64-bpg.conf-courier-s.conf", "size_i": "370", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bpg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bpg/BPG_Courier_S_GPL&GNU.ttf", "size_i": "34760", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/fonts/conf.d/69-pothana2000.conf", "size_i": "52", "regex": "false"},
+	{"name_s": "/usr/share/doc/pothana2000-fonts-1.3.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pothana2000-fonts-1.3.2/gpl.txt", "size_i": "17988", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/69-pothana2000.conf", "size_i": "342", "regex": "false"},
+	{"name_s": "/usr/share/fonts/pothana2000", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/pothana2000/Pothana2000.ttf", "size_i": "199016", "regex": "false"}
+]

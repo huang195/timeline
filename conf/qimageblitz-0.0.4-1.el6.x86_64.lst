@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libqimageblitz.so.4", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libqimageblitz.so.4.0.0", "size_i": "106376", "regex": "false"},
+	{"name_s": "/usr/share/doc/qimageblitz-0.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/qimageblitz-0.0.4/COPYING", "size_i": "1192", "regex": "false"},
+	{"name_s": "/usr/share/doc/qimageblitz-0.0.4/Changelog", "size_i": "3646", "regex": "false"},
+	{"name_s": "/usr/share/doc/qimageblitz-0.0.4/README.BLITZ", "size_i": "6873", "regex": "false"},
+	{"name_s": "/usr/share/doc/qimageblitz-0.0.4/README.PORTING", "size_i": "3810", "regex": "false"}
+]

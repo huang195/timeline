@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/jline-0.9.94", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jline-0.9.94/LICENSE.txt", "size_i": "1489", "regex": "false"},
+	{"name_s": "/usr/share/java/jline-0.9.94.jar", "size_i": "84746", "regex": "false"},
+	{"name_s": "/usr/share/java/jline.jar", "size_i": "16", "regex": "false"}
+]

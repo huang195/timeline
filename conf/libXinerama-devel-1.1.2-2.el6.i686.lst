@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/include/X11/extensions/Xinerama.h", "size_i": "1964", "regex": "false"},
+	{"name_s": "/usr/include/X11/extensions/panoramiXext.h", "size_i": "2893", "regex": "false"},
+	{"name_s": "/usr/lib/libXinerama.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/xinerama.pc", "size_i": "238", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Xinerama.3.gz", "size_i": "1941", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XineramaIsActive.3.gz", "size_i": "40", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XineramaQueryExtension.3.gz", "size_i": "40", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XineramaQueryScreens.3.gz", "size_i": "40", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XineramaQueryVersion.3.gz", "size_i": "40", "regex": "false"}
+]

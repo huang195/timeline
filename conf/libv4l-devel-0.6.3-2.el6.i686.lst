@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/libv4l1.h", "size_i": "2859", "regex": "false"},
+	{"name_s": "/usr/include/libv4l2.h", "size_i": "4679", "regex": "false"},
+	{"name_s": "/usr/include/libv4lconvert.h", "size_i": "4665", "regex": "false"},
+	{"name_s": "/usr/lib/libv4l1.so", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/lib/libv4l2.so", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/lib/libv4lconvert.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libv4l1.pc", "size_i": "201", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libv4l2.pc", "size_i": "207", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libv4lconvert.pc", "size_i": "189", "regex": "false"},
+	{"name_s": "/usr/share/doc/libv4l-devel-0.6.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libv4l-devel-0.6.3/README.multi-threading", "size_i": "520", "regex": "false"}
+]

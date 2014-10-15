@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/fonts/thai-scalable", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Norasi-Bold.ttf", "size_i": "95768", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Norasi-BoldItalic.ttf", "size_i": "106580", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Norasi-BoldOblique.ttf", "size_i": "106300", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Norasi-Italic.ttf", "size_i": "108384", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Norasi-Oblique.ttf", "size_i": "108660", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Norasi.ttf", "size_i": "97284", "regex": "false"}
+]

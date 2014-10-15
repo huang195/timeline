@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/include/libwpd-0.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libwpd-0.8/libwpd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libwpd-0.8/libwpd/GSFStream.h", "size_i": "1885", "regex": "false"},
+	{"name_s": "/usr/include/libwpd-0.8/libwpd/WPDocument.h", "size_i": "1851", "regex": "false"},
+	{"name_s": "/usr/include/libwpd-0.8/libwpd/WPXHLListenerImpl.h", "size_i": "14708", "regex": "false"},
+	{"name_s": "/usr/include/libwpd-0.8/libwpd/WPXProperty.h", "size_i": "1895", "regex": "false"},
+	{"name_s": "/usr/include/libwpd-0.8/libwpd/WPXPropertyList.h", "size_i": "2428", "regex": "false"},
+	{"name_s": "/usr/include/libwpd-0.8/libwpd/WPXPropertyListVector.h", "size_i": "2436", "regex": "false"},
+	{"name_s": "/usr/include/libwpd-0.8/libwpd/WPXStream.h", "size_i": "3601", "regex": "false"},
+	{"name_s": "/usr/include/libwpd-0.8/libwpd/WPXStreamImplementation.h", "size_i": "2388", "regex": "false"},
+	{"name_s": "/usr/include/libwpd-0.8/libwpd/WPXString.h", "size_i": "2027", "regex": "false"},
+	{"name_s": "/usr/include/libwpd-0.8/libwpd/libwpd.h", "size_i": "1171", "regex": "false"},
+	{"name_s": "/usr/include/libwpd-0.8/libwpd/libwpd_types.h", "size_i": "1346", "regex": "false"},
+	{"name_s": "/usr/lib64/libwpd-0.8.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libwpd-stream-0.8.so", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libwpd-0.8.pc", "size_i": "247", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libwpd-stream-0.8.pc", "size_i": "412", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwpd-devel-0.8.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwpd-devel-0.8.14/HACKING", "size_i": "2266", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwpd-devel-0.8.14/TODO", "size_i": "879", "regex": "false"}
+]

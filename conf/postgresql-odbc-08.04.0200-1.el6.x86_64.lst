@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/lib64/psqlodbc.so", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/lib64/psqlodbcw.so", "size_i": "519496", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/config-opt.html", "size_i": "6147", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/config.html", "size_i": "14087", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/faq.html", "size_i": "29011", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/howto-accesslo.html", "size_i": "2409", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/howto-accessvba.html", "size_i": "6392", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/howto-bo.html", "size_i": "1710", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/howto-ch.html", "size_i": "4133", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/howto-csharp.html", "size_i": "5065", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/howto-vb.html", "size_i": "3503", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/howto-vblo.html", "size_i": "8723", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/index.html", "size_i": "4458", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/license.txt", "size_i": "25746", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/readme.txt", "size_i": "1383", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/release.html", "size_i": "45021", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/unix-compilation.html", "size_i": "2409", "regex": "false"},
+	{"name_s": "/usr/share/doc/postgresql-odbc-08.04.0200/win32-compilation.html", "size_i": "3917", "regex": "false"}
+]

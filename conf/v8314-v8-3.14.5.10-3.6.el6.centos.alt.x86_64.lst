@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/v8314/root/usr/lib64/libv8.so.v8314", "size_i": "21", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/lib64/libv8.so.v8314-3", "size_i": "21", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/lib64/libv8.so.v8314-3.14.5", "size_i": "4966512", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/share/doc/v8314-v8-3.14.5.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/share/doc/v8314-v8-3.14.5.10/AUTHORS", "size_i": "2029", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/share/doc/v8314-v8-3.14.5.10/ChangeLog", "size_i": "136484", "regex": "false"},
+	{"name_s": "/opt/rh/v8314/root/usr/share/doc/v8314-v8-3.14.5.10/LICENSE", "size_i": "2806", "regex": "false"}
+]

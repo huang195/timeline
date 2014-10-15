@@ -1,0 +1,15 @@
+[
+	{"name_s": "/opt/rh/php54/root/usr/bin/phar", "size_i": "9", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/bin/phar.phar", "size_i": "14835", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/bin/php", "size_i": "4026848", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/bin/php-cgi", "size_i": "4010048", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/bin/phpize", "size_i": "4864", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-cli-5.4.16", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-cli-5.4.16/README", "size_i": "828", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-cli-5.4.16/README.FastCGI", "size_i": "6049", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/man/man1/phar.1.gz", "size_i": "2797", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/man/man1/phar.phar.1.gz", "size_i": "36", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/man/man1/php-cgi.1.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/man/man1/php.1.gz", "size_i": "3619", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/man/man1/phpize.1.gz", "size_i": "580", "regex": "false"}
+]

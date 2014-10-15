@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/lib64/packagekit-backend/libpk_backend_yum.so", "size_i": "17504", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yum-comps-groups.conf", "size_i": "6237", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yumBackend.py", "size_i": "130067", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yumBackend.pyc", "size_i": "94047", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yumBackend.pyo", "size_i": "94047", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yumComps.py", "size_i": "7812", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yumComps.pyc", "size_i": "7347", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yumComps.pyo", "size_i": "7347", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yumFilter.py", "size_i": "6411", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yumFilter.pyc", "size_i": "5614", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yumFilter.pyo", "size_i": "5614", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yumMediaManager.py", "size_i": "3406", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yumMediaManager.pyc", "size_i": "4394", "regex": "false"},
+	{"name_s": "/usr/share/PackageKit/helpers/yum/yumMediaManager.pyo", "size_i": "4394", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-yum-0.5.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-yum-0.5.8/AUTHORS", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-yum-0.5.8/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-yum-0.5.8/NEWS", "size_i": "205506", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-yum-0.5.8/README", "size_i": "279", "regex": "false"}
+]

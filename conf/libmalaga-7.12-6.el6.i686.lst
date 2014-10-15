@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libmalaga.so.7", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libmalaga.so.7.0.0", "size_i": "135660", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmalaga-7.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmalaga-7.12/CHANGES.txt", "size_i": "43625", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmalaga-7.12/GPL.txt", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmalaga-7.12/README.txt", "size_i": "6990", "regex": "false"}
+]

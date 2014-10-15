@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/xqilla", "size_i": "32032", "regex": "false"},
+	{"name_s": "/usr/lib64/libxqilla.so.5", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libxqilla.so.5.0.2", "size_i": "4941424", "regex": "false"},
+	{"name_s": "/usr/share/doc/xqilla-2.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xqilla-2.2.3/ChangeLog", "size_i": "9551", "regex": "false"},
+	{"name_s": "/usr/share/doc/xqilla-2.2.3/LICENSE", "size_i": "11531", "regex": "false"}
+]

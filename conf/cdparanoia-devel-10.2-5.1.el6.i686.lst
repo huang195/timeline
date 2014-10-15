@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/cdda", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/cdda/cdda_interface.h", "size_i": "5936", "regex": "false"},
+	{"name_s": "/usr/include/cdda/cdda_paranoia.h", "size_i": "1678", "regex": "false"},
+	{"name_s": "/usr/include/cdda/utils.h", "size_i": "2055", "regex": "false"},
+	{"name_s": "/usr/lib/libcdda_interface.a", "size_i": "93318", "regex": "false"},
+	{"name_s": "/usr/lib/libcdda_paranoia.a", "size_i": "38530", "regex": "false"}
+]

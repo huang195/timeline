@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/netcf.h", "size_i": "8530", "regex": "false"},
+	{"name_s": "/usr/lib64/libnetcf.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/netcf.pc", "size_i": "202", "regex": "false"}
+]

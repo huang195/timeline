@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libguestfs_jni.so", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/guestfs-java.3.gz", "size_i": "4316", "regex": "false"}
+]

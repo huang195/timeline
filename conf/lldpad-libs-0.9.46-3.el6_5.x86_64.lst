@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/liblldp_clif.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/liblldp_clif.so.1.0.0", "size_i": "8864", "regex": "false"},
+	{"name_s": "/usr/share/doc/lldpad-libs-0.9.46", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lldpad-libs-0.9.46/COPYING", "size_i": "18671", "regex": "false"},
+	{"name_s": "/usr/share/doc/lldpad-libs-0.9.46/README", "size_i": "21954", "regex": "false"}
+]

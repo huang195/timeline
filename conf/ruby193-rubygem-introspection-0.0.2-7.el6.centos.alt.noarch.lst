@@ -1,0 +1,22 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/lib/introspection", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/lib/introspection.rb", "size_i": "165", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/lib/introspection/assertions.rb", "size_i": "472", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/lib/introspection/change_detector.rb", "size_i": "1619", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/lib/introspection/core_ext", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/lib/introspection/core_ext.rb", "size_i": "39", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/lib/introspection/core_ext/symbol.rb", "size_i": "239", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/lib/introspection/method.rb", "size_i": "631", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/lib/introspection/receivers.rb", "size_i": "628", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/lib/introspection/snapshot.rb", "size_i": "847", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/lib/introspection/version.rb", "size_i": "45", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/test/class_snapshot_test.rb", "size_i": "2747", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/test/instance_snapshot_test.rb", "size_i": "3852", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/test/module_snapshot_test.rb", "size_i": "1214", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/test/snapshot_test.rb", "size_i": "1706", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/introspection-0.0.2/test/test_helper.rb", "size_i": "821", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/introspection-0.0.2.gemspec", "size_i": "1046", "regex": "false"}
+]

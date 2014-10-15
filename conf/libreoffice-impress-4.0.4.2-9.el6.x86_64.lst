@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/bin/ooimpress", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/simpress.cfg", "size_i": "927", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/simpress.db", "size_i": "823550", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/simpress.ht", "size_i": "639941", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/simpress.idxl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/simpress.idxl/_0.cfs", "size_i": "543171", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/simpress.idxl/segments.gen", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/simpress.idxl/segments_3", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/simpress.jar", "size_i": "336019", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/simpress.key", "size_i": "197718", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/simpress.tree", "size_i": "10709", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/PresenterScreen.uno.so", "size_i": "1227056", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/libanimcorelo.so", "size_i": "196600", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/libplacewarelo.so", "size_i": "74888", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/pagein-impress", "size_i": "52", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/simpress", "size_i": "65", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/config/soffice.cfg/simpress", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/config/soffice.cfg/simpress/effects.xml", "size_i": "234536", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/config/soffice.cfg/simpress/transitions.xml", "size_i": "13101", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/registry/impress.xcd", "size_i": "155420", "regex": "false"},
+	{"name_s": "/usr/share/applications/libreoffice-impress.desktop", "size_i": "16459", "regex": "false"}
+]

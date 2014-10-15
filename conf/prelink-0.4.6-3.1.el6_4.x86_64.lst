@@ -1,0 +1,20 @@
+[
+	{"name_s": "/etc/cron.daily/prelink", "size_i": "2126", "regex": "false"},
+	{"name_s": "/etc/prelink.conf", "size_i": "789", "regex": "false"},
+	{"name_s": "/etc/prelink.conf.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/rpm/macros.prelink", "size_i": "297", "regex": "false"},
+	{"name_s": "/etc/sysconfig/prelink", "size_i": "1459", "regex": "false"},
+	{"name_s": "/usr/bin/execstack", "size_i": "180752", "regex": "false"},
+	{"name_s": "/usr/sbin/prelink", "size_i": "1308280", "regex": "false"},
+	{"name_s": "/usr/share/doc/prelink-0.4.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/prelink-0.4.6/prelink.pdf", "size_i": "539486", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/prelink.conf.5.gz", "size_i": "39", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/execstack.8.gz", "size_i": "1204", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/prelink.8.gz", "size_i": "3938", "regex": "false"},
+	{"name_s": "/var/lib/prelink", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/prelink/force", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/lib/prelink/full", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/lib/prelink/quick", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/log/prelink", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/log/prelink/prelink.log", "size_i": "0", "regex": "false"}
+]

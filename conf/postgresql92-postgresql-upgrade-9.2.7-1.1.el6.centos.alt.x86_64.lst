@@ -1,0 +1,5 @@
+[
+	{"name_s": "/opt/rh/postgresql92/root/usr/bin/pg_upgrade", "size_i": "96376", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/pg_upgrade_support.so", "size_i": "7848", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/man/man1/pg_upgrade.1", "size_i": "18353", "regex": "false"}
+]

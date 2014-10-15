@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/fonts/culmus", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/YehudaCLM-Bold.afm", "size_i": "3776", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/YehudaCLM-Bold.pfa", "size_i": "22700", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/YehudaCLM-Light.afm", "size_i": "3780", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/YehudaCLM-Light.pfa", "size_i": "23202", "regex": "false"}
+]

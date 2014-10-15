@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/php.d/graphviz.ini", "size_i": "51", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/php", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/php/gv.php", "size_i": "4837", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/php/gv.so", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/php/libgv_php.so", "size_i": "101576", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/gv.so", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gv.3php.gz", "size_i": "1632", "regex": "false"},
+	{"name_s": "/usr/share/php/gv.php", "size_i": "30", "regex": "false"}
+]

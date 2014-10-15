@@ -1,0 +1,12 @@
+[
+	{"name_s": "/opt/rh/python27/root/usr/bin/pydoc", "size_i": "99", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/bin/python", "size_i": "7", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/bin/python2", "size_i": "9", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/bin/python2.7", "size_i": "4864", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/doc/python27-python-2.7.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/doc/python27-python-2.7.5/LICENSE", "size_i": "14249", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/doc/python27-python-2.7.5/README", "size_i": "53750", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/man/man1/python.1.gz", "size_i": "12", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/man/man1/python2.1.gz", "size_i": "14", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/man/man1/python2.7.1.gz", "size_i": "5622", "regex": "false"}
+]

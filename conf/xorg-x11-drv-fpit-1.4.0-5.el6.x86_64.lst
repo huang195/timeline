@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/input/fpit_drv.so", "size_i": "12976", "regex": "false"},
+	{"name_s": "/usr/share/hal/fdi/policy/20thirdparty/10-fpit.fdi", "size_i": "1943", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/fpit.4.gz", "size_i": "1991", "regex": "false"}
+]

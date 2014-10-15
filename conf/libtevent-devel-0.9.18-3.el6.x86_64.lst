@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/include/tevent.h", "size_i": "54151", "regex": "false"},
+	{"name_s": "/usr/lib64/libtevent.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/tevent.pc", "size_i": "245", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/tevent.3.gz", "size_i": "3996", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/tevent_compat.3.gz", "size_i": "323", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/tevent_helpers.3.gz", "size_i": "949", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/tevent_ops.3.gz", "size_i": "307", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/tevent_queue.3.gz", "size_i": "1612", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/tevent_queue_tutorial.3.gz", "size_i": "900", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/tevent_request.3.gz", "size_i": "5789", "regex": "false"}
+]

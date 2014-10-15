@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/libnfnetlink", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libnfnetlink/libnfnetlink.h", "size_i": "7967", "regex": "false"},
+	{"name_s": "/usr/lib/libnfnetlink.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libnfnetlink.pc", "size_i": "323", "regex": "false"}
+]

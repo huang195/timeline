@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib/libchromeXvMC.so.1", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libchromeXvMC.so.1.0.0", "size_i": "45044", "regex": "false"},
+	{"name_s": "/usr/lib/libchromeXvMCPro.so.1", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib/libchromeXvMCPro.so.1.0.0", "size_i": "48020", "regex": "false"},
+	{"name_s": "/usr/lib/xorg/modules/drivers/openchrome_drv.so", "size_i": "354696", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-openchrome-0.3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-openchrome-0.3.0/COPYING", "size_i": "1028", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-openchrome-0.3.0/NEWS", "size_i": "9881", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-openchrome-0.3.0/README", "size_i": "1948", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/openchrome.xinf", "size_i": "1297", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/openchrome.4.gz", "size_i": "4588", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libOSMesa.so.6", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libOSMesa.so.6.5.3", "size_i": "3924840", "regex": "false"},
+	{"name_s": "/usr/lib64/libOSMesa16.so.6", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libOSMesa16.so.6.5.3", "size_i": "4187328", "regex": "false"},
+	{"name_s": "/usr/lib64/libOSMesa32.so.6", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libOSMesa32.so.6.5.3", "size_i": "4173632", "regex": "false"}
+]

@@ -1,0 +1,19 @@
+[
+	{"name_s": "/etc/pkcs11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/pkcs11/modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/bin/p11-kit", "size_i": "117824", "regex": "false"},
+	{"name_s": "/usr/lib64/libp11-kit.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libp11-kit.so.0.0.0", "size_i": "131824", "regex": "false"},
+	{"name_s": "/usr/lib64/p11-kit", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/p11-kit-proxy.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/share/doc/p11-kit-0.18.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/p11-kit-0.18.5/AUTHORS", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/doc/p11-kit-0.18.5/COPYING", "size_i": "1447", "regex": "false"},
+	{"name_s": "/usr/share/doc/p11-kit-0.18.5/NEWS", "size_i": "6477", "regex": "false"},
+	{"name_s": "/usr/share/doc/p11-kit-0.18.5/README", "size_i": "299", "regex": "false"},
+	{"name_s": "/usr/share/doc/p11-kit-0.18.5/pkcs11.conf.example", "size_i": "390", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/pkcs11.conf.5.gz", "size_i": "2443", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/p11-kit.8.gz", "size_i": "1929", "regex": "false"},
+	{"name_s": "/usr/share/p11-kit", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/p11-kit/modules", "size_i": "4096", "regex": "false"}
+]

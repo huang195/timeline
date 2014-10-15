@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/festival-synthesis-driver", "size_i": "22908", "regex": "false"},
+	{"name_s": "/usr/bin/test-speech", "size_i": "12976", "regex": "false"},
+	{"name_s": "/usr/lib/bonobo/servers/GNOME_Speech_SynthesisDriver_Festival.server", "size_i": "526", "regex": "false"},
+	{"name_s": "/usr/lib/libgnomespeech.so.7", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libgnomespeech.so.7.0.1", "size_i": "29100", "regex": "false"},
+	{"name_s": "/usr/lib/orbit-2.0/GNOME_Speech_module.so", "size_i": "8188", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-speech-0.4.25", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-speech-0.4.25/AUTHORS", "size_i": "67", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-speech-0.4.25/COPYING", "size_i": "25292", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-speech-0.4.25/NEWS", "size_i": "10138", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-speech-0.4.25/README", "size_i": "12563", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libshout.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libshout.so.3.2.0", "size_i": "69488", "regex": "false"},
+	{"name_s": "/usr/share/doc/libshout-2.2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libshout-2.2.2/COPYING", "size_i": "25275", "regex": "false"},
+	{"name_s": "/usr/share/doc/libshout-2.2.2/NEWS", "size_i": "633", "regex": "false"},
+	{"name_s": "/usr/share/doc/libshout-2.2.2/README", "size_i": "843", "regex": "false"}
+]

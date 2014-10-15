@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/netlabel.rules", "size_i": "1763", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/netlabel", "size_i": "2169", "regex": "false"},
+	{"name_s": "/sbin/netlabelctl", "size_i": "51024", "regex": "false"},
+	{"name_s": "/usr/share/doc/netlabel_tools-0.19", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/netlabel_tools-0.19/LICENSE", "size_i": "17990", "regex": "false"},
+	{"name_s": "/usr/share/doc/netlabel_tools-0.19/libnetlabel.txt", "size_i": "134", "regex": "false"},
+	{"name_s": "/usr/share/doc/netlabel_tools-0.19/netlabelctl.txt", "size_i": "4797", "regex": "false"},
+	{"name_s": "/usr/share/doc/netlabel_tools-0.19/netlabeld.txt", "size_i": "133", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/netlabelctl.8.gz", "size_i": "3158", "regex": "false"}
+]

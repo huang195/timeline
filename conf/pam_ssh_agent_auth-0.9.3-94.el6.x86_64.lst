@@ -1,0 +1,7 @@
+[
+	{"name_s": "/lib64/security/pam_ssh_agent_auth.so", "size_i": "98728", "regex": "false"},
+	{"name_s": "/usr/share/doc/pam_ssh_agent_auth-0.9.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pam_ssh_agent_auth-0.9.3/LICENSE.OpenSSL", "size_i": "5856", "regex": "false"},
+	{"name_s": "/usr/share/doc/pam_ssh_agent_auth-0.9.3/OPENSSH_LICENSE", "size_i": "16000", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pam_ssh_agent_auth.8.gz", "size_i": "3110", "regex": "false"}
+]

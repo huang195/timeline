@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libsmbclient.so.0", "size_i": "6011352", "regex": "false"},
+	{"name_s": "/usr/lib64/libsmbsharemodes.so.0", "size_i": "10264", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/viewfax", "size_i": "54000", "regex": "false"},
+	{"name_s": "/usr/lib64/mgetty+sendfax", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/mgetty+sendfax/viewfax.tif", "size_i": "22909", "regex": "false"},
+	{"name_s": "/usr/share/doc/mgetty-viewfax-1.1.36", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mgetty-viewfax-1.1.36/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/doc/mgetty-viewfax-1.1.36/ChangeLog", "size_i": "13052", "regex": "false"},
+	{"name_s": "/usr/share/doc/mgetty-viewfax-1.1.36/README", "size_i": "547", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/viewfax.1.gz", "size_i": "4075", "regex": "false"}
+]

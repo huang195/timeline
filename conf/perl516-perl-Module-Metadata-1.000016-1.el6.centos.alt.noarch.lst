@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Metadata-1.000016", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Metadata-1.000016/Changes", "size_i": "3194", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Metadata-1.000016/README", "size_i": "7759", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Module::Metadata.3pm.gz", "size_i": "4969", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Module", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Module/Metadata.pm", "size_i": "28609", "regex": "false"}
+]

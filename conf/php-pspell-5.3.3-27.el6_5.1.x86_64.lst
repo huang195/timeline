@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/pspell.ini", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/pspell.so", "size_i": "21640", "regex": "false"}
+]

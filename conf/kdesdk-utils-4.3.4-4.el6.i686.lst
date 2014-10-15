@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/po2xml", "size_i": "133920", "regex": "false"},
+	{"name_s": "/usr/bin/split2po", "size_i": "86132", "regex": "false"},
+	{"name_s": "/usr/bin/swappo", "size_i": "121632", "regex": "false"},
+	{"name_s": "/usr/bin/xml2pot", "size_i": "80872", "regex": "false"},
+	{"name_s": "/usr/lib/libantlr.so.4", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libantlr.so.4.3.0", "size_i": "155916", "regex": "false"}
+]

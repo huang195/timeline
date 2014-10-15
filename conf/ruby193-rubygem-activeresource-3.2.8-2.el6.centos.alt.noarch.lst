@@ -1,0 +1,23 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/MIT-LICENSE", "size_i": "1072", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource.rb", "size_i": "1831", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/base.rb", "size_i": "55910", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/connection.rb", "size_i": "9372", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/custom_methods.rb", "size_i": "5155", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/exceptions.rb", "size_i": "1823", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/formats", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/formats.rb", "size_i": "721", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/formats/json_format.rb", "size_i": "427", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/formats/xml_format.rb", "size_i": "406", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/http_mock.rb", "size_i": "12268", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/log_subscriber.rb", "size_i": "459", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/observing.rb", "size_i": "916", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/railtie.rb", "size_i": "336", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/schema.rb", "size_i": "1970", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/validations.rb", "size_i": "5195", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/activeresource-3.2.8/lib/active_resource/version.rb", "size_i": "174", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/activeresource-3.2.8.gemspec", "size_i": "1300", "regex": "false"}
+]

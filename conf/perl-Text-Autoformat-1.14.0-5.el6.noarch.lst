@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Text-Autoformat-1.14.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Text-Autoformat-1.14.0/Changes", "size_i": "4352", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Text-Autoformat-1.14.0/README", "size_i": "1241", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Text::Autoformat.3pm.gz", "size_i": "1696", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Text", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Text/Autoformat.pm", "size_i": "45996", "regex": "false"}
+]

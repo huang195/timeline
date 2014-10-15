@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/gcj/libformula", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/libformula/libformula.jar.db", "size_i": "24576", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/libformula/libformula.jar.so", "size_i": "1040616", "regex": "false"},
+	{"name_s": "/usr/share/doc/libformula-0.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libformula-0.2.0/ChangeLog.txt", "size_i": "8733", "regex": "false"},
+	{"name_s": "/usr/share/doc/libformula-0.2.0/README.txt", "size_i": "2000", "regex": "false"},
+	{"name_s": "/usr/share/doc/libformula-0.2.0/licence-LGPL.txt", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/java/libformula.jar", "size_i": "324570", "regex": "false"}
+]

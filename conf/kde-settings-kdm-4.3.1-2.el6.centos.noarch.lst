@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/kde/kdm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/kde/kdm/Xaccess", "size_i": "21", "regex": "false"},
+	{"name_s": "/etc/kde/kdm/Xresources", "size_i": "24", "regex": "false"},
+	{"name_s": "/etc/kde/kdm/Xsession", "size_i": "207", "regex": "false"},
+	{"name_s": "/etc/kde/kdm/Xsetup", "size_i": "22", "regex": "false"},
+	{"name_s": "/etc/kde/kdm/Xwilling", "size_i": "22", "regex": "false"},
+	{"name_s": "/etc/kde/kdm/backgroundrc", "size_i": "353", "regex": "false"},
+	{"name_s": "/etc/kde/kdm/kdmrc", "size_i": "21302", "regex": "false"},
+	{"name_s": "/etc/pam.d/kdm", "size_i": "648", "regex": "false"},
+	{"name_s": "/etc/pam.d/kdm-np", "size_i": "480", "regex": "false"},
+	{"name_s": "/usr/share/config/kdm", "size_i": "20", "regex": "false"},
+	{"name_s": "/var/run/kdm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/spool/gdm", "size_i": "4096", "regex": "false"}
+]

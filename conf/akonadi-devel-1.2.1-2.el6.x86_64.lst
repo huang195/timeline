@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/include/akonadi", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/akonadi/private", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/akonadi/private/akonadiprotocolinternals_export.h", "size_i": "1293", "regex": "false"},
+	{"name_s": "/usr/include/akonadi/private/imapparser_p.h", "size_i": "7138", "regex": "false"},
+	{"name_s": "/usr/include/akonadi/private/imapset_p.h", "size_i": "4873", "regex": "false"},
+	{"name_s": "/usr/include/akonadi/private/notificationmessage_p.h", "size_i": "3282", "regex": "false"},
+	{"name_s": "/usr/include/akonadi/private/protocol_p.h", "size_i": "2439", "regex": "false"},
+	{"name_s": "/usr/include/akonadi/private/xdgbasedirs_p.h", "size_i": "10633", "regex": "false"},
+	{"name_s": "/usr/lib64/cmake/Akonadi", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/cmake/Akonadi/AkonadiConfig.cmake", "size_i": "1279", "regex": "false"},
+	{"name_s": "/usr/lib64/cmake/Akonadi/AkonadiConfigVersion.cmake", "size_i": "1414", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadiprivate.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadiprotocolinternals.so", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/akonadi.pc", "size_i": "297", "regex": "false"}
+]

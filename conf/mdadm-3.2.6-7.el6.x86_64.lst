@@ -1,0 +1,20 @@
+[
+	{"name_s": "/etc/cron.d/raid-check", "size_i": "108", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/mdmonitor", "size_i": "2571", "regex": "false"},
+	{"name_s": "/etc/sysconfig/raid-check", "size_i": "2585", "regex": "false"},
+	{"name_s": "/lib/udev/rules.d/65-md-incremental.rules", "size_i": "3655", "regex": "false"},
+	{"name_s": "/sbin/mdadm", "size_i": "467120", "regex": "false"},
+	{"name_s": "/sbin/mdmon", "size_i": "304176", "regex": "false"},
+	{"name_s": "/usr/sbin/raid-check", "size_i": "3793", "regex": "false"},
+	{"name_s": "/usr/share/doc/mdadm-3.2.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mdadm-3.2.6/COPYING", "size_i": "18092", "regex": "false"},
+	{"name_s": "/usr/share/doc/mdadm-3.2.6/ChangeLog", "size_i": "5386", "regex": "false"},
+	{"name_s": "/usr/share/doc/mdadm-3.2.6/TODO", "size_i": "7191", "regex": "false"},
+	{"name_s": "/usr/share/doc/mdadm-3.2.6/mdadm.conf-example", "size_i": "2689", "regex": "false"},
+	{"name_s": "/usr/share/doc/mdadm-3.2.6/syslog-events", "size_i": "550", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/md.4.gz", "size_i": "11655", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/mdadm.conf.5.gz", "size_i": "5953", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/mdadm.8.gz", "size_i": "27999", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/mdmon.8.gz", "size_i": "3305", "regex": "false"},
+	{"name_s": "/var/run/mdadm", "size_i": "4096", "regex": "false"}
+]

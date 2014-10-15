@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/share/sblim-testsuite", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/cim", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_NFSv3SettingContext.cim", "size_i": "2560", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_NFSv3SystemConfiguration.cim", "size_i": "1474", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_NFSv3SystemSetting.cim", "size_i": "1753", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/exports.nfsv3", "size_i": "232", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/sblim-cmpi-nfsv3-test.sh", "size_i": "933", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_NFSv3SettingContext.system", "size_i": "429", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_NFSv3SystemConfiguration.system", "size_i": "708", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_NFSv3SystemSetting.system", "size_i": "790", "regex": "false"}
+]

@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/include/X11/extensions/Xrandr.h", "size_i": "16523", "regex": "false"},
+	{"name_s": "/usr/lib/libXrandr.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/xrandr.pc", "size_i": "248", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRConfigCurrentConfiguration.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRConfigCurrentRate.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRConfigRates.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRConfigRotations.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRConfigSizes.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRConfigTimes.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRFreeScreenConfigInfo.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRGetScreenInfo.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRQueryExtension.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRQueryVersion.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRRootToScreen.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRSelectInput.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRSetScreenConfig.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRRSetScreenConfigAndRate.3.gz", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Xrandr.3.gz", "size_i": "4469", "regex": "false"}
+]

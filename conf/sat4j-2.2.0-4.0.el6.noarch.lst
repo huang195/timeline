@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/share/java/org.sat4j.core.jar", "size_i": "223630", "regex": "false"},
+	{"name_s": "/usr/share/java/org.sat4j.pb.jar", "size_i": "142052", "regex": "false"}
+]

@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/dumpsexp", "size_i": "14456", "regex": "false"},
+	{"name_s": "/usr/bin/hmac256", "size_i": "14928", "regex": "false"},
+	{"name_s": "/usr/bin/libgcrypt-config", "size_i": "3671", "regex": "false"},
+	{"name_s": "/usr/include/gcrypt-module.h", "size_i": "7184", "regex": "false"},
+	{"name_s": "/usr/include/gcrypt.h", "size_i": "70572", "regex": "false"},
+	{"name_s": "/usr/lib64/libgcrypt.so", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/libgcrypt.m4", "size_i": "4205", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgcrypt-devel-1.4.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgcrypt-devel-1.4.5/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/info/gcrypt.info.gz", "size_i": "73354", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/as-inscript.mim", "size_i": "5196", "regex": "false"},
+	{"name_s": "/usr/share/m17n/as-phonetic.mim", "size_i": "4417", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/as-inscript.png", "size_i": "1425", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/as-phonetic.png", "size_i": "1567", "regex": "false"}
+]

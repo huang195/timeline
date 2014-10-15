@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/funzip", "size_i": "22080", "regex": "false"},
+	{"name_s": "/usr/bin/unzip", "size_i": "159928", "regex": "false"},
+	{"name_s": "/usr/bin/unzipsfx", "size_i": "72760", "regex": "false"},
+	{"name_s": "/usr/bin/zipgrep", "size_i": "2953", "regex": "false"},
+	{"name_s": "/usr/bin/zipinfo", "size_i": "159928", "regex": "false"},
+	{"name_s": "/usr/share/doc/unzip-6.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/unzip-6.0/BUGS", "size_i": "4633", "regex": "false"},
+	{"name_s": "/usr/share/doc/unzip-6.0/LICENSE", "size_i": "3606", "regex": "false"},
+	{"name_s": "/usr/share/doc/unzip-6.0/README", "size_i": "18337", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/funzip.1.gz", "size_i": "1984", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/unzip.1.gz", "size_i": "18133", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/unzipsfx.1.gz", "size_i": "5512", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/zipgrep.1.gz", "size_i": "1543", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/zipinfo.1.gz", "size_i": "8889", "regex": "false"}
+]

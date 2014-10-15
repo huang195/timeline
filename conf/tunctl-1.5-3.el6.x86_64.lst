@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/sbin/tunctl", "size_i": "7968", "regex": "false"},
+	{"name_s": "/usr/share/doc/tunctl-1.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/tunctl-1.5/ChangeLog", "size_i": "541", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/tunctl.8.gz", "size_i": "1216", "regex": "false"}
+]

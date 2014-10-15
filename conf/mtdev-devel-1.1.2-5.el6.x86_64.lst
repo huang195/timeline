@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/mtdev-test", "size_i": "7032", "regex": "false"},
+	{"name_s": "/usr/include/mtdev-mapping.h", "size_i": "3006", "regex": "false"},
+	{"name_s": "/usr/include/mtdev-plumbing.h", "size_i": "4785", "regex": "false"},
+	{"name_s": "/usr/include/mtdev.h", "size_i": "6741", "regex": "false"},
+	{"name_s": "/usr/lib64/libmtdev.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/mtdev.pc", "size_i": "178", "regex": "false"}
+]

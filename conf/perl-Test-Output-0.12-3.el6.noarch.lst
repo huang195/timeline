@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-Output-0.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Output-0.12/Changes", "size_i": "2534", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Output-0.12/README", "size_i": "850", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Output-0.12/TODO", "size_i": "389", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Output.3pm.gz", "size_i": "4773", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Output::Tie.3pm.gz", "size_i": "2065", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Output", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Output.pm", "size_i": "22813", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Output/Tie.pm", "size_i": "1167", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/columnify", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/columnify/index.js", "size_i": "6656", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/columnify/package.json", "size_i": "646", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/columnify/utils.js", "size_i": "2161", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-columnify-0.1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-columnify-0.1.2/Readme.md", "size_i": "4013", "regex": "false"}
+]

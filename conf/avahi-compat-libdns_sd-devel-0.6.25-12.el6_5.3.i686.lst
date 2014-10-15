@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/avahi-compat-libdns_sd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/avahi-compat-libdns_sd/dns_sd.h", "size_i": "77587", "regex": "false"},
+	{"name_s": "/usr/include/dns_sd.h", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/lib/libdns_sd.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/avahi-compat-libdns_sd.pc", "size_i": "282", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libdns_sd.pc", "size_i": "25", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-ur-0.64", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ur-0.64/CREDITS", "size_i": "312", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ur_IN.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ur_IN.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ur_PK.aff", "size_i": "999", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ur_PK.dic", "size_i": "1410087", "regex": "false"}
+]

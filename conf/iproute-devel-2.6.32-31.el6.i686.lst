@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/libnetlink.h", "size_i": "5121", "regex": "false"},
+	{"name_s": "/usr/lib/libnetlink.a", "size_i": "20140", "regex": "false"},
+	{"name_s": "/usr/share/doc/iproute-devel-2.6.32", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iproute-devel-2.6.32/COPYING", "size_i": "18011", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libnetlink.3.gz", "size_i": "1644", "regex": "false"}
+]

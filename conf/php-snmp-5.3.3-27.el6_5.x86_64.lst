@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/snmp.ini", "size_i": "49", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/snmp.so", "size_i": "34216", "regex": "false"}
+]

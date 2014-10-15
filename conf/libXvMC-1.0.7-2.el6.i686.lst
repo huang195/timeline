@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/X11/XvMCConfig", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/lib/libXvMC.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libXvMC.so.1.0.0", "size_i": "11116", "regex": "false"},
+	{"name_s": "/usr/lib/libXvMCW.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libXvMCW.so.1.0.0", "size_i": "16136", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXvMC-1.0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXvMC-1.0.7/COPYING", "size_i": "1092", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXvMC-1.0.7/ChangeLog", "size_i": "20599", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXvMC-1.0.7/README", "size_i": "631", "regex": "false"}
+]

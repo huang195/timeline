@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/tomcatjss-2.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/tomcatjss-2.1.0/LICENSE", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/tomcatjss-2.1.0/README", "size_i": "2928", "regex": "false"},
+	{"name_s": "/usr/share/java/tomcatjss-2.1.0.jar", "size_i": "15535", "regex": "false"},
+	{"name_s": "/usr/share/java/tomcatjss.jar", "size_i": "19", "regex": "false"}
+]

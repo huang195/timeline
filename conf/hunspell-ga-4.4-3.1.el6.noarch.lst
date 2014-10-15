@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-ga-4.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ga-4.4/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ga-4.4/ChangeLog", "size_i": "83684", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ga-4.4/README", "size_i": "1026", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ga_IE.aff", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ga_IE.dic", "size_i": "433953", "regex": "false"}
+]

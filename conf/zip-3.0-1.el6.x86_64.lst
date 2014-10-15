@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/zip", "size_i": "212496", "regex": "false"},
+	{"name_s": "/usr/bin/zipcloak", "size_i": "107104", "regex": "false"},
+	{"name_s": "/usr/bin/zipnote", "size_i": "98584", "regex": "false"},
+	{"name_s": "/usr/bin/zipsplit", "size_i": "102680", "regex": "false"},
+	{"name_s": "/usr/share/doc/zip-3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/zip-3.0/CHANGES", "size_i": "210354", "regex": "false"},
+	{"name_s": "/usr/share/doc/zip-3.0/LICENSE", "size_i": "3412", "regex": "false"},
+	{"name_s": "/usr/share/doc/zip-3.0/README", "size_i": "12748", "regex": "false"},
+	{"name_s": "/usr/share/doc/zip-3.0/README.CR", "size_i": "6430", "regex": "false"},
+	{"name_s": "/usr/share/doc/zip-3.0/TODO", "size_i": "6675", "regex": "false"},
+	{"name_s": "/usr/share/doc/zip-3.0/WHATSNEW", "size_i": "15731", "regex": "false"},
+	{"name_s": "/usr/share/doc/zip-3.0/WHERE", "size_i": "13167", "regex": "false"},
+	{"name_s": "/usr/share/doc/zip-3.0/algorith.txt", "size_i": "3395", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/zip.1.gz", "size_i": "28496", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/zipcloak.1.gz", "size_i": "951", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/zipnote.1.gz", "size_i": "793", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/zipsplit.1.gz", "size_i": "596", "regex": "false"}
+]

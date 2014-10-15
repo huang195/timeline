@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/perl-XML-Simple-2.18", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-Simple-2.18/Changes", "size_i": "11502", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-Simple-2.18/README", "size_i": "2172", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::Simple.3pm.gz", "size_i": "18911", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::Simple::FAQ.3pm.gz", "size_i": "9038", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/Simple", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/Simple.pm", "size_i": "97039", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/Simple/FAQ.pod", "size_i": "20013", "regex": "false"}
+]

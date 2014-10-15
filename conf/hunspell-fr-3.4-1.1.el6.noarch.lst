@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-fr-3.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-fr-3.4/README_fr.txt", "size_i": "2359", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fr_BE.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fr_BE.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fr_CA.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fr_CA.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fr_CH.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fr_CH.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fr_FR.aff", "size_i": "362737", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fr_FR.dic", "size_i": "886565", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fr_LU.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fr_LU.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fr_MC.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fr_MC.dic", "size_i": "9", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/gnome-vfs-2.0/modules/smb-module.conf", "size_i": "153", "regex": "false"},
+	{"name_s": "/usr/lib64/gnome-vfs-2.0/modules/libsmb.so", "size_i": "32936", "regex": "false"}
+]

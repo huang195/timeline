@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-File-Copy-Recursive-0.38", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Copy-Recursive-0.38/Changes", "size_i": "5639", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Copy-Recursive-0.38/README", "size_i": "987", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::Copy::Recursive.3pm.gz", "size_i": "6512", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Copy", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Copy/Recursive.pm", "size_i": "22545", "regex": "false"}
+]

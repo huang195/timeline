@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/tcat", "size_i": "34384", "regex": "false"},
+	{"name_s": "/usr/bin/toast", "size_i": "34384", "regex": "false"},
+	{"name_s": "/usr/bin/untoast", "size_i": "34384", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/toast.1.gz", "size_i": "1869", "regex": "false"}
+]

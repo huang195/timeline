@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/libxerces-c-3.0.so", "size_i": "3803520", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-c-3.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-c-3.0.1/LICENSE", "size_i": "11358", "regex": "false"}
+]

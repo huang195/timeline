@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/bash_completion.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/bash_completion.d/oscap", "size_i": "3962", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/oscap-scan", "size_i": "1953", "regex": "false"},
+	{"name_s": "/etc/sysconfig/oscap-scan", "size_i": "234", "regex": "false"},
+	{"name_s": "/usr/bin/oscap", "size_i": "96928", "regex": "false"},
+	{"name_s": "/usr/share/doc/openscap-utils-0.9.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openscap-utils-0.9.12/oscap-scan.cron", "size_i": "717", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/oscap.8.gz", "size_i": "6879", "regex": "false"}
+]

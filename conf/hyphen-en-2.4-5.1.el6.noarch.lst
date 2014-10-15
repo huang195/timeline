@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/share/hyphen/hyph_en_AG.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_AU.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_BS.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_BW.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_BZ.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_CA.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_DK.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_GB.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_GH.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_HK.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_IE.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_IN.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_JM.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_NA.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_NZ.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_PH.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_SG.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_TT.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_US.dic", "size_i": "93307", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_ZA.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_en_ZW.dic", "size_i": "14", "regex": "false"}
+]

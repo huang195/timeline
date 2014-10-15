@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/ati_drv.so", "size_i": "6800", "regex": "false"},
+	{"name_s": "/usr/lib64/xorg/modules/drivers/radeon_drv.so", "size_i": "431040", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/radeon.xinf", "size_i": "46761", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/ati.4.gz", "size_i": "586", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/radeon.4.gz", "size_i": "3797", "regex": "false"}
+]

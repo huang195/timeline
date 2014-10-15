@@ -1,0 +1,11 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Package-Generator-1.105", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Package-Generator-1.105/Changes", "size_i": "767", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Package-Generator-1.105/LICENSE", "size_i": "18353", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Package-Generator-1.105/README", "size_i": "313", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Package::Generator.3pm.gz", "size_i": "2893", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Package::Reaper.3pm.gz", "size_i": "2546", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Package", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Package/Generator.pm", "size_i": "4770", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Package/Reaper.pm", "size_i": "2548", "regex": "false"}
+]

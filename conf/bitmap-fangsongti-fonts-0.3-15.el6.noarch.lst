@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/fonts/conf.d/66-bitmap-fangsongti.conf", "size_i": "58", "regex": "false"},
+	{"name_s": "/usr/share/doc/bitmap-fangsongti-fonts-0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bitmap-fangsongti-fonts-0.3/LICENSE", "size_i": "2685", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/66-bitmap-fangsongti.conf", "size_i": "341", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/fangsongti16.pcf.gz", "size_i": "264633", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/fangsongti24.pcf.gz", "size_i": "418298", "regex": "false"}
+]

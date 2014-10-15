@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/class-gtksourcebuffer2.html", "size_i": "57813", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/class-gtksourcegutter2.html", "size_i": "24457", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/class-gtksourcelanguage2.html", "size_i": "13779", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/class-gtksourcelanguagemanager2.html", "size_i": "14028", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/class-gtksourcemark2.html", "size_i": "12014", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/class-gtksourceprintcompositor2.html", "size_i": "77676", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/class-gtksourcestyle2.html", "size_i": "7136", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/class-gtksourcestylescheme2.html", "size_i": "17998", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/class-gtksourcestyleschememanager2.html", "size_i": "15849", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/class-gtksourceview2.html", "size_i": "67231", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/index.html", "size_i": "4547", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/index.sgml", "size_i": "27649", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/pygtksourceview2.devhelp", "size_i": "23541", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtksourceview2/style.css", "size_i": "133", "regex": "false"}
+]

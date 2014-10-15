@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/gdbm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gdbm.h", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/include/gdbm/dbm.h", "size_i": "1563", "regex": "false"},
+	{"name_s": "/usr/include/gdbm/gdbm.h", "size_i": "4744", "regex": "false"},
+	{"name_s": "/usr/include/gdbm/ndbm.h", "size_i": "2003", "regex": "false"},
+	{"name_s": "/usr/lib64/libgdbm.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/info/gdbm.info.gz", "size_i": "8639", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gdbm.3.gz", "size_i": "5185", "regex": "false"}
+]

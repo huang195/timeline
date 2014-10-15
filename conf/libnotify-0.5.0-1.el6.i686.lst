@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/notify-send", "size_i": "8860", "regex": "false"},
+	{"name_s": "/usr/lib/libnotify.so.1", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libnotify.so.1.2.3", "size_i": "31864", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnotify-0.5.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnotify-0.5.0/AUTHORS", "size_i": "325", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnotify-0.5.0/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnotify-0.5.0/NEWS", "size_i": "5336", "regex": "false"}
+]

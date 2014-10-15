@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnome/__init__.py", "size_i": "240", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnome/__init__.pyc", "size_i": "329", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnome/__init__.pyo", "size_i": "329", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnome/_gnome.so", "size_i": "46048", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnome/ui.so", "size_i": "182152", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/gnome-types.defs", "size_i": "327", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/gnome.defs", "size_i": "20411", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/ui.defs", "size_i": "110615", "regex": "false"}
+]

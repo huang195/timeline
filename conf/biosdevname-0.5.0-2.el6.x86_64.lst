@@ -1,0 +1,8 @@
+[
+	{"name_s": "/lib/udev/rules.d/71-biosdevname.rules", "size_i": "1023", "regex": "false"},
+	{"name_s": "/sbin/biosdevname", "size_i": "32016", "regex": "false"},
+	{"name_s": "/usr/share/doc/biosdevname-0.5.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/biosdevname-0.5.0/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/biosdevname-0.5.0/README", "size_i": "1015", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/biosdevname.1.gz", "size_i": "1706", "regex": "false"}
+]

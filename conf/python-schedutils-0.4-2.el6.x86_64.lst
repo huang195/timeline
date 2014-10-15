@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/pchrt", "size_i": "4013", "regex": "false"},
+	{"name_s": "/usr/bin/ptaskset", "size_i": "3890", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/schedutils-0.4-py2.6.egg-info", "size_i": "291", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/schedutils.so", "size_i": "11304", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-schedutils-0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-schedutils-0.4/COPYING", "size_i": "17982", "regex": "false"}
+]

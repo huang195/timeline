@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/dhcp_lease_time", "size_i": "6728", "regex": "false"},
+	{"name_s": "/usr/bin/dhcp_release", "size_i": "7576", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dhcp_lease_time.1.gz", "size_i": "471", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dhcp_release.1.gz", "size_i": "664", "regex": "false"}
+]

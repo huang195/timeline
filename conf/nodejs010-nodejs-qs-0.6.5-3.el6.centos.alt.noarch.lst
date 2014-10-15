@@ -1,0 +1,7 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/qs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/qs/index.js", "size_i": "7726", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/qs/package.json", "size_i": "483", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-qs-0.6.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-qs-0.6.5/Readme.md", "size_i": "1922", "regex": "false"}
+]

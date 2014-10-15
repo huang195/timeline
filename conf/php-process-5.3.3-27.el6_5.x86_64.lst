@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/php.d/posix.ini", "size_i": "51", "regex": "false"},
+	{"name_s": "/etc/php.d/sysvmsg.ini", "size_i": "55", "regex": "false"},
+	{"name_s": "/etc/php.d/sysvsem.ini", "size_i": "55", "regex": "false"},
+	{"name_s": "/etc/php.d/sysvshm.ini", "size_i": "55", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/posix.so", "size_i": "28608", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/sysvmsg.so", "size_i": "16720", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/sysvsem.so", "size_i": "8784", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/sysvshm.so", "size_i": "12208", "regex": "false"}
+]

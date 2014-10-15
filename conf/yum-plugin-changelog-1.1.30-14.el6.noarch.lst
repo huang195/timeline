@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/changelog.conf", "size_i": "175", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/changelog.py", "size_i": "10793", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/changelog.pyc", "size_i": "10109", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/changelog.pyo", "size_i": "10109", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-changelog-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-changelog-1.1.30/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/yum-changelog.1.gz", "size_i": "1219", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/yum-changelog.conf.5.gz", "size_i": "666", "regex": "false"}
+]

@@ -1,0 +1,18 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/http-signature", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/http-signature/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/http-signature/lib/index.js", "size_i": "505", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/http-signature/lib/parser.js", "size_i": "8864", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/http-signature/lib/signer.js", "size_i": "5219", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/http-signature/lib/util.js", "size_i": "5035", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/http-signature/lib/verify.js", "size_i": "1408", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/http-signature/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/http-signature/node_modules/asn1", "size_i": "48", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/http-signature/node_modules/assert-plus", "size_i": "55", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/http-signature/node_modules/ctype", "size_i": "49", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/http-signature/package.json", "size_i": "646", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-http-signature-0.10.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-http-signature-0.10.0/LICENSE", "size_i": "1067", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-http-signature-0.10.0/README.md", "size_i": "1722", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-http-signature-0.10.0/http_signing.md", "size_i": "11575", "regex": "false"}
+]

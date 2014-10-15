@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/include/smi.h", "size_i": "22469", "regex": "false"},
+	{"name_s": "/usr/lib/libsmi.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libsmi.pc", "size_i": "189", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/libsmi.m4", "size_i": "898", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libsmi.3.gz", "size_i": "1177", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/smi_attribute.3.gz", "size_i": "1417", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/smi_class.3.gz", "size_i": "1043", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/smi_config.3.gz", "size_i": "3580", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/smi_event.3.gz", "size_i": "742", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/smi_identity.3.gz", "size_i": "847", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/smi_macro.3.gz", "size_i": "930", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/smi_module.3.gz", "size_i": "1353", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/smi_node.3.gz", "size_i": "2205", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/smi_render.3.gz", "size_i": "1315", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/smi_type.3.gz", "size_i": "1351", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/smi_util.3.gz", "size_i": "464", "regex": "false"}
+]

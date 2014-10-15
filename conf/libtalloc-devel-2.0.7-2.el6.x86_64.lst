@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/talloc.h", "size_i": "56042", "regex": "false"},
+	{"name_s": "/usr/lib64/libtalloc.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/talloc.pc", "size_i": "269", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/talloc.3.gz", "size_i": "7275", "regex": "false"}
+]

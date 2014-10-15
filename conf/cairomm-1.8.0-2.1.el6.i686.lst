@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libcairomm-1.0.so.1", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libcairomm-1.0.so.1.3.0", "size_i": "122772", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairomm-1.8.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairomm-1.8.0/AUTHORS", "size_i": "185", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairomm-1.8.0/COPYING", "size_i": "25284", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairomm-1.8.0/NEWS", "size_i": "8299", "regex": "false"},
+	{"name_s": "/usr/share/doc/cairomm-1.8.0/README", "size_i": "446", "regex": "false"}
+]

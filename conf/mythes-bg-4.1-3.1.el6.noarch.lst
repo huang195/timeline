@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/mythes-bg-4.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-bg-4.1/COPYING", "size_i": "17979", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-bg-4.1/COPYING.BULGARIAN", "size_i": "20901", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-bg-4.1/ChangeLog", "size_i": "273", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-bg-4.1/README", "size_i": "2444", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_bg_BG_v2.dat", "size_i": "2750789", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_bg_BG_v2.idx", "size_i": "426365", "regex": "false"}
+]

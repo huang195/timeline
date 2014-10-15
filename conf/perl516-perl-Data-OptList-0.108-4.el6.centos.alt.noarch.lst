@@ -1,0 +1,14 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Data-OptList-0.108", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Data-OptList-0.108/Changes", "size_i": "1278", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Data-OptList-0.108/LICENSE", "size_i": "18353", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Data-OptList-0.108/README", "size_i": "317", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Data-OptList-0.108/t", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Data-OptList-0.108/t/00-compile.t", "size_i": "1631", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Data-OptList-0.108/t/000-report-versions-tiny.t", "size_i": "2400", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Data-OptList-0.108/t/hash.t", "size_i": "2002", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Data-OptList-0.108/t/mkopt.t", "size_i": "4543", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Data::OptList.3pm.gz", "size_i": "3725", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Data", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Data/OptList.pm", "size_i": "6849", "regex": "false"}
+]

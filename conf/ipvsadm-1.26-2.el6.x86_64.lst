@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/rc.d/init.d/ipvsadm", "size_i": "4966", "regex": "false"},
+	{"name_s": "/etc/sysconfig/ipvsadm-config", "size_i": "774", "regex": "false"},
+	{"name_s": "/sbin/ipvsadm", "size_i": "62240", "regex": "false"},
+	{"name_s": "/sbin/ipvsadm-restore", "size_i": "621", "regex": "false"},
+	{"name_s": "/sbin/ipvsadm-save", "size_i": "791", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipvsadm-1.26", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipvsadm-1.26/README", "size_i": "2010", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ipvsadm-restore.8.gz", "size_i": "356", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ipvsadm-save.8.gz", "size_i": "396", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ipvsadm.8.gz", "size_i": "7762", "regex": "false"}
+]

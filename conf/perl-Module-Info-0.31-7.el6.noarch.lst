@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/bin/module_info", "size_i": "4901", "regex": "false"},
+	{"name_s": "/usr/bin/pfunc", "size_i": "2270", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Module-Info-0.31", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Module-Info-0.31/Changes", "size_i": "6513", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/module_info.1.gz", "size_i": "2144", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pfunc.1.gz", "size_i": "2168", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/B::BUtils.3pm.gz", "size_i": "4410", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/B::Module::Info.3pm.gz", "size_i": "1842", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Module::Info.3pm.gz", "size_i": "5706", "regex": "false"},
+	{"name_s": "/usr/share/perl5/B", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/B/BUtils.pm", "size_i": "13993", "regex": "false"},
+	{"name_s": "/usr/share/perl5/B/Module", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/B/Module/Info.pm", "size_i": "12643", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/Info.pm", "size_i": "20131", "regex": "false"}
+]

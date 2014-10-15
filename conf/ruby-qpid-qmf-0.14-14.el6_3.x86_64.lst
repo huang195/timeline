@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/ruby/site_ruby/1.8/qmf.rb", "size_i": "40144", "regex": "false"},
+	{"name_s": "/usr/lib/ruby/site_ruby/1.8/qmf2.rb", "size_i": "27405", "regex": "false"},
+	{"name_s": "/usr/lib64/ruby/site_ruby/1.8/x86_64-linux/cqmf2.so", "size_i": "270760", "regex": "false"},
+	{"name_s": "/usr/lib64/ruby/site_ruby/1.8/x86_64-linux/cqpid.so", "size_i": "181104", "regex": "false"},
+	{"name_s": "/usr/lib64/ruby/site_ruby/1.8/x86_64-linux/qmfengine.so", "size_i": "254536", "regex": "false"}
+]

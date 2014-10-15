@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/ant.d/apache-regexp", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-apache-regexp-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-apache-regexp-1.7.1.jar.so", "size_i": "17752", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-apache-regexp.jar", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-apache-regexp-1.7.1.jar", "size_i": "3768", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-apache-regexp.jar", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-jakarta-regexp.jar", "size_i": "21", "regex": "false"}
+]

@@ -1,0 +1,20 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/Changes", "size_i": "2730", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/README", "size_i": "2960", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/benchmark.pl", "size_i": "1405", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/t", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/t/array.t", "size_i": "2043", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/t/deepa.t", "size_i": "1213", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/t/deeph.t", "size_i": "1259", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/t/deeps.t", "size_i": "1759", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/t/docs.t", "size_i": "2251", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/t/export.t", "size_i": "186", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/t/hash.t", "size_i": "1684", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/t/readonly.t", "size_i": "2240", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/t/reassign.t", "size_i": "3107", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/t/scalar.t", "size_i": "1311", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Readonly-1.03/t/tie.t", "size_i": "603", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Readonly.3pm.gz", "size_i": "6714", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Readonly.pm", "size_i": "22462", "regex": "false"}
+]

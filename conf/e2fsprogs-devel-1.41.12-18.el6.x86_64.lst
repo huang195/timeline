@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/include/e2p", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/e2p/e2p.h", "size_i": "2566", "regex": "false"},
+	{"name_s": "/usr/include/ext2fs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/ext2fs/bitops.h", "size_i": "12636", "regex": "false"},
+	{"name_s": "/usr/include/ext2fs/ext2_err.h", "size_i": "9138", "regex": "false"},
+	{"name_s": "/usr/include/ext2fs/ext2_ext_attr.h", "size_i": "2553", "regex": "false"},
+	{"name_s": "/usr/include/ext2fs/ext2_fs.h", "size_i": "27463", "regex": "false"},
+	{"name_s": "/usr/include/ext2fs/ext2_io.h", "size_i": "4350", "regex": "false"},
+	{"name_s": "/usr/include/ext2fs/ext2_types-x86_64.h", "size_i": "3011", "regex": "false"},
+	{"name_s": "/usr/include/ext2fs/ext2_types.h", "size_i": "886", "regex": "false"},
+	{"name_s": "/usr/include/ext2fs/ext2fs.h", "size_i": "47004", "regex": "false"},
+	{"name_s": "/usr/include/ext2fs/ext3_extents.h", "size_i": "3871", "regex": "false"},
+	{"name_s": "/usr/include/ext2fs/qcow2.h", "size_i": "2560", "regex": "false"},
+	{"name_s": "/usr/include/ext2fs/tdb.h", "size_i": "8819", "regex": "false"},
+	{"name_s": "/usr/lib64/libe2p.a", "size_i": "59298", "regex": "false"},
+	{"name_s": "/usr/lib64/libe2p.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libext2fs.a", "size_i": "343816", "regex": "false"},
+	{"name_s": "/usr/lib64/libext2fs.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/e2p.pc", "size_i": "216", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/ext2fs.pc", "size_i": "214", "regex": "false"},
+	{"name_s": "/usr/share/info/libext2fs.info.gz", "size_i": "13257", "regex": "false"}
+]

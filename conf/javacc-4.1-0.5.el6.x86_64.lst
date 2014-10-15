@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/bin/javacc", "size_i": "444", "regex": "false"},
+	{"name_s": "/usr/bin/jjdoc", "size_i": "442", "regex": "false"},
+	{"name_s": "/usr/bin/jjrun", "size_i": "4466", "regex": "false"},
+	{"name_s": "/usr/bin/jjtree", "size_i": "444", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/javacc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/javacc/javacc-4.1.jar.db", "size_i": "16384", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/javacc/javacc-4.1.jar.so", "size_i": "2278808", "regex": "false"},
+	{"name_s": "/usr/share/doc/javacc-4.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/javacc-4.1/LICENSE", "size_i": "1536", "regex": "false"},
+	{"name_s": "/usr/share/doc/javacc-4.1/README", "size_i": "2435", "regex": "false"},
+	{"name_s": "/usr/share/java/javacc-4.1.jar", "size_i": "419824", "regex": "false"},
+	{"name_s": "/usr/share/java/javacc.jar", "size_i": "14", "regex": "false"}
+]

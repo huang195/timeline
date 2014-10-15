@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/chewing", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/chewing/chewing.h", "size_i": "1945", "regex": "false"},
+	{"name_s": "/usr/include/chewing/chewingio.h", "size_i": "12080", "regex": "false"},
+	{"name_s": "/usr/include/chewing/global.h", "size_i": "2207", "regex": "false"},
+	{"name_s": "/usr/include/chewing/mod_aux.h", "size_i": "2915", "regex": "false"},
+	{"name_s": "/usr/lib64/libchewing.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/chewing.pc", "size_i": "336", "regex": "false"}
+]

@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/dracut.conf.d/02-fips.conf", "size_i": "12", "regex": "false"},
+	{"name_s": "/etc/system-fips", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/dracut-fips-004", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dracut-fips-004/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/01fips", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/01fips/fips-boot.sh", "size_i": "372", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/01fips/fips-noboot.sh", "size_i": "351", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/01fips/fips.sh", "size_i": "3761", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/01fips/install", "size_i": "949", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/01fips/installkernel", "size_i": "780", "regex": "false"}
+]

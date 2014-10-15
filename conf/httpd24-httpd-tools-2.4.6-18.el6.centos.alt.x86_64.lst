@@ -1,0 +1,18 @@
+[
+	{"name_s": "/opt/rh/httpd24/root/usr/bin/ab", "size_i": "55480", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/bin/dbmmanage", "size_i": "8925", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/bin/htdbm", "size_i": "22544", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/bin/htdigest", "size_i": "14352", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/bin/htpasswd", "size_i": "18448", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/bin/httxt2dbm", "size_i": "10256", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/bin/logresolve", "size_i": "10272", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/doc/httpd24-httpd-tools-2.4.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/doc/httpd24-httpd-tools-2.4.6/LICENSE", "size_i": "25852", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/doc/httpd24-httpd-tools-2.4.6/NOTICE", "size_i": "550", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/man/man1/ab.1.gz", "size_i": "3523", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/man/man1/htdbm.1.gz", "size_i": "3115", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/man/man1/htdigest.1.gz", "size_i": "915", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/man/man1/htpasswd.1.gz", "size_i": "2964", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/man/man1/httxt2dbm.1.gz", "size_i": "800", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/share/man/man1/logresolve.1.gz", "size_i": "733", "regex": "false"}
+]

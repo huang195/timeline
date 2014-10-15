@@ -1,0 +1,11 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Linux", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Linux/Pid.pm", "size_i": "1450", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Linux", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Linux/Pid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Linux/Pid/Pid.so", "size_i": "6600", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Linux-Pid-0.04", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Linux-Pid-0.04/Changes", "size_i": "232", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Linux-Pid-0.04/README", "size_i": "403", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Linux::Pid.3pm.gz", "size_i": "2316", "regex": "false"}
+]

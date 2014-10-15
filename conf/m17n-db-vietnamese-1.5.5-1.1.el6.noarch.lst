@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/m17n/icons/vi-tcvn.png", "size_i": "1802", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/vi-telex.png", "size_i": "1435", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/vi-viqr.png", "size_i": "1502", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/vi-vni.png", "size_i": "1393", "regex": "false"},
+	{"name_s": "/usr/share/m17n/vi-base.mim", "size_i": "5284", "regex": "false"},
+	{"name_s": "/usr/share/m17n/vi-tcvn.mim", "size_i": "5705", "regex": "false"},
+	{"name_s": "/usr/share/m17n/vi-telex.mim", "size_i": "7594", "regex": "false"},
+	{"name_s": "/usr/share/m17n/vi-viqr.mim", "size_i": "5352", "regex": "false"},
+	{"name_s": "/usr/share/m17n/vi-vni.mim", "size_i": "5347", "regex": "false"}
+]

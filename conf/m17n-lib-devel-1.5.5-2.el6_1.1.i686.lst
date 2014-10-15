@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/include/m17n-core.h", "size_i": "23585", "regex": "false"},
+	{"name_s": "/usr/include/m17n-flt.h", "size_i": "14135", "regex": "false"},
+	{"name_s": "/usr/include/m17n-misc.h", "size_i": "3593", "regex": "false"},
+	{"name_s": "/usr/include/m17n.h", "size_i": "45473", "regex": "false"},
+	{"name_s": "/usr/lib/libm17n-core.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libm17n-flt.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libm17n.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/m17n-core.pc", "size_i": "205", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/m17n-flt.pc", "size_i": "266", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/m17n-shell.pc", "size_i": "267", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-lib-devel-1.5.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-lib-devel-1.5.5/ChangeLog", "size_i": "10025", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-lib-devel-1.5.5/README", "size_i": "5727", "regex": "false"}
+]

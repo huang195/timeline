@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/javassist-3.9.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/javassist-3.9.0/License.html", "size_i": "25802", "regex": "false"},
+	{"name_s": "/usr/share/java/javassist-3.9.0.GA.jar", "size_i": "619847", "regex": "false"},
+	{"name_s": "/usr/share/java/javassist.jar", "size_i": "22", "regex": "false"}
+]

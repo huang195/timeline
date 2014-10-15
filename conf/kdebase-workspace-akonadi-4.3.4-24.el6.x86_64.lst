@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/kde4/plasma_engine_akonadi.so", "size_i": "99296", "regex": "false"},
+	{"name_s": "/usr/share/kde4/services/plasma-engine-akonadi.desktop", "size_i": "3575", "regex": "false"}
+]

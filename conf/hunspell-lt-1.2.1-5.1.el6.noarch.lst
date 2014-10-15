@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-lt-1.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-lt-1.2.1/INSTRUKCIJOS.txt", "size_i": "2512", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-lt-1.2.1/README.EN", "size_i": "719", "regex": "false"},
+	{"name_s": "/usr/share/myspell/lt_LT.aff", "size_i": "142976", "regex": "false"},
+	{"name_s": "/usr/share/myspell/lt_LT.dic", "size_i": "1224916", "regex": "false"}
+]

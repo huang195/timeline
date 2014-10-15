@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-ia-0.20050628", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-ia-0.20050628/README", "size_i": "1022", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_ia.dic", "size_i": "3672", "regex": "false"}
+]

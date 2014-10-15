@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/tpmtoken_import", "size_i": "41656", "regex": "false"},
+	{"name_s": "/usr/bin/tpmtoken_init", "size_i": "29696", "regex": "false"},
+	{"name_s": "/usr/bin/tpmtoken_objects", "size_i": "28768", "regex": "false"},
+	{"name_s": "/usr/bin/tpmtoken_protect", "size_i": "32440", "regex": "false"},
+	{"name_s": "/usr/bin/tpmtoken_setpasswd", "size_i": "29280", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/tpmtoken_import.1.gz", "size_i": "1150", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/tpmtoken_init.1.gz", "size_i": "784", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/tpmtoken_objects.1.gz", "size_i": "674", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/tpmtoken_protect.1.gz", "size_i": "918", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/tpmtoken_setpasswd.1.gz", "size_i": "754", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-Sub-Install-0.925", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Sub-Install-0.925/Changes", "size_i": "1221", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Sub-Install-0.925/LICENSE", "size_i": "20216", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Sub-Install-0.925/README", "size_i": "193", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Sub::Install.3pm.gz", "size_i": "3572", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Sub", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Sub/Install.pm", "size_i": "8344", "regex": "false"}
+]

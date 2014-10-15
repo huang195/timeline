@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/pax", "size_i": "110936", "regex": "false"},
+	{"name_s": "/usr/share/doc/pax-3.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pax-3.4/ABOUT-NLS", "size_i": "11651", "regex": "false"},
+	{"name_s": "/usr/share/doc/pax-3.4/AUTHORS", "size_i": "115", "regex": "false"},
+	{"name_s": "/usr/share/doc/pax-3.4/COPYING", "size_i": "1670", "regex": "false"},
+	{"name_s": "/usr/share/doc/pax-3.4/ChangeLog", "size_i": "2969", "regex": "false"},
+	{"name_s": "/usr/share/doc/pax-3.4/NEWS", "size_i": "515", "regex": "false"},
+	{"name_s": "/usr/share/doc/pax-3.4/README", "size_i": "81", "regex": "false"},
+	{"name_s": "/usr/share/doc/pax-3.4/THANKS", "size_i": "292", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pax.1.gz", "size_i": "9639", "regex": "false"}
+]

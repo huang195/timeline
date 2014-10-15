@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-sc-0.20081101", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-sc-0.20081101/agpl3-en.txt", "size_i": "34521", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sc_IT.aff", "size_i": "52323", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sc_it.dic", "size_i": "1370192", "regex": "false"}
+]

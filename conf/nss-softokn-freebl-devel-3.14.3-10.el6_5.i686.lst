@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/nss3/alghmac.h", "size_i": "1922", "regex": "false"},
+	{"name_s": "/usr/include/nss3/blapi.h", "size_i": "51666", "regex": "false"},
+	{"name_s": "/usr/include/nss3/blapit.h", "size_i": "12306", "regex": "false"},
+	{"name_s": "/usr/lib/libfreebl.a", "size_i": "46964", "regex": "false"}
+]

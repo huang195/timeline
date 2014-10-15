@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/avahi-glib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/avahi-glib/glib-malloc.h", "size_i": "1273", "regex": "false"},
+	{"name_s": "/usr/include/avahi-glib/glib-watch.h", "size_i": "1842", "regex": "false"},
+	{"name_s": "/usr/lib64/libavahi-glib.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/avahi-glib.pc", "size_i": "260", "regex": "false"}
+]

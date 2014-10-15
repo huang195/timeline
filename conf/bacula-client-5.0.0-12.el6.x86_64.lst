@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/bacula/bacula-fd.conf", "size_i": "931", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/bacula-fd", "size_i": "1904", "regex": "false"},
+	{"name_s": "/usr/sbin/bacula-fd", "size_i": "412784", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/bacula-fd.8.gz", "size_i": "835", "regex": "false"}
+]

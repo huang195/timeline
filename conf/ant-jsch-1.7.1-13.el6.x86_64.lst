@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/ant.d/jsch", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-jsch-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-jsch-1.7.1.jar.so", "size_i": "141096", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-jsch.jar", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-jsch-1.7.1.jar", "size_i": "31454", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-jsch.jar", "size_i": "18", "regex": "false"}
+]

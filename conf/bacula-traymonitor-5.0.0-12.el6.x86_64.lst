@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/bacula/tray-monitor.conf", "size_i": "572", "regex": "false"},
+	{"name_s": "/etc/pam.d/bacula-tray-monitor", "size_i": "241", "regex": "false"},
+	{"name_s": "/etc/security/console.apps/bacula-tray-monitor", "size_i": "61", "regex": "false"},
+	{"name_s": "/usr/bin/bacula-tray-monitor", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/sbin/bacula-tray-monitor", "size_i": "258656", "regex": "false"},
+	{"name_s": "/usr/share/applications/fedora-bacula-traymonitor.desktop", "size_i": "310", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/bacula-tray-monitor.1.gz", "size_i": "648", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/bacula-tray-monitor.xpm", "size_i": "1447", "regex": "false"}
+]

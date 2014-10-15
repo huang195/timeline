@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/graphviz/java", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/java/SWIGTYPE_p_Agedge_t.java", "size_i": "717", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/java/SWIGTYPE_p_Agnode_t.java", "size_i": "717", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/java/SWIGTYPE_p_Agraph_t.java", "size_i": "717", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/java/SWIGTYPE_p_Agsym_t.java", "size_i": "713", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/java/SWIGTYPE_p_FILE.java", "size_i": "701", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/java/gv.java", "size_i": "18282", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/java/gvJNI.java", "size_i": "6643", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/java/libgv_java.so", "size_i": "45736", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gv.3java.gz", "size_i": "1665", "regex": "false"}
+]

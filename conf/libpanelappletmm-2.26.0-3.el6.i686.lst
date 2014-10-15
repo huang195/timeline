@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/libpanelappletmm-2.6.so.1", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/lib/libpanelappletmm-2.6.so.1.0.1", "size_i": "53944", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpanelappletmm-2.26.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpanelappletmm-2.26.0/AUTHORS", "size_i": "160", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpanelappletmm-2.26.0/COPYING", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpanelappletmm-2.26.0/ChangeLog", "size_i": "8655", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpanelappletmm-2.26.0/NEWS", "size_i": "1350", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpanelappletmm-2.26.0/README", "size_i": "209", "regex": "false"}
+]

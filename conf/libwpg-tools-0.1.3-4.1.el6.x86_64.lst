@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/wpg2raw", "size_i": "11040", "regex": "false"},
+	{"name_s": "/usr/bin/wpg2svg", "size_i": "8240", "regex": "false"},
+	{"name_s": "/usr/bin/wpg2svgbatch.pl", "size_i": "5868", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwpg-tools-0.1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwpg-tools-0.1.3/COPYING", "size_i": "25292", "regex": "false"}
+]

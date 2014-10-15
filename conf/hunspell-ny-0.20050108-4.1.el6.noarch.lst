@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-ny-0.20050108", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ny-0.20050108/README_ny_MW.txt", "size_i": "19139", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ny_MW.aff", "size_i": "819", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ny_MW.dic", "size_i": "55010", "regex": "false"}
+]

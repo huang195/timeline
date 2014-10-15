@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/firmware/iwlwifi-100-5.ucode", "size_i": "337572", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl100-firmware-39.31.5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl100-firmware-39.31.5.1/LICENSE", "size_i": "2046", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl100-firmware-39.31.5.1/README", "size_i": "4770", "regex": "false"}
+]

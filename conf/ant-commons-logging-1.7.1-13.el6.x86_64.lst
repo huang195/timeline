@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/ant.d/commons-logging", "size_i": "48", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-commons-logging-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-commons-logging-1.7.1.jar.so", "size_i": "21656", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-commons-logging.jar", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-commons-logging-1.7.1.jar", "size_i": "4027", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-commons-logging.jar", "size_i": "29", "regex": "false"}
+]

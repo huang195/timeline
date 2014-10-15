@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/dos2unix", "size_i": "16136", "regex": "false"},
+	{"name_s": "/usr/bin/mac2unix", "size_i": "8", "regex": "false"},
+	{"name_s": "/usr/share/doc/dos2unix-3.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dos2unix-3.1/COPYRIGHT", "size_i": "1492", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dos2unix.1.gz", "size_i": "1229", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mac2unix.1.gz", "size_i": "13", "regex": "false"}
+]

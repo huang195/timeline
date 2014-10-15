@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/libBrokenLocale.a", "size_i": "1654", "regex": "false"},
+	{"name_s": "/usr/lib64/libanl.a", "size_i": "18548", "regex": "false"},
+	{"name_s": "/usr/lib64/libc.a", "size_i": "4759590", "regex": "false"},
+	{"name_s": "/usr/lib64/libc_stubs.a", "size_i": "14093", "regex": "false"},
+	{"name_s": "/usr/lib64/libcrypt.a", "size_i": "60994", "regex": "false"},
+	{"name_s": "/usr/lib64/libdl.a", "size_i": "13218", "regex": "false"},
+	{"name_s": "/usr/lib64/libm.a", "size_i": "1366064", "regex": "false"},
+	{"name_s": "/usr/lib64/libnsl.a", "size_i": "203290", "regex": "false"},
+	{"name_s": "/usr/lib64/libpthread.a", "size_i": "154474", "regex": "false"},
+	{"name_s": "/usr/lib64/libresolv.a", "size_i": "144226", "regex": "false"},
+	{"name_s": "/usr/lib64/librt.a", "size_i": "84166", "regex": "false"},
+	{"name_s": "/usr/lib64/libutil.a", "size_i": "13632", "regex": "false"}
+]

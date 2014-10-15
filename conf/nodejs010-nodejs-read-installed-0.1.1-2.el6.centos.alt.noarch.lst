@@ -1,0 +1,12 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/read-installed", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/read-installed/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/read-installed/node_modules/read-package-json", "size_i": "61", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/read-installed/node_modules/semver", "size_i": "50", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/read-installed/node_modules/slide", "size_i": "49", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/read-installed/package.json", "size_i": "588", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/read-installed/read-installed.js", "size_i": "9580", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-read-installed-0.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-read-installed-0.1.1/LICENSE", "size_i": "1310", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-read-installed-0.1.1/README.md", "size_i": "304", "regex": "false"}
+]

@@ -1,0 +1,16 @@
+[
+	{"name_s": "/opt/rh/python33/root/usr/bin/pydoc", "size_i": "6", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/bin/pydoc3", "size_i": "8", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/bin/pydoc3.3", "size_i": "99", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/bin/python", "size_i": "7", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/bin/python3", "size_i": "9", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/bin/python3.3", "size_i": "6792", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/bin/python3.3m", "size_i": "6792", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/bin/pyvenv", "size_i": "10", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/bin/pyvenv-3.3", "size_i": "251", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/share/doc/python33-python-3.3.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/share/doc/python33-python-3.3.2/LICENSE", "size_i": "15029", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/share/doc/python33-python-3.3.2/README", "size_i": "6514", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/share/man/man1/python3.1.gz", "size_i": "14", "regex": "false"},
+	{"name_s": "/opt/rh/python33/root/usr/share/man/man1/python3.3.1.gz", "size_i": "5079", "regex": "false"}
+]

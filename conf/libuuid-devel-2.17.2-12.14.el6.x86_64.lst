@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/include/uuid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/uuid/uuid.h", "size_i": "3297", "regex": "false"},
+	{"name_s": "/usr/lib64/libuuid.a", "size_i": "29242", "regex": "false"},
+	{"name_s": "/usr/lib64/libuuid.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/uuid.pc", "size_i": "216", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/uuid.3.gz", "size_i": "1477", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/uuid_clear.3.gz", "size_i": "1241", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/uuid_compare.3.gz", "size_i": "1351", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/uuid_copy.3.gz", "size_i": "1271", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/uuid_generate.3.gz", "size_i": "2333", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/uuid_generate_random.3.gz", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/uuid_generate_time.3.gz", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/uuid_is_null.3.gz", "size_i": "1278", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/uuid_parse.3.gz", "size_i": "1474", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/uuid_time.3.gz", "size_i": "1518", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/uuid_unparse.3.gz", "size_i": "1515", "regex": "false"}
+]

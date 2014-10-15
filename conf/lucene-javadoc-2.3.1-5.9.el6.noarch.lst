@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/share/javadoc/lucene", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-analyzers", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-ant", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-benchmark", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-highlighter", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-lucli", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-memory", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-misc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-queries", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-regex", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-snowball", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-spellchecker", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-surround", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-swing", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-wikipedia", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-wordnet", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/contrib-xml-query-parser", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/core", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/lucene-2.3.1/demo", "size_i": "4096", "regex": "false"}
+]

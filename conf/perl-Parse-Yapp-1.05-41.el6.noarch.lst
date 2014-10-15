@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/bin/yapp", "size_i": "6516", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Parse-Yapp-1.05", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Parse-Yapp-1.05/Changes", "size_i": "8752", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Parse-Yapp-1.05/README", "size_i": "1462", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/yapp.1.gz", "size_i": "3082", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Parse::Yapp.3.gz", "size_i": "8590", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Parse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Parse/Yapp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Parse/Yapp.pm", "size_i": "16266", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Parse/Yapp/Driver.pm", "size_i": "9750", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Parse/Yapp/Grammar.pm", "size_i": "8944", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Parse/Yapp/Lalr.pm", "size_i": "25041", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Parse/Yapp/Options.pm", "size_i": "4191", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Parse/Yapp/Output.pm", "size_i": "1977", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Parse/Yapp/Parse.pm", "size_i": "19659", "regex": "false"}
+]

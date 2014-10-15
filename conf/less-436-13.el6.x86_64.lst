@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/profile.d/less.csh", "size_i": "123", "regex": "false"},
+	{"name_s": "/etc/profile.d/less.sh", "size_i": "121", "regex": "false"},
+	{"name_s": "/usr/bin/less", "size_i": "149944", "regex": "false"},
+	{"name_s": "/usr/bin/lessecho", "size_i": "7376", "regex": "false"},
+	{"name_s": "/usr/bin/lesskey", "size_i": "16264", "regex": "false"},
+	{"name_s": "/usr/bin/lesspipe.sh", "size_i": "2804", "regex": "false"},
+	{"name_s": "/usr/share/doc/less-436", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/less-436/LICENSE", "size_i": "1271", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/less.1.gz", "size_i": "19690", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/lessecho.1.gz", "size_i": "569", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/lesskey.1.gz", "size_i": "3747", "regex": "false"}
+]

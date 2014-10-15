@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/share/texmf/tex/latex/gnuplot", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/latex/gnuplot/gnuplot.cfg", "size_i": "173", "regex": "false"}
+]

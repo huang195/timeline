@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/ruby/site_ruby/1.8/x86_64-linux/RRD.so", "size_i": "13592", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-ruby-1.3.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rrdtool-ruby-1.3.8/README", "size_i": "542", "regex": "false"}
+]

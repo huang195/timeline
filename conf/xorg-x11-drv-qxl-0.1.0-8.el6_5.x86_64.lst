@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/qxl_drv.so", "size_i": "161344", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-qxl-0.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-qxl-0.1.0/COPYING", "size_i": "1098", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-qxl-0.1.0/README", "size_i": "759", "regex": "false"}
+]

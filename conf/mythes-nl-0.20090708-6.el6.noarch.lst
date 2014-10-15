@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/mythes-nl-0.20090708", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-nl-0.20090708/README_th_nl_v2.txt", "size_i": "27248", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_nl_AW_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_nl_AW_v2.idx", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_nl_BE_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_nl_BE_v2.idx", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_nl_NL_v2.dat", "size_i": "737530", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_nl_NL_v2.idx", "size_i": "259350", "regex": "false"}
+]

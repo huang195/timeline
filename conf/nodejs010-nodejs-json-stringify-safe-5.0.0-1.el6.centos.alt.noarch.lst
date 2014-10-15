@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/json-stringify-safe", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/json-stringify-safe/package.json", "size_i": "504", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/json-stringify-safe/stringify.js", "size_i": "954", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-json-stringify-safe-5.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-json-stringify-safe-5.0.0/LICENSE", "size_i": "1310", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-json-stringify-safe-5.0.0/README.md", "size_i": "1146", "regex": "false"}
+]

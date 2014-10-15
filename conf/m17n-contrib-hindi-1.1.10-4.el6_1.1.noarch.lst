@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/m17n/hi-inscript.mim", "size_i": "3494", "regex": "false"},
+	{"name_s": "/usr/share/m17n/hi-phonetic.mim", "size_i": "3279", "regex": "false"},
+	{"name_s": "/usr/share/m17n/hi-remington.mim", "size_i": "4003", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/hi-inscript.png", "size_i": "1514", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/hi-phonetic.png", "size_i": "1918", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/hi-remington.png", "size_i": "1609", "regex": "false"}
+]

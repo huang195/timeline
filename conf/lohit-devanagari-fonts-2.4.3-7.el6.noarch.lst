@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/fonts/conf.d/66-lohit-devanagari.conf", "size_i": "57", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-devanagari-fonts-2.4.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-devanagari-fonts-2.4.3/AUTHORS", "size_i": "173", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-devanagari-fonts-2.4.3/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-devanagari-fonts-2.4.3/COPYRIGHT", "size_i": "792", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-devanagari-fonts-2.4.3/ChangeLog", "size_i": "210", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-devanagari-fonts-2.4.3/ChangeLog.old", "size_i": "9704", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-devanagari-fonts-2.4.3/README", "size_i": "489", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/66-lohit-devanagari.conf", "size_i": "2674", "regex": "false"},
+	{"name_s": "/usr/share/fonts/lohit-devanagari", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/lohit-devanagari/Lohit-Devanagari.ttf", "size_i": "81644", "regex": "false"}
+]

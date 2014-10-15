@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/dmidecode.py", "size_i": "3461", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/dmidecode.pyc", "size_i": "2320", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/dmidecode.pyo", "size_i": "2320", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/dmidecodemod.so", "size_i": "185072", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/python_dmidecode-3.10.13-py2.6.egg-info", "size_i": "311", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-dmidecode-3.10.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-dmidecode-3.10.13/AUTHORS", "size_i": "709", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-dmidecode-3.10.13/AUTHORS.upstream", "size_i": "1275", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-dmidecode-3.10.13/LICENSE", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-dmidecode-3.10.13/README", "size_i": "63", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-dmidecode-3.10.13/README.upstream", "size_i": "4705", "regex": "false"},
+	{"name_s": "/usr/share/python-dmidecode", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/python-dmidecode/pymap.xml", "size_i": "49051", "regex": "false"}
+]

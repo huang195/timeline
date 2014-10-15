@@ -1,0 +1,12 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sub-Uplevel-0.24", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sub-Uplevel-0.24/Changes", "size_i": "4836", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sub-Uplevel-0.24/LICENSE", "size_i": "18407", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sub-Uplevel-0.24/README", "size_i": "5188", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sub-Uplevel-0.24/README.PATCHING", "size_i": "1422", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sub-Uplevel-0.24/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sub-Uplevel-0.24/examples/uplevel-demo.pl", "size_i": "538", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Sub::Uplevel.3pm.gz", "size_i": "4194", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Sub", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Sub/Uplevel.pm", "size_i": "11088", "regex": "false"}
+]

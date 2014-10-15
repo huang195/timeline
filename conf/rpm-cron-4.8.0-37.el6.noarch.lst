@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/cron.daily/rpm", "size_i": "284", "regex": "false"},
+	{"name_s": "/etc/logrotate.d/rpm", "size_i": "61", "regex": "false"}
+]

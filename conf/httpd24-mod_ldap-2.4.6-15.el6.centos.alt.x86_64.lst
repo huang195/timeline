@@ -1,0 +1,5 @@
+[
+	{"name_s": "/opt/rh/httpd24/root/etc/httpd/conf.modules.d/01-ldap.conf", "size_i": "141", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/lib64/httpd/modules/mod_authnz_ldap.so", "size_i": "51216", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/lib64/httpd/modules/mod_ldap.so", "size_i": "71656", "regex": "false"}
+]

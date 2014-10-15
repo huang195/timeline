@@ -1,0 +1,14 @@
+[
+	{"name_s": "/bin/keyctl", "size_i": "22896", "regex": "false"},
+	{"name_s": "/etc/request-key.conf", "size_i": "1484", "regex": "false"},
+	{"name_s": "/etc/request-key.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/sbin/request-key", "size_i": "18776", "regex": "false"},
+	{"name_s": "/usr/share/doc/keyutils-1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/keyutils-1.4/LICENCE.GPL", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/keyutils-1.4/README", "size_i": "426", "regex": "false"},
+	{"name_s": "/usr/share/keyutils", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/keyutils/request-key-debug.sh", "size_i": "906", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/keyctl.1.gz", "size_i": "5497", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/request-key.conf.5.gz", "size_i": "2008", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/request-key.8.gz", "size_i": "702", "regex": "false"}
+]

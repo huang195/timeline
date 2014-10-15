@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/gimptool", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/bin/gimptool-2.0", "size_i": "15592", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gimptool-2.0.1.gz", "size_i": "2072", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gimptool.1.gz", "size_i": "17", "regex": "false"}
+]

@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/sip.so", "size_i": "95472", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/sipconfig.py", "size_i": "87051", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/sipconfig.pyc", "size_i": "67869", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/sipconfig.pyo", "size_i": "67869", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/sipdistutils.py", "size_i": "3332", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/sipdistutils.pyc", "size_i": "3370", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/sipdistutils.pyo", "size_i": "3370", "regex": "false"},
+	{"name_s": "/usr/share/doc/sip-4.9.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sip-4.9.3/ChangeLog", "size_i": "155498", "regex": "false"},
+	{"name_s": "/usr/share/doc/sip-4.9.3/LICENSE", "size_i": "2732", "regex": "false"},
+	{"name_s": "/usr/share/doc/sip-4.9.3/LICENSE-GPL2.txt", "size_i": "18161", "regex": "false"},
+	{"name_s": "/usr/share/doc/sip-4.9.3/LICENSE-GPL3.txt", "size_i": "35297", "regex": "false"},
+	{"name_s": "/usr/share/doc/sip-4.9.3/NEWS", "size_i": "14977", "regex": "false"},
+	{"name_s": "/usr/share/doc/sip-4.9.3/README", "size_i": "158", "regex": "false"}
+]

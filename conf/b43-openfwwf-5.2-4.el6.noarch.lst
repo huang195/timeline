@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/modprobe.d/openfwwf.conf", "size_i": "30", "regex": "false"},
+	{"name_s": "/lib/firmware/b43", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/firmware/b43/b0g0bsinitvals5.fw", "size_i": "158", "regex": "false"},
+	{"name_s": "/lib/firmware/b43/b0g0initvals5.fw", "size_i": "976", "regex": "false"},
+	{"name_s": "/lib/firmware/b43/ucode5.fw", "size_i": "9528", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-openfwwf-5.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-openfwwf-5.2/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-openfwwf-5.2/LICENSE", "size_i": "848", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-openfwwf-5.2/README.openfwwf", "size_i": "2022", "regex": "false"}
+]

@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/include/kde4/libkmid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/alsaout.h", "size_i": "6405", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/dattypes.h", "size_i": "1724", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/deviceman.h", "size_i": "16459", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/fmout.h", "size_i": "4224", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/gusout.h", "size_i": "5261", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/libkmid.h", "size_i": "6849", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/midfile.h", "size_i": "2875", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/midimapper.h", "size_i": "6030", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/midiout.h", "size_i": "7022", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/midispec.h", "size_i": "2053", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/midistat.h", "size_i": "4246", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/mt32togm.h", "size_i": "1290", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/notearray.h", "size_i": "3518", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/player.h", "size_i": "11202", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/synthout.h", "size_i": "3285", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/track.h", "size_i": "5690", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkmid/voiceman.h", "size_i": "4406", "regex": "false"},
+	{"name_s": "/usr/lib64/libkmidlib.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/liblibkmid.so", "size_i": "15", "regex": "false"}
+]

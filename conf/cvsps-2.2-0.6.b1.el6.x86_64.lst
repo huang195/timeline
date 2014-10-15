@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/cvsps", "size_i": "73024", "regex": "false"},
+	{"name_s": "/usr/share/doc/cvsps-2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cvsps-2.2/CHANGELOG", "size_i": "11558", "regex": "false"},
+	{"name_s": "/usr/share/doc/cvsps-2.2/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/cvsps-2.2/README", "size_i": "9383", "regex": "false"},
+	{"name_s": "/usr/share/doc/cvsps-2.2/merge_utils.sh", "size_i": "1214", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cvsps.1.gz", "size_i": "3854", "regex": "false"}
+]

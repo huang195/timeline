@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/lib/libgimp-2.0.so.0", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libgimp-2.0.so.0.600.9", "size_i": "240524", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpbase-2.0.so.0", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpbase-2.0.so.0.600.9", "size_i": "86804", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpcolor-2.0.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpcolor-2.0.so.0.600.9", "size_i": "46160", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpconfig-2.0.so.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpconfig-2.0.so.0.600.9", "size_i": "58424", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpmath-2.0.so.0", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpmath-2.0.so.0.600.9", "size_i": "16868", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpmodule-2.0.so.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpmodule-2.0.so.0.600.9", "size_i": "15360", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpthumb-2.0.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpthumb-2.0.so.0.600.9", "size_i": "31980", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpui-2.0.so.0", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpui-2.0.so.0.600.9", "size_i": "127736", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpwidgets-2.0.so.0", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/lib/libgimpwidgets-2.0.so.0.600.9", "size_i": "1184732", "regex": "false"}
+]

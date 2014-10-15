@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib/libspeex.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libspeex.so.1.5.0", "size_i": "93604", "regex": "false"},
+	{"name_s": "/usr/lib/libspeexdsp.so.1", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libspeexdsp.so.1.5.0", "size_i": "68964", "regex": "false"},
+	{"name_s": "/usr/share/doc/speex-1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/speex-1.2/AUTHORS", "size_i": "502", "regex": "false"},
+	{"name_s": "/usr/share/doc/speex-1.2/COPYING", "size_i": "1774", "regex": "false"},
+	{"name_s": "/usr/share/doc/speex-1.2/ChangeLog", "size_i": "802", "regex": "false"},
+	{"name_s": "/usr/share/doc/speex-1.2/NEWS", "size_i": "44", "regex": "false"},
+	{"name_s": "/usr/share/doc/speex-1.2/README", "size_i": "591", "regex": "false"},
+	{"name_s": "/usr/share/doc/speex-1.2/TODO", "size_i": "1115", "regex": "false"}
+]

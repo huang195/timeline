@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/bin/libesmtp-config", "size_i": "41", "regex": "false"},
+	{"name_s": "/usr/include/auth-client.h", "size_i": "3654", "regex": "false"},
+	{"name_s": "/usr/include/auth-plugin.h", "size_i": "2210", "regex": "false"},
+	{"name_s": "/usr/include/libesmtp.h", "size_i": "10731", "regex": "false"},
+	{"name_s": "/usr/lib/libesmtp.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libesmtp.pc", "size_i": "195", "regex": "false"},
+	{"name_s": "/usr/share/doc/libesmtp-devel-1.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libesmtp-devel-1.0.4/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/libesmtp-devel-1.0.4/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libesmtp-devel-1.0.4/examples/Makefile", "size_i": "377", "regex": "false"},
+	{"name_s": "/usr/share/doc/libesmtp-devel-1.0.4/examples/mail-file.c", "size_i": "17671", "regex": "false"},
+	{"name_s": "/usr/share/doc/libesmtp-devel-1.0.4/examples/test-mail", "size_i": "279", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/mvapich/lib/liblmpe.a", "size_i": "223186", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich/lib/libmpe.a", "size_i": "98928", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich/lib/libmpich.a", "size_i": "1796640", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich/lib/libpmpich++.a", "size_i": "2085676", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich/lib/libpmpich.a", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich/lib/libtmpe.a", "size_i": "119192", "regex": "false"}
+]

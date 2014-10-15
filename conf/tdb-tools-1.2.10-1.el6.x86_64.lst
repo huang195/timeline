@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/tdbbackup", "size_i": "9816", "regex": "false"},
+	{"name_s": "/usr/bin/tdbdump", "size_i": "6816", "regex": "false"},
+	{"name_s": "/usr/bin/tdbrestore", "size_i": "8008", "regex": "false"},
+	{"name_s": "/usr/bin/tdbtool", "size_i": "19864", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/tdbbackup.8.gz", "size_i": "1372", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/tdbdump.8.gz", "size_i": "800", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/tdbrestore.8.gz", "size_i": "874", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/tdbtool.8.gz", "size_i": "1168", "regex": "false"}
+]

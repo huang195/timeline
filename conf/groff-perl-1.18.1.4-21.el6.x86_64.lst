@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/afmtodit", "size_i": "8540", "regex": "false"},
+	{"name_s": "/usr/bin/mmroff", "size_i": "2974", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/afmtodit.1.gz", "size_i": "2290", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mmroff.1.gz", "size_i": "632", "regex": "false"}
+]

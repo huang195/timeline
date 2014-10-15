@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-CheckTree-4.42", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-CheckTree-4.42/Changes", "size_i": "478", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-CheckTree-4.42/LICENSE", "size_i": "18341", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-CheckTree-4.42/README", "size_i": "299", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/File::CheckTree.3pm.gz", "size_i": "2730", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/File", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/File/CheckTree.pm", "size_i": "7734", "regex": "false"}
+]

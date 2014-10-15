@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Implementation-0.07", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Implementation-0.07/Changes", "size_i": "890", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Implementation-0.07/LICENSE", "size_i": "9040", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Implementation-0.07/README", "size_i": "292", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Module::Implementation.3pm.gz", "size_i": "3602", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Module", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Module/Implementation.pm", "size_i": "7659", "regex": "false"}
+]

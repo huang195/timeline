@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/libexec/gvfs-afc-volume-monitor", "size_i": "49256", "regex": "false"},
+	{"name_s": "/usr/libexec/gvfsd-afc", "size_i": "151944", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/services/org.gtk.Private.AfcVolumeMonitor.service", "size_i": "97", "regex": "false"},
+	{"name_s": "/usr/share/gvfs/mounts/afc.mount", "size_i": "87", "regex": "false"},
+	{"name_s": "/usr/share/gvfs/remote-volume-monitors/afc.monitor", "size_i": "108", "regex": "false"}
+]

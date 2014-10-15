@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/java/tomcat6-el-2.1-api-6.0.24.jar", "size_i": "32107", "regex": "false"},
+	{"name_s": "/usr/share/java/tomcat6-el-2.1-api.jar", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/share/java/tomcat6/tomcat6-el-2.1-api-6.0.24.jar", "size_i": "32", "regex": "false"}
+]

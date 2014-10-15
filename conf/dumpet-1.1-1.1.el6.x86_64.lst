@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/dumpet", "size_i": "12832", "regex": "false"},
+	{"name_s": "/usr/share/doc/dumpet-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dumpet-1.1/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/dumpet-1.1/README", "size_i": "574", "regex": "false"},
+	{"name_s": "/usr/share/doc/dumpet-1.1/TODO", "size_i": "92", "regex": "false"}
+]

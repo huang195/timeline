@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libltdl.so.7", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libltdl.so.7.2.1", "size_i": "36880", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtool-ltdl-2.2.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtool-ltdl-2.2.6/COPYING.LIB", "size_i": "26542", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtool-ltdl-2.2.6/README", "size_i": "1526", "regex": "false"},
+	{"name_s": "/usr/share/libtool", "size_i": "4096", "regex": "false"}
+]

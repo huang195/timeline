@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/firmware/aic94xx-seq.fw", "size_i": "22622", "regex": "false"},
+	{"name_s": "/usr/share/doc/aic94xx-firmware-30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/aic94xx-firmware-30/LICENSE.aic94xx", "size_i": "5072", "regex": "false"},
+	{"name_s": "/usr/share/doc/aic94xx-firmware-30/README-94xx.pdf", "size_i": "3058", "regex": "false"}
+]

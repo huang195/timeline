@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/ppl_pl", "size_i": "4553160", "regex": "false"},
+	{"name_s": "/usr/lib64/ppl/libppl_swiprolog.so", "size_i": "4740072", "regex": "false"},
+	{"name_s": "/usr/lib64/ppl/ppl_swiprolog.pl", "size_i": "988", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-swiprolog-0.10.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-swiprolog-0.10.2/README.swiprolog", "size_i": "1468", "regex": "false"}
+]

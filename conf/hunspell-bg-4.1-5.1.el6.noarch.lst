@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-bg-4.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-bg-4.1/COPYING", "size_i": "17979", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-bg-4.1/COPYING.BULGARIAN", "size_i": "20901", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-bg-4.1/README", "size_i": "4109", "regex": "false"},
+	{"name_s": "/usr/share/myspell/bg_BG.aff", "size_i": "58189", "regex": "false"},
+	{"name_s": "/usr/share/myspell/bg_BG.dic", "size_i": "1644570", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/audiofile-config", "size_i": "1001", "regex": "false"},
+	{"name_s": "/usr/include/af_vfs.h", "size_i": "1826", "regex": "false"},
+	{"name_s": "/usr/include/audiofile.h", "size_i": "23839", "regex": "false"},
+	{"name_s": "/usr/include/aupvlist.h", "size_i": "1633", "regex": "false"},
+	{"name_s": "/usr/lib/libaudiofile.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/audiofile.pc", "size_i": "192", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/audiofile.m4", "size_i": "6793", "regex": "false"}
+]

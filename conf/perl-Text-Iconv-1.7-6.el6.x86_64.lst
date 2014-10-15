@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/perl5/Text", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Text/Iconv.pm", "size_i": "5042", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Text", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Text/Iconv", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Text/Iconv/Iconv.so", "size_i": "19376", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Text/Iconv/autosplit.ix", "size_i": "89", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Text-Iconv-1.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Text-Iconv-1.7/Changes", "size_i": "2371", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Text-Iconv-1.7/README", "size_i": "3541", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Text::Iconv.3pm.gz", "size_i": "3322", "regex": "false"}
+]

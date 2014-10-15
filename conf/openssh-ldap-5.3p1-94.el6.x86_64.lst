@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/libexec/openssh/ssh-ldap-helper", "size_i": "55864", "regex": "false"},
+	{"name_s": "/usr/libexec/openssh/ssh-ldap-wrapper", "size_i": "62", "regex": "false"},
+	{"name_s": "/usr/share/doc/openssh-ldap-5.3p1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openssh-ldap-5.3p1/HOWTO.ldap-keys", "size_i": "3621", "regex": "false"},
+	{"name_s": "/usr/share/doc/openssh-ldap-5.3p1/ldap.conf", "size_i": "2375", "regex": "false"},
+	{"name_s": "/usr/share/doc/openssh-ldap-5.3p1/openssh-lpk-openldap.schema", "size_i": "596", "regex": "false"},
+	{"name_s": "/usr/share/doc/openssh-ldap-5.3p1/openssh-lpk-sun.schema", "size_i": "668", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/ssh-ldap.conf.5.gz", "size_i": "3926", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ssh-ldap-helper.8.gz", "size_i": "1184", "regex": "false"}
+]

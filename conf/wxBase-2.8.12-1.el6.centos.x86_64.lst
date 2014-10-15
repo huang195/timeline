@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/libwx_baseu-2.8.so.0", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libwx_baseu-2.8.so.0.8.0", "size_i": "1373336", "regex": "false"},
+	{"name_s": "/usr/lib64/libwx_baseu_net-2.8.so.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/libwx_baseu_net-2.8.so.0.8.0", "size_i": "191840", "regex": "false"},
+	{"name_s": "/usr/lib64/libwx_baseu_xml-2.8.so.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/libwx_baseu_xml-2.8.so.0.8.0", "size_i": "36696", "regex": "false"},
+	{"name_s": "/usr/share/doc/wxBase-2.8.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/wxBase-2.8.12/changes.txt", "size_i": "156211", "regex": "false"},
+	{"name_s": "/usr/share/doc/wxBase-2.8.12/gpl.txt", "size_i": "17977", "regex": "false"},
+	{"name_s": "/usr/share/doc/wxBase-2.8.12/lgpl.txt", "size_i": "25271", "regex": "false"},
+	{"name_s": "/usr/share/doc/wxBase-2.8.12/licence.txt", "size_i": "2497", "regex": "false"},
+	{"name_s": "/usr/share/doc/wxBase-2.8.12/licendoc.txt", "size_i": "3335", "regex": "false"},
+	{"name_s": "/usr/share/doc/wxBase-2.8.12/preamble.txt", "size_i": "2033", "regex": "false"},
+	{"name_s": "/usr/share/doc/wxBase-2.8.12/readme.txt", "size_i": "5278", "regex": "false"}
+]

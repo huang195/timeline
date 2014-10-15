@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/omping", "size_i": "58264", "regex": "false"},
+	{"name_s": "/usr/share/doc/omping-0.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/omping-0.0.4/AUTHORS", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/share/doc/omping-0.0.4/COPYING", "size_i": "743", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/omping.8.gz", "size_i": "4334", "regex": "false"}
+]

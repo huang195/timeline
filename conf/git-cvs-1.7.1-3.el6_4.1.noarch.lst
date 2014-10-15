@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/git-cvsserver", "size_i": "117744", "regex": "false"},
+	{"name_s": "/usr/libexec/git-core/git-cvsexportcommit", "size_i": "12723", "regex": "false"},
+	{"name_s": "/usr/libexec/git-core/git-cvsimport", "size_i": "29292", "regex": "false"},
+	{"name_s": "/usr/libexec/git-core/git-cvsserver", "size_i": "117744", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-cvs-1.7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-cvs-1.7.1/git-cvsexportcommit.html", "size_i": "12850", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-cvs-1.7.1/git-cvsexportcommit.txt", "size_i": "3380", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-cvs-1.7.1/git-cvsimport.html", "size_i": "19000", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-cvs-1.7.1/git-cvsimport.txt", "size_i": "7617", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-cvs-1.7.1/git-cvsserver.html", "size_i": "26691", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-cvs-1.7.1/git-cvsserver.txt", "size_i": "13206", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/git-cvsexportcommit.1.gz", "size_i": "1896", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/git-cvsimport.1.gz", "size_i": "3890", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/git-cvsserver.1.gz", "size_i": "5871", "regex": "false"}
+]

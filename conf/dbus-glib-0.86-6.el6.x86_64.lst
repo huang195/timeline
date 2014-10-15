@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/dbus-binding-tool", "size_i": "83304", "regex": "false"},
+	{"name_s": "/usr/lib64/libdbus-glib-1.so.2", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libdbus-glib-1.so.2.1.0", "size_i": "142312", "regex": "false"},
+	{"name_s": "/usr/share/doc/dbus-glib-0.86", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dbus-glib-0.86/COPYING", "size_i": "29053", "regex": "false"},
+	{"name_s": "/usr/share/doc/dbus-glib-0.86/ChangeLog", "size_i": "317830", "regex": "false"},
+	{"name_s": "/usr/share/doc/dbus-glib-0.86/NEWS", "size_i": "7112", "regex": "false"}
+]

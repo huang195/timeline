@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/java/ejb.jar", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/share/java/j2ee-connector.jar", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/java/j2ee-deployment.jar", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/java/j2ee-management.jar", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/java/jacc.jar", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/java/jms.jar", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/share/java/jta.jar", "size_i": "28", "regex": "false"}
+]

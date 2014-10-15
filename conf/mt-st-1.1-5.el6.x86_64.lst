@@ -1,0 +1,13 @@
+[
+	{"name_s": "/bin/mt", "size_i": "21024", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/stinit", "size_i": "679", "regex": "false"},
+	{"name_s": "/sbin/stinit", "size_i": "31608", "regex": "false"},
+	{"name_s": "/usr/share/doc/mt-st-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mt-st-1.1/COPYING", "size_i": "18458", "regex": "false"},
+	{"name_s": "/usr/share/doc/mt-st-1.1/README", "size_i": "3669", "regex": "false"},
+	{"name_s": "/usr/share/doc/mt-st-1.1/README.stinit", "size_i": "3020", "regex": "false"},
+	{"name_s": "/usr/share/doc/mt-st-1.1/mt-st-1.1.lsm", "size_i": "631", "regex": "false"},
+	{"name_s": "/usr/share/doc/mt-st-1.1/stinit.def.examples", "size_i": "6518", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mt.1.gz", "size_i": "3193", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/stinit.8.gz", "size_i": "3712", "regex": "false"}
+]

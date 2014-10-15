@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/include/bezctx.h", "size_i": "436", "regex": "false"},
+	{"name_s": "/usr/include/bezctx_intf.h", "size_i": "466", "regex": "false"},
+	{"name_s": "/usr/include/spiro.h", "size_i": "343", "regex": "false"},
+	{"name_s": "/usr/include/spiroentrypoints.h", "size_i": "1270", "regex": "false"},
+	{"name_s": "/usr/lib/libspiro.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspiro-devel-20071029", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspiro-devel-20071029/README", "size_i": "471", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspiro-devel-20071029/README-RaphLevien", "size_i": "3360", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspiro-devel-20071029/gpl.txt", "size_i": "17987", "regex": "false"}
+]

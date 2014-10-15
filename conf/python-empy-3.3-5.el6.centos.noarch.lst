@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/em.py", "size_i": "114253", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/em.pyc", "size_i": "130025", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/em.pyo", "size_i": "129733", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/empy-3.1-py2.6.egg-info", "size_i": "1165", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-empy-3.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-empy-3.3/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-empy-3.3/README", "size_i": "107296", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-empy-3.3/version.txt", "size_i": "4", "regex": "false"}
+]

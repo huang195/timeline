@@ -1,0 +1,7 @@
+[
+	{"name_s": "/sbin/busybox", "size_i": "1045992", "regex": "false"},
+	{"name_s": "/usr/share/doc/busybox-1.15.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/busybox-1.15.1/LICENSE", "size_i": "18348", "regex": "false"},
+	{"name_s": "/usr/share/doc/busybox-1.15.1/README", "size_i": "8756", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/busybox.1.gz", "size_i": "42916", "regex": "false"}
+]

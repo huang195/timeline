@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/xinetd.d/finger", "size_i": "318", "regex": "false"},
+	{"name_s": "/usr/sbin/in.fingerd", "size_i": "11416", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/fingerd.8.gz", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/in.fingerd.8.gz", "size_i": "2349", "regex": "false"}
+]

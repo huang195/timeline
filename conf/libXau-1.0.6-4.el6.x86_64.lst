@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libXau.so.6", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libXau.so.6.0.0", "size_i": "10856", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXau-1.0.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXau-1.0.6/AUTHORS", "size_i": "71", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXau-1.0.6/COPYING", "size_i": "1148", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXau-1.0.6/ChangeLog", "size_i": "19080", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXau-1.0.6/README", "size_i": "8854", "regex": "false"}
+]

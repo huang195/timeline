@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/lib64/gcj/ldapjdk/ldapbeans-4.18.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ldapjdk/ldapbeans-4.18.jar.so", "size_i": "130024", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ldapjdk/ldapfilt-4.18.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ldapjdk/ldapfilt-4.18.jar.so", "size_i": "57928", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ldapjdk/ldapjdk-4.18.jar.db", "size_i": "16384", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ldapjdk/ldapjdk-4.18.jar.so", "size_i": "1369160", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ldapjdk/ldapsp-4.18.jar.db", "size_i": "8192", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ldapjdk/ldapsp-4.18.jar.so", "size_i": "502504", "regex": "false"},
+	{"name_s": "/usr/share/java-1.3.0/jndi-ldap.jar", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/java/ldapbeans-4.18.jar", "size_i": "27745", "regex": "false"},
+	{"name_s": "/usr/share/java/ldapbeans.jar", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/java/ldapfilt-4.18.jar", "size_i": "12250", "regex": "false"},
+	{"name_s": "/usr/share/java/ldapfilt.jar", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/java/ldapjdk-4.18.jar", "size_i": "306342", "regex": "false"},
+	{"name_s": "/usr/share/java/ldapjdk.jar", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/java/ldapsp-4.18.jar", "size_i": "101260", "regex": "false"},
+	{"name_s": "/usr/share/java/ldapsp.jar", "size_i": "15", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/braseroburn.so", "size_i": "86824", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/braseromedia.so", "size_i": "50248", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Socket.pm", "size_i": "36326", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Socket", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Socket/Socket.so", "size_i": "40704", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Socket-2.013", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Socket-2.013/Artistic", "size_i": "6111", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Socket-2.013/Changes", "size_i": "4819", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Socket-2.013/Copying", "size_i": "12632", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Socket-2.013/LICENSE", "size_i": "1132", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Socket.3pm.gz", "size_i": "9651", "regex": "false"}
+]

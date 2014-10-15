@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/tcl8.5/brlapi-0.5.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/tcl8.5/brlapi-0.5.4/libbrlapi_tcl.so", "size_i": "24424", "regex": "false"},
+	{"name_s": "/usr/lib64/tcl8.5/brlapi-0.5.4/pkgIndex.tcl", "size_i": "466", "regex": "false"}
+]

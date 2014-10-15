@@ -1,0 +1,19 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/Changes", "size_i": "2005", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/LICENSE", "size_i": "1159", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/README", "size_i": "238", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/t", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/t/00-compile.t", "size_i": "1622", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/t/basic.t", "size_i": "3083", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/t/context.t", "size_i": "1414", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/t/erroneous_usage.t", "size_i": "1557", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/t/finally.t", "size_i": "2384", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/t/given_when.t", "size_i": "598", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/t/global_destruction_forked.t", "size_i": "910", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/t/named.t", "size_i": "575", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Try-Tiny-0.18/t/when.t", "size_i": "574", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Try::Tiny.3pm.gz", "size_i": "7472", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Try", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Try/Tiny.pm", "size_i": "17473", "regex": "false"}
+]

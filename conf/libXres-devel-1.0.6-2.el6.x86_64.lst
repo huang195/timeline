@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/include/X11/extensions/XRes.h", "size_i": "805", "regex": "false"},
+	{"name_s": "/usr/lib64/libXRes.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/xres.pc", "size_i": "245", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XRes.3.gz", "size_i": "1877", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XResQueryClientPixmapBytes.3.gz", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XResQueryClientResources.3.gz", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XResQueryClients.3.gz", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XResQueryExtension.3.gz", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XResQueryVersion.3.gz", "size_i": "36", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Class-Load-0.20", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Class-Load-0.20/Changes", "size_i": "4212", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Class-Load-0.20/LICENSE", "size_i": "18371", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Class-Load-0.20/README", "size_i": "306", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Class::Load.3pm.gz", "size_i": "3919", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Class", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Class/Load", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Class/Load.pm", "size_i": "9774", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Class/Load/PP.pm", "size_i": "1311", "regex": "false"}
+]

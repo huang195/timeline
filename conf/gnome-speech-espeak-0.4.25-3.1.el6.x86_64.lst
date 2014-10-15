@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/espeak-synthesis-driver", "size_i": "17824", "regex": "false"},
+	{"name_s": "/usr/lib64/bonobo/servers/GNOME_Speech_SynthesisDriver_Espeak.server", "size_i": "569", "regex": "false"}
+]

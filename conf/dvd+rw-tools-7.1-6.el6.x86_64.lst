@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/dvd+rw-booktype", "size_i": "39664", "regex": "false"},
+	{"name_s": "/usr/bin/dvd+rw-format", "size_i": "45816", "regex": "false"},
+	{"name_s": "/usr/bin/dvd+rw-mediainfo", "size_i": "53568", "regex": "false"},
+	{"name_s": "/usr/bin/dvd-ram-control", "size_i": "21880", "regex": "false"},
+	{"name_s": "/usr/bin/growisofs", "size_i": "89504", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvd+rw-tools-7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvd+rw-tools-7.1/LICENSE", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvd+rw-tools-7.1/index.html", "size_i": "65298", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/growisofs.1.gz", "size_i": "3992", "regex": "false"}
+]

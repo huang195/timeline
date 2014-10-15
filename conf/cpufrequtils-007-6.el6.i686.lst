@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/centrino-decode", "size_i": "4184", "regex": "false"},
+	{"name_s": "/usr/bin/cpufreq-aperf", "size_i": "9996", "regex": "false"},
+	{"name_s": "/usr/bin/cpufreq-info", "size_i": "15948", "regex": "false"},
+	{"name_s": "/usr/bin/cpufreq-set", "size_i": "9452", "regex": "false"},
+	{"name_s": "/usr/bin/dump_psb", "size_i": "5260", "regex": "false"},
+	{"name_s": "/usr/bin/powernow-k8-decode", "size_i": "4224", "regex": "false"},
+	{"name_s": "/usr/lib/libcpufreq.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libcpufreq.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libcpufreq.so.0.0.0", "size_i": "19632", "regex": "false"},
+	{"name_s": "/usr/share/locale/cs/LC_MESSAGES/cpufrequtils.mo", "size_i": "8749", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/cpufrequtils.mo", "size_i": "10560", "regex": "false"},
+	{"name_s": "/usr/share/locale/fr/LC_MESSAGES/cpufrequtils.mo", "size_i": "8781", "regex": "false"},
+	{"name_s": "/usr/share/locale/it/LC_MESSAGES/cpufrequtils.mo", "size_i": "10253", "regex": "false"},
+	{"name_s": "/usr/share/locale/pt/LC_MESSAGES/cpufrequtils.mo", "size_i": "10283", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cpufreq-info.1.gz", "size_i": "943", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cpufreq-set.1.gz", "size_i": "869", "regex": "false"}
+]

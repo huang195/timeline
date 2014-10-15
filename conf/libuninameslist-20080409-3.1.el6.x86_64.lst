@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libuninameslist-fr.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib64/libuninameslist-fr.so.0.0.2", "size_i": "1871472", "regex": "false"},
+	{"name_s": "/usr/lib64/libuninameslist.so.0", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libuninameslist.so.0.0.2", "size_i": "1889264", "regex": "false"},
+	{"name_s": "/usr/share/doc/libuninameslist-20080409", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libuninameslist-20080409/LICENSE", "size_i": "1516", "regex": "false"}
+]

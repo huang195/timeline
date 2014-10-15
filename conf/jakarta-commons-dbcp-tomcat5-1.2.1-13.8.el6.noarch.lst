@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/jakarta-commons-dbcp-tomcat5-1.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-dbcp-tomcat5-1.2.1/LICENSE.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-dbcp-tomcat5-1.2.1/NOTICE.txt", "size_i": "101", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-dbcp-tomcat5-1.2.1.jar", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-dbcp-tomcat5.jar", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-dbcp-tomcat5-1.2.1.jar", "size_i": "105526", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-dbcp-tomcat5.jar", "size_i": "38", "regex": "false"}
+]

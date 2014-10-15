@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/logrotate.d/sanlock", "size_i": "175", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/sanlock", "size_i": "2005", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/wdmd", "size_i": "2154", "regex": "false"},
+	{"name_s": "/etc/sysconfig/sanlock", "size_i": "439", "regex": "false"},
+	{"name_s": "/etc/sysconfig/wdmd", "size_i": "314", "regex": "false"},
+	{"name_s": "/etc/wdmd.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/sbin/sanlock", "size_i": "153640", "regex": "false"},
+	{"name_s": "/usr/sbin/wdmd", "size_i": "35016", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sanlock.8.gz", "size_i": "6178", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/wdmd.8.gz", "size_i": "1299", "regex": "false"},
+	{"name_s": "/var/run/sanlock", "size_i": "4096", "regex": "false"}
+]

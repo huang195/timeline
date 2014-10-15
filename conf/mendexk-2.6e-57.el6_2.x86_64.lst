@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/mendex", "size_i": "122824", "regex": "false"},
+	{"name_s": "/usr/share/man/ja/man1/mendex.1.gz", "size_i": "4447", "regex": "false"},
+	{"name_s": "/usr/share/texmf/doc/mendexk-texlive", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/texmf/doc/mendexk-texlive/COPYRIGHT", "size_i": "1402", "regex": "false"},
+	{"name_s": "/usr/share/texmf/doc/mendexk-texlive/COPYRIGHT.jis", "size_i": "2351", "regex": "false"},
+	{"name_s": "/usr/share/texmf/doc/mendexk-texlive/ChangeLog", "size_i": "3316", "regex": "false"},
+	{"name_s": "/usr/share/texmf/doc/mendexk-texlive/README", "size_i": "4507", "regex": "false"}
+]

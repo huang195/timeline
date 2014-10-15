@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-pa-20050726", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-pa-20050726/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-pa-20050726/Copyright", "size_i": "835", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-pa-20050726/README", "size_i": "2982", "regex": "false"},
+	{"name_s": "/usr/share/myspell/pa_IN.aff", "size_i": "2513", "regex": "false"},
+	{"name_s": "/usr/share/myspell/pa_IN.dic", "size_i": "37108", "regex": "false"}
+]

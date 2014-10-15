@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib64/libcom_err.so.2", "size_i": "17", "regex": "false"},
+	{"name_s": "/lib64/libcom_err.so.2.1", "size_i": "14664", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcom_err-1.41.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcom_err-1.41.12/COPYING", "size_i": "44569", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/libexec/geoclue-gypsy", "size_i": "13120", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/services/org.freedesktop.Geoclue.Providers.Gypsy.service", "size_i": "93", "regex": "false"},
+	{"name_s": "/usr/share/geoclue-providers/geoclue-gypsy.provider", "size_i": "265", "regex": "false"}
+]

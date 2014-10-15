@@ -1,0 +1,13 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/bin/bacon", "size_i": "470", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bacon-1.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bacon-1.1.0/bin", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bacon-1.1.0/bin/bacon", "size_i": "2778", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bacon-1.1.0/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bacon-1.1.0/lib/autotest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bacon-1.1.0/lib/autotest/bacon.rb", "size_i": "892", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bacon-1.1.0/lib/autotest/bacon_rspec.rb", "size_i": "94", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bacon-1.1.0/lib/autotest/discover.rb", "size_i": "238", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bacon-1.1.0/lib/bacon.rb", "size_i": "8413", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/bacon-1.1.0.gemspec", "size_i": "920", "regex": "false"}
+]

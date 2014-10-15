@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-oc-0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-oc-0.5/CREDITS", "size_i": "82", "regex": "false"},
+	{"name_s": "/usr/share/myspell/oc_FR.aff", "size_i": "23627", "regex": "false"},
+	{"name_s": "/usr/share/myspell/oc_FR.dic", "size_i": "660522", "regex": "false"}
+]

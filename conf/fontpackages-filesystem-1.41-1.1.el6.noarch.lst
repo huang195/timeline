@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/fonts", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/fonts/conf.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts", "size_i": "4096", "regex": "false"}
+]

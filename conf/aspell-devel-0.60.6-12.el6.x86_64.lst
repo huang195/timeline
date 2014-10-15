@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/pspell-config", "size_i": "382", "regex": "false"},
+	{"name_s": "/usr/include/aspell.h", "size_i": "26463", "regex": "false"},
+	{"name_s": "/usr/include/pspell", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/pspell/pspell.h", "size_i": "5477", "regex": "false"},
+	{"name_s": "/usr/lib64/libaspell.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libpspell.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/aspell.pc", "size_i": "229", "regex": "false"},
+	{"name_s": "/usr/share/info/aspell-dev.info.gz", "size_i": "23554", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pspell-config.1.gz", "size_i": "430", "regex": "false"}
+]

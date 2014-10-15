@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/pki/nssdb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/pki/nssdb/cert8.db", "size_i": "65536", "regex": "false"},
+	{"name_s": "/etc/pki/nssdb/key3.db", "size_i": "16384", "regex": "false"},
+	{"name_s": "/etc/pki/nssdb/secmod.db", "size_i": "16384", "regex": "false"},
+	{"name_s": "/usr/lib64/libnss3.so", "size_i": "1296368", "regex": "false"},
+	{"name_s": "/usr/lib64/libnssckbi.so", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/lib64/libnsspem.so", "size_i": "150712", "regex": "false"},
+	{"name_s": "/usr/lib64/libsmime3.so", "size_i": "181168", "regex": "false"},
+	{"name_s": "/usr/lib64/libssl3.so", "size_i": "250168", "regex": "false"},
+	{"name_s": "/usr/lib64/nss/libnssckbi.so", "size_i": "633784", "regex": "false"}
+]

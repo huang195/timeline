@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/xorg/protocol.txt", "size_i": "31246", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-server-common-1.13.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-server-common-1.13.0/COPYING", "size_i": "93581", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/Xserver.1.gz", "size_i": "8954", "regex": "false"},
+	{"name_s": "/var/lib/xkb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/xkb/README.compiled", "size_i": "644", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/extract_j2k_from_mj2", "size_i": "42848", "regex": "false"},
+	{"name_s": "/usr/bin/frames_to_mj2", "size_i": "60824", "regex": "false"},
+	{"name_s": "/usr/bin/image_to_j2k", "size_i": "62312", "regex": "false"},
+	{"name_s": "/usr/bin/j2k_to_image", "size_i": "49552", "regex": "false"},
+	{"name_s": "/usr/bin/mj2_to_frames", "size_i": "50032", "regex": "false"},
+	{"name_s": "/usr/bin/wrap_j2k_in_mj2", "size_i": "44984", "regex": "false"},
+	{"name_s": "/usr/share/doc/openjpeg-1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openjpeg-1.3/ChangeLog", "size_i": "28242", "regex": "false"},
+	{"name_s": "/usr/share/doc/openjpeg-1.3/license.txt", "size_i": "1723", "regex": "false"}
+]

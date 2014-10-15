@@ -1,0 +1,4 @@
+[
+	{"name_s": "/var/lib/gdm/.pulse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/gdm/.pulse/default.pa", "size_i": "385", "regex": "false"}
+]

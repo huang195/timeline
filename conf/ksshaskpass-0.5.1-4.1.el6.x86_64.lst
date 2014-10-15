@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/kde/env/ksshaskpass.sh", "size_i": "52", "regex": "false"},
+	{"name_s": "/usr/bin/ksshaskpass", "size_i": "12872", "regex": "false"},
+	{"name_s": "/usr/share/applications/kde4/ksshaskpass.desktop", "size_i": "310", "regex": "false"},
+	{"name_s": "/usr/share/doc/ksshaskpass-0.5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ksshaskpass-0.5.1/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/ksshaskpass-0.5.1/ChangeLog", "size_i": "849", "regex": "false"},
+	{"name_s": "/usr/share/doc/ksshaskpass-0.5.1/README.Fedora", "size_i": "489", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ksshaskpass.1.gz", "size_i": "513", "regex": "false"}
+]

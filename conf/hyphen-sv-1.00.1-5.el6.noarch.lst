@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-sv-1.00.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-sv-1.00.1/README_sv_SE.txt", "size_i": "1036", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_sv_FI.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_sv_SE.dic", "size_i": "63933", "regex": "false"}
+]

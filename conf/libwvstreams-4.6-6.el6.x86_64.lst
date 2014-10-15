@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libuniconf.so.4.6", "size_i": "366600", "regex": "false"},
+	{"name_s": "/usr/lib64/libwvbase.so.4.6", "size_i": "544632", "regex": "false"},
+	{"name_s": "/usr/lib64/libwvdbus.so.4.6", "size_i": "147128", "regex": "false"},
+	{"name_s": "/usr/lib64/libwvstreams.so.4.6", "size_i": "831584", "regex": "false"},
+	{"name_s": "/usr/lib64/libwvutils.so.4.6", "size_i": "153888", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwvstreams-4.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwvstreams-4.6/LICENSE", "size_i": "25265", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwvstreams-4.6/README", "size_i": "205", "regex": "false"}
+]

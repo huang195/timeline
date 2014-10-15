@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/java/commons-collections-testframework-3.2.1.jar", "size_i": "51", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-collections-testframework.jar", "size_i": "43", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-collections-testframework-3.2.1.jar", "size_i": "105506", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-collections-testframework.jar", "size_i": "51", "regex": "false"}
+]

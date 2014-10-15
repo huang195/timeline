@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/c2050", "size_i": "9008", "regex": "false"},
+	{"name_s": "/usr/share/doc/c2050-0.3b", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/c2050-0.3b/COPYING", "size_i": "17996", "regex": "false"},
+	{"name_s": "/usr/share/doc/c2050-0.3b/README", "size_i": "3125", "regex": "false"}
+]

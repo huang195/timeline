@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-kk-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-kk-1.1/README_kk_KZ.txt", "size_i": "4586", "regex": "false"},
+	{"name_s": "/usr/share/myspell/kk_KZ.aff", "size_i": "103192", "regex": "false"},
+	{"name_s": "/usr/share/myspell/kk_KZ.dic", "size_i": "2130055", "regex": "false"}
+]

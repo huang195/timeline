@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/perl-Image-Base-1.07", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Image-Base-1.07/README", "size_i": "4848", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Image::Base.3pm.gz", "size_i": "3744", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Image", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Image/Base.pm", "size_i": "10624", "regex": "false"}
+]

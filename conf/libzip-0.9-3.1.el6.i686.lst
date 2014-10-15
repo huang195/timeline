@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/zipcmp", "size_i": "8288", "regex": "false"},
+	{"name_s": "/usr/bin/zipmerge", "size_i": "7904", "regex": "false"},
+	{"name_s": "/usr/bin/ziptorrent", "size_i": "6308", "regex": "false"},
+	{"name_s": "/usr/lib/libzip.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libzip.so.1.0.0", "size_i": "41880", "regex": "false"},
+	{"name_s": "/usr/share/doc/libzip-0.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libzip-0.9/AUTHORS", "size_i": "63", "regex": "false"},
+	{"name_s": "/usr/share/doc/libzip-0.9/NEWS", "size_i": "1222", "regex": "false"},
+	{"name_s": "/usr/share/doc/libzip-0.9/README", "size_i": "910", "regex": "false"},
+	{"name_s": "/usr/share/doc/libzip-0.9/THANKS", "size_i": "376", "regex": "false"},
+	{"name_s": "/usr/share/doc/libzip-0.9/TODO", "size_i": "3810", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/zipcmp.1.gz", "size_i": "1368", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/zipmerge.1.gz", "size_i": "1399", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ziptorrent.1.gz", "size_i": "1351", "regex": "false"}
+]

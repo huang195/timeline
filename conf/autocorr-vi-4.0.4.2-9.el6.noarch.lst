@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/autocorr", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/autocorr/acor_vi-VN.dat", "size_i": "9532", "regex": "false"},
+	{"name_s": "/usr/share/doc/autocorr-vi-4.0.4.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/autocorr-vi-4.0.4.2/LICENSE", "size_i": "436392", "regex": "false"}
+]

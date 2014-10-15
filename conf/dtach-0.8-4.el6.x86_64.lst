@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/dtach", "size_i": "16160", "regex": "false"},
+	{"name_s": "/usr/share/doc/dtach-0.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dtach-0.8/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/dtach-0.8/README", "size_i": "7891", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dtach.1.gz", "size_i": "1918", "regex": "false"}
+]

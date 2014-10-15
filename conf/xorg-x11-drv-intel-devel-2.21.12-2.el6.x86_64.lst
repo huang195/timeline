@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libI810XvMC.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libIntelXvMC.so", "size_i": "21", "regex": "false"}
+]

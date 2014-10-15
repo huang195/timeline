@@ -1,0 +1,17 @@
+[
+	{"name_s": "/etc/cron.daily/00webalizer", "size_i": "133", "regex": "false"},
+	{"name_s": "/etc/httpd/conf.d/webalizer.conf", "size_i": "352", "regex": "false"},
+	{"name_s": "/etc/webalizer.conf", "size_i": "23735", "regex": "false"},
+	{"name_s": "/usr/bin/wcmgr", "size_i": "20704", "regex": "false"},
+	{"name_s": "/usr/bin/webalizer", "size_i": "169224", "regex": "false"},
+	{"name_s": "/usr/bin/webazolver", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/doc/webalizer-2.21_02", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/webalizer-2.21_02/README", "size_i": "102611", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/wcmgr.1.gz", "size_i": "1951", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/webalizer.1.gz", "size_i": "10324", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/webazolver.1.gz", "size_i": "14", "regex": "false"},
+	{"name_s": "/var/lib/webalizer", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/www/usage", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/www/usage/msfree.png", "size_i": "1478", "regex": "false"},
+	{"name_s": "/var/www/usage/webalizer.png", "size_i": "1253", "regex": "false"}
+]

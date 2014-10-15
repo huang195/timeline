@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/pki/nssdb/cert9.db", "size_i": "9216", "regex": "false"},
+	{"name_s": "/etc/pki/nssdb/key4.db", "size_i": "11264", "regex": "false"},
+	{"name_s": "/etc/pki/nssdb/pkcs11.txt", "size_i": "451", "regex": "false"},
+	{"name_s": "/usr/bin/setup-nsssysinit.sh", "size_i": "1539", "regex": "false"},
+	{"name_s": "/usr/lib64/libnsssysinit.so", "size_i": "10352", "regex": "false"}
+]

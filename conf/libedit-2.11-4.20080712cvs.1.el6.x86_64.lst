@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libedit.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libedit.so.0.0.27", "size_i": "178816", "regex": "false"},
+	{"name_s": "/usr/share/doc/libedit-2.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libedit-2.11/COPYING", "size_i": "1418", "regex": "false"},
+	{"name_s": "/usr/share/doc/libedit-2.11/ChangeLog", "size_i": "5361", "regex": "false"},
+	{"name_s": "/usr/share/doc/libedit-2.11/THANKS", "size_i": "53", "regex": "false"}
+]

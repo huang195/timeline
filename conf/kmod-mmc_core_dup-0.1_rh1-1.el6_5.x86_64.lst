@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/depmod.d/mmc_core_dup.conf", "size_i": "61", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.23.3.el6.x86_64", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.23.3.el6.x86_64/extra", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.23.3.el6.x86_64/extra/mmc_core_dup", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.23.3.el6.x86_64/extra/mmc_core_dup/mmc_core_dup.ko", "size_i": "160264", "regex": "false"},
+	{"name_s": "/usr/share/doc/kmod-mmc_core_dup/greylist.txt", "size_i": "415", "regex": "false"}
+]

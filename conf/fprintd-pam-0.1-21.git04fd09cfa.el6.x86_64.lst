@@ -1,0 +1,5 @@
+[
+	{"name_s": "/lib64/security/pam_fprintd.so", "size_i": "16336", "regex": "false"},
+	{"name_s": "/usr/share/doc/fprintd-pam-0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/fprintd-pam-0.1/README", "size_i": "1167", "regex": "false"}
+]

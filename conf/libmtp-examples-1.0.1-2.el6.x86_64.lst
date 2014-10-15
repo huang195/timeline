@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/bin/mtp-albumart", "size_i": "8960", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-albums", "size_i": "7288", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-connect", "size_i": "23696", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-delfile", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-detect", "size_i": "11000", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-emptyfolders", "size_i": "7296", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-files", "size_i": "7816", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-folders", "size_i": "7480", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-format", "size_i": "6968", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-getfile", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-getplaylist", "size_i": "7208", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-hotplug", "size_i": "10840", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-newfolder", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-newplaylist", "size_i": "7456", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-playlists", "size_i": "6904", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-reset", "size_i": "6912", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-sendfile", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-sendtr", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-thumb", "size_i": "8208", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-tracks", "size_i": "8376", "regex": "false"},
+	{"name_s": "/usr/bin/mtp-trexist", "size_i": "6752", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/libcares.so.2", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libcares.so.2.0.0", "size_i": "58600", "regex": "false"},
+	{"name_s": "/usr/share/doc/c-ares-1.7.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/c-ares-1.7.0/CHANGES", "size_i": "42960", "regex": "false"},
+	{"name_s": "/usr/share/doc/c-ares-1.7.0/LICENSE", "size_i": "647", "regex": "false"},
+	{"name_s": "/usr/share/doc/c-ares-1.7.0/NEWS", "size_i": "854", "regex": "false"},
+	{"name_s": "/usr/share/doc/c-ares-1.7.0/README", "size_i": "2362", "regex": "false"},
+	{"name_s": "/usr/share/doc/c-ares-1.7.0/README.cares", "size_i": "2742", "regex": "false"}
+]

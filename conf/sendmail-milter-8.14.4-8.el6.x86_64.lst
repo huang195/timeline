@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libmilter.so.1.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libmilter.so.1.0.1", "size_i": "52984", "regex": "false"}
+]

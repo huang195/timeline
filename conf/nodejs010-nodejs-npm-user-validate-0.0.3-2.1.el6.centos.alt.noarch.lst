@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/npm-user-validate", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/npm-user-validate/npm-user-validate.js", "size_i": "995", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/npm-user-validate/package.json", "size_i": "491", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-npm-user-validate-0.0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-npm-user-validate-0.0.3/LICENSE", "size_i": "1295", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-npm-user-validate-0.0.3/README.md", "size_i": "417", "regex": "false"}
+]

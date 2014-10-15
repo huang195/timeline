@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/pk11install", "size_i": "7536", "regex": "false"},
+	{"name_s": "/usr/lib64/libckyapplet.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libckyapplet.so.1.0.0", "size_i": "65248", "regex": "false"},
+	{"name_s": "/usr/lib64/libcoolkeypk11.so", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/pkcs11/libcoolkeypk11.so", "size_i": "159384", "regex": "false"},
+	{"name_s": "/usr/share/doc/coolkey-1.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/coolkey-1.1.0/ChangeLog", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/doc/coolkey-1.1.0/LICENSE", "size_i": "18425", "regex": "false"},
+	{"name_s": "/var/cache/coolkey", "size_i": "4096", "regex": "false"}
+]

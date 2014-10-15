@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/id3tag.h", "size_i": "10647", "regex": "false"},
+	{"name_s": "/usr/lib/libid3tag.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/id3tag.pc", "size_i": "203", "regex": "false"}
+]

@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/lib64/perl5/JSON", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/JSON/Syck.pm", "size_i": "5526", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/YAML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/YAML/Dumper", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/YAML/Dumper/Syck.pm", "size_i": "107", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/YAML/Loader", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/YAML/Loader/Syck.pm", "size_i": "107", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/YAML/Syck.pm", "size_i": "8096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/YAML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/YAML/Syck", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/YAML/Syck/Syck.so", "size_i": "127784", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-YAML-Syck-1.07", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-YAML-Syck-1.07/COMPATIBILITY", "size_i": "787", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-YAML-Syck-1.07/COPYING", "size_i": "2749", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-YAML-Syck-1.07/Changes", "size_i": "20092", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-YAML-Syck-1.07/README", "size_i": "5141", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/JSON::Syck.3pm.gz", "size_i": "4040", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/YAML::Syck.3pm.gz", "size_i": "4263", "regex": "false"}
+]

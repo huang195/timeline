@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/chainsaw", "size_i": "693", "regex": "false"},
+	{"name_s": "/usr/bin/logfactor5", "size_i": "593", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/log4j/log4j-1.2.14.jar.db", "size_i": "24576", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/log4j/log4j-1.2.14.jar.so", "size_i": "1646544", "regex": "false"},
+	{"name_s": "/usr/share/applications/jpackage-chainsaw.desktop", "size_i": "187", "regex": "false"},
+	{"name_s": "/usr/share/applications/jpackage-logfactor5.desktop", "size_i": "233", "regex": "false"},
+	{"name_s": "/usr/share/doc/log4j-1.2.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/log4j-1.2.14/LICENSE", "size_i": "11366", "regex": "false"},
+	{"name_s": "/usr/share/doc/log4j-1.2.14/NOTICE", "size_i": "101", "regex": "false"},
+	{"name_s": "/usr/share/java/log4j-1.2.14.jar", "size_i": "378087", "regex": "false"},
+	{"name_s": "/usr/share/java/log4j.jar", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/chainsaw.png", "size_i": "2954", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/logfactor5.png", "size_i": "856", "regex": "false"},
+	{"name_s": "/usr/share/sgml/log4j", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/sgml/log4j/catalog", "size_i": "113", "regex": "false"},
+	{"name_s": "/usr/share/sgml/log4j/log4j.dtd", "size_i": "4913", "regex": "false"}
+]

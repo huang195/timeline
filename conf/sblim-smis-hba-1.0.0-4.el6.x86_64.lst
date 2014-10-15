@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/lib64/cmpi/libcmpiLinux_Common.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiLinux_Common.so.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiLinux_Common.so.0.0.0", "size_i": "31656", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiLinux_ECTP_Provider.so", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiLinux_ECTP_Provider.so.0", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiLinux_ECTP_Provider.so.0.0.0", "size_i": "44592", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiSMIS_HBA_HDR_Provider.so", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiSMIS_HBA_HDR_Provider.so.0", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiSMIS_HBA_HDR_Provider.so.0.0.0", "size_i": "296304", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-smis-hba-1.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-smis-hba-1.0.0/AUTHORS", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-smis-hba-1.0.0/COPYING", "size_i": "11254", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-smis-hba-1.0.0/README", "size_i": "1980", "regex": "false"},
+	{"name_s": "/usr/share/sblim-smis-hba", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/sblim-smis-hba/Linux_SMIS_ECTP.mof", "size_i": "1244", "regex": "false"},
+	{"name_s": "/usr/share/sblim-smis-hba/Linux_SMIS_ECTP.reg", "size_i": "899", "regex": "false"},
+	{"name_s": "/usr/share/sblim-smis-hba/Linux_SMIS_HBA_HDR.mof", "size_i": "12510", "regex": "false"},
+	{"name_s": "/usr/share/sblim-smis-hba/Linux_SMIS_HBA_HDR.reg", "size_i": "3975", "regex": "false"},
+	{"name_s": "/usr/share/sblim-smis-hba/provider-register.sh", "size_i": "14176", "regex": "false"}
+]

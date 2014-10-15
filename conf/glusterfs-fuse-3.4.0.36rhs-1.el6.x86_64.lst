@@ -1,0 +1,5 @@
+[
+	{"name_s": "/sbin/mount.glusterfs", "size_i": "14656", "regex": "false"},
+	{"name_s": "/usr/bin/fusermount-glusterfs", "size_i": "28304", "regex": "false"},
+	{"name_s": "/usr/lib64/glusterfs/3.4.0.36rhs/xlator/mount/fuse.so", "size_i": "199584", "regex": "false"}
+]

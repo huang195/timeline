@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libgdbm.so.2", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libgdbm.so.2.0.0", "size_i": "24800", "regex": "false"},
+	{"name_s": "/usr/share/doc/gdbm-1.8.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gdbm-1.8.0/COPYING", "size_i": "17984", "regex": "false"},
+	{"name_s": "/usr/share/doc/gdbm-1.8.0/NEWS", "size_i": "2916", "regex": "false"},
+	{"name_s": "/usr/share/doc/gdbm-1.8.0/README", "size_i": "1766", "regex": "false"}
+]

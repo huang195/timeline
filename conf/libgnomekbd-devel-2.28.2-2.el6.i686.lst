@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/libgnomekbd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libgnomekbd/gkbd-desktop-config.h", "size_i": "2911", "regex": "false"},
+	{"name_s": "/usr/include/libgnomekbd/gkbd-indicator-config.h", "size_i": "2870", "regex": "false"},
+	{"name_s": "/usr/include/libgnomekbd/gkbd-indicator-plugin.h", "size_i": "3461", "regex": "false"},
+	{"name_s": "/usr/include/libgnomekbd/gkbd-indicator.h", "size_i": "2624", "regex": "false"},
+	{"name_s": "/usr/include/libgnomekbd/gkbd-keyboard-config.h", "size_i": "3558", "regex": "false"},
+	{"name_s": "/usr/include/libgnomekbd/gkbd-keyboard-drawing.h", "size_i": "6108", "regex": "false"},
+	{"name_s": "/usr/include/libgnomekbd/gkbd-util.h", "size_i": "1075", "regex": "false"},
+	{"name_s": "/usr/lib/libgnomekbd.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libgnomekbdui.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libgnomekbd.pc", "size_i": "319", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libgnomekbdui.pc", "size_i": "233", "regex": "false"}
+]

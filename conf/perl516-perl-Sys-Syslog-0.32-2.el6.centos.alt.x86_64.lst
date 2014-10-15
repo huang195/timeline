@@ -1,0 +1,13 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Sys", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Sys/Syslog.pm", "size_i": "46179", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Sys", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Sys/Syslog", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/Sys/Syslog/Syslog.so", "size_i": "16160", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sys-Syslog-0.32", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sys-Syslog-0.32/Changes", "size_i": "17251", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sys-Syslog-0.32/README", "size_i": "1559", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sys-Syslog-0.32/eg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sys-Syslog-0.32/eg/syslog.pl", "size_i": "308", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Sys::Syslog.3pm.gz", "size_i": "9649", "regex": "false"}
+]

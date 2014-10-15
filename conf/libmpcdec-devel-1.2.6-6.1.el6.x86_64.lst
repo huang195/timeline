@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/include/mpcdec", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/mpcdec/config_types.h", "size_i": "1919", "regex": "false"},
+	{"name_s": "/usr/include/mpcdec/decoder.h", "size_i": "4457", "regex": "false"},
+	{"name_s": "/usr/include/mpcdec/huffman.h", "size_i": "2063", "regex": "false"},
+	{"name_s": "/usr/include/mpcdec/math.h", "size_i": "5293", "regex": "false"},
+	{"name_s": "/usr/include/mpcdec/mpcdec.h", "size_i": "5334", "regex": "false"},
+	{"name_s": "/usr/include/mpcdec/reader.h", "size_i": "2999", "regex": "false"},
+	{"name_s": "/usr/include/mpcdec/requant.h", "size_i": "2075", "regex": "false"},
+	{"name_s": "/usr/include/mpcdec/streaminfo.h", "size_i": "4137", "regex": "false"},
+	{"name_s": "/usr/lib64/libmpcdec.so", "size_i": "18", "regex": "false"}
+]

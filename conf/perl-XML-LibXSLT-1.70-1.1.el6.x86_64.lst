@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/perl5/XML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/XML/LibXSLT.pm", "size_i": "27923", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/XML/benchmark.pl", "size_i": "7889", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/XML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/XML/LibXSLT", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/XML/LibXSLT/LibXSLT.so", "size_i": "69624", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-LibXSLT-1.70", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-LibXSLT-1.70/Changes", "size_i": "4857", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-LibXSLT-1.70/README", "size_i": "3027", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::LibXSLT.3pm.gz", "size_i": "6755", "regex": "false"}
+]

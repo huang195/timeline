@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_testutil-1.0rc1-py2.6-nspkg.pth", "size_i": "1080", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_testutil-1.0rc1-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_testutil-1.0rc1-py2.6.egg-info/PKG-INFO", "size_i": "1499", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_testutil-1.0rc1-py2.6.egg-info/SOURCES.txt", "size_i": "870", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_testutil-1.0rc1-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_testutil-1.0rc1-py2.6.egg-info/entry_points.txt", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_testutil-1.0rc1-py2.6.egg-info/namespace_packages.txt", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_testutil-1.0rc1-py2.6.egg-info/not-zip-safe", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_testutil-1.0rc1-py2.6.egg-info/requires.txt", "size_i": "65", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.who_testutil-1.0rc1-py2.6.egg-info/top_level.txt", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/who", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/who/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/who/plugins/testutil.py", "size_i": "9081", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/who/plugins/testutil.pyc", "size_i": "8683", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/who/plugins/testutil.pyo", "size_i": "8683", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-repoze-who-testutil-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-repoze-who-testutil-1.0/README.txt", "size_i": "660", "regex": "false"}
+]

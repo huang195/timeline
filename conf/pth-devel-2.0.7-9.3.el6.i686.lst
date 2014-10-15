@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/pth-config", "size_i": "4292", "regex": "false"},
+	{"name_s": "/usr/include/pth.h", "size_i": "21769", "regex": "false"},
+	{"name_s": "/usr/lib/libpth.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/pth.m4", "size_i": "16504", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-devel-2.0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-devel-2.0.7/HACKING", "size_i": "7227", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pth-config.1.gz", "size_i": "2661", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/pth.3.gz", "size_i": "35098", "regex": "false"}
+]

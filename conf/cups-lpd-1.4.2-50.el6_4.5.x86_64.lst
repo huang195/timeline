@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/xinetd.d/cups-lpd", "size_i": "239", "regex": "false"},
+	{"name_s": "/usr/lib/cups", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/cups/daemon", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/cups/daemon/cups-lpd", "size_i": "27248", "regex": "false"}
+]

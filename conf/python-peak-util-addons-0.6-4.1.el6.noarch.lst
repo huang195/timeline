@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/AddOns-0.6-py2.6-nspkg.pth", "size_i": "666", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/AddOns-0.6-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/AddOns-0.6-py2.6.egg-info/PKG-INFO", "size_i": "30807", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/AddOns-0.6-py2.6.egg-info/SOURCES.txt", "size_i": "317", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/AddOns-0.6-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/AddOns-0.6-py2.6.egg-info/namespace_packages.txt", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/AddOns-0.6-py2.6.egg-info/requires.txt", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/AddOns-0.6-py2.6.egg-info/top_level.txt", "size_i": "5", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/peak", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/peak/util", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/peak/util/addons.py", "size_i": "5377", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/peak/util/addons.pyc", "size_i": "7641", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/peak/util/addons.pyo", "size_i": "7641", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-peak-util-addons-0.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-peak-util-addons-0.6/README.txt", "size_i": "26063", "regex": "false"}
+]

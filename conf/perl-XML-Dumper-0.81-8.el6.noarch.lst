@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-XML-Dumper-0.81", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-Dumper-0.81/Changes", "size_i": "8117", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-Dumper-0.81/README", "size_i": "1754", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::Dumper.3pm.gz", "size_i": "5342", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/XML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/XML/Dumper.pm", "size_i": "26536", "regex": "false"}
+]

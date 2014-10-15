@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/bin/gdlib-config", "size_i": "2586", "regex": "false"},
+	{"name_s": "/usr/include/entities.h", "size_i": "4673", "regex": "false"},
+	{"name_s": "/usr/include/gd.h", "size_i": "32790", "regex": "false"},
+	{"name_s": "/usr/include/gd_io.h", "size_i": "1154", "regex": "false"},
+	{"name_s": "/usr/include/gdcache.h", "size_i": "2812", "regex": "false"},
+	{"name_s": "/usr/include/gdfontg.h", "size_i": "623", "regex": "false"},
+	{"name_s": "/usr/include/gdfontl.h", "size_i": "621", "regex": "false"},
+	{"name_s": "/usr/include/gdfontmb.h", "size_i": "590", "regex": "false"},
+	{"name_s": "/usr/include/gdfonts.h", "size_i": "585", "regex": "false"},
+	{"name_s": "/usr/include/gdfontt.h", "size_i": "617", "regex": "false"},
+	{"name_s": "/usr/include/gdfx.h", "size_i": "2396", "regex": "false"},
+	{"name_s": "/usr/lib/libgd.so", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/gdlib.pc", "size_i": "358", "regex": "false"},
+	{"name_s": "/usr/share/doc/gd-devel-2.0.35", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gd-devel-2.0.35/index.html", "size_i": "250352", "regex": "false"}
+]

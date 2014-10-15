@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/obex-data-server", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/obex-data-server/capability.xml", "size_i": "359", "regex": "false"},
+	{"name_s": "/etc/obex-data-server/imaging_capabilities.xml", "size_i": "272", "regex": "false"},
+	{"name_s": "/usr/bin/obex-data-server", "size_i": "148328", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/services/obex-data-server.service", "size_i": "78", "regex": "false"},
+	{"name_s": "/usr/share/doc/obex-data-server-0.4.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/obex-data-server-0.4.3/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/obex-data-server-0.4.3/README", "size_i": "260", "regex": "false"},
+	{"name_s": "/usr/share/doc/obex-data-server-0.4.3/dbus-api.txt", "size_i": "29774", "regex": "false"},
+	{"name_s": "/usr/share/doc/obex-data-server-0.4.3/ods-dbus-test.c", "size_i": "15664", "regex": "false"},
+	{"name_s": "/usr/share/doc/obex-data-server-0.4.3/ods-server-test.py", "size_i": "7566", "regex": "false"},
+	{"name_s": "/usr/share/doc/obex-data-server-0.4.3/ods-session-test.py", "size_i": "5333", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/obex-data-server.1.gz", "size_i": "477", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/sbin/fence_virt", "size_i": "45808", "regex": "false"},
+	{"name_s": "/usr/sbin/fence_xvm", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/share/doc/fence-virt-0.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/fence-virt-0.2.3/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/fence-virt-0.2.3/README", "size_i": "5261", "regex": "false"},
+	{"name_s": "/usr/share/doc/fence-virt-0.2.3/TODO", "size_i": "185", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/fence_virt.8.gz", "size_i": "1796", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/fence_xvm.8.gz", "size_i": "42", "regex": "false"}
+]

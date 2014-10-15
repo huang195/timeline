@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/lib64/libreoffice/program/classes/ScriptProviderForBeanShell.jar", "size_i": "19564", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/services/scriptproviderforbeanshell.rdb", "size_i": "629", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/Capitalise", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/Capitalise/capitalise.bsh", "size_i": "4867", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/Capitalise/parcel-descriptor.xml", "size_i": "1362", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/HelloWorld", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/HelloWorld/helloworld.bsh", "size_i": "1443", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/HelloWorld/parcel-descriptor.xml", "size_i": "1298", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/Highlight", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/Highlight/ButtonPressHandler.bsh", "size_i": "4872", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/Highlight/ShowDialog.bsh", "size_i": "4930", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/Highlight/highlighter.bsh", "size_i": "5828", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/Highlight/parcel-descriptor.xml", "size_i": "1580", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/MemoryUsage", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/MemoryUsage/memusage.bsh", "size_i": "4603", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/MemoryUsage/parcel-descriptor.xml", "size_i": "1336", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/WordCount", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/WordCount/parcel-descriptor.xml", "size_i": "1299", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/Scripts/beanshell/WordCount/wordcount.bsh", "size_i": "3194", "regex": "false"}
+]

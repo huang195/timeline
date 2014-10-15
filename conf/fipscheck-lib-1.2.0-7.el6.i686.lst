@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/.libfipscheck.so.1.1.0.hmac", "size_i": "65", "regex": "false"},
+	{"name_s": "/lib/.libfipscheck.so.1.hmac", "size_i": "27", "regex": "false"},
+	{"name_s": "/lib/libfipscheck.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/lib/libfipscheck.so.1.1.0", "size_i": "5484", "regex": "false"}
+]

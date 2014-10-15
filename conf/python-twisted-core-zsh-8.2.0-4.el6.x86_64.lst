@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/doc/python-twisted-core-zsh-8.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-twisted-core-zsh-8.2.0/README.zsh", "size_i": "413", "regex": "false"},
+	{"name_s": "/usr/share/zsh/site-functions/_twisted_zsh_stub", "size_i": "2760", "regex": "false"}
+]

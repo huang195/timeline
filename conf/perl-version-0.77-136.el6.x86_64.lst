@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/man/man3/version.3pm.gz", "size_i": "6699", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/version::Internals.3pm.gz", "size_i": "9877", "regex": "false"},
+	{"name_s": "/usr/share/perl5/version", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/version.pm", "size_i": "1037", "regex": "false"},
+	{"name_s": "/usr/share/perl5/version.pod", "size_i": "12315", "regex": "false"},
+	{"name_s": "/usr/share/perl5/version/Internals.pod", "size_i": "22032", "regex": "false"}
+]

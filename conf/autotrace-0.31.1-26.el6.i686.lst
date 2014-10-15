@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/autotrace", "size_i": "20496", "regex": "false"},
+	{"name_s": "/usr/lib/libautotrace.so.3", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libautotrace.so.3.0.0", "size_i": "192648", "regex": "false"},
+	{"name_s": "/usr/share/doc/autotrace-0.31.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/autotrace-0.31.1/AUTHORS", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/doc/autotrace-0.31.1/COPYING", "size_i": "17997", "regex": "false"},
+	{"name_s": "/usr/share/doc/autotrace-0.31.1/COPYING.LIB", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/autotrace-0.31.1/ChangeLog", "size_i": "73332", "regex": "false"},
+	{"name_s": "/usr/share/doc/autotrace-0.31.1/FAQ", "size_i": "2627", "regex": "false"},
+	{"name_s": "/usr/share/doc/autotrace-0.31.1/NEWS", "size_i": "3127", "regex": "false"},
+	{"name_s": "/usr/share/doc/autotrace-0.31.1/README", "size_i": "6501", "regex": "false"},
+	{"name_s": "/usr/share/doc/autotrace-0.31.1/THANKS", "size_i": "668", "regex": "false"},
+	{"name_s": "/usr/share/doc/autotrace-0.31.1/TODO", "size_i": "1296", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/autotrace.1.gz", "size_i": "2464", "regex": "false"}
+]

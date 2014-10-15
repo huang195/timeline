@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/bin/bc", "size_i": "82528", "regex": "false"},
+	{"name_s": "/usr/bin/dc", "size_i": "43816", "regex": "false"},
+	{"name_s": "/usr/share/doc/bc-1.06.95", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bc-1.06.95/AUTHORS", "size_i": "241", "regex": "false"},
+	{"name_s": "/usr/share/doc/bc-1.06.95/COPYING", "size_i": "17997", "regex": "false"},
+	{"name_s": "/usr/share/doc/bc-1.06.95/COPYING.LIB", "size_i": "26545", "regex": "false"},
+	{"name_s": "/usr/share/doc/bc-1.06.95/Examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bc-1.06.95/Examples/ckbook.b", "size_i": "330", "regex": "false"},
+	{"name_s": "/usr/share/doc/bc-1.06.95/Examples/pi.b", "size_i": "1188", "regex": "false"},
+	{"name_s": "/usr/share/doc/bc-1.06.95/Examples/primes.b", "size_i": "633", "regex": "false"},
+	{"name_s": "/usr/share/doc/bc-1.06.95/Examples/twins.b", "size_i": "710", "regex": "false"},
+	{"name_s": "/usr/share/doc/bc-1.06.95/FAQ", "size_i": "1335", "regex": "false"},
+	{"name_s": "/usr/share/doc/bc-1.06.95/NEWS", "size_i": "2627", "regex": "false"},
+	{"name_s": "/usr/share/doc/bc-1.06.95/README", "size_i": "3522", "regex": "false"},
+	{"name_s": "/usr/share/info/bc.info.gz", "size_i": "12599", "regex": "false"},
+	{"name_s": "/usr/share/info/dc.info.gz", "size_i": "6101", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/bc.1.gz", "size_i": "12133", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dc.1.gz", "size_i": "4984", "regex": "false"}
+]

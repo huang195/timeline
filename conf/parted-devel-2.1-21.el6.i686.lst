@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/include/parted", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/parted/constraint.h", "size_i": "2660", "regex": "false"},
+	{"name_s": "/usr/include/parted/debug.h", "size_i": "2474", "regex": "false"},
+	{"name_s": "/usr/include/parted/device.h", "size_i": "5990", "regex": "false"},
+	{"name_s": "/usr/include/parted/disk.h", "size_i": "15167", "regex": "false"},
+	{"name_s": "/usr/include/parted/exception.h", "size_i": "3828", "regex": "false"},
+	{"name_s": "/usr/include/parted/filesys.h", "size_i": "4579", "regex": "false"},
+	{"name_s": "/usr/include/parted/geom.h", "size_i": "3106", "regex": "false"},
+	{"name_s": "/usr/include/parted/natmath.h", "size_i": "3414", "regex": "false"},
+	{"name_s": "/usr/include/parted/parted.h", "size_i": "1443", "regex": "false"},
+	{"name_s": "/usr/include/parted/timer.h", "size_i": "2147", "regex": "false"},
+	{"name_s": "/usr/include/parted/unit.h", "size_i": "2716", "regex": "false"},
+	{"name_s": "/usr/lib/libparted.so", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libparted.pc", "size_i": "208", "regex": "false"}
+]

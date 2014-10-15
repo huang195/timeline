@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/include/sss_sudo.h", "size_i": "7239", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/annotated.html", "size_i": "1899", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/classes.html", "size_i": "2005", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/doxygen.css", "size_i": "6619", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/doxygen.png", "size_i": "1281", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/files.html", "size_i": "1483", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/functions.html", "size_i": "2494", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/functions_vars.html", "size_i": "2395", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/group__libsss__sudo.html", "size_i": "17498", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/index.html", "size_i": "1151", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/modules.html", "size_i": "1271", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/sss__sudo_8h_source.html", "size_i": "10424", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/structsss__sudo__attr.html", "size_i": "4145", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/structsss__sudo__result.html", "size_i": "3765", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/structsss__sudo__rule.html", "size_i": "3162", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/tab_b.gif", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/tab_l.gif", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/tab_r.gif", "size_i": "2585", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_sudo-devel-1.9.2/html/tabs.css", "size_i": "1844", "regex": "false"}
+]

@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/libboost_math_c99-mt.so.5", "size_i": "143184", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_math_c99.so.5", "size_i": "143088", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_math_c99f-mt.so.5", "size_i": "140880", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_math_c99f.so.5", "size_i": "140784", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_math_c99l-mt.so.5", "size_i": "140528", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_math_c99l.so.5", "size_i": "140432", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_math_tr1-mt.so.5", "size_i": "288280", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_math_tr1.so.5", "size_i": "288248", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_math_tr1f-mt.so.5", "size_i": "296656", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_math_tr1f.so.5", "size_i": "296624", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_math_tr1l-mt.so.5", "size_i": "288280", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_math_tr1l.so.5", "size_i": "288248", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-math-1.41.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-math-1.41.0/LICENSE_1_0.txt", "size_i": "1338", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-HTML-Tagset-3.20", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-HTML-Tagset-3.20/Changes", "size_i": "907", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-HTML-Tagset-3.20/README", "size_i": "1466", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/HTML::Tagset.3pm.gz", "size_i": "4372", "regex": "false"},
+	{"name_s": "/usr/share/perl5/HTML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/HTML/Tagset.pm", "size_i": "12947", "regex": "false"}
+]

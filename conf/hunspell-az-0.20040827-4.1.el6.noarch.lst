@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-az-0.20040827", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-az-0.20040827/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-az-0.20040827/Copyright", "size_i": "1101", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-az-0.20040827/Crawler.txt", "size_i": "2618", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-az-0.20040827/README", "size_i": "2635", "regex": "false"},
+	{"name_s": "/usr/share/myspell/az_AZ.aff", "size_i": "156", "regex": "false"},
+	{"name_s": "/usr/share/myspell/az_AZ.dic", "size_i": "210274", "regex": "false"}
+]

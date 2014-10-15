@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/libicudata.so.42", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libicudata.so.42.1", "size_i": "16011824", "regex": "false"},
+	{"name_s": "/usr/lib64/libicui18n.so.42", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libicui18n.so.42.1", "size_i": "1660584", "regex": "false"},
+	{"name_s": "/usr/lib64/libicuio.so.42", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libicuio.so.42.1", "size_i": "49240", "regex": "false"},
+	{"name_s": "/usr/lib64/libicule.so.42", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libicule.so.42.1", "size_i": "218600", "regex": "false"},
+	{"name_s": "/usr/lib64/libiculx.so.42", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libiculx.so.42.1", "size_i": "50504", "regex": "false"},
+	{"name_s": "/usr/lib64/libicutu.so.42", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libicutu.so.42.1", "size_i": "129112", "regex": "false"},
+	{"name_s": "/usr/lib64/libicuuc.so.42", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libicuuc.so.42.1", "size_i": "1376272", "regex": "false"}
+]

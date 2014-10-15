@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/perl-Text-Diff-1.37", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Text-Diff-1.37/Changes", "size_i": "1837", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Text::Diff.3pm.gz", "size_i": "5911", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Text::Diff::Table.3pm.gz", "size_i": "3124", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Text", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Text/Diff", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Text/Diff.pm", "size_i": "21290", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Text/Diff/Table.pm", "size_i": "12850", "regex": "false"}
+]

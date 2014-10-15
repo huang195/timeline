@@ -1,0 +1,14 @@
+[
+	{"name_s": "/lib64/device-mapper", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib64/device-mapper/libdevmapper-event-lvm2mirror.so", "size_i": "8200", "regex": "false"},
+	{"name_s": "/lib64/device-mapper/libdevmapper-event-lvm2raid.so", "size_i": "7104", "regex": "false"},
+	{"name_s": "/lib64/device-mapper/libdevmapper-event-lvm2snapshot.so", "size_i": "9168", "regex": "false"},
+	{"name_s": "/lib64/device-mapper/libdevmapper-event-lvm2thin.so", "size_i": "10152", "regex": "false"},
+	{"name_s": "/lib64/libdevmapper-event-lvm2.so.2.02", "size_i": "7168", "regex": "false"},
+	{"name_s": "/lib64/libdevmapper-event-lvm2mirror.so", "size_i": "46", "regex": "false"},
+	{"name_s": "/lib64/libdevmapper-event-lvm2raid.so", "size_i": "44", "regex": "false"},
+	{"name_s": "/lib64/libdevmapper-event-lvm2snapshot.so", "size_i": "48", "regex": "false"},
+	{"name_s": "/lib64/libdevmapper-event-lvm2thin.so", "size_i": "44", "regex": "false"},
+	{"name_s": "/lib64/liblvm2app.so.2.2", "size_i": "815552", "regex": "false"},
+	{"name_s": "/lib64/liblvm2cmd.so.2.02", "size_i": "1085744", "regex": "false"}
+]

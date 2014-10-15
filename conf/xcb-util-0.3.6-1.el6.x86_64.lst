@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/lib64/libxcb-atom.so.1", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-atom.so.1.0.0", "size_i": "14840", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-aux.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-aux.so.0.0.0", "size_i": "10776", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-event.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-event.so.1.0.0", "size_i": "16264", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-icccm.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-icccm.so.1.0.0", "size_i": "16728", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-image.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-image.so.0.0.0", "size_i": "15400", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-keysyms.so.1", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-keysyms.so.1.0.0", "size_i": "8072", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-property.so.1", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-property.so.1.0.0", "size_i": "6592", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-render-util.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-render-util.so.0.0.0", "size_i": "13096", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-reply.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libxcb-reply.so.1.0.0", "size_i": "6760", "regex": "false"},
+	{"name_s": "/usr/share/doc/xcb-util-0.3.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xcb-util-0.3.6/README", "size_i": "1685", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/libvirtMib_subagent", "size_i": "67544", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvirt-snmp-0.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvirt-snmp-0.0.2/AUTHORS", "size_i": "222", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvirt-snmp-0.0.2/ChangeLog", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvirt-snmp-0.0.2/NEWS", "size_i": "100", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvirt-snmp-0.0.2/README", "size_i": "320", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/libvirtMib_subagent.1.gz", "size_i": "3063", "regex": "false"},
+	{"name_s": "/usr/share/snmp/mibs/LIBVIRT-MIB.txt", "size_i": "6049", "regex": "false"}
+]

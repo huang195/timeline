@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-XML-DOM-XPath-0.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-DOM-XPath-0.14/Changes", "size_i": "2072", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-DOM-XPath-0.14/README", "size_i": "860", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::DOM::XPath.3pm.gz", "size_i": "2474", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/DOM", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/DOM/XPath.pm", "size_i": "9836", "regex": "false"}
+]

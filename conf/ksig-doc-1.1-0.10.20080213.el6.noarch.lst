@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/HTML/en/ksig", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/HTML/en/ksig/common", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/share/doc/HTML/en/ksig/index.cache.bz2", "size_i": "6468", "regex": "false"},
+	{"name_s": "/usr/share/doc/HTML/en/ksig/index.docbook", "size_i": "12754", "regex": "false"},
+	{"name_s": "/usr/share/doc/HTML/en/ksig/screenshot.png", "size_i": "7692", "regex": "false"}
+]

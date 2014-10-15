@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/imobiledevice", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/imobiledevice/__init__.py", "size_i": "46", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/imobiledevice/__init__.pyc", "size_i": "184", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/imobiledevice/__init__.pyo", "size_i": "184", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/imobiledevice/_imobiledevice.so", "size_i": "256040", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/imobiledevice/imobiledevice.py", "size_i": "36389", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/imobiledevice/imobiledevice.pyc", "size_i": "58272", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/imobiledevice/imobiledevice.pyo", "size_i": "58272", "regex": "false"}
+]

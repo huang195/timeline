@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libpoppler.so.5", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libpoppler.so.5.0.0", "size_i": "1683380", "regex": "false"},
+	{"name_s": "/usr/share/doc/poppler-0.12.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/poppler-0.12.4/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/poppler-0.12.4/README", "size_i": "1962", "regex": "false"}
+]

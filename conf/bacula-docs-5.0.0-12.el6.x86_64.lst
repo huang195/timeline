@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/bacula-docs-5.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bacula-docs-5.0.0/console.pdf", "size_i": "222854", "regex": "false"},
+	{"name_s": "/usr/share/doc/bacula-docs-5.0.0/developers.pdf", "size_i": "862102", "regex": "false"},
+	{"name_s": "/usr/share/doc/bacula-docs-5.0.0/main.pdf", "size_i": "3556895", "regex": "false"},
+	{"name_s": "/usr/share/doc/bacula-docs-5.0.0/misc.pdf", "size_i": "367300", "regex": "false"},
+	{"name_s": "/usr/share/doc/bacula-docs-5.0.0/problems.pdf", "size_i": "487552", "regex": "false"},
+	{"name_s": "/usr/share/doc/bacula-docs-5.0.0/utility.pdf", "size_i": "547353", "regex": "false"}
+]

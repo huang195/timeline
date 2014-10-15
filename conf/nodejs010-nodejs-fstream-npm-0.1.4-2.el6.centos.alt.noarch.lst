@@ -1,0 +1,18 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-npm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-npm/fstream-npm.js", "size_i": "9278", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-npm/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-npm/node_modules/fstream-ignore", "size_i": "58", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-npm/node_modules/inherits", "size_i": "52", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-npm/package.json", "size_i": "398", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-npm-0.1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-npm-0.1.4/LICENCE", "size_i": "1318", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-npm-0.1.4/README.md", "size_i": "448", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-npm-0.1.4/example", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-npm-0.1.4/example/bundle.js", "size_i": "345", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-npm-0.1.4/example/dir-tar.js", "size_i": "548", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-npm-0.1.4/example/dir.js", "size_i": "657", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-npm-0.1.4/example/example.js", "size_i": "358", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-npm-0.1.4/example/ig-tar.js", "size_i": "545", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-npm-0.1.4/example/tar.js", "size_i": "605", "regex": "false"}
+]

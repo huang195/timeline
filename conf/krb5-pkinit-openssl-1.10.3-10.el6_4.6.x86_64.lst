@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/krb5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/krb5/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/krb5/plugins/preauth", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/krb5/plugins/preauth/pkinit.so", "size_i": "120144", "regex": "false"}
+]

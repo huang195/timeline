@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/mach64_drv.so", "size_i": "131616", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/mach64.xinf", "size_i": "2145", "regex": "false"}
+]

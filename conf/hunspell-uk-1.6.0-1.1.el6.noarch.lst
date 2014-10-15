@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-uk-1.6.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-uk-1.6.0/README_uk_UA.txt", "size_i": "611", "regex": "false"},
+	{"name_s": "/usr/share/myspell/uk_UA.aff", "size_i": "164045", "regex": "false"},
+	{"name_s": "/usr/share/myspell/uk_UA.dic", "size_i": "2584297", "regex": "false"}
+]

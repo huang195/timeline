@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/_capng.so", "size_i": "36480", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/capng.py", "size_i": "6175", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/capng.pyc", "size_i": "7307", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/capng.pyo", "size_i": "7307", "regex": "false"}
+]

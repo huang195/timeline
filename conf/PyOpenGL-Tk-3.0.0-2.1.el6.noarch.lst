@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/OpenGL/Tk", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/OpenGL/Tk/__init__.py", "size_i": "13635", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/OpenGL/Tk/__init__.pyc", "size_i": "18886", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/OpenGL/Tk/__init__.pyo", "size_i": "18886", "regex": "false"}
+]

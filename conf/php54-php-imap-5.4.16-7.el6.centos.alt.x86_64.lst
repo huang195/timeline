@@ -1,0 +1,4 @@
+[
+	{"name_s": "/opt/rh/php54/root/etc/php.d/imap.ini", "size_i": "49", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/imap.so", "size_i": "99784", "regex": "false"}
+]

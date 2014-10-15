@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/_lcms.so", "size_i": "594368", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/lcms.py", "size_i": "117624", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/lcms.pyc", "size_i": "134751", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/lcms.pyo", "size_i": "134751", "regex": "false"}
+]

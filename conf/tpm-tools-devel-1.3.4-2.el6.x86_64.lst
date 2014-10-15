@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/tpm_tools", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/tpm_tools/tpm_unseal.h", "size_i": "1282", "regex": "false"},
+	{"name_s": "/usr/lib64/libtpm_unseal.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/tpmUnsealFile.3.gz", "size_i": "850", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/tpmUnsealShred.3.gz", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/tpmUnsealStrerror.3.gz", "size_i": "45", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/bin/Xvfb", "size_i": "1943456", "regex": "false"},
+	{"name_s": "/usr/bin/xvfb-run", "size_i": "5885", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/Xvfb.1.gz", "size_i": "2484", "regex": "false"}
+]

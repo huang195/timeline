@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/share/doc/vgabios-0.6b", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/vgabios-0.6b/COPYING", "size_i": "26428", "regex": "false"},
+	{"name_s": "/usr/share/doc/vgabios-0.6b/README", "size_i": "7957", "regex": "false"},
+	{"name_s": "/usr/share/vgabios", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/vgabios/VGABIOS-lgpl-latest.bin", "size_i": "40448", "regex": "false"},
+	{"name_s": "/usr/share/vgabios/VGABIOS-lgpl-latest.cirrus.bin", "size_i": "35840", "regex": "false"},
+	{"name_s": "/usr/share/vgabios/VGABIOS-lgpl-latest.cirrus.debug.bin", "size_i": "35840", "regex": "false"},
+	{"name_s": "/usr/share/vgabios/VGABIOS-lgpl-latest.debug.bin", "size_i": "41472", "regex": "false"},
+	{"name_s": "/usr/share/vgabios/VGABIOS-lgpl-latest.qxl.bin", "size_i": "40448", "regex": "false"},
+	{"name_s": "/usr/share/vgabios/VGABIOS-lgpl-latest.qxl.debug.bin", "size_i": "41472", "regex": "false"},
+	{"name_s": "/usr/share/vgabios/VGABIOS-lgpl-latest.stdvga.bin", "size_i": "40448", "regex": "false"},
+	{"name_s": "/usr/share/vgabios/VGABIOS-lgpl-latest.stdvga.debug.bin", "size_i": "41472", "regex": "false"},
+	{"name_s": "/usr/share/vgabios/VGABIOS-lgpl-latest.vmware.bin", "size_i": "40448", "regex": "false"},
+	{"name_s": "/usr/share/vgabios/VGABIOS-lgpl-latest.vmware.debug.bin", "size_i": "41472", "regex": "false"}
+]

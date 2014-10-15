@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/liblber-2.3.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/liblber-2.3.so.0.2.31", "size_i": "57600", "regex": "false"},
+	{"name_s": "/usr/lib64/libldap-2.3.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libldap-2.3.so.0.2.31", "size_i": "247584", "regex": "false"},
+	{"name_s": "/usr/lib64/libldap_r-2.3.so.0", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libldap_r-2.3.so.0.2.31", "size_i": "268128", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-openldap-2.3.43", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-openldap-2.3.43/ANNOUNCEMENT", "size_i": "3506", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-openldap-2.3.43/COPYRIGHT", "size_i": "2253", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-openldap-2.3.43/LICENSE", "size_i": "2214", "regex": "false"}
+]

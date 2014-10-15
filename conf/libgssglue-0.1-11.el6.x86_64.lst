@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/gssapi_mech.conf", "size_i": "801", "regex": "false"},
+	{"name_s": "/lib64/libgssglue.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/lib64/libgssglue.so.1.0.0", "size_i": "36584", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgssglue-0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgssglue-0.1/AUTHORS", "size_i": "101", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgssglue-0.1/ChangeLog", "size_i": "3470", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgssglue-0.1/NEWS", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgssglue-0.1/README", "size_i": "174", "regex": "false"}
+]

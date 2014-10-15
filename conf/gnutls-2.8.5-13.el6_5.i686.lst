@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/lib/libgnutls-extra.so.26", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libgnutls-extra.so.26.14.12", "size_i": "29104", "regex": "false"},
+	{"name_s": "/usr/lib/libgnutls.so.26", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libgnutls.so.26.14.12", "size_i": "700560", "regex": "false"},
+	{"name_s": "/usr/lib/libgnutlsxx.so.26", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libgnutlsxx.so.26.14.12", "size_i": "56068", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnutls-2.8.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnutls-2.8.5/AUTHORS", "size_i": "31837", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnutls-2.8.5/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnutls-2.8.5/COPYING.LIB", "size_i": "26432", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnutls-2.8.5/README", "size_i": "2506", "regex": "false"},
+	{"name_s": "/usr/share/locale/cs/LC_MESSAGES/libgnutls.mo", "size_i": "17074", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/libgnutls.mo", "size_i": "10461", "regex": "false"},
+	{"name_s": "/usr/share/locale/en@boldquot/LC_MESSAGES/libgnutls.mo", "size_i": "20670", "regex": "false"},
+	{"name_s": "/usr/share/locale/en@quot/LC_MESSAGES/libgnutls.mo", "size_i": "20654", "regex": "false"},
+	{"name_s": "/usr/share/locale/fr/LC_MESSAGES/libgnutls.mo", "size_i": "18041", "regex": "false"},
+	{"name_s": "/usr/share/locale/ms/LC_MESSAGES/libgnutls.mo", "size_i": "16547", "regex": "false"},
+	{"name_s": "/usr/share/locale/nl/LC_MESSAGES/libgnutls.mo", "size_i": "17225", "regex": "false"},
+	{"name_s": "/usr/share/locale/pl/LC_MESSAGES/libgnutls.mo", "size_i": "17020", "regex": "false"},
+	{"name_s": "/usr/share/locale/sv/LC_MESSAGES/libgnutls.mo", "size_i": "16864", "regex": "false"},
+	{"name_s": "/usr/share/locale/vi/LC_MESSAGES/libgnutls.mo", "size_i": "18508", "regex": "false"}
+]

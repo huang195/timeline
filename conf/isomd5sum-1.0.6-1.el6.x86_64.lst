@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/checkisomd5", "size_i": "16240", "regex": "false"},
+	{"name_s": "/usr/bin/implantisomd5", "size_i": "13064", "regex": "false"},
+	{"name_s": "/usr/share/doc/isomd5sum-1.0.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/isomd5sum-1.0.6/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/checkisomd5.1.gz", "size_i": "656", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/implantisomd5.1.gz", "size_i": "517", "regex": "false"}
+]

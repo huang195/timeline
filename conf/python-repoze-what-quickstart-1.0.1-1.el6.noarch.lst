@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.what_quickstart-1.0.1-py2.6-nspkg.pth", "size_i": "1088", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.what_quickstart-1.0.1-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.what_quickstart-1.0.1-py2.6.egg-info/PKG-INFO", "size_i": "1478", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.what_quickstart-1.0.1-py2.6.egg-info/SOURCES.txt", "size_i": "849", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.what_quickstart-1.0.1-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.what_quickstart-1.0.1-py2.6.egg-info/entry_points.txt", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.what_quickstart-1.0.1-py2.6.egg-info/namespace_packages.txt", "size_i": "39", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.what_quickstart-1.0.1-py2.6.egg-info/not-zip-safe", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.what_quickstart-1.0.1-py2.6.egg-info/requires.txt", "size_i": "121", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze.what_quickstart-1.0.1-py2.6.egg-info/top_level.txt", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/what/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/what/plugins/quickstart", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/what/plugins/quickstart/__init__.py", "size_i": "10662", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/what/plugins/quickstart/__init__.pyc", "size_i": "8612", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/what/plugins/quickstart/__init__.pyo", "size_i": "8612", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/what/plugins/quickstart/config.py", "size_i": "6613", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/what/plugins/quickstart/config.pyc", "size_i": "6490", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/repoze/what/plugins/quickstart/config.pyo", "size_i": "6490", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-repoze-what-quickstart-1.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-repoze-what-quickstart-1.0.1/README.txt", "size_i": "566", "regex": "false"}
+]

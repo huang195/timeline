@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/vios-proxy-host", "size_i": "85312", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/vios-proxy-host.1.gz", "size_i": "4724", "regex": "false"}
+]

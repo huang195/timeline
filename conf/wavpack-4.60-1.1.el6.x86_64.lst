@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/wavpack", "size_i": "42408", "regex": "false"},
+	{"name_s": "/usr/bin/wvgain", "size_i": "28488", "regex": "false"},
+	{"name_s": "/usr/bin/wvunpack", "size_i": "40104", "regex": "false"},
+	{"name_s": "/usr/lib64/libwavpack.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libwavpack.so.1.1.3", "size_i": "164240", "regex": "false"},
+	{"name_s": "/usr/share/doc/wavpack-4.60", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/wavpack-4.60/license.txt", "size_i": "1558", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/expect.h", "size_i": "12929", "regex": "false"},
+	{"name_s": "/usr/include/expect_comm.h", "size_i": "2275", "regex": "false"},
+	{"name_s": "/usr/include/expect_tcl.h", "size_i": "1835", "regex": "false"},
+	{"name_s": "/usr/include/tcldbg.h", "size_i": "1733", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libexpect.3.gz", "size_i": "8648", "regex": "false"}
+]

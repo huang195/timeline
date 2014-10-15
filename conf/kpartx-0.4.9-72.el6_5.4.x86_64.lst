@@ -1,0 +1,4 @@
+[
+	{"name_s": "/sbin/kpartx", "size_i": "32928", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/kpartx.8.gz", "size_i": "622", "regex": "false"}
+]

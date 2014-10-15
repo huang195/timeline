@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/lib64/gcj/jakarta-oro", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/jakarta-oro/jakarta-oro-2.0.8.jar.db", "size_i": "8192", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/jakarta-oro/jakarta-oro-2.0.8.jar.so", "size_i": "379536", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-oro-2.0.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-oro-2.0.8/CHANGES", "size_i": "10861", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-oro-2.0.8/COMPILE", "size_i": "1876", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-oro-2.0.8/CONTRIBUTORS", "size_i": "943", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-oro-2.0.8/ISSUES", "size_i": "217", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-oro-2.0.8/LICENSE", "size_i": "2690", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-oro-2.0.8/README", "size_i": "3183", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-oro-2.0.8/STYLE", "size_i": "2654", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-oro-2.0.8/TODO", "size_i": "2851", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-oro-2.0.8.jar", "size_i": "92180", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-oro.jar", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/share/java/oro-2.0.8.jar", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/share/java/oro.jar", "size_i": "13", "regex": "false"}
+]

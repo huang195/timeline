@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib/libohtcpconnx.so.2", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libohtcpconnx.so.2.14.1", "size_i": "10848", "regex": "false"},
+	{"name_s": "/usr/lib/libohudpconnx.so.2", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libohudpconnx.so.2.14.1", "size_i": "12184", "regex": "false"},
+	{"name_s": "/usr/lib/libopenhpi.so.2", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libopenhpi.so.2.14.1", "size_i": "167768", "regex": "false"},
+	{"name_s": "/usr/lib/libopenhpi_snmp.so.2", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib/libopenhpi_snmp.so.2.14.1", "size_i": "9448", "regex": "false"},
+	{"name_s": "/usr/lib/libopenhpi_ssl.so.2", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libopenhpi_ssl.so.2.14.1", "size_i": "19648", "regex": "false"},
+	{"name_s": "/usr/lib/libopenhpimarshal.so.2", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libopenhpimarshal.so.2.14.1", "size_i": "46828", "regex": "false"},
+	{"name_s": "/usr/lib/libopenhpiutils.so.2", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib/libopenhpiutils.so.2.14.1", "size_i": "192832", "regex": "false"}
+]

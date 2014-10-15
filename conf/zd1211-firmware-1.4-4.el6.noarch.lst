@@ -1,0 +1,16 @@
+[
+	{"name_s": "/lib/firmware/zd1211", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/firmware/zd1211/zd1211_ub", "size_i": "4018", "regex": "false"},
+	{"name_s": "/lib/firmware/zd1211/zd1211_uph", "size_i": "5120", "regex": "false"},
+	{"name_s": "/lib/firmware/zd1211/zd1211_uphm", "size_i": "5120", "regex": "false"},
+	{"name_s": "/lib/firmware/zd1211/zd1211_uphr", "size_i": "5120", "regex": "false"},
+	{"name_s": "/lib/firmware/zd1211/zd1211_ur", "size_i": "3584", "regex": "false"},
+	{"name_s": "/lib/firmware/zd1211/zd1211b_ub", "size_i": "4018", "regex": "false"},
+	{"name_s": "/lib/firmware/zd1211/zd1211b_uph", "size_i": "5120", "regex": "false"},
+	{"name_s": "/lib/firmware/zd1211/zd1211b_uphm", "size_i": "5120", "regex": "false"},
+	{"name_s": "/lib/firmware/zd1211/zd1211b_uphr", "size_i": "5120", "regex": "false"},
+	{"name_s": "/lib/firmware/zd1211/zd1211b_ur", "size_i": "3584", "regex": "false"},
+	{"name_s": "/usr/share/doc/zd1211-firmware-1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/zd1211-firmware-1.4/COPYING", "size_i": "18011", "regex": "false"},
+	{"name_s": "/usr/share/doc/zd1211-firmware-1.4/README", "size_i": "1402", "regex": "false"}
+]

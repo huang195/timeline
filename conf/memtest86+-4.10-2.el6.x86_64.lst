@@ -1,0 +1,8 @@
+[
+	{"name_s": "/boot/elf-memtest86+-4.10", "size_i": "166756", "regex": "false"},
+	{"name_s": "/boot/memtest86+-4.10", "size_i": "165080", "regex": "false"},
+	{"name_s": "/sbin/new-memtest-pkg", "size_i": "8447", "regex": "false"},
+	{"name_s": "/usr/sbin/memtest-setup", "size_i": "927", "regex": "false"},
+	{"name_s": "/usr/share/doc/memtest86+-4.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/memtest86+-4.10/README", "size_i": "21753", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libgfortran.so.1", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libgfortran.so.1.0.0", "size_i": "924304", "regex": "false"}
+]

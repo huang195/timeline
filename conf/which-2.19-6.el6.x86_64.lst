@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/profile.d/which2.sh", "size_i": "169", "regex": "false"},
+	{"name_s": "/usr/bin/which", "size_i": "20768", "regex": "false"},
+	{"name_s": "/usr/share/doc/which-2.19", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/which-2.19/AUTHORS", "size_i": "245", "regex": "false"},
+	{"name_s": "/usr/share/doc/which-2.19/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/which-2.19/EXAMPLES", "size_i": "4095", "regex": "false"},
+	{"name_s": "/usr/share/doc/which-2.19/NEWS", "size_i": "4222", "regex": "false"},
+	{"name_s": "/usr/share/doc/which-2.19/README", "size_i": "4433", "regex": "false"},
+	{"name_s": "/usr/share/info/which.info.gz", "size_i": "2410", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/which.1.gz", "size_i": "1515", "regex": "false"}
+]

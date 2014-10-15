@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-el-0.20051018", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-el-0.20051018/README_hyph_el_GR.txt", "size_i": "525", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_el_CY.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_el_GR.dic", "size_i": "3205", "regex": "false"}
+]

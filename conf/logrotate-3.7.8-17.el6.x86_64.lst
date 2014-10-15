@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/cron.daily/logrotate", "size_i": "196", "regex": "false"},
+	{"name_s": "/etc/logrotate.conf", "size_i": "662", "regex": "false"},
+	{"name_s": "/etc/logrotate.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/sbin/logrotate", "size_i": "54184", "regex": "false"},
+	{"name_s": "/usr/share/doc/logrotate-3.7.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/logrotate-3.7.8/CHANGES", "size_i": "5555", "regex": "false"},
+	{"name_s": "/usr/share/doc/logrotate-3.7.8/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/logrotate.conf.5.gz", "size_i": "41", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/logrotate.8.gz", "size_i": "6221", "regex": "false"},
+	{"name_s": "/var/lib/logrotate.status", "size_i": "0", "regex": "false"}
+]

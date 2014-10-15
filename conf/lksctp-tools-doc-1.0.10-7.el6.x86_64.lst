@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/lksctp-tools-doc-1.0.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-doc-1.0.10/draft-ietf-tsvwg-addip-sctp-15.txt", "size_i": "77306", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-doc-1.0.10/draft-ietf-tsvwg-sctpsocket-14.txt", "size_i": "182579", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-doc-1.0.10/rfc3257.txt", "size_i": "24198", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-doc-1.0.10/rfc3286.txt", "size_i": "22644", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-doc-1.0.10/rfc3309.txt", "size_i": "34670", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-doc-1.0.10/rfc3758.txt", "size_i": "50999", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-doc-1.0.10/rfc3873.txt", "size_i": "82403", "regex": "false"},
+	{"name_s": "/usr/share/doc/lksctp-tools-doc-1.0.10/rfc4460.txt", "size_i": "215405", "regex": "false"}
+]

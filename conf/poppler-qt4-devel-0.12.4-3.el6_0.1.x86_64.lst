@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/poppler/qt4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/poppler/qt4/poppler-annotation.h", "size_i": "19589", "regex": "false"},
+	{"name_s": "/usr/include/poppler/qt4/poppler-export.h", "size_i": "445", "regex": "false"},
+	{"name_s": "/usr/include/poppler/qt4/poppler-form.h", "size_i": "6941", "regex": "false"},
+	{"name_s": "/usr/include/poppler/qt4/poppler-link.h", "size_i": "11767", "regex": "false"},
+	{"name_s": "/usr/include/poppler/qt4/poppler-optcontent.h", "size_i": "2347", "regex": "false"},
+	{"name_s": "/usr/include/poppler/qt4/poppler-page-transition-private.h", "size_i": "858", "regex": "false"},
+	{"name_s": "/usr/include/poppler/qt4/poppler-page-transition.h", "size_i": "3782", "regex": "false"},
+	{"name_s": "/usr/include/poppler/qt4/poppler-qt4.h", "size_i": "40023", "regex": "false"},
+	{"name_s": "/usr/lib64/libpoppler-qt4.so", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/poppler-qt4.pc", "size_i": "259", "regex": "false"}
+]

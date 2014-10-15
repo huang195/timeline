@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/libgnomecups-1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libgnomecups-1/libgnomecups", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libgnomecups-1/libgnomecups/gnome-cups-init.h", "size_i": "478", "regex": "false"},
+	{"name_s": "/usr/include/libgnomecups-1/libgnomecups/gnome-cups-printer.h", "size_i": "8841", "regex": "false"},
+	{"name_s": "/usr/include/libgnomecups-1/libgnomecups/gnome-cups-queue.h", "size_i": "3121", "regex": "false"},
+	{"name_s": "/usr/include/libgnomecups-1/libgnomecups/gnome-cups-request.h", "size_i": "2449", "regex": "false"},
+	{"name_s": "/usr/include/libgnomecups-1/libgnomecups/gnome-cups-util.h", "size_i": "969", "regex": "false"},
+	{"name_s": "/usr/lib64/libgnomecups-1.0.so", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libgnomecups-1.0.pc", "size_i": "318", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomecups-devel-0.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomecups-devel-0.2.3/ChangeLog", "size_i": "43538", "regex": "false"}
+]

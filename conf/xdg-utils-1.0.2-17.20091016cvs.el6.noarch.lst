@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/bin/xdg-desktop-icon", "size_i": "15050", "regex": "false"},
+	{"name_s": "/usr/bin/xdg-desktop-menu", "size_i": "37949", "regex": "false"},
+	{"name_s": "/usr/bin/xdg-email", "size_i": "19059", "regex": "false"},
+	{"name_s": "/usr/bin/xdg-icon-resource", "size_i": "24459", "regex": "false"},
+	{"name_s": "/usr/bin/xdg-mime", "size_i": "29569", "regex": "false"},
+	{"name_s": "/usr/bin/xdg-open", "size_i": "11201", "regex": "false"},
+	{"name_s": "/usr/bin/xdg-screensaver", "size_i": "21062", "regex": "false"},
+	{"name_s": "/usr/bin/xdg-settings", "size_i": "25055", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdg-utils-1.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdg-utils-1.0.2/ChangeLog", "size_i": "7281", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdg-utils-1.0.2/LICENSE", "size_i": "1087", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdg-utils-1.0.2/README", "size_i": "3865", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdg-utils-1.0.2/TODO", "size_i": "782", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xdg-desktop-icon.1.gz", "size_i": "2431", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xdg-desktop-menu.1.gz", "size_i": "4345", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xdg-email.1.gz", "size_i": "1790", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xdg-icon-resource.1.gz", "size_i": "2512", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xdg-mime.1.gz", "size_i": "2509", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xdg-open.1.gz", "size_i": "951", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xdg-screensaver.1.gz", "size_i": "1326", "regex": "false"}
+]

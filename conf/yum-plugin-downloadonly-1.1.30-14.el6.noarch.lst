@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/downloadonly.conf", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/downloadonly.py", "size_i": "1859", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/downloadonly.pyc", "size_i": "1564", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/downloadonly.pyo", "size_i": "1564", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-downloadonly-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-downloadonly-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

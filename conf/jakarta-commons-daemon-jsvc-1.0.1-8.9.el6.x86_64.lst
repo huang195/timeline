@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/jsvc", "size_i": "36160", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-daemon-jsvc-1.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-daemon-jsvc-1.0.1/LICENSE", "size_i": "617", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-daemon-jsvc-1.0.1/LICENSE.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/jsvc.1.gz", "size_i": "1342", "regex": "false"}
+]

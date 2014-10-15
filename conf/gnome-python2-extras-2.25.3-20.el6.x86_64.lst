@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/pkgconfig/gnome-python-extras-2.0.pc", "size_i": "185", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-extras-2.25.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-extras-2.25.3/AUTHORS", "size_i": "379", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-extras-2.25.3/ChangeLog", "size_i": "48907", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-extras-2.25.3/NEWS", "size_i": "11145", "regex": "false"},
+	{"name_s": "/usr/share/pygtk", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/gtkhtml2.defs", "size_i": "6685", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/trayicon.defs", "size_i": "1091", "regex": "false"}
+]

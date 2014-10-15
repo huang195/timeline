@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/cron.daily", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/cron.hourly", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/cron.monthly", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/cron.weekly", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/crontab", "size_i": "457", "regex": "false"},
+	{"name_s": "/usr/bin/run-parts", "size_i": "1411", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/crontabs.4.gz", "size_i": "627", "regex": "false"}
+]

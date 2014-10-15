@@ -1,0 +1,12 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Devel-StackTrace-1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Devel-StackTrace-1.30/Changes", "size_i": "8376", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Devel-StackTrace-1.30/LICENSE", "size_i": "9040", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Devel-StackTrace-1.30/README", "size_i": "253", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Devel::StackTrace.3pm.gz", "size_i": "4432", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Devel::StackTrace::Frame.3pm.gz", "size_i": "2256", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Devel", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Devel/StackTrace", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Devel/StackTrace.pm", "size_i": "11805", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Devel/StackTrace/Frame.pm", "size_i": "5003", "regex": "false"}
+]

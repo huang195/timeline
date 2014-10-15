@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/lp_solve", "size_i": "578968", "regex": "false"},
+	{"name_s": "/usr/lib64/liblpsolve55.so", "size_i": "613528", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpsolve-5.5.0.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpsolve-5.5.0.15/LUSOL-overview.txt", "size_i": "5523", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpsolve-5.5.0.15/LUSOL_LGPL.txt", "size_i": "26428", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpsolve-5.5.0.15/LUSOL_README.txt", "size_i": "2150", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpsolve-5.5.0.15/README.txt", "size_i": "27076", "regex": "false"}
+]

@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/share/doc/trilead-ssh2-213", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/HISTORY.txt", "size_i": "15952", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/LICENSE.txt", "size_i": "4616", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/README.txt", "size_i": "996", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/examples/Basic.java", "size_i": "2021", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/examples/BasicWithHTTPProxy.java", "size_i": "2486", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/examples/PortForwarding.java", "size_i": "3462", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/examples/PublicKeyAuthentication.java", "size_i": "1747", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/examples/SimpleVerifier.java", "size_i": "1503", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/examples/SingleThreadStdoutStderr.java", "size_i": "4233", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/examples/StdoutAndStderr.java", "size_i": "2214", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/examples/SwingShell.java", "size_i": "18044", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/examples/UsingKnownHosts.java", "size_i": "1937", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/faq", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/trilead-ssh2-213/faq/FAQ.html", "size_i": "16692", "regex": "false"},
+	{"name_s": "/usr/share/java/trilead-ssh2-213.jar", "size_i": "248757", "regex": "false"},
+	{"name_s": "/usr/share/java/trilead-ssh2.jar", "size_i": "20", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/fonts/liberation", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/liberation/LiberationSans-Bold.ttf", "size_i": "140252", "regex": "false"},
+	{"name_s": "/usr/share/fonts/liberation/LiberationSans-BoldItalic.ttf", "size_i": "135724", "regex": "false"},
+	{"name_s": "/usr/share/fonts/liberation/LiberationSans-Italic.ttf", "size_i": "162204", "regex": "false"},
+	{"name_s": "/usr/share/fonts/liberation/LiberationSans-Regular.ttf", "size_i": "140600", "regex": "false"}
+]

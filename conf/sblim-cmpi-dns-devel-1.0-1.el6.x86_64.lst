@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/sblim/smt_dns_array.h", "size_i": "1205", "regex": "false"},
+	{"name_s": "/usr/include/sblim/smt_dns_defaultvalues.h", "size_i": "891", "regex": "false"},
+	{"name_s": "/usr/include/sblim/smt_dns_valuemap.h", "size_i": "2216", "regex": "false"},
+	{"name_s": "/usr/lib64/libIBM_DnsProviderTooling.so", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib64/libLinux_DnsGeneralProviderBasic.so", "size_i": "41", "regex": "false"},
+	{"name_s": "/usr/lib64/libRaToolsDns.so", "size_i": "22", "regex": "false"}
+]

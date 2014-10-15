@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/security/pam_cgroup.so", "size_i": "4292", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcgroup-pam-0.40.rc1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcgroup-pam-0.40.rc1/COPYING", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcgroup-pam-0.40.rc1/INSTALL", "size_i": "9512", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/depmod.d/rtsx_pci.conf", "size_i": "53", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.23.3.el6.x86_64", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.23.3.el6.x86_64/extra", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.23.3.el6.x86_64/extra/rtsx_pci", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.23.3.el6.x86_64/extra/rtsx_pci/rtsx_pci.ko", "size_i": "64936", "regex": "false"},
+	{"name_s": "/usr/share/doc/kmod-rtsx_pci/greylist.txt", "size_i": "61", "regex": "false"}
+]

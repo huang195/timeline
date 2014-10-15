@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Probe-Perl-0.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Probe-Perl-0.03/Changes", "size_i": "518", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Probe-Perl-0.03/README", "size_i": "307", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Probe::Perl.3pm.gz", "size_i": "3444", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Probe", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Probe/Perl.pm", "size_i": "7147", "regex": "false"}
+]

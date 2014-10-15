@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/lib64/perl5/vendor_perl/GSSAPI", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/GSSAPI.pm", "size_i": "11506", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/GSSAPI/OID", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/GSSAPI/OID.pm", "size_i": "2341", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/GSSAPI/OID/Set.pm", "size_i": "981", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/GSSAPI/Status.pm", "size_i": "2956", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/GSSAPI", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/GSSAPI/GSSAPI.so", "size_i": "112192", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GSSAPI-0.26", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GSSAPI-0.26/Changes", "size_i": "5672", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GSSAPI-0.26/README", "size_i": "2411", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GSSAPI-0.26/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GSSAPI-0.26/examples/getcred_hostbased.pl", "size_i": "1574", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GSSAPI-0.26/examples/gss-client.pl", "size_i": "4880", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GSSAPI-0.26/examples/gss-server.pl", "size_i": "3430", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/GSSAPI.3pm.gz", "size_i": "5279", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/GSSAPI::OID.3pm.gz", "size_i": "2503", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/GSSAPI::OID::Set.3pm.gz", "size_i": "2113", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/GSSAPI::Status.3pm.gz", "size_i": "2781", "regex": "false"}
+]

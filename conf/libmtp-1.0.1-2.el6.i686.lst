@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/udev/rules.d/60-libmtp.rules", "size_i": "60235", "regex": "false"},
+	{"name_s": "/usr/lib/libmtp.so.8", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libmtp.so.8.3.1", "size_i": "222136", "regex": "false"},
+	{"name_s": "/usr/share/hal/fdi/information/10freedesktop/10-usb-music-players-libmtp.fdi", "size_i": "382236", "regex": "false"}
+]

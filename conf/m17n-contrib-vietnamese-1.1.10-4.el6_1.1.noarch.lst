@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/m17n/icons/vi-nom-vni.png", "size_i": "1365", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/vi-nom.png", "size_i": "1279", "regex": "false"},
+	{"name_s": "/usr/share/m17n/vi-han.mim", "size_i": "76786", "regex": "false"},
+	{"name_s": "/usr/share/m17n/vi-nom-vni.mim", "size_i": "239213", "regex": "false"},
+	{"name_s": "/usr/share/m17n/vi-nom.mim", "size_i": "236422", "regex": "false"}
+]

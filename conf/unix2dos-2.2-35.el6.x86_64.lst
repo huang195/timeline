@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/unix2dos", "size_i": "15048", "regex": "false"},
+	{"name_s": "/usr/share/doc/unix2dos-2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/unix2dos-2.2/COPYRIGHT", "size_i": "1199", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/unix2dos.1.gz", "size_i": "1094", "regex": "false"}
+]

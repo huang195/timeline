@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz-2010h-py2.6.egg-info", "size_i": "22534", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz/__init__.py", "size_i": "13144", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz/__init__.pyc", "size_i": "16276", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz/__init__.pyo", "size_i": "16276", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz/reference.py", "size_i": "3649", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz/reference.pyc", "size_i": "4912", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz/reference.pyo", "size_i": "4868", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz/tzfile.py", "size_i": "4340", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz/tzfile.pyc", "size_i": "3277", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz/tzfile.pyo", "size_i": "3183", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz/tzinfo.py", "size_i": "18380", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz/tzinfo.pyc", "size_i": "16646", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pytz/tzinfo.pyo", "size_i": "16646", "regex": "false"},
+	{"name_s": "/usr/share/doc/pytz-2010h", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pytz-2010h/CHANGES.txt", "size_i": "1479", "regex": "false"},
+	{"name_s": "/usr/share/doc/pytz-2010h/LICENSE.txt", "size_i": "1088", "regex": "false"},
+	{"name_s": "/usr/share/doc/pytz-2010h/README.txt", "size_i": "17542", "regex": "false"}
+]

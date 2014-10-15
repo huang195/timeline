@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Socket6.pm", "size_i": "9804", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Socket6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Socket6/Socket6.so", "size_i": "28248", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Socket6-0.23", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Socket6-0.23/ChangeLog", "size_i": "10693", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Socket6-0.23/README", "size_i": "2577", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Socket6.3pm.gz", "size_i": "3847", "regex": "false"}
+]

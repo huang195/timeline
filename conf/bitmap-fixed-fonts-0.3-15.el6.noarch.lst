@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/66-bitmap-fixed.conf", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/66-bitmap-fixed.conf", "size_i": "329", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/console9x15.pcf.gz", "size_i": "76331", "regex": "false"}
+]

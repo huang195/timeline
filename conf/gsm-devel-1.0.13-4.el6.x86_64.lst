@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/gsm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gsm.h", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/include/gsm/gsm.h", "size_i": "1681", "regex": "false"},
+	{"name_s": "/usr/lib64/libgsm.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gsm.3.gz", "size_i": "1275", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gsm_explode.3.gz", "size_i": "720", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gsm_option.3.gz", "size_i": "2335", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gsm_print.3.gz", "size_i": "888", "regex": "false"}
+]

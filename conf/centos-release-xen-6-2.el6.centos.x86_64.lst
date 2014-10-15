@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/yum.repos.d/CentOS-Xen.repo", "size_i": "278", "regex": "false"},
+	{"name_s": "/usr/bin/grub-bootxen.sh", "size_i": "393", "regex": "false"}
+]

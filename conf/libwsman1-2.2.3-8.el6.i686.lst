@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib/libwsman.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libwsman.so.1.0.0", "size_i": "210080", "regex": "false"},
+	{"name_s": "/usr/lib/libwsman_client.so.1", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libwsman_client.so.1.0.0", "size_i": "34708", "regex": "false"},
+	{"name_s": "/usr/lib/libwsman_curl_client_transport.so.1", "size_i": "39", "regex": "false"},
+	{"name_s": "/usr/lib/libwsman_curl_client_transport.so.1.0.0", "size_i": "21252", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwsman1-2.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwsman1-2.2.3/AUTHORS", "size_i": "309", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwsman1-2.2.3/COPYING", "size_i": "1497", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwsman1-2.2.3/ChangeLog", "size_i": "13824", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwsman1-2.2.3/README", "size_i": "8468", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwsman1-2.2.3/TODO", "size_i": "80", "regex": "false"}
+]

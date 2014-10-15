@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/libqmf.so.5", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libqmf.so.5.0.0", "size_i": "184712", "regex": "false"},
+	{"name_s": "/usr/lib/libqmf2.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libqmf2.so.1.0.1", "size_i": "494992", "regex": "false"},
+	{"name_s": "/usr/lib/libqmfconsole.so.6", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libqmfconsole.so.6.0.0", "size_i": "231028", "regex": "false"},
+	{"name_s": "/usr/lib/libqmfengine.so.5", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libqmfengine.so.5.0.0", "size_i": "507876", "regex": "false"}
+]

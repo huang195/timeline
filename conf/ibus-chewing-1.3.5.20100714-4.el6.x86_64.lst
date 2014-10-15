@@ -1,0 +1,19 @@
+[
+	{"name_s": "/etc/gconf/schemas/ibus-chewing.schemas", "size_i": "17473", "regex": "false"},
+	{"name_s": "/usr/libexec/ibus-engine-chewing", "size_i": "87080", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-chewing-1.3.5.20100714", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-chewing-1.3.5.20100714/AUTHORS", "size_i": "357", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-chewing-1.3.5.20100714/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-chewing-1.3.5.20100714/ChangeLog", "size_i": "7464", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-chewing-1.3.5.20100714/NEWS", "size_i": "187", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-chewing-1.3.5.20100714/README", "size_i": "149", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-chewing-1.3.5.20100714/USER-GUIDE", "size_i": "4602", "regex": "false"},
+	{"name_s": "/usr/share/ibus-chewing", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ibus-chewing/icons", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ibus-chewing/icons/ibus-chewing-orig.png", "size_i": "4660", "regex": "false"},
+	{"name_s": "/usr/share/ibus-chewing/icons/ibus-chewing.png", "size_i": "1928", "regex": "false"},
+	{"name_s": "/usr/share/ibus-chewing/icons/settings.png", "size_i": "1482", "regex": "false"},
+	{"name_s": "/usr/share/ibus/component/chewing.xml", "size_i": "874", "regex": "false"},
+	{"name_s": "/usr/share/locale/zh_CN/LC_MESSAGES/ibus-chewing.mo", "size_i": "764", "regex": "false"},
+	{"name_s": "/usr/share/locale/zh_TW/LC_MESSAGES/ibus-chewing.mo", "size_i": "4695", "regex": "false"}
+]

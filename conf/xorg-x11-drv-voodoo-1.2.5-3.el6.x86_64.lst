@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/voodoo_drv.so", "size_i": "22288", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/voodoo.xinf", "size_i": "110", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/voodoo.4.gz", "size_i": "1414", "regex": "false"}
+]

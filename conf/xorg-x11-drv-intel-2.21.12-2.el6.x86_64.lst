@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libI810XvMC.so.1", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libI810XvMC.so.1.0.0", "size_i": "45200", "regex": "false"},
+	{"name_s": "/usr/lib64/libIntelXvMC.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libIntelXvMC.so.1.0.0", "size_i": "407416", "regex": "false"},
+	{"name_s": "/usr/lib64/xorg/modules/drivers/intel_drv.so", "size_i": "1287392", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-intel-2.21.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-intel-2.21.12/COPYING", "size_i": "8371", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/intel.4.gz", "size_i": "7240", "regex": "false"}
+]

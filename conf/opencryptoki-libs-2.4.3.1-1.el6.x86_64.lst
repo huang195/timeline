@@ -1,0 +1,23 @@
+[
+	{"name_s": "/etc/ld.so.conf.d/opencryptoki-x86_64.conf", "size_i": "54", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/PKCS11_API.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/libopencryptoki.so", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/libopencryptoki.so.0", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/libopencryptoki.so.0.0.0", "size_i": "41320", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/methods", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/stdll", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/stdll/PKCS11_SW.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/stdll/PKCS11_TPM.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/stdll/libpkcs11_sw.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/stdll/libpkcs11_sw.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/stdll/libpkcs11_sw.so.0.0.0", "size_i": "301784", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/stdll/libpkcs11_tpm.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/stdll/libpkcs11_tpm.so.0", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/opencryptoki/stdll/libpkcs11_tpm.so.0.0.0", "size_i": "297856", "regex": "false"},
+	{"name_s": "/usr/lib64/pkcs11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pkcs11/PKCS11_API.so", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib64/pkcs11/libopencryptoki.so", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib64/pkcs11/methods", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/lib64/pkcs11/stdll", "size_i": "22", "regex": "false"}
+]

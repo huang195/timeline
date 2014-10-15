@@ -1,0 +1,21 @@
+[
+	{"name_s": "/etc/dumpdates", "size_i": "0", "regex": "false"},
+	{"name_s": "/sbin/dump", "size_i": "78664", "regex": "false"},
+	{"name_s": "/sbin/rdump", "size_i": "4", "regex": "false"},
+	{"name_s": "/sbin/restore", "size_i": "120008", "regex": "false"},
+	{"name_s": "/sbin/rrestore", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/share/doc/dump-0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dump-0.4/CHANGES", "size_i": "65869", "regex": "false"},
+	{"name_s": "/usr/share/doc/dump-0.4/COPYRIGHT", "size_i": "1864", "regex": "false"},
+	{"name_s": "/usr/share/doc/dump-0.4/KNOWNBUGS", "size_i": "652", "regex": "false"},
+	{"name_s": "/usr/share/doc/dump-0.4/MAINTAINERS", "size_i": "536", "regex": "false"},
+	{"name_s": "/usr/share/doc/dump-0.4/README", "size_i": "353", "regex": "false"},
+	{"name_s": "/usr/share/doc/dump-0.4/REPORTING-BUGS", "size_i": "2498", "regex": "false"},
+	{"name_s": "/usr/share/doc/dump-0.4/THANKS", "size_i": "5244", "regex": "false"},
+	{"name_s": "/usr/share/doc/dump-0.4/TODO", "size_i": "1189", "regex": "false"},
+	{"name_s": "/usr/share/doc/dump-0.4/dump.lsm", "size_i": "651", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dump.8.gz", "size_i": "8746", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rdump.8.gz", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/restore.8.gz", "size_i": "7847", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rrestore.8.gz", "size_i": "12", "regex": "false"}
+]

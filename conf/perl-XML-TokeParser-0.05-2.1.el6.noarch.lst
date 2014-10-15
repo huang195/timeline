@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/perl-XML-TokeParser-0.05", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-TokeParser-0.05/Changes", "size_i": "1310", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-TokeParser-0.05/README", "size_i": "12610", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-TokeParser-0.05/TODO", "size_i": "313", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-TokeParser-0.05/TokeParser.xml", "size_i": "7623", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::TokeParser.3pm.gz", "size_i": "6096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/TokeParser.pm", "size_i": "20676", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/lib64/libdb-4.7.so", "size_i": "1522808", "regex": "false"},
+	{"name_s": "/usr/lib64/libdb-4.7.so", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/share/doc/db4-4.7.25", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/db4-4.7.25/LICENSE", "size_i": "7333", "regex": "false"},
+	{"name_s": "/usr/share/doc/db4-4.7.25/README", "size_i": "202", "regex": "false"}
+]

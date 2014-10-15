@@ -1,0 +1,22 @@
+[
+	{"name_s": "/lib/libncurses.so.5", "size_i": "17", "regex": "false"},
+	{"name_s": "/lib/libncurses.so.5.7", "size_i": "139980", "regex": "false"},
+	{"name_s": "/lib/libncursesw.so.5", "size_i": "18", "regex": "false"},
+	{"name_s": "/lib/libncursesw.so.5.7", "size_i": "195244", "regex": "false"},
+	{"name_s": "/lib/libtinfo.so.5", "size_i": "15", "regex": "false"},
+	{"name_s": "/lib/libtinfo.so.5.7", "size_i": "98120", "regex": "false"},
+	{"name_s": "/usr/lib/libform.so.5", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib/libform.so.5.7", "size_i": "57708", "regex": "false"},
+	{"name_s": "/usr/lib/libformw.so.5", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libformw.so.5.7", "size_i": "65068", "regex": "false"},
+	{"name_s": "/usr/lib/libmenu.so.5", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib/libmenu.so.5.7", "size_i": "28024", "regex": "false"},
+	{"name_s": "/usr/lib/libmenuw.so.5", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libmenuw.so.5.7", "size_i": "28696", "regex": "false"},
+	{"name_s": "/usr/lib/libpanel.so.5", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libpanel.so.5.7", "size_i": "10316", "regex": "false"},
+	{"name_s": "/usr/lib/libpanelw.so.5", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libpanelw.so.5.7", "size_i": "10316", "regex": "false"},
+	{"name_s": "/usr/lib/libtic.so.5", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/lib/libtic.so.5.7", "size_i": "73424", "regex": "false"}
+]

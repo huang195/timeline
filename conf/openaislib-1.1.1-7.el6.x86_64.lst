@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/lib64/libSaAmf.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaAmf.so.3.0.0", "size_i": "25336", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaCkpt.so.3", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaCkpt.so.3.0.0", "size_i": "35808", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaClm.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaClm.so.3.0.0", "size_i": "15320", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaEvt.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaEvt.so.3.0.0", "size_i": "30328", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaLck.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaLck.so.3.0.0", "size_i": "24152", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaMsg.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaMsg.so.3.0.0", "size_i": "35736", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaTmr.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libSaTmr.so.3.0.0", "size_i": "14264", "regex": "false"},
+	{"name_s": "/usr/share/doc/openaislib-1.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openaislib-1.1.1/LICENSE", "size_i": "3134", "regex": "false"}
+]

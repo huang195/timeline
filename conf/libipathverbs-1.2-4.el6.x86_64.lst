@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/libibverbs.d/ipath.driver", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libipathverbs-rdmav2.so", "size_i": "15544", "regex": "false"},
+	{"name_s": "/usr/lib64/libipathverbs.so", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/share/doc/libipathverbs-1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libipathverbs-1.2/AUTHORS", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/share/doc/libipathverbs-1.2/COPYING", "size_i": "1533", "regex": "false"},
+	{"name_s": "/usr/share/doc/libipathverbs-1.2/README", "size_i": "728", "regex": "false"}
+]

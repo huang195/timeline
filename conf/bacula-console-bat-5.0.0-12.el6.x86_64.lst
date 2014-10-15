@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/bacula/bat.conf", "size_i": "172", "regex": "false"},
+	{"name_s": "/etc/pam.d/bat", "size_i": "241", "regex": "false"},
+	{"name_s": "/etc/security/console.apps/bat", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/bin/bat", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/sbin/bat", "size_i": "1621728", "regex": "false"},
+	{"name_s": "/usr/share/applications/fedora-bacula-bat.desktop", "size_i": "278", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/bat.1.gz", "size_i": "674", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/bacula.png", "size_i": "2983", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/bat_icon.png", "size_i": "5054", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/lib/firmware/iwlwifi-3945-1.ucode", "size_i": "149816", "regex": "false"},
+	{"name_s": "/lib/firmware/iwlwifi-3945-2.ucode", "size_i": "150100", "regex": "false"},
+	{"name_s": "/lib/firmware/iwlwifi-3945.ucode", "size_i": "149652", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl3945-firmware-15.32.2.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl3945-firmware-15.32.2.9/LICENSE", "size_i": "2075", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl3945-firmware-15.32.2.9/README", "size_i": "5753", "regex": "false"}
+]

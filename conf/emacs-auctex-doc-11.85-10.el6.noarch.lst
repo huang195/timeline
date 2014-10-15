@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/emacs-auctex-doc-11.85", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/emacs-auctex-doc-11.85/auctex.dvi", "size_i": "503272", "regex": "false"},
+	{"name_s": "/usr/share/doc/emacs-auctex-doc-11.85/auctex.pdf", "size_i": "617221", "regex": "false"},
+	{"name_s": "/usr/share/doc/emacs-auctex-doc-11.85/auctex.ps", "size_i": "868404", "regex": "false"},
+	{"name_s": "/usr/share/doc/emacs-auctex-doc-11.85/html", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/emacs-auctex-doc-11.85/tex-ref.dvi", "size_i": "17736", "regex": "false"},
+	{"name_s": "/usr/share/doc/emacs-auctex-doc-11.85/tex-ref.pdf", "size_i": "96704", "regex": "false"},
+	{"name_s": "/usr/share/doc/emacs-auctex-doc-11.85/tex-ref.ps", "size_i": "185746", "regex": "false"}
+]

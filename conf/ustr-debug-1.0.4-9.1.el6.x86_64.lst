@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/ustr-conf-debug-64.h", "size_i": "1983", "regex": "false"},
+	{"name_s": "/usr/include/ustr-conf-debug.h", "size_i": "217", "regex": "false"},
+	{"name_s": "/usr/include/ustr-debug.h", "size_i": "532", "regex": "false"},
+	{"name_s": "/usr/lib64/libustr-debug-1.0.so.1", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/libustr-debug-1.0.so.1.0.4", "size_i": "249920", "regex": "false"},
+	{"name_s": "/usr/lib64/libustr-debug.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/ustr-debug.pc", "size_i": "112", "regex": "false"}
+]

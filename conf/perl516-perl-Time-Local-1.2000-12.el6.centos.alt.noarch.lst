@@ -1,0 +1,5 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Time::Local.3pm.gz", "size_i": "5000", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Time", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Time/Local.pm", "size_i": "12053", "regex": "false"}
+]

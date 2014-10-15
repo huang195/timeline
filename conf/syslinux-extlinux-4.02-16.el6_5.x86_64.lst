@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/extlinux.conf", "size_i": "30", "regex": "false"},
+	{"name_s": "/sbin/extlinux", "size_i": "55656", "regex": "false"}
+]

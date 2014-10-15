@@ -1,0 +1,21 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/index.js", "size_i": "41658", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules/aws-sign", "size_i": "52", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules/cookie-jar", "size_i": "54", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules/forever-agent", "size_i": "57", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules/form-data", "size_i": "53", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules/hawk", "size_i": "48", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules/http-signature", "size_i": "58", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules/json-stringify-safe", "size_i": "63", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules/mime", "size_i": "48", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules/node-uuid", "size_i": "53", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules/oauth-sign", "size_i": "54", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules/qs", "size_i": "46", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/node_modules/tunnel-agent", "size_i": "56", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/request/package.json", "size_i": "854", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-request-2.25.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-request-2.25.0/LICENSE", "size_i": "9140", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-request-2.25.0/README.md", "size_i": "12465", "regex": "false"}
+]

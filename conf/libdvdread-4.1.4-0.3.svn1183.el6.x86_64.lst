@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libdvdread.so.4", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libdvdread.so.4.1.4", "size_i": "122144", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdvdread-4.1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdvdread-4.1.4/AUTHORS", "size_i": "267", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdvdread-4.1.4/COPYING", "size_i": "18097", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdvdread-4.1.4/ChangeLog", "size_i": "4826", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdvdread-4.1.4/README", "size_i": "2669", "regex": "false"}
+]

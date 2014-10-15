@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libXxf86vm.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libXxf86vm.so.1.0.0", "size_i": "20136", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXxf86vm-1.1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXxf86vm-1.1.2/COPYING", "size_i": "1280", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXxf86vm-1.1.2/ChangeLog", "size_i": "17431", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXxf86vm-1.1.2/README", "size_i": "704", "regex": "false"}
+]

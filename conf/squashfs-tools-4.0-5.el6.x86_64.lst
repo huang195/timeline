@@ -1,0 +1,7 @@
+[
+	{"name_s": "/sbin/mksquashfs", "size_i": "106936", "regex": "false"},
+	{"name_s": "/usr/sbin/unsquashfs", "size_i": "69208", "regex": "false"},
+	{"name_s": "/usr/share/doc/squashfs-tools-4.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/squashfs-tools-4.0/README", "size_i": "26861", "regex": "false"},
+	{"name_s": "/usr/share/doc/squashfs-tools-4.0/README-4.0", "size_i": "1489", "regex": "false"}
+]

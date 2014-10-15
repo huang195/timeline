@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/ppl-config", "size_i": "95232", "regex": "false"},
+	{"name_s": "/usr/lib64/libppl.so.7", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libppl.so.7.1.0", "size_i": "748000", "regex": "false"},
+	{"name_s": "/usr/lib64/libppl_c.so.2", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libppl_c.so.2.1.0", "size_i": "3563944", "regex": "false"},
+	{"name_s": "/usr/lib64/ppl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/BUGS", "size_i": "944", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/CREDITS", "size_i": "18273", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/NEWS", "size_i": "63727", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/README", "size_i": "47598", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/README.configure", "size_i": "20008", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/TODO", "size_i": "7930", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-0.10.2/gpl.txt", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ppl-config.1.gz", "size_i": "1334", "regex": "false"}
+]

@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/PyKDE4/plasmascript.py", "size_i": "3626", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/PyKDE4/plasmascript.pyc", "size_i": "5512", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/PyKDE4/plasmascript.pyo", "size_i": "5512", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/plasma_scriptengine_python", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/plasma_scriptengine_python/plasma_importer.py", "size_i": "3877", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/plasma_scriptengine_python/plasma_importer.pyc", "size_i": "3525", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/plasma_scriptengine_python/plasma_importer.pyo", "size_i": "3525", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/plasma_scriptengine_python/pyappletscript.py", "size_i": "5391", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/plasma_scriptengine_python/pyappletscript.pyc", "size_i": "5263", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/plasma_scriptengine_python/pyappletscript.pyo", "size_i": "5263", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/plasma_scriptengine_python/pydataengine.py", "size_i": "2441", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/plasma_scriptengine_python/pydataengine.pyc", "size_i": "2846", "regex": "false"},
+	{"name_s": "/usr/share/kde4/apps/plasma_scriptengine_python/pydataengine.pyo", "size_i": "2846", "regex": "false"},
+	{"name_s": "/usr/share/kde4/services/plasma-scriptengine-applet-python.desktop", "size_i": "7076", "regex": "false"},
+	{"name_s": "/usr/share/kde4/services/plasma-scriptengine-dataengine-python.desktop", "size_i": "7262", "regex": "false"}
+]

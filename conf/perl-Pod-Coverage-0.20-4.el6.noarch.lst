@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/pod_cover", "size_i": "1503", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Pod-Coverage-0.20", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Pod-Coverage-0.20/Changes", "size_i": "4377", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Pod-Coverage-0.20/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Pod-Coverage-0.20/examples/check_installed", "size_i": "599", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Pod-Coverage-0.20/examples/script-covered", "size_i": "348", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Pod::Coverage.3pm.gz", "size_i": "4444", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Pod::Coverage::CountParents.3pm.gz", "size_i": "2111", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Pod::Coverage::ExportOnly.3pm.gz", "size_i": "2137", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Pod::Coverage::Overloader.3pm.gz", "size_i": "1974", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Pod", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Pod/Coverage", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Pod/Coverage.pm", "size_i": "12189", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Pod/Coverage/CountParents.pm", "size_i": "1707", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Pod/Coverage/ExportOnly.pm", "size_i": "1262", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Pod/Coverage/Overloader.pm", "size_i": "736", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libpcre.a", "size_i": "263232", "regex": "false"},
+	{"name_s": "/usr/lib64/libpcrecpp.a", "size_i": "46910", "regex": "false"},
+	{"name_s": "/usr/lib64/libpcreposix.a", "size_i": "5182", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcre-static-7.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcre-static-7.8/COPYING", "size_i": "95", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcre-static-7.8/LICENCE", "size_i": "2496", "regex": "false"}
+]

@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/fonts/conf.d/61-stix-integrals.conf", "size_i": "55", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/61-stix-integrals.conf", "size_i": "243", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXIntDis.otf", "size_i": "13584", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXIntDisBol.otf", "size_i": "13172", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXIntSma.otf", "size_i": "13464", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXIntSmaBol.otf", "size_i": "12748", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXIntUp.otf", "size_i": "12880", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXIntUpBol.otf", "size_i": "12772", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXIntUpDis.otf", "size_i": "13032", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXIntUpDisBol.otf", "size_i": "13124", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXIntUpSma.otf", "size_i": "13252", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXIntUpSmaBol.otf", "size_i": "13048", "regex": "false"}
+]

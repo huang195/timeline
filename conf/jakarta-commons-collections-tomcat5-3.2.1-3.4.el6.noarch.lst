@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/jakarta-commons-collections-tomcat5-3.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-collections-tomcat5-3.2.1/LICENSE.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-collections-tomcat5-3.2.1/NOTICE.txt", "size_i": "180", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-collections-tomcat5-3.2.1.jar", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-collections-tomcat5.jar", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-collections-tomcat5-3.2.1.jar", "size_i": "24536", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-collections-tomcat5.jar", "size_i": "45", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-Config-Tiny-2.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Config-Tiny-2.12/Changes", "size_i": "3639", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Config-Tiny-2.12/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Config-Tiny-2.12/README", "size_i": "4656", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Config::Tiny.3pm.gz", "size_i": "3808", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Config", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Config/Tiny.pm", "size_i": "7079", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Devel-Symdump-2.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Devel-Symdump-2.10/Changes", "size_i": "6412", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Devel-Symdump-2.10/README", "size_i": "5826", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Devel::Symdump.3pm.gz", "size_i": "4065", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Devel", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Devel/Symdump", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Devel/Symdump.pm", "size_i": "12436", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Devel/Symdump/Export.pm", "size_i": "739", "regex": "false"}
+]

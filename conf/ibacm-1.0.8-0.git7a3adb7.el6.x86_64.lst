@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/rc.d/init.d/ibacm", "size_i": "1791", "regex": "false"},
+	{"name_s": "/usr/bin/ib_acme", "size_i": "32760", "regex": "false"},
+	{"name_s": "/usr/sbin/ibacm", "size_i": "52896", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibacm-1.0.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibacm-1.0.8/AUTHORS", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibacm-1.0.8/COPYING", "size_i": "19820", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibacm-1.0.8/README", "size_i": "330", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ib_acme.1.gz", "size_i": "1403", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ibacm.1.gz", "size_i": "2647", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/ibacm.7.gz", "size_i": "705", "regex": "false"}
+]

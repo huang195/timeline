@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/corelist", "size_i": "6516", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/corelist.1.gz", "size_i": "2972", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Module::CoreList.3pm.gz", "size_i": "2837", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/CoreList.pm", "size_i": "521009", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/bin/cslatex", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/bin/lacheck", "size_i": "60896", "regex": "false"},
+	{"name_s": "/usr/bin/latex", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/bin/mllatex", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/bin/pdfcslatex", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/bin/pdflatex", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/bin/pslatex", "size_i": "1446", "regex": "false"},
+	{"name_s": "/usr/share/info/latex.info.gz", "size_i": "36616", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/lacheck.1.gz", "size_i": "1960", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/latex.1.gz", "size_i": "1345", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pdflatex.1.gz", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pslatex.1.gz", "size_i": "668", "regex": "false"}
+]

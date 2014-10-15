@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/php.d/gd.ini", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/gd.so", "size_i": "328720", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-gd-5.3.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-gd-5.3.3/gd_README", "size_i": "3221", "regex": "false"}
+]

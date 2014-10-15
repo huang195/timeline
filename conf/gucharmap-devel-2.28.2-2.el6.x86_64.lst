@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/include/gucharmap-2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap/gucharmap-block-chapters-model.h", "size_i": "2638", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap/gucharmap-block-codepoint-list.h", "size_i": "2716", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap/gucharmap-chapters-model.h", "size_i": "4121", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap/gucharmap-chapters-view.h", "size_i": "3592", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap/gucharmap-charmap.h", "size_i": "5620", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap/gucharmap-chartable.h", "size_i": "4177", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap/gucharmap-codepoint-list.h", "size_i": "3142", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap/gucharmap-script-chapters-model.h", "size_i": "2642", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap/gucharmap-script-codepoint-list.h", "size_i": "3374", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap/gucharmap-type-builtins.h", "size_i": "753", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap/gucharmap-unicode-info.h", "size_i": "4080", "regex": "false"},
+	{"name_s": "/usr/include/gucharmap-2/gucharmap/gucharmap.h", "size_i": "1852", "regex": "false"},
+	{"name_s": "/usr/lib64/libgucharmap.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/gucharmap-2.pc", "size_i": "278", "regex": "false"}
+]

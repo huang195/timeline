@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/emacs-gnuplot-el-4.2.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/emacs-gnuplot-el-4.2.6/ChangeLog", "size_i": "395677", "regex": "false"},
+	{"name_s": "/usr/share/doc/emacs-gnuplot-el-4.2.6/Copyright", "size_i": "1495", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/gnuplot/gnuplot-gui.el", "size_i": "70108", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/gnuplot/gnuplot.el", "size_i": "107805", "regex": "false"}
+]

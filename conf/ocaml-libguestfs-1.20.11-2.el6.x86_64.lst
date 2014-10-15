@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/ocaml/guestfs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/guestfs/META", "size_i": "156", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/guestfs/guestfs.cmi", "size_i": "265584", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/guestfs/mlguestfs.cma", "size_i": "401594", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/stublibs/dllmlguestfs.so", "size_i": "325176", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/stublibs/dllmlguestfs.so.owner", "size_i": "8", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/perl-Cache-Memcached-1.28", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Cache-Memcached-1.28/ChangeLog", "size_i": "9019", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Cache-Memcached-1.28/README", "size_i": "321", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Cache::Memcached.3pm.gz", "size_i": "5511", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Cache", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Cache/Memcached", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Cache/Memcached.pm", "size_i": "36718", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Cache/Memcached/GetParser.pm", "size_i": "4057", "regex": "false"}
+]

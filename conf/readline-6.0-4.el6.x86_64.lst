@@ -1,0 +1,14 @@
+[
+	{"name_s": "/lib64/libreadline.so.6", "size_i": "18", "regex": "false"},
+	{"name_s": "/lib64/libreadline.so.6.0", "size_i": "269592", "regex": "false"},
+	{"name_s": "/usr/lib64/libhistory.so.6", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libhistory.so.6.0", "size_i": "33616", "regex": "false"},
+	{"name_s": "/usr/share/doc/readline-6.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/readline-6.0/CHANGES", "size_i": "45738", "regex": "false"},
+	{"name_s": "/usr/share/doc/readline-6.0/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/readline-6.0/NEWS", "size_i": "1721", "regex": "false"},
+	{"name_s": "/usr/share/doc/readline-6.0/README", "size_i": "7680", "regex": "false"},
+	{"name_s": "/usr/share/doc/readline-6.0/USAGE", "size_i": "2025", "regex": "false"},
+	{"name_s": "/usr/share/info/history.info.gz", "size_i": "16455", "regex": "false"},
+	{"name_s": "/usr/share/info/rluserman.info.gz", "size_i": "21983", "regex": "false"}
+]

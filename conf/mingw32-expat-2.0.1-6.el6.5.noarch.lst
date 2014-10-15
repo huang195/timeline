@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/libexpat-1.dll", "size_i": "398576", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/xmlwf", "size_i": "92532", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/expat.h", "size_i": "40339", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/expat_external.h", "size_i": "3364", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libexpat.dll.a", "size_i": "52994", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libexpat.la", "size_i": "931", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-expat-2.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-expat-2.0.1/COPYING", "size_i": "1208", "regex": "false"}
+]

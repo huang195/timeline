@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/slip.gtk-0.2.20-py2.6.egg-info", "size_i": "213", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/slip/gtk", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/slip/gtk/__init__.py", "size_i": "75", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/slip/gtk/__init__.pyc", "size_i": "218", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/slip/gtk/__init__.pyo", "size_i": "218", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/slip/gtk/tools.py", "size_i": "1953", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/slip/gtk/tools.pyc", "size_i": "1491", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/slip/gtk/tools.pyo", "size_i": "1491", "regex": "false"}
+]

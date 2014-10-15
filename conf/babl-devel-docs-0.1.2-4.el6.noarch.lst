@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html/BablFishPath.html", "size_i": "1165490", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html/babl.css", "size_i": "6675", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html/graphics", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html/graphics/babl-16x16.png", "size_i": "504", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html/graphics/babl-16x16.svg", "size_i": "18182", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html/graphics/babl-48x48.png", "size_i": "1868", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html/graphics/babl-48x48.svg", "size_i": "25957", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html/graphics/babl-a4poster.png", "size_i": "34452", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html/graphics/babl-a4poster.svg", "size_i": "303646", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html/graphics/index.html", "size_i": "1582", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html/index-static.html", "size_i": "16191", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-devel-0.1.2/html/index.html", "size_i": "73378", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/esd-config", "size_i": "979", "regex": "false"},
+	{"name_s": "/usr/include/esd.h", "size_i": "12302", "regex": "false"},
+	{"name_s": "/usr/lib64/libesd.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libesddsp.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/esound.pc", "size_i": "226", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/esd.m4", "size_i": "6870", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/esd-config.1.gz", "size_i": "2302", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libatomic.so.1", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libatomic.so.1.0.0", "size_i": "20716", "regex": "false"},
+	{"name_s": "/usr/share/doc/libatomic-4.8.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libatomic-4.8.1/COPYING.RUNTIME", "size_i": "3324", "regex": "false"},
+	{"name_s": "/usr/share/doc/libatomic-4.8.1/COPYING3", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/libatomic-4.8.1/ChangeLog.libatomic.bz2", "size_i": "1114", "regex": "false"}
+]

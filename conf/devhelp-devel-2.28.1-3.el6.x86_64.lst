@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/include/devhelp-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/devhelp-1.0/devhelp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/devhelp-1.0/devhelp/dh-assistant-view.h", "size_i": "2301", "regex": "false"},
+	{"name_s": "/usr/include/devhelp-1.0/devhelp/dh-assistant.h", "size_i": "1992", "regex": "false"},
+	{"name_s": "/usr/include/devhelp-1.0/devhelp/dh-base.h", "size_i": "2404", "regex": "false"},
+	{"name_s": "/usr/include/devhelp-1.0/devhelp/dh-book-tree.h", "size_i": "2070", "regex": "false"},
+	{"name_s": "/usr/include/devhelp-1.0/devhelp/dh-error.h", "size_i": "1265", "regex": "false"},
+	{"name_s": "/usr/include/devhelp-1.0/devhelp/dh-keyword-model.h", "size_i": "2609", "regex": "false"},
+	{"name_s": "/usr/include/devhelp-1.0/devhelp/dh-link.h", "size_i": "2788", "regex": "false"},
+	{"name_s": "/usr/include/devhelp-1.0/devhelp/dh-search.h", "size_i": "2125", "regex": "false"},
+	{"name_s": "/usr/include/devhelp-1.0/devhelp/dh-window.h", "size_i": "2620", "regex": "false"},
+	{"name_s": "/usr/lib64/libdevhelp-1.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libdevhelp-1.0.pc", "size_i": "249", "regex": "false"}
+]

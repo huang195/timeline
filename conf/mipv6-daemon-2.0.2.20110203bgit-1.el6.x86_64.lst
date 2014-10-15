@@ -1,0 +1,23 @@
+[
+	{"name_s": "/etc/mip6d.conf", "size_i": "931", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/mip6d", "size_i": "1885", "regex": "false"},
+	{"name_s": "/etc/sysconfig/mip6d", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/sbin/mip6d", "size_i": "242304", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/AUTHORS", "size_i": "861", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/BUGS", "size_i": "799", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/COPYING", "size_i": "15146", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/NEWS", "size_i": "1004", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/README", "size_i": "1629", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/README.IPsec", "size_i": "8840", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/THANKS", "size_i": "748", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/extras", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/extras/example-cn.conf", "size_i": "214", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/extras/example-ha.conf", "size_i": "2186", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/extras/example-mn.conf", "size_i": "962", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/extras/example-nemo-ha.conf", "size_i": "2414", "regex": "false"},
+	{"name_s": "/usr/share/doc/mipv6-daemon-2.0.2.20110203bgit/extras/example-nemo-mn.conf", "size_i": "938", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mip6d.1.gz", "size_i": "603", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/mip6d.conf.5.gz", "size_i": "5813", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/mipv6.7.gz", "size_i": "347", "regex": "false"}
+]

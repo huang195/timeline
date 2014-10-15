@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/libstdc++-3-libc6.2-2-2.10.0.so", "size_i": "262024", "regex": "false"},
+	{"name_s": "/usr/lib/libstdc++-libc6.2-2.so.3", "size_i": "31", "regex": "false"}
+]

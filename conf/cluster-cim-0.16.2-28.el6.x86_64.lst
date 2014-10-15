@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/Pegasus/providers/libRedHatClusterProvider.so", "size_i": "321248", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-cim-0.16.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-cim-0.16.2/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-cim-0.16.2/README", "size_i": "77", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-cim-0.16.2/README.cim", "size_i": "367", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-cim-0.16.2/RedHat_ClusterProvider.mof", "size_i": "2381", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-cim-0.16.2/RedHat_ClusterSchema.mof", "size_i": "3160", "regex": "false"}
+]

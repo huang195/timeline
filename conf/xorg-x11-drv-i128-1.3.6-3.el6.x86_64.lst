@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/i128_drv.so", "size_i": "54160", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/i128.xinf", "size_i": "212", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/i128.4.gz", "size_i": "916", "regex": "false"}
+]

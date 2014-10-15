@@ -1,0 +1,22 @@
+[
+	{"name_s": "/var/named/chroot", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/dev", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/dev/null", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/named/chroot/dev/random", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/named/chroot/dev/zero", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/named/chroot/etc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/etc/localtime", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/named/chroot/etc/named", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/etc/named.conf", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/named/chroot/etc/pki", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/etc/pki/dnssec-keys", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/usr", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/usr/lib64", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/usr/lib64/bind", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/var", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/var/log", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/var/named", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/var/run", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/var/run/named", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/named/chroot/var/tmp", "size_i": "4096", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/byacc", "size_i": "4", "regex": "false"},
+	{"name_s": "/usr/bin/yacc", "size_i": "73736", "regex": "false"},
+	{"name_s": "/usr/share/doc/byacc-1.9.20070509", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/byacc-1.9.20070509/ACKNOWLEDGEMENTS", "size_i": "771", "regex": "false"},
+	{"name_s": "/usr/share/doc/byacc-1.9.20070509/CHANGES", "size_i": "8264", "regex": "false"},
+	{"name_s": "/usr/share/doc/byacc-1.9.20070509/NEW_FEATURES", "size_i": "2050", "regex": "false"},
+	{"name_s": "/usr/share/doc/byacc-1.9.20070509/NOTES", "size_i": "504", "regex": "false"},
+	{"name_s": "/usr/share/doc/byacc-1.9.20070509/NO_WARRANTY", "size_i": "156", "regex": "false"},
+	{"name_s": "/usr/share/doc/byacc-1.9.20070509/README", "size_i": "1403", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/byacc.1.gz", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/yacc.1.gz", "size_i": "1084", "regex": "false"}
+]

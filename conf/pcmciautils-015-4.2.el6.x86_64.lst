@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/pcmcia", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/pcmcia/config.opts", "size_i": "1117", "regex": "false"},
+	{"name_s": "/etc/udev/rules.d/60-pcmcia.rules", "size_i": "1060", "regex": "false"},
+	{"name_s": "/lib/udev/pcmcia-check-broken-cis", "size_i": "11008", "regex": "false"},
+	{"name_s": "/lib/udev/pcmcia-socket-startup", "size_i": "41152", "regex": "false"},
+	{"name_s": "/sbin/lspcmcia", "size_i": "9", "regex": "false"},
+	{"name_s": "/sbin/pccardctl", "size_i": "32472", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcmciautils-015", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcmciautils-015/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/lspcmcia.8.gz", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pccardctl.8.gz", "size_i": "1084", "regex": "false"}
+]

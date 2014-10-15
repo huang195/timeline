@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/include/cloog", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/cloog/block.h", "size_i": "7056", "regex": "false"},
+	{"name_s": "/usr/include/cloog/clast.h", "size_i": "3248", "regex": "false"},
+	{"name_s": "/usr/include/cloog/cloog-config.h", "size_i": "2145", "regex": "false"},
+	{"name_s": "/usr/include/cloog/cloog.h", "size_i": "5070", "regex": "false"},
+	{"name_s": "/usr/include/cloog/domain.h", "size_i": "6994", "regex": "false"},
+	{"name_s": "/usr/include/cloog/loop.h", "size_i": "7140", "regex": "false"},
+	{"name_s": "/usr/include/cloog/names.h", "size_i": "7411", "regex": "false"},
+	{"name_s": "/usr/include/cloog/options.h", "size_i": "6909", "regex": "false"},
+	{"name_s": "/usr/include/cloog/polylib_backend.h", "size_i": "2473", "regex": "false"},
+	{"name_s": "/usr/include/cloog/ppl_backend.h", "size_i": "15186", "regex": "false"},
+	{"name_s": "/usr/include/cloog/pprint.h", "size_i": "3160", "regex": "false"},
+	{"name_s": "/usr/include/cloog/program.h", "size_i": "7213", "regex": "false"},
+	{"name_s": "/usr/include/cloog/statement.h", "size_i": "4718", "regex": "false"},
+	{"name_s": "/usr/include/cloog/version.h", "size_i": "3256", "regex": "false"},
+	{"name_s": "/usr/lib64/libcloog.so", "size_i": "17", "regex": "false"}
+]

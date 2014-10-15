@@ -1,0 +1,12 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/metaclass-0.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/metaclass-0.0.1/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/metaclass-0.0.1/lib/metaclass", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/metaclass-0.0.1/lib/metaclass.rb", "size_i": "85", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/metaclass-0.0.1/lib/metaclass/object_methods.rb", "size_i": "151", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/metaclass-0.0.1/lib/metaclass/version.rb", "size_i": "41", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/metaclass-0.0.1/test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/metaclass-0.0.1/test/object_methods_test.rb", "size_i": "801", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/metaclass-0.0.1/test/test_helper.rb", "size_i": "84", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/metaclass-0.0.1.gemspec", "size_i": "698", "regex": "false"}
+]

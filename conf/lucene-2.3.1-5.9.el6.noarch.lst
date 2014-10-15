@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/lucene-2.3.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lucene-2.3.1/CHANGES.txt", "size_i": "103524", "regex": "false"},
+	{"name_s": "/usr/share/doc/lucene-2.3.1/LICENSE.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/lucene-2.3.1/README.txt", "size_i": "1157", "regex": "false"},
+	{"name_s": "/usr/share/java/lucene-2.3.1.jar", "size_i": "663694", "regex": "false"},
+	{"name_s": "/usr/share/java/lucene.jar", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/lucene-2.3.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/lucene-2.3.1/luceneweb.war", "size_i": "669986", "regex": "false"}
+]

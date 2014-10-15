@@ -1,0 +1,10 @@
+[
+	{"name_s": "/sbin/hdparm", "size_i": "107528", "regex": "false"},
+	{"name_s": "/usr/share/doc/hdparm-9.43", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hdparm-9.43/Changelog", "size_i": "23547", "regex": "false"},
+	{"name_s": "/usr/share/doc/hdparm-9.43/LICENSE.TXT", "size_i": "253", "regex": "false"},
+	{"name_s": "/usr/share/doc/hdparm-9.43/README.acoustic", "size_i": "1603", "regex": "false"},
+	{"name_s": "/usr/share/doc/hdparm-9.43/TODO", "size_i": "422", "regex": "false"},
+	{"name_s": "/usr/share/doc/hdparm-9.43/hdparm.lsm", "size_i": "6476", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/hdparm.8.gz", "size_i": "13707", "regex": "false"}
+]

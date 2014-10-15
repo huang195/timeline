@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/rpm/macros.perl-scldevel", "size_i": "44", "regex": "false"},
+	{"name_s": "/usr/lib/rpm/fileattrs/perl.attr", "size_i": "102", "regex": "false"},
+	{"name_s": "/usr/lib/rpm/fileattrs/perllib.attr", "size_i": "155", "regex": "false"},
+	{"name_s": "/usr/lib/rpm/perl.prov.stack", "size_i": "5900", "regex": "false"},
+	{"name_s": "/usr/lib/rpm/perl.req.stack", "size_i": "8248", "regex": "false"}
+]

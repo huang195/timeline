@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/perl5/Crypt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Crypt/OpenSSL", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Crypt/OpenSSL/Random.pm", "size_i": "3171", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL/Random", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL/Random/Random.so", "size_i": "11984", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL/Random/autosplit.ix", "size_i": "99", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Crypt-OpenSSL-Random-0.04", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Crypt-OpenSSL-Random-0.04/Changes", "size_i": "422", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Crypt-OpenSSL-Random-0.04/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Crypt::OpenSSL::Random.3pm.gz", "size_i": "2915", "regex": "false"}
+]

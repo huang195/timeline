@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/java", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/java/libgcj-tools-4.4.4.jar", "size_i": "796432", "regex": "false"},
+	{"name_s": "/usr/share/java/libgcj-tools-4.4.7.jar", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/java/src-4.4.4.zip", "size_i": "12940906", "regex": "false"},
+	{"name_s": "/usr/share/java/src-4.4.7.zip", "size_i": "13", "regex": "false"}
+]

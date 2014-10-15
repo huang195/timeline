@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/lib/libproxy", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy.so.0.0.0", "size_i": "28044", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy/0.3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy/0.3.0/modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy/0.3.0/modules/config_direct.so", "size_i": "3656", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy/0.3.0/modules/config_envvar.so", "size_i": "3992", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy/0.3.0/modules/config_file.so", "size_i": "4660", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy/0.3.0/modules/config_wpad.so", "size_i": "3652", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy/0.3.0/modules/ignore_domain.so", "size_i": "4304", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy/0.3.0/modules/ignore_ip.so", "size_i": "5160", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy/0.3.0/modules/network_networkmanager.so", "size_i": "4644", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy/0.3.0/modules/wpad_dns.so", "size_i": "3512", "regex": "false"},
+	{"name_s": "/usr/lib/libproxy/0.3.0/modules/wpad_dnsdevolution.so", "size_i": "9176", "regex": "false"},
+	{"name_s": "/usr/share/doc/libproxy-0.3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libproxy-0.3.0/AUTHORS", "size_i": "146", "regex": "false"},
+	{"name_s": "/usr/share/doc/libproxy-0.3.0/COPYING", "size_i": "26415", "regex": "false"},
+	{"name_s": "/usr/share/doc/libproxy-0.3.0/README", "size_i": "110", "regex": "false"}
+]

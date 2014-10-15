@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/dirsrv", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/dirsrv/repl-session-plugin.h", "size_i": "5649", "regex": "false"},
+	{"name_s": "/usr/include/dirsrv/slapi-plugin.h", "size_i": "279818", "regex": "false"},
+	{"name_s": "/usr/include/dirsrv/winsync-plugin.h", "size_i": "15383", "regex": "false"},
+	{"name_s": "/usr/lib/dirsrv/libslapd.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/dirsrv.pc", "size_i": "161", "regex": "false"},
+	{"name_s": "/usr/share/doc/389-ds-base-devel-1.2.11.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/389-ds-base-devel-1.2.11.15/EXCEPTION", "size_i": "806", "regex": "false"},
+	{"name_s": "/usr/share/doc/389-ds-base-devel-1.2.11.15/LICENSE", "size_i": "2064", "regex": "false"},
+	{"name_s": "/usr/share/doc/389-ds-base-devel-1.2.11.15/LICENSE.GPLv2", "size_i": "17996", "regex": "false"},
+	{"name_s": "/usr/share/doc/389-ds-base-devel-1.2.11.15/README.devel", "size_i": "177", "regex": "false"}
+]

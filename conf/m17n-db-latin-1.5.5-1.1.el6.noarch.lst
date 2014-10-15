@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/icons/latn-post.png", "size_i": "1013", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/latn-pre.png", "size_i": "1469", "regex": "false"},
+	{"name_s": "/usr/share/m17n/latn-post.mim", "size_i": "9411", "regex": "false"},
+	{"name_s": "/usr/share/m17n/latn-pre.mim", "size_i": "5842", "regex": "false"}
+]

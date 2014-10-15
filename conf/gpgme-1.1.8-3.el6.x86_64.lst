@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/lib64/libgpgme-pth.so.11", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libgpgme-pth.so.11.6.6", "size_i": "197896", "regex": "false"},
+	{"name_s": "/usr/lib64/libgpgme-pthread.so.11", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/libgpgme-pthread.so.11.6.6", "size_i": "197832", "regex": "false"},
+	{"name_s": "/usr/lib64/libgpgme.so.11", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libgpgme.so.11.6.6", "size_i": "197792", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpgme-1.1.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpgme-1.1.8/AUTHORS", "size_i": "905", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpgme-1.1.8/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpgme-1.1.8/COPYING.LESSER", "size_i": "26536", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpgme-1.1.8/ChangeLog", "size_i": "24008", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpgme-1.1.8/NEWS", "size_i": "51775", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpgme-1.1.8/README", "size_i": "4133", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpgme-1.1.8/THANKS", "size_i": "1384", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpgme-1.1.8/TODO", "size_i": "9399", "regex": "false"},
+	{"name_s": "/usr/share/doc/gpgme-1.1.8/VERSION", "size_i": "6", "regex": "false"}
+]

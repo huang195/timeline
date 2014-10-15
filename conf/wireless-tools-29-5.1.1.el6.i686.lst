@@ -1,0 +1,23 @@
+[
+	{"name_s": "/lib/libiw.so.29", "size_i": "30952", "regex": "false"},
+	{"name_s": "/sbin/ifrename", "size_i": "24584", "regex": "false"},
+	{"name_s": "/sbin/iwconfig", "size_i": "22480", "regex": "false"},
+	{"name_s": "/sbin/iwevent", "size_i": "12292", "regex": "false"},
+	{"name_s": "/sbin/iwgetid", "size_i": "8408", "regex": "false"},
+	{"name_s": "/sbin/iwlist", "size_i": "29128", "regex": "false"},
+	{"name_s": "/sbin/iwpriv", "size_i": "9940", "regex": "false"},
+	{"name_s": "/sbin/iwspy", "size_i": "8720", "regex": "false"},
+	{"name_s": "/usr/share/doc/wireless-tools-29", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/wireless-tools-29/DISTRIBUTIONS.txt", "size_i": "14453", "regex": "false"},
+	{"name_s": "/usr/share/doc/wireless-tools-29/INSTALL", "size_i": "6218", "regex": "false"},
+	{"name_s": "/usr/share/doc/wireless-tools-29/README", "size_i": "5588", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/iftab.5.gz", "size_i": "3123", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/wireless.7.gz", "size_i": "1097", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ifrename.8.gz", "size_i": "2143", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/iwconfig.8.gz", "size_i": "6587", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/iwevent.8.gz", "size_i": "1405", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/iwgetid.8.gz", "size_i": "1200", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/iwlist.8.gz", "size_i": "1538", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/iwpriv.8.gz", "size_i": "1268", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/iwspy.8.gz", "size_i": "1319", "regex": "false"}
+]

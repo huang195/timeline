@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libkttsd.so.4", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libkttsd.so.4.3.0", "size_i": "173328", "regex": "false"}
+]

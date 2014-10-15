@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/_deltarpmmodule.so", "size_i": "40176", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/deltarpm.py", "size_i": "234", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/deltarpm.pyc", "size_i": "384", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/deltarpm.pyo", "size_i": "384", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-deltarpm-3.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-deltarpm-3.5/LICENSE.BSD", "size_i": "1344", "regex": "false"}
+]

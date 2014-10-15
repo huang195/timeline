@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/libreport/events.d/print_event.conf", "size_i": "130", "regex": "false"},
+	{"name_s": "/etc/libreport/events/report_Logger.conf", "size_i": "49", "regex": "false"},
+	{"name_s": "/etc/libreport/events/report_Logger.xml", "size_i": "13200", "regex": "false"},
+	{"name_s": "/usr/bin/reporter-print", "size_i": "8984", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/reporter-print.1.gz", "size_i": "1077", "regex": "false"}
+]

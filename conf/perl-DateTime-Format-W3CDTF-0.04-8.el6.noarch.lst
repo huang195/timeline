@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-W3CDTF-0.04", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-W3CDTF-0.04/Changes", "size_i": "291", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-W3CDTF-0.04/LICENSE", "size_i": "20545", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-W3CDTF-0.04/README", "size_i": "498", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DateTime::Format::W3CDTF.3pm.gz", "size_i": "2634", "regex": "false"},
+	{"name_s": "/usr/share/perl5/DateTime", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/DateTime/Format", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/DateTime/Format/W3CDTF.pm", "size_i": "5008", "regex": "false"}
+]

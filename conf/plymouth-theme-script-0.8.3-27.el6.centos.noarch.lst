@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/plymouth/themes/script/box.png", "size_i": "870", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/script/bullet.png", "size_i": "296", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/script/entry.png", "size_i": "350", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/script/lock.png", "size_i": "1896", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/script/progress_bar.png", "size_i": "173", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/script/progress_box.png", "size_i": "196", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/script/script.plymouth", "size_i": "251", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/script/script.script", "size_i": "5552", "regex": "false"}
+]

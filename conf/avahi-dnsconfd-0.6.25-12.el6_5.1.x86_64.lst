@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/avahi/avahi-dnsconfd.action", "size_i": "2752", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/avahi-dnsconfd", "size_i": "2575", "regex": "false"},
+	{"name_s": "/usr/sbin/avahi-dnsconfd", "size_i": "16624", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/avahi-dnsconfd.8.gz", "size_i": "756", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/avahi-dnsconfd.action.8.gz", "size_i": "699", "regex": "false"}
+]

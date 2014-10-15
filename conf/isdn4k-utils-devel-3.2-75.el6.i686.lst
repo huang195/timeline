@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/capi20.h", "size_i": "2348", "regex": "false"},
+	{"name_s": "/usr/include/capicmd.h", "size_i": "5273", "regex": "false"},
+	{"name_s": "/usr/include/capiutils.h", "size_i": "54506", "regex": "false"},
+	{"name_s": "/usr/lib/libcapi20.so", "size_i": "18", "regex": "false"}
+]

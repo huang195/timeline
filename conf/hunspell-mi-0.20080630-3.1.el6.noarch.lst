@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-mi-0.20080630", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-mi-0.20080630/mi.AUTHORS", "size_i": "270", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-mi-0.20080630/mi.LICENSE", "size_i": "2459", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-mi-0.20080630/mi.README", "size_i": "1906", "regex": "false"},
+	{"name_s": "/usr/share/myspell/mi_NZ.aff", "size_i": "1606", "regex": "false"},
+	{"name_s": "/usr/share/myspell/mi_NZ.dic", "size_i": "187287", "regex": "false"}
+]

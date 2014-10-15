@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/libibumad.so.2", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libibumad.so.2.0.1", "size_i": "24956", "regex": "false"},
+	{"name_s": "/usr/lib/libopensm.so.2", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libopensm.so.2.1.5", "size_i": "57212", "regex": "false"}
+]

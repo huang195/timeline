@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/include/msn", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/msn/authdata.h", "size_i": "1301", "regex": "false"},
+	{"name_s": "/usr/include/msn/buddy.h", "size_i": "4361", "regex": "false"},
+	{"name_s": "/usr/include/msn/config.h", "size_i": "95", "regex": "false"},
+	{"name_s": "/usr/include/msn/connection.h", "size_i": "4875", "regex": "false"},
+	{"name_s": "/usr/include/msn/errorcodes.h", "size_i": "2943", "regex": "false"},
+	{"name_s": "/usr/include/msn/externals.h", "size_i": "16755", "regex": "false"},
+	{"name_s": "/usr/include/msn/libmsn_export.h", "size_i": "558", "regex": "false"},
+	{"name_s": "/usr/include/msn/message.h", "size_i": "6456", "regex": "false"},
+	{"name_s": "/usr/include/msn/msn.h", "size_i": "1252", "regex": "false"},
+	{"name_s": "/usr/include/msn/msnobject.h", "size_i": "2057", "regex": "false"},
+	{"name_s": "/usr/include/msn/notificationserver.h", "size_i": "21107", "regex": "false"},
+	{"name_s": "/usr/include/msn/p2p.h", "size_i": "11893", "regex": "false"},
+	{"name_s": "/usr/include/msn/passport.h", "size_i": "2729", "regex": "false"},
+	{"name_s": "/usr/include/msn/soap.h", "size_i": "7410", "regex": "false"},
+	{"name_s": "/usr/include/msn/sstream_fix.h", "size_i": "1893", "regex": "false"},
+	{"name_s": "/usr/include/msn/switchboardserver.h", "size_i": "9791", "regex": "false"},
+	{"name_s": "/usr/include/msn/util.h", "size_i": "9266", "regex": "false"},
+	{"name_s": "/usr/lib64/libmsn.so", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libmsn.pc", "size_i": "207", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/share/applications/fedora-firstaidkit.desktop", "size_i": "241", "regex": "false"},
+	{"name_s": "/usr/share/firstaidkit/frontend", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/firstaidkit/frontend/__init__.py", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/firstaidkit/frontend/__init__.pyc", "size_i": "130", "regex": "false"},
+	{"name_s": "/usr/share/firstaidkit/frontend/__init__.pyo", "size_i": "130", "regex": "false"},
+	{"name_s": "/usr/share/firstaidkit/frontend/firstaidkit.glade", "size_i": "87407", "regex": "false"},
+	{"name_s": "/usr/share/firstaidkit/frontend/firstaidkit.gladep", "size_i": "283", "regex": "false"},
+	{"name_s": "/usr/share/firstaidkit/frontend/frontend_gtk.py", "size_i": "50530", "regex": "false"},
+	{"name_s": "/usr/share/firstaidkit/frontend/frontend_gtk.pyc", "size_i": "42552", "regex": "false"},
+	{"name_s": "/usr/share/firstaidkit/frontend/frontend_gtk.pyo", "size_i": "42509", "regex": "false"},
+	{"name_s": "/usr/share/firstaidkit/frontend/gtk-list.xml", "size_i": "7936", "regex": "false"},
+	{"name_s": "/usr/share/icons/firstaidkit.png", "size_i": "26046", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/dict/linux.words", "size_i": "4953699", "regex": "false"},
+	{"name_s": "/usr/share/dict/words", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/share/doc/words-3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/words-3.0/license.txt", "size_i": "660", "regex": "false"},
+	{"name_s": "/usr/share/doc/words-3.0/readme.txt", "size_i": "5125", "regex": "false"}
+]

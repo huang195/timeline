@@ -1,0 +1,7 @@
+[
+	{"name_s": "/lib/firmware/iwlwifi-4965-1.ucode", "size_i": "187608", "regex": "false"},
+	{"name_s": "/lib/firmware/iwlwifi-4965-2.ucode", "size_i": "187972", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl4965-firmware-228.61.2.24", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl4965-firmware-228.61.2.24/LICENSE", "size_i": "2075", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl4965-firmware-228.61.2.24/README", "size_i": "4963", "regex": "false"}
+]

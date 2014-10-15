@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/libz.a", "size_i": "109108", "regex": "false"},
+	{"name_s": "/usr/share/doc/zlib-static-1.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/zlib-static-1.2.3/README", "size_i": "5696", "regex": "false"}
+]

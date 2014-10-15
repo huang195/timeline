@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/augeas.h", "size_i": "17386", "regex": "false"},
+	{"name_s": "/usr/include/fa.h", "size_i": "10665", "regex": "false"},
+	{"name_s": "/usr/lib64/libaugeas.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libfa.so", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/augeas.pc", "size_i": "231", "regex": "false"}
+]

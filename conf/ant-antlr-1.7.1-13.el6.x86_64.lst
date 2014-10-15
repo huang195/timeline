@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/ant.d/antlr", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-antlr-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-antlr-1.7.1.jar.so", "size_i": "33584", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-antlr.jar", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-antlr-1.7.1.jar", "size_i": "5923", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-antlr.jar", "size_i": "19", "regex": "false"}
+]

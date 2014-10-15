@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/bin/roqet", "size_i": "26996", "regex": "false"},
+	{"name_s": "/usr/lib/librasqal.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/librasqal.so.0.0.0", "size_i": "230056", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/AUTHORS", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/COPYING.LIB", "size_i": "25284", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/ChangeLog", "size_i": "123474", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/INSTALL.html", "size_i": "7764", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/LICENSE-2.0.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/LICENSE.html", "size_i": "3482", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/LICENSE.txt", "size_i": "2739", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/NEWS", "size_i": "6984", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/NEWS.html", "size_i": "11730", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/NOTICE", "size_i": "180", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/README", "size_i": "4619", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/README.html", "size_i": "6645", "regex": "false"},
+	{"name_s": "/usr/share/doc/rasqal-0.9.15/RELEASE.html", "size_i": "62985", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/roqet.1.gz", "size_i": "1966", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/librasqal.3.gz", "size_i": "11889", "regex": "false"}
+]

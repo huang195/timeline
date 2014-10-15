@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/rc.d/init.d/pacemaker_remote", "size_i": "2675", "regex": "false"},
+	{"name_s": "/etc/sysconfig/pacemaker", "size_i": "3716", "regex": "false"},
+	{"name_s": "/usr/sbin/pacemaker_remoted", "size_i": "49192", "regex": "false"},
+	{"name_s": "/usr/share/doc/pacemaker-remote-1.1.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pacemaker-remote-1.1.10/AUTHORS", "size_i": "1102", "regex": "false"},
+	{"name_s": "/usr/share/doc/pacemaker-remote-1.1.10/COPYING.LIB", "size_i": "26434", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pacemaker_remoted.8.gz", "size_i": "481", "regex": "false"}
+]

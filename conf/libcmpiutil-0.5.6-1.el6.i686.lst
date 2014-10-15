@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libcmpiutil.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libcmpiutil.so.0.5.6", "size_i": "31372", "regex": "false"},
+	{"name_s": "/usr/lib/libcueoparser.so.0", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libcueoparser.so.0.5.6", "size_i": "22700", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcmpiutil-0.5.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcmpiutil-0.5.6/COPYING", "size_i": "26536", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcmpiutil-0.5.6/README", "size_i": "1083", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcmpiutil-0.5.6/doxygen.conf", "size_i": "51351", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcmpiutil-0.5.6/mainpage", "size_i": "109", "regex": "false"}
+]

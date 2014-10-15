@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/libpoppler-glib.so.4", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libpoppler-glib.so.4.0.0", "size_i": "192788", "regex": "false"}
+]

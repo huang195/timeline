@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/pam.d/gdm-smartcard", "size_i": "481", "regex": "false"},
+	{"name_s": "/usr/lib64/gdm/simple-greeter/plugins/smartcard.so", "size_i": "78384", "regex": "false"},
+	{"name_s": "/usr/libexec/gdm-smartcard-worker", "size_i": "32440", "regex": "false"},
+	{"name_s": "/usr/share/gdm/simple-greeter/extensions/smartcard/page.ui", "size_i": "2116", "regex": "false"}
+]

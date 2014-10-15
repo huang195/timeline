@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/fonts/thai-scalable", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Sawasdee.ttf", "size_i": "76672", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/SawasdeeBold.ttf", "size_i": "77192", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/SawasdeeBoldOblique.ttf", "size_i": "89768", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/SawasdeeOblique.ttf", "size_i": "91920", "regex": "false"}
+]

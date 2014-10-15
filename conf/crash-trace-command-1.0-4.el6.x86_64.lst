@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/crash/extensions/trace.so", "size_i": "43944", "regex": "false"},
+	{"name_s": "/usr/share/doc/crash-trace-command-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/crash-trace-command-1.0/COPYING", "size_i": "18015", "regex": "false"}
+]

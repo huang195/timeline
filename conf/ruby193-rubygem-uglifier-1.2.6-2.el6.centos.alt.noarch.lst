@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/uglifier-1.2.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/uglifier-1.2.6/LICENSE.txt", "size_i": "1059", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/uglifier-1.2.6/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/uglifier-1.2.6/lib/es5.js", "size_i": "5276", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/uglifier-1.2.6/lib/uglifier.rb", "size_i": "4180", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/uglifier-1.2.6/lib/uglify.js", "size_i": "209066", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/uglifier-1.2.6.gemspec", "size_i": "1674", "regex": "false"}
+]

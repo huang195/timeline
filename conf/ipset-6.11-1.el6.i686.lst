@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libipset.so.2", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libipset.so.2.0.0", "size_i": "91660", "regex": "false"},
+	{"name_s": "/usr/sbin/ipset", "size_i": "18184", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipset-6.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipset-6.11/COPYING", "size_i": "18002", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipset-6.11/ChangeLog", "size_i": "13274", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ipset.8.gz", "size_i": "7554", "regex": "false"}
+]

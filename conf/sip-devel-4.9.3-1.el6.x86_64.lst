@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/rpm/macros.sip", "size_i": "82", "regex": "false"},
+	{"name_s": "/usr/bin/sip", "size_i": "283744", "regex": "false"},
+	{"name_s": "/usr/include/python2.6/sip.h", "size_i": "45465", "regex": "false"},
+	{"name_s": "/usr/share/sip", "size_i": "4096", "regex": "false"}
+]

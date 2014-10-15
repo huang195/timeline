@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/libexec/git-core/git-svn", "size_i": "175344", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-svn-1.7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-svn-1.7.1/git-svn.html", "size_i": "53311", "regex": "false"},
+	{"name_s": "/usr/share/doc/git-svn-1.7.1/git-svn.txt", "size_i": "32345", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/git-svn.1.gz", "size_i": "11632", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/gconf/schemas/gsf-office-thumbnailer.schemas", "size_i": "36591", "regex": "false"},
+	{"name_s": "/usr/bin/gsf-office-thumbnailer", "size_i": "11424", "regex": "false"},
+	{"name_s": "/usr/lib64/libgsf-gnome-1.so.114", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/libgsf-gnome-1.so.114.0.15", "size_i": "15632", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gsf-office-thumbnailer.1.gz", "size_i": "1038", "regex": "false"}
+]

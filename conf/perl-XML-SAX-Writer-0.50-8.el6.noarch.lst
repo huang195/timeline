@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/perl-XML-SAX-Writer-0.50", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-SAX-Writer-0.50/Changes", "size_i": "2995", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-SAX-Writer-0.50/README", "size_i": "1243", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::SAX::Writer.3pm.gz", "size_i": "5964", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::SAX::Writer::XML.3pm.gz", "size_i": "1948", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/SAX", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/SAX/Writer", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/SAX/Writer.pm", "size_i": "22170", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/SAX/Writer/XML.pm", "size_i": "18140", "regex": "false"}
+]

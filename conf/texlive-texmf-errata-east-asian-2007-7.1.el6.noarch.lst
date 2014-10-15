@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/texmf-errata", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/texmf-errata/jbibtex", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/texmf-errata/ptex", "size_i": "4096", "regex": "false"}
+]

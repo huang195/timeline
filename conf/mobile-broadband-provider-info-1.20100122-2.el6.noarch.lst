@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/mobile-broadband-provider-info-1.20100122", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mobile-broadband-provider-info-1.20100122/COPYING", "size_i": "1623", "regex": "false"},
+	{"name_s": "/usr/share/doc/mobile-broadband-provider-info-1.20100122/README", "size_i": "1412", "regex": "false"},
+	{"name_s": "/usr/share/mobile-broadband-provider-info/serviceproviders.2.dtd", "size_i": "878", "regex": "false"},
+	{"name_s": "/usr/share/mobile-broadband-provider-info/serviceproviders.xml", "size_i": "136950", "regex": "false"}
+]

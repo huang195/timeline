@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/pkg-config", "size_i": "105888", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/pkg.m4", "size_i": "5171", "regex": "false"},
+	{"name_s": "/usr/share/doc/pkgconfig-0.23", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pkgconfig-0.23/AUTHORS", "size_i": "359", "regex": "false"},
+	{"name_s": "/usr/share/doc/pkgconfig-0.23/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/pkgconfig-0.23/NEWS", "size_i": "3672", "regex": "false"},
+	{"name_s": "/usr/share/doc/pkgconfig-0.23/README", "size_i": "1213", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pkg-config.1.gz", "size_i": "5796", "regex": "false"},
+	{"name_s": "/usr/share/pkgconfig", "size_i": "4096", "regex": "false"}
+]

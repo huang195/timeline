@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/patch", "size_i": "113976", "regex": "false"},
+	{"name_s": "/usr/share/doc/patch-2.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/patch-2.6/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/patch-2.6/NEWS", "size_i": "12533", "regex": "false"},
+	{"name_s": "/usr/share/doc/patch-2.6/README", "size_i": "2481", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/patch.1.gz", "size_i": "11525", "regex": "false"}
+]

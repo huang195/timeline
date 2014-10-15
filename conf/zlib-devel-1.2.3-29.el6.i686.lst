@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/include/zconf.h", "size_i": "9544", "regex": "false"},
+	{"name_s": "/usr/include/zlib.h", "size_i": "66188", "regex": "false"},
+	{"name_s": "/usr/lib/libz.so", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/zlib.pc", "size_i": "232", "regex": "false"},
+	{"name_s": "/usr/share/doc/zlib-devel-1.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/zlib-devel-1.2.3/README", "size_i": "5696", "regex": "false"},
+	{"name_s": "/usr/share/doc/zlib-devel-1.2.3/algorithm.txt", "size_i": "9336", "regex": "false"},
+	{"name_s": "/usr/share/doc/zlib-devel-1.2.3/example.c", "size_i": "16398", "regex": "false"},
+	{"name_s": "/usr/share/doc/zlib-devel-1.2.3/minigzip.c", "size_i": "8018", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/zlib.3.gz", "size_i": "2082", "regex": "false"}
+]

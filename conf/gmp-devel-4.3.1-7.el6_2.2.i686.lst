@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/gmp-i386.h", "size_i": "84164", "regex": "false"},
+	{"name_s": "/usr/include/gmp-mparam-i386.h", "size_i": "1120", "regex": "false"},
+	{"name_s": "/usr/include/gmp-mparam.h", "size_i": "2263", "regex": "false"},
+	{"name_s": "/usr/include/gmp.h", "size_i": "2136", "regex": "false"},
+	{"name_s": "/usr/include/gmpxx.h", "size_i": "114898", "regex": "false"},
+	{"name_s": "/usr/include/mp.h", "size_i": "5374", "regex": "false"},
+	{"name_s": "/usr/lib/libgmp.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libgmpxx.so", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/lib/libmp.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/info/gmp.info-1.gz", "size_i": "87345", "regex": "false"},
+	{"name_s": "/usr/share/info/gmp.info-2.gz", "size_i": "39700", "regex": "false"},
+	{"name_s": "/usr/share/info/gmp.info.gz", "size_i": "2373", "regex": "false"}
+]

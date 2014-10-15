@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/perl-File-pushd-1.00", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-pushd-1.00/Changes", "size_i": "1826", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-pushd-1.00/LICENSE", "size_i": "11357", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-pushd-1.00/README", "size_i": "4516", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-pushd-1.00/Todo", "size_i": "170", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::pushd.3pm.gz", "size_i": "3596", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/pushd.pm", "size_i": "6464", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/pushd.pod", "size_i": "4452", "regex": "false"}
+]

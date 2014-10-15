@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/cups-calibrate", "size_i": "20832", "regex": "false"},
+	{"name_s": "/usr/lib/cups/driver/gutenprint.5.2", "size_i": "50480", "regex": "false"},
+	{"name_s": "/usr/lib/cups/filter/commandtocanon", "size_i": "7144", "regex": "false"},
+	{"name_s": "/usr/lib/cups/filter/commandtoepson", "size_i": "7400", "regex": "false"},
+	{"name_s": "/usr/lib/cups/filter/rastertogutenprint.5.2", "size_i": "41496", "regex": "false"},
+	{"name_s": "/usr/sbin/cups-genppd.5.2", "size_i": "52784", "regex": "false"},
+	{"name_s": "/usr/sbin/cups-genppdupdate", "size_i": "35062", "regex": "false"},
+	{"name_s": "/usr/share/cups/calibrate.ppm", "size_i": "331836", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/cups-calibrate.8.gz", "size_i": "1188", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/cups-genppd.8.gz", "size_i": "1867", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/cups-genppdupdate.8.gz", "size_i": "1647", "regex": "false"}
+]

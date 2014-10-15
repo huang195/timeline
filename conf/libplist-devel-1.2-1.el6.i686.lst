@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/include/plist", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/plist/Array.h", "size_i": "1488", "regex": "false"},
+	{"name_s": "/usr/include/plist/Boolean.h", "size_i": "1288", "regex": "false"},
+	{"name_s": "/usr/include/plist/Data.h", "size_i": "1323", "regex": "false"},
+	{"name_s": "/usr/include/plist/Date.h", "size_i": "1318", "regex": "false"},
+	{"name_s": "/usr/include/plist/Dictionary.h", "size_i": "1710", "regex": "false"},
+	{"name_s": "/usr/include/plist/Integer.h", "size_i": "1300", "regex": "false"},
+	{"name_s": "/usr/include/plist/Node.h", "size_i": "1408", "regex": "false"},
+	{"name_s": "/usr/include/plist/Real.h", "size_i": "1252", "regex": "false"},
+	{"name_s": "/usr/include/plist/String.h", "size_i": "1327", "regex": "false"},
+	{"name_s": "/usr/include/plist/Structure.h", "size_i": "1571", "regex": "false"},
+	{"name_s": "/usr/include/plist/plist++.h", "size_i": "1135", "regex": "false"},
+	{"name_s": "/usr/include/plist/plist.h", "size_i": "18798", "regex": "false"},
+	{"name_s": "/usr/include/plist/swig", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/plist/swig/plist.i", "size_i": "7323", "regex": "false"},
+	{"name_s": "/usr/lib/libplist++.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libplist.so", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libplist++.pc", "size_i": "224", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libplist.pc", "size_i": "292", "regex": "false"}
+]

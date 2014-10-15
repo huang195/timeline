@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/openmpi/lib/libboost_graph_parallel-mt.so", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/lib/libboost_graph_parallel.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/lib/libboost_mpi-mt.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/lib/libboost_mpi.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/lib/libboost_mpi_python-mt.so", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/lib/libboost_mpi_python.so", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-openmpi-devel-1.41.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-openmpi-devel-1.41.0/LICENSE_1_0.txt", "size_i": "1338", "regex": "false"}
+]

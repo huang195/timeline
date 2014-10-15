@@ -1,0 +1,8 @@
+[
+	{"name_s": "/lib/firmware/iwlwifi-5000-1.ucode", "size_i": "345008", "regex": "false"},
+	{"name_s": "/lib/firmware/iwlwifi-5000-2.ucode", "size_i": "353240", "regex": "false"},
+	{"name_s": "/lib/firmware/iwlwifi-5000-5.ucode", "size_i": "340688", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl5000-firmware-8.83.5.1_1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl5000-firmware-8.83.5.1_1/LICENSE", "size_i": "2046", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl5000-firmware-8.83.5.1_1/README", "size_i": "4922", "regex": "false"}
+]

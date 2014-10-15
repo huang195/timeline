@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/lib/libgtk-vnc-1.0.so.0", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libgtk-vnc-1.0.so.0.0.1", "size_i": "142988", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk-vnc-0.3.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk-vnc-0.3.10/AUTHORS", "size_i": "404", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk-vnc-0.3.10/COPYING.LIB", "size_i": "26438", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk-vnc-0.3.10/ChangeLog", "size_i": "45850", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk-vnc-0.3.10/NEWS", "size_i": "7301", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk-vnc-0.3.10/README", "size_i": "864", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/gtk-vnc.mo", "size_i": "2378", "regex": "false"},
+	{"name_s": "/usr/share/locale/el/LC_MESSAGES/gtk-vnc.mo", "size_i": "1833", "regex": "false"},
+	{"name_s": "/usr/share/locale/en_GB/LC_MESSAGES/gtk-vnc.mo", "size_i": "2141", "regex": "false"},
+	{"name_s": "/usr/share/locale/es/LC_MESSAGES/gtk-vnc.mo", "size_i": "2336", "regex": "false"},
+	{"name_s": "/usr/share/locale/eu/LC_MESSAGES/gtk-vnc.mo", "size_i": "2251", "regex": "false"},
+	{"name_s": "/usr/share/locale/fr/LC_MESSAGES/gtk-vnc.mo", "size_i": "2302", "regex": "false"},
+	{"name_s": "/usr/share/locale/gl/LC_MESSAGES/gtk-vnc.mo", "size_i": "2200", "regex": "false"},
+	{"name_s": "/usr/share/locale/hu/LC_MESSAGES/gtk-vnc.mo", "size_i": "2201", "regex": "false"},
+	{"name_s": "/usr/share/locale/it/LC_MESSAGES/gtk-vnc.mo", "size_i": "2252", "regex": "false"},
+	{"name_s": "/usr/share/locale/pl/LC_MESSAGES/gtk-vnc.mo", "size_i": "2347", "regex": "false"},
+	{"name_s": "/usr/share/locale/pt/LC_MESSAGES/gtk-vnc.mo", "size_i": "2205", "regex": "false"},
+	{"name_s": "/usr/share/locale/pt_BR/LC_MESSAGES/gtk-vnc.mo", "size_i": "2166", "regex": "false"},
+	{"name_s": "/usr/share/locale/sv/LC_MESSAGES/gtk-vnc.mo", "size_i": "2094", "regex": "false"}
+]

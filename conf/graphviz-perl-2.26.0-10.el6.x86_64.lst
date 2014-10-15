@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/graphviz/perl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/perl/gv.pm", "size_i": "2175", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/perl/gv.so", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/perl/libgv_perl.so", "size_i": "142920", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/gv.pm", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/gv.so", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gv.3perl.gz", "size_i": "1609", "regex": "false"}
+]

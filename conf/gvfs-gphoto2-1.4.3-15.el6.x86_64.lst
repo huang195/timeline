@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/libexec/gvfs-gphoto2-volume-monitor", "size_i": "53440", "regex": "false"},
+	{"name_s": "/usr/libexec/gvfsd-gphoto2", "size_i": "169816", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/services/org.gtk.Private.GPhoto2VolumeMonitor.service", "size_i": "104", "regex": "false"},
+	{"name_s": "/usr/share/gvfs/mounts/gphoto2.mount", "size_i": "69", "regex": "false"},
+	{"name_s": "/usr/share/gvfs/remote-volume-monitors/gphoto2.monitor", "size_i": "115", "regex": "false"}
+]

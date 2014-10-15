@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/X11/SM", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/X11/SM/SM.h", "size_i": "2927", "regex": "false"},
+	{"name_s": "/usr/include/X11/SM/SMlib.h", "size_i": "11263", "regex": "false"},
+	{"name_s": "/usr/include/X11/SM/SMproto.h", "size_i": "4852", "regex": "false"},
+	{"name_s": "/usr/lib64/libSM.so", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/sm.pc", "size_i": "224", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/bin/get_module", "size_i": "5824", "regex": "false"},
+	{"name_s": "/usr/bin/systool", "size_i": "20496", "regex": "false"},
+	{"name_s": "/usr/share/doc/sysfsutils-2.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sysfsutils-2.1.0/AUTHORS", "size_i": "149", "regex": "false"},
+	{"name_s": "/usr/share/doc/sysfsutils-2.1.0/COPYING", "size_i": "372", "regex": "false"},
+	{"name_s": "/usr/share/doc/sysfsutils-2.1.0/CREDITS", "size_i": "1788", "regex": "false"},
+	{"name_s": "/usr/share/doc/sysfsutils-2.1.0/ChangeLog", "size_i": "17174", "regex": "false"},
+	{"name_s": "/usr/share/doc/sysfsutils-2.1.0/GPL", "size_i": "16446", "regex": "false"},
+	{"name_s": "/usr/share/doc/sysfsutils-2.1.0/NEWS", "size_i": "2461", "regex": "false"},
+	{"name_s": "/usr/share/doc/sysfsutils-2.1.0/README", "size_i": "2056", "regex": "false"},
+	{"name_s": "/usr/share/doc/sysfsutils-2.1.0/libsysfs.txt", "size_i": "49572", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/systool.1.gz", "size_i": "762", "regex": "false"}
+]

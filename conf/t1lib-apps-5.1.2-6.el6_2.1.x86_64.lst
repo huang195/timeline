@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/type1afm", "size_i": "6976", "regex": "false"},
+	{"name_s": "/usr/bin/xglyph", "size_i": "84040", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/type1afm.1.gz", "size_i": "479", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xglyph.1.gz", "size_i": "1285", "regex": "false"}
+]

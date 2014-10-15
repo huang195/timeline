@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib64/libcares.so.2", "size_i": "17", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib64/libcares.so.2.0.0", "size_i": "66336", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-c-ares-1.9.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-c-ares-1.9.1/CHANGES", "size_i": "101647", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-c-ares-1.9.1/LICENSE", "size_i": "647", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-c-ares-1.9.1/NEWS", "size_i": "854", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-c-ares-1.9.1/README", "size_i": "2625", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-c-ares-1.9.1/README.cares", "size_i": "535", "regex": "false"}
+]

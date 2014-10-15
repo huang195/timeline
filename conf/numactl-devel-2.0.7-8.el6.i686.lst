@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/numa.h", "size_i": "12963", "regex": "false"},
+	{"name_s": "/usr/include/numacompat1.h", "size_i": "1231", "regex": "false"},
+	{"name_s": "/usr/include/numaif.h", "size_i": "1505", "regex": "false"},
+	{"name_s": "/usr/lib/libnuma.a", "size_i": "45942", "regex": "false"},
+	{"name_s": "/usr/lib/libnuma.so", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/numa.3.gz", "size_i": "8866", "regex": "false"}
+]

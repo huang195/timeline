@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-SubCalls-1.09", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-SubCalls-1.09/Changes", "size_i": "970", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-SubCalls-1.09/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-SubCalls-1.09/README", "size_i": "2922", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::SubCalls.3pm.gz", "size_i": "3091", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/SubCalls.pm", "size_i": "4717", "regex": "false"}
+]

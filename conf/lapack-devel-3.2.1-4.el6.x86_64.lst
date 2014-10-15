@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/liblapack.a", "size_i": "9105772", "regex": "false"},
+	{"name_s": "/usr/lib64/liblapack.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/liblapack_pic.a", "size_i": "9302380", "regex": "false"}
+]

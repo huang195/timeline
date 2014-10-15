@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/libchewing", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/libchewing/__init__.py", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/libchewing/__init__.pyc", "size_i": "144", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/libchewing/__init__.pyo", "size_i": "144", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/libchewing/chewing.py", "size_i": "1219", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/libchewing/chewing.pyc", "size_i": "2140", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/libchewing/chewing.pyo", "size_i": "2140", "regex": "false"}
+]

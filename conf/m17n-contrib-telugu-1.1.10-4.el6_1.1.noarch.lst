@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/m17n/icons/te-inscript.png", "size_i": "1193", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/te-pothana.png", "size_i": "1137", "regex": "false"},
+	{"name_s": "/usr/share/m17n/te-apple.mim", "size_i": "5022", "regex": "false"},
+	{"name_s": "/usr/share/m17n/te-inscript.mim", "size_i": "3484", "regex": "false"},
+	{"name_s": "/usr/share/m17n/te-pothana.mim", "size_i": "4973", "regex": "false"},
+	{"name_s": "/usr/share/m17n/te-rts.mim", "size_i": "12105", "regex": "false"}
+]

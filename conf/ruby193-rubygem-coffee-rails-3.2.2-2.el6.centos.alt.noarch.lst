@@ -1,0 +1,22 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/MIT-LICENSE", "size_i": "1063", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/assets", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/assets/javascripts", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/assets/javascripts/coffee-script.js.erb", "size_i": "37", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/coffee", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/coffee-rails.rb", "size_i": "125", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/coffee/rails", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/coffee/rails/engine.rb", "size_i": "160", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/coffee/rails/template_handler.rb", "size_i": "479", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/coffee/rails/version.rb", "size_i": "61", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/rails", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/rails/generators", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/rails/generators/coffee", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/rails/generators/coffee/assets", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/rails/generators/coffee/assets/assets_generator.rb", "size_i": "359", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/rails/generators/coffee/assets/templates", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-rails-3.2.2/lib/rails/generators/coffee/assets/templates/javascript.js.coffee", "size_i": "229", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/coffee-rails-3.2.2.gemspec", "size_i": "1088", "regex": "false"}
+]

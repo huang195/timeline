@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/alsa-lib/libasound_module_pcm_usb_stream.so", "size_i": "10136", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-usbstream-1.0.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-usbstream-1.0.21/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-usbstream-1.0.21/COPYING.GPL", "size_i": "17992", "regex": "false"}
+]

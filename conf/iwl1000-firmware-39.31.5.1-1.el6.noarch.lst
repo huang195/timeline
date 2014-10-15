@@ -1,0 +1,7 @@
+[
+	{"name_s": "/lib/firmware/iwlwifi-1000-3.ucode", "size_i": "335056", "regex": "false"},
+	{"name_s": "/lib/firmware/iwlwifi-1000-5.ucode", "size_i": "337520", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl1000-firmware-39.31.5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl1000-firmware-39.31.5.1/LICENSE", "size_i": "2046", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl1000-firmware-39.31.5.1/README", "size_i": "4777", "regex": "false"}
+]

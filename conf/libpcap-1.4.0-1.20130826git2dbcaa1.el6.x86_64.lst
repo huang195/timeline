@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/libpcap.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libpcap.so.1.4.0", "size_i": "258504", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpcap-1.4.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpcap-1.4.0/CHANGES", "size_i": "28289", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpcap-1.4.0/CREDITS", "size_i": "9807", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpcap-1.4.0/LICENSE", "size_i": "873", "regex": "false"},
+	{"name_s": "/usr/share/doc/libpcap-1.4.0/README", "size_i": "4307", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/pcap-filter.7.gz", "size_i": "9274", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/pcap-linktype.7.gz", "size_i": "1241", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/pcap-tstamp.7.gz", "size_i": "2343", "regex": "false"}
+]

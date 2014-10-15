@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/share/dbus-1/interfaces/net.reactivated.Fprint.Device.xml", "size_i": "20939", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/interfaces/net.reactivated.Fprint.Manager.xml", "size_i": "1510", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/Device.html", "size_i": "29889", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/Manager.html", "size_i": "4688", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/fprintd.devhelp", "size_i": "2525", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/fprintd.devhelp2", "size_i": "2697", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/home.png", "size_i": "654", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/index.html", "size_i": "3546", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/index.sgml", "size_i": "1773", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/ix01.html", "size_i": "4335", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/left.png", "size_i": "459", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/license.html", "size_i": "19633", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/ref-dbus.html", "size_i": "2305", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/right.png", "size_i": "472", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/style.css", "size_i": "2433", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/fprintd/up.png", "size_i": "406", "regex": "false"}
+]

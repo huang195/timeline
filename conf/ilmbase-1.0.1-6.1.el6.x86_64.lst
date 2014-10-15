@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/libHalf.so.6", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libHalf.so.6.0.0", "size_i": "270104", "regex": "false"},
+	{"name_s": "/usr/lib64/libIex.so.6", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libIex.so.6.0.0", "size_i": "124776", "regex": "false"},
+	{"name_s": "/usr/lib64/libIlmThread.so.6", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libIlmThread.so.6.0.0", "size_i": "24208", "regex": "false"},
+	{"name_s": "/usr/lib64/libImath.so.6", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libImath.so.6.0.0", "size_i": "19616", "regex": "false"},
+	{"name_s": "/usr/share/doc/ilmbase-1.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ilmbase-1.0.1/AUTHORS", "size_i": "336", "regex": "false"},
+	{"name_s": "/usr/share/doc/ilmbase-1.0.1/COPYING", "size_i": "1697", "regex": "false"},
+	{"name_s": "/usr/share/doc/ilmbase-1.0.1/ChangeLog", "size_i": "1035", "regex": "false"},
+	{"name_s": "/usr/share/doc/ilmbase-1.0.1/NEWS", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/doc/ilmbase-1.0.1/README", "size_i": "1776", "regex": "false"}
+]

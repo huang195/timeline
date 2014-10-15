@@ -1,0 +1,20 @@
+[
+	{"name_s": "/etc/rc.d/init.d/tgtd", "size_i": "4767", "regex": "false"},
+	{"name_s": "/etc/sysconfig/tgtd", "size_i": "101", "regex": "false"},
+	{"name_s": "/etc/tgt/targets.conf", "size_i": "6945", "regex": "false"},
+	{"name_s": "/usr/sbin/tgt-admin", "size_i": "41702", "regex": "false"},
+	{"name_s": "/usr/sbin/tgt-setup-lun", "size_i": "5623", "regex": "false"},
+	{"name_s": "/usr/sbin/tgtadm", "size_i": "24688", "regex": "false"},
+	{"name_s": "/usr/sbin/tgtd", "size_i": "304856", "regex": "false"},
+	{"name_s": "/usr/sbin/tgtimg", "size_i": "20320", "regex": "false"},
+	{"name_s": "/usr/share/doc/scsi-target-utils-1.0.24", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/scsi-target-utils-1.0.24/README", "size_i": "1856", "regex": "false"},
+	{"name_s": "/usr/share/doc/scsi-target-utils-1.0.24/README.iscsi", "size_i": "13260", "regex": "false"},
+	{"name_s": "/usr/share/doc/scsi-target-utils-1.0.24/README.iser", "size_i": "17334", "regex": "false"},
+	{"name_s": "/usr/share/doc/scsi-target-utils-1.0.24/README.lu_configuration", "size_i": "4872", "regex": "false"},
+	{"name_s": "/usr/share/doc/scsi-target-utils-1.0.24/README.mmc", "size_i": "9790", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/targets.conf.5.gz", "size_i": "2896", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/tgt-admin.8.gz", "size_i": "1641", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/tgt-setup-lun.8.gz", "size_i": "1078", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/tgtadm.8.gz", "size_i": "5750", "regex": "false"}
+]

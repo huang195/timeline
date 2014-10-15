@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/cxpm", "size_i": "21528", "regex": "false"},
+	{"name_s": "/usr/bin/sxpm", "size_i": "15068", "regex": "false"},
+	{"name_s": "/usr/include/X11/xpm.h", "size_i": "16153", "regex": "false"},
+	{"name_s": "/usr/lib/libXpm.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/xpm.pc", "size_i": "210", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cxpm.1.gz", "size_i": "1332", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sxpm.1.gz", "size_i": "1878", "regex": "false"}
+]

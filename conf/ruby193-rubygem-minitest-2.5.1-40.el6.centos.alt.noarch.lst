@@ -1,0 +1,13 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/minitest-2.5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/minitest-2.5.1/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/minitest-2.5.1/lib/minitest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/minitest-2.5.1/lib/minitest/autorun.rb", "size_i": "495", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/minitest-2.5.1/lib/minitest/benchmark.rb", "size_i": "10160", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/minitest-2.5.1/lib/minitest/mock.rb", "size_i": "3182", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/minitest-2.5.1/lib/minitest/pride.rb", "size_i": "2348", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/minitest-2.5.1/lib/minitest/spec.rb", "size_i": "11662", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/minitest-2.5.1/lib/minitest/unit.rb", "size_i": "30170", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/minitest-2.5.1.gemspec", "size_i": "178", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/ruby/minitest", "size_i": "68", "regex": "false"}
+]

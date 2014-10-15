@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/mythes-nn-2.0.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-nn-2.0.10/README_th_nb_NO_v2.txt", "size_i": "313", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_nn_NO_v2.dat", "size_i": "1015", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_nn_NO_v2.idx", "size_i": "485", "regex": "false"}
+]

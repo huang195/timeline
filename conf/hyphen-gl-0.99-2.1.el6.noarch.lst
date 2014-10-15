@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-gl-0.99", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-gl-0.99/LEME-gl_ANY.txt", "size_i": "600", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-gl-0.99/LICENCES-gl.txt", "size_i": "42466", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-gl-0.99/LICENSES-en.txt", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_gl_ES.dic", "size_i": "1377", "regex": "false"}
+]

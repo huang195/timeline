@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Readonly-1.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Readonly-1.03/Changes", "size_i": "2730", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Readonly-1.03/README", "size_i": "2960", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Readonly-1.03/benchmark.pl", "size_i": "1405", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Readonly.3pm.gz", "size_i": "6641", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Readonly.pm", "size_i": "22462", "regex": "false"}
+]

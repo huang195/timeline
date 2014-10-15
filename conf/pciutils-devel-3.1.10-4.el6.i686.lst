@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/pci", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/pci/config.h", "size_i": "1229", "regex": "false"},
+	{"name_s": "/usr/include/pci/header.h", "size_i": "62415", "regex": "false"},
+	{"name_s": "/usr/include/pci/pci.h", "size_i": "9049", "regex": "false"},
+	{"name_s": "/usr/include/pci/types.h", "size_i": "1443", "regex": "false"},
+	{"name_s": "/usr/lib/libpci.so", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libpci.pc", "size_i": "186", "regex": "false"}
+]

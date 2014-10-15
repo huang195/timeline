@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-Perl-Critic-1.01", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Perl-Critic-1.01/Changes", "size_i": "3009", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Perl-Critic-1.01/LICENSE", "size_i": "20216", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Perl-Critic-1.01/README", "size_i": "10594", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Perl::Critic.3pm.gz", "size_i": "5888", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Perl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Perl/Critic.pm", "size_i": "13390", "regex": "false"}
+]

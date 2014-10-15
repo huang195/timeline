@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/sbin/ntp-wait", "size_i": "1404", "regex": "false"},
+	{"name_s": "/usr/sbin/ntptrace", "size_i": "2039", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ntp-wait.8.gz", "size_i": "418", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ntptrace.8.gz", "size_i": "941", "regex": "false"}
+]

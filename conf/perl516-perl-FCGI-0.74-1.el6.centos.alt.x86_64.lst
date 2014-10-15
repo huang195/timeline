@@ -1,0 +1,13 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/FCGI.pm", "size_i": "7532", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/FCGI", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/FCGI/FCGI.so", "size_i": "53136", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-FCGI-0.74", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-FCGI-0.74/ChangeLog", "size_i": "11722", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-FCGI-0.74/LICENSE.TERMS", "size_i": "1695", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-FCGI-0.74/README", "size_i": "2570", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-FCGI-0.74/echo.PL", "size_i": "1738", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-FCGI-0.74/remote.PL", "size_i": "954", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-FCGI-0.74/threaded.PL", "size_i": "1061", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/FCGI.3pm.gz", "size_i": "3991", "regex": "false"}
+]

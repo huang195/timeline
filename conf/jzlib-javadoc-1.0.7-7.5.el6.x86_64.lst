@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/share/javadoc/jzlib", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/allclasses-frame.html", "size_i": "1076", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/allclasses-noframe.html", "size_i": "3657", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/com", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/com/jcraft", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/com/jcraft/jzlib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/com/jcraft/jzlib/Deflate.html", "size_i": "5318", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/com/jcraft/jzlib/JZlib.html", "size_i": "13842", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/com/jcraft/jzlib/ZInputStream.html", "size_i": "13039", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/com/jcraft/jzlib/ZOutputStream.html", "size_i": "13753", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/com/jcraft/jzlib/ZStream.html", "size_i": "15752", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/com/jcraft/jzlib/ZStreamException.html", "size_i": "6604", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/com/jcraft/jzlib/package-summary.html", "size_i": "3957", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/index.html", "size_i": "871", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/package-list", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jzlib-1.0.7/stylesheet.css", "size_i": "4692", "regex": "false"}
+]

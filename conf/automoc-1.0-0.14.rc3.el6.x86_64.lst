@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/automoc4", "size_i": "58256", "regex": "false"},
+	{"name_s": "/usr/lib64/automoc4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/automoc4/Automoc4Config.cmake", "size_i": "11019", "regex": "false"},
+	{"name_s": "/usr/lib64/automoc4/Automoc4Version.cmake", "size_i": "236", "regex": "false"},
+	{"name_s": "/usr/lib64/automoc4/automoc4.files.in", "size_i": "274", "regex": "false"}
+]

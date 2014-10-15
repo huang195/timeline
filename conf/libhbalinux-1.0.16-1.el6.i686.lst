@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libhbalinux.so.2", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libhbalinux.so.2.0.2", "size_i": "40276", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhbalinux-1.0.16", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhbalinux-1.0.16/COPYING", "size_i": "26427", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhbalinux-1.0.16/README", "size_i": "2391", "regex": "false"}
+]

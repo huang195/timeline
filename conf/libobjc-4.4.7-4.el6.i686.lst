@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/libobjc.so.2", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libobjc.so.2.0.0", "size_i": "98348", "regex": "false"}
+]

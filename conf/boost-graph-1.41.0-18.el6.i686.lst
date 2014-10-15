@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/libboost_graph-mt.so.5", "size_i": "168176", "regex": "false"},
+	{"name_s": "/usr/lib/libboost_graph.so.5", "size_i": "165212", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-graph-1.41.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-graph-1.41.0/LICENSE_1_0.txt", "size_i": "1338", "regex": "false"}
+]

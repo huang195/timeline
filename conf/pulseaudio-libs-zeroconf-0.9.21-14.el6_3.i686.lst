@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/pabrowse", "size_i": "6952", "regex": "false"},
+	{"name_s": "/usr/lib/libpulse-browse.so.0", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libpulse-browse.so.0.1.1", "size_i": "16564", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pabrowse.1.gz", "size_i": "332", "regex": "false"}
+]

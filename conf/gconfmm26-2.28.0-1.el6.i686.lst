@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libgconfmm-2.6.so.1", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libgconfmm-2.6.so.1.0.6", "size_i": "69468", "regex": "false"},
+	{"name_s": "/usr/share/doc/gconfmm26-2.28.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gconfmm26-2.28.0/AUTHORS", "size_i": "70", "regex": "false"},
+	{"name_s": "/usr/share/doc/gconfmm26-2.28.0/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/gconfmm26-2.28.0/ChangeLog", "size_i": "14852", "regex": "false"},
+	{"name_s": "/usr/share/doc/gconfmm26-2.28.0/INSTALL", "size_i": "11870", "regex": "false"},
+	{"name_s": "/usr/share/doc/gconfmm26-2.28.0/NEWS", "size_i": "2377", "regex": "false"},
+	{"name_s": "/usr/share/doc/gconfmm26-2.28.0/README", "size_i": "79", "regex": "false"}
+]

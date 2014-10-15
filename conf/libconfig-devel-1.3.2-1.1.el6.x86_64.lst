@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/include/libconfig.h", "size_i": "10510", "regex": "false"},
+	{"name_s": "/usr/include/libconfig.h++", "size_i": "13467", "regex": "false"},
+	{"name_s": "/usr/lib64/libconfig++.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libconfig.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libconfig++.pc", "size_i": "291", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libconfig.pc", "size_i": "285", "regex": "false"},
+	{"name_s": "/usr/share/doc/libconfig", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libconfig/libconfig.pdf", "size_i": "246058", "regex": "false"},
+	{"name_s": "/usr/share/info/libconfig.info.gz", "size_i": "23908", "regex": "false"}
+]

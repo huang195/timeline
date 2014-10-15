@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/sane.d/dll.d/hpaio", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/lib64/sane/libsane-hpaio.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/sane/libsane-hpaio.so.1", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/sane/libsane-hpaio.so.1.0.0", "size_i": "149136", "regex": "false"}
+]

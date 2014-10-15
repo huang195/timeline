@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/sbin/usbredirserver", "size_i": "12256", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbredir-server-0.5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbredir-server-0.5.1/COPYING", "size_i": "18092", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/usbredirserver.1.gz", "size_i": "887", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/myspell/ca_AD.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ca_AD.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ca_ES.aff", "size_i": "28715", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ca_ES.dic", "size_i": "1151741", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ca_FR.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ca_FR.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ca_IT.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ca_IT.dic", "size_i": "9", "regex": "false"}
+]

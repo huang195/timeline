@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/memhog", "size_i": "9464", "regex": "false"},
+	{"name_s": "/usr/bin/migratepages", "size_i": "8832", "regex": "false"},
+	{"name_s": "/usr/bin/migspeed", "size_i": "11128", "regex": "false"},
+	{"name_s": "/usr/bin/numactl", "size_i": "25408", "regex": "false"},
+	{"name_s": "/usr/bin/numademo", "size_i": "40008", "regex": "false"},
+	{"name_s": "/usr/bin/numastat", "size_i": "24840", "regex": "false"},
+	{"name_s": "/usr/lib64/libnuma.so.1", "size_i": "36240", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/migratepages.8.gz", "size_i": "1039", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/migspeed.8.gz", "size_i": "488", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/numactl.8.gz", "size_i": "3180", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/numastat.8.gz", "size_i": "2521", "regex": "false"}
+]

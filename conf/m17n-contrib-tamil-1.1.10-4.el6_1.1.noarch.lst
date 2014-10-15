@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/m17n/icons/ta-inscript.png", "size_i": "1419", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/ta-phonetic.png", "size_i": "1664", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/ta-tamil99.png", "size_i": "1630", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/ta-typewriter.png", "size_i": "1896", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/ta-vutam.png", "size_i": "1677", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ta-inscript.mim", "size_i": "2398", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ta-phonetic.mim", "size_i": "9777", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ta-tamil99.mim", "size_i": "19109", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ta-typewriter.mim", "size_i": "9767", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ta-vutam.mim", "size_i": "5192", "regex": "false"}
+]

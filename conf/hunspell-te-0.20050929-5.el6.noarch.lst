@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-te-0.20050929", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-te-0.20050929/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-te-0.20050929/Copyright", "size_i": "78", "regex": "false"},
+	{"name_s": "/usr/share/myspell/te_IN.aff", "size_i": "276", "regex": "false"},
+	{"name_s": "/usr/share/myspell/te_IN.dic", "size_i": "3402747", "regex": "false"}
+]

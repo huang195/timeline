@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/show-leaves.conf", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/show-leaves.py", "size_i": "1753", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/show-leaves.pyc", "size_i": "1461", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/show-leaves.pyo", "size_i": "1461", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-show-leaves-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-show-leaves-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

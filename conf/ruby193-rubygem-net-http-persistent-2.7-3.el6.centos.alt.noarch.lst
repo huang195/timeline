@@ -1,0 +1,15 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/net-http-persistent-2.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/net-http-persistent-2.7/History.txt", "size_i": "7649", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/net-http-persistent-2.7/Manifest.txt", "size_i": "228", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/net-http-persistent-2.7/README.rdoc", "size_i": "2753", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/net-http-persistent-2.7/Rakefile", "size_i": "396", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/net-http-persistent-2.7/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/net-http-persistent-2.7/lib/net", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/net-http-persistent-2.7/lib/net/http", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/net-http-persistent-2.7/lib/net/http/faster.rb", "size_i": "661", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/net-http-persistent-2.7/lib/net/http/persistent", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/net-http-persistent-2.7/lib/net/http/persistent.rb", "size_i": "26857", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/net-http-persistent-2.7/lib/net/http/persistent/ssl_reuse.rb", "size_i": "4083", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/net-http-persistent-2.7.gemspec", "size_i": "3230", "regex": "false"}
+]

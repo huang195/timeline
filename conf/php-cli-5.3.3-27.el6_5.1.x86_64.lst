@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/phar", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/bin/phar.phar", "size_i": "14790", "regex": "false"},
+	{"name_s": "/usr/bin/php", "size_i": "3229904", "regex": "false"},
+	{"name_s": "/usr/bin/php-cgi", "size_i": "3242608", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-cli-5.3.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-cli-5.3.3/README", "size_i": "845", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-cli-5.3.3/README.FastCGI", "size_i": "6049", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/php.1.gz", "size_i": "3365", "regex": "false"}
+]

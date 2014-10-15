@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/bind/ldap.so", "size_i": "133896", "regex": "false"},
+	{"name_s": "/usr/share/doc/bind-dyndb-ldap-2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bind-dyndb-ldap-2.3/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/bind-dyndb-ldap-2.3/README", "size_i": "11733", "regex": "false"},
+	{"name_s": "/usr/share/doc/bind-dyndb-ldap-2.3/example.ldif", "size_i": "1513", "regex": "false"},
+	{"name_s": "/usr/share/doc/bind-dyndb-ldap-2.3/schema", "size_i": "8924", "regex": "false"}
+]

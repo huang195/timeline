@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib/farsight2-0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/farsight2-0.0/libmulticast-transmitter.so", "size_i": "28664", "regex": "false"},
+	{"name_s": "/usr/lib/farsight2-0.0/libnice-transmitter.so", "size_i": "48148", "regex": "false"},
+	{"name_s": "/usr/lib/farsight2-0.0/librawudp-transmitter.so", "size_i": "56964", "regex": "false"},
+	{"name_s": "/usr/lib/gstreamer-0.10/libfsfunnel.so", "size_i": "12736", "regex": "false"},
+	{"name_s": "/usr/lib/gstreamer-0.10/libfsmsnconference.so", "size_i": "52004", "regex": "false"},
+	{"name_s": "/usr/lib/gstreamer-0.10/libfsrtcpfilter.so", "size_i": "8228", "regex": "false"},
+	{"name_s": "/usr/lib/gstreamer-0.10/libfsrtpconference.so", "size_i": "163396", "regex": "false"},
+	{"name_s": "/usr/lib/gstreamer-0.10/libfsvideoanyrate.so", "size_i": "7556", "regex": "false"},
+	{"name_s": "/usr/lib/libgstfarsight-0.10.so.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libgstfarsight-0.10.so.0.3.1", "size_i": "60744", "regex": "false"},
+	{"name_s": "/usr/share/doc/farsight2-0.0.16", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/farsight2-0.0.16/COPYING", "size_i": "26436", "regex": "false"}
+]

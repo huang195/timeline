@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/include/sanlock.h", "size_i": "2869", "regex": "false"},
+	{"name_s": "/usr/include/sanlock_admin.h", "size_i": "8798", "regex": "false"},
+	{"name_s": "/usr/include/sanlock_direct.h", "size_i": "1292", "regex": "false"},
+	{"name_s": "/usr/include/sanlock_resource.h", "size_i": "3880", "regex": "false"},
+	{"name_s": "/usr/include/sanlock_rv.h", "size_i": "1813", "regex": "false"},
+	{"name_s": "/usr/include/wdmd.h", "size_i": "679", "regex": "false"},
+	{"name_s": "/usr/lib64/libsanlock.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libsanlock_client.so", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libwdmd.so", "size_i": "14", "regex": "false"}
+]

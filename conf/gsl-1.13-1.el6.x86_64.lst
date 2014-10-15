@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/gsl-histogram", "size_i": "6008", "regex": "false"},
+	{"name_s": "/usr/bin/gsl-randist", "size_i": "19368", "regex": "false"},
+	{"name_s": "/usr/lib64/libgsl.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libgsl.so.0.14.0", "size_i": "2058504", "regex": "false"},
+	{"name_s": "/usr/lib64/libgslcblas.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libgslcblas.so.0.0.0", "size_i": "225864", "regex": "false"},
+	{"name_s": "/usr/share/doc/gsl-1.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gsl-1.13/AUTHORS", "size_i": "1586", "regex": "false"},
+	{"name_s": "/usr/share/doc/gsl-1.13/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/gsl-1.13/ChangeLog", "size_i": "27392", "regex": "false"},
+	{"name_s": "/usr/share/doc/gsl-1.13/INSTALL", "size_i": "19814", "regex": "false"},
+	{"name_s": "/usr/share/doc/gsl-1.13/NEWS", "size_i": "53527", "regex": "false"},
+	{"name_s": "/usr/share/doc/gsl-1.13/README", "size_i": "2572", "regex": "false"},
+	{"name_s": "/usr/share/doc/gsl-1.13/THANKS", "size_i": "16120", "regex": "false"},
+	{"name_s": "/usr/share/doc/gsl-1.13/TODO", "size_i": "6958", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gsl-histogram.1.gz", "size_i": "817", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gsl-randist.1.gz", "size_i": "686", "regex": "false"}
+]

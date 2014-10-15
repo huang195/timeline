@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libcacard.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libcacard.so.0.0.0", "size_i": "58528", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcacard-0.15.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcacard-0.15.0/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcacard-0.15.0/README", "size_i": "23001", "regex": "false"}
+]

@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboKid-1.0.4-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboKid-1.0.4-py2.6.egg-info/PKG-INFO", "size_i": "714", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboKid-1.0.4-py2.6.egg-info/SOURCES.txt", "size_i": "298", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboKid-1.0.4-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboKid-1.0.4-py2.6.egg-info/entry_points.txt", "size_i": "78", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboKid-1.0.4-py2.6.egg-info/not-zip-safe", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboKid-1.0.4-py2.6.egg-info/requires.txt", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboKid-1.0.4-py2.6.egg-info/top_level.txt", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbokid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbokid/__init__.py", "size_i": "93", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbokid/__init__.pyc", "size_i": "253", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbokid/__init__.pyo", "size_i": "253", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbokid/kidsupport.py", "size_i": "9400", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbokid/kidsupport.pyc", "size_i": "6977", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbokid/kidsupport.pyo", "size_i": "6913", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-turbokid-1.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-turbokid-1.0.4/README.txt", "size_i": "812", "regex": "false"}
+]

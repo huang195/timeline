@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/eclipse/dropins/valgrind", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/valgrind/eclipse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/valgrind/eclipse/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/valgrind/eclipse/plugins/org.eclipse.linuxtools.valgrind.cachegrind_0.6.1.201010081413.jar", "size_i": "42373", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/valgrind/eclipse/plugins/org.eclipse.linuxtools.valgrind.core_0.6.1.201010081413.jar", "size_i": "20215", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/valgrind/eclipse/plugins/org.eclipse.linuxtools.valgrind.doc_0.6.1.201010081413.jar", "size_i": "998371", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/valgrind/eclipse/plugins/org.eclipse.linuxtools.valgrind.launch_0.6.1.201010081413.jar", "size_i": "52606", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/valgrind/eclipse/plugins/org.eclipse.linuxtools.valgrind.massif_0.6.1.201010081413.jar", "size_i": "79234", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/valgrind/eclipse/plugins/org.eclipse.linuxtools.valgrind.memcheck_0.6.1.201010081413.jar", "size_i": "15587", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/valgrind/eclipse/plugins/org.eclipse.linuxtools.valgrind.ui.editor_0.6.1.201010081413.jar", "size_i": "39613", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/valgrind/eclipse/plugins/org.eclipse.linuxtools.valgrind.ui_0.6.1.201010081413.jar", "size_i": "23927", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-valgrind-0.6.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-valgrind-0.6.1/epl-v10.html", "size_i": "12506", "regex": "false"}
+]

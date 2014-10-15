@@ -1,0 +1,12 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-Slurp-9999.19", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-Slurp-9999.19/Changes", "size_i": "6957", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-Slurp-9999.19/README", "size_i": "1264", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-Slurp-9999.19/extras", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-Slurp-9999.19/extras/FileSlurp_12.pm", "size_i": "6274", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-Slurp-9999.19/extras/slurp_article.pod", "size_i": "29916", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-File-Slurp-9999.19/extras/slurp_bench.pl", "size_i": "14041", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/File::Slurp.3pm.gz", "size_i": "7392", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/File", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/File/Slurp.pm", "size_i": "33796", "regex": "false"}
+]

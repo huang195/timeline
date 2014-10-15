@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/xmlrpc.ini", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/xmlrpc.so", "size_i": "78344", "regex": "false"}
+]

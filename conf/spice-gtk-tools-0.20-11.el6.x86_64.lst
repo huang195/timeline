@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/bin/spicy", "size_i": "52136", "regex": "false"},
+	{"name_s": "/usr/bin/spicy-screenshot", "size_i": "12336", "regex": "false"},
+	{"name_s": "/usr/bin/spicy-stats", "size_i": "11952", "regex": "false"}
+]

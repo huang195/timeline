@@ -1,0 +1,16 @@
+[
+	{"name_s": "/etc/fonts/conf.d/20-unhint-small-dejavu-sans.conf", "size_i": "65", "regex": "false"},
+	{"name_s": "/etc/fonts/conf.d/57-dejavu-sans.conf", "size_i": "52", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/20-unhint-small-dejavu-sans.conf", "size_i": "856", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/57-dejavu-sans.conf", "size_i": "2011", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSans-Bold.ttf", "size_i": "573136", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSans-BoldOblique.ttf", "size_i": "524056", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSans-ExtraLight.ttf", "size_i": "329416", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSans-Oblique.ttf", "size_i": "523804", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSans.ttf", "size_i": "622280", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSansCondensed-Bold.ttf", "size_i": "534464", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSansCondensed-BoldOblique.ttf", "size_i": "493196", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSansCondensed-Oblique.ttf", "size_i": "488440", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSansCondensed.ttf", "size_i": "544636", "regex": "false"}
+]

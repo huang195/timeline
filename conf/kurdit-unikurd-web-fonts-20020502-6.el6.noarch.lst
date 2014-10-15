@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-kurdit-unikurd-web.conf", "size_i": "59", "regex": "false"},
+	{"name_s": "/usr/share/doc/kurdit-unikurd-web-fonts-20020502", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/kurdit-unikurd-web-fonts-20020502/gpl.txt", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-kurdit-unikurd-web.conf", "size_i": "520", "regex": "false"},
+	{"name_s": "/usr/share/fonts/kurdit-unikurd-web", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/kurdit-unikurd-web/Unikuweb.ttf", "size_i": "77684", "regex": "false"}
+]

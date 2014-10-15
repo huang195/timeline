@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-sv-1.39", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-sv-1.39/README_sv_SE.txt", "size_i": "2619", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sv_FI.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sv_FI.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sv_SE.aff", "size_i": "14005", "regex": "false"},
+	{"name_s": "/usr/share/myspell/sv_SE.dic", "size_i": "1030654", "regex": "false"}
+]

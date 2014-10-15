@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc/NXConstStr.h", "size_i": "1399", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc/Object.h", "size_i": "3417", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc/Protocol.h", "size_i": "1790", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc/encoding.h", "size_i": "3340", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc/hash.h", "size_i": "6470", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc/objc-api.h", "size_i": "21305", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc/objc-decls.h", "size_i": "1511", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc/objc-list.h", "size_i": "3435", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc/objc.h", "size_i": "5607", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc/sarray.h", "size_i": "5986", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc/thr.h", "size_i": "5042", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/include/objc/typedstream.h", "size_i": "4195", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6/libobjc.a", "size_i": "395414", "regex": "false"},
+	{"name_s": "/usr/libexec/gcc/i686-pc-mingw32/4.4.6/cc1obj", "size_i": "9151088", "regex": "false"}
+]

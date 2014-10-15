@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/gcj/jlex/jlex-1.2.6.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/jlex/jlex-1.2.6.jar.so", "size_i": "288432", "regex": "false"},
+	{"name_s": "/usr/share/java", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/java/jlex-1.2.6.jar", "size_i": "58774", "regex": "false"},
+	{"name_s": "/usr/share/java/jlex.jar", "size_i": "14", "regex": "false"}
+]

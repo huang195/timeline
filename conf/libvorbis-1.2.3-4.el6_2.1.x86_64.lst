@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libvorbis.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libvorbis.so.0.4.3", "size_i": "181984", "regex": "false"},
+	{"name_s": "/usr/lib64/libvorbisenc.so.2", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libvorbisenc.so.2.0.6", "size_i": "1941016", "regex": "false"},
+	{"name_s": "/usr/lib64/libvorbisfile.so.3", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libvorbisfile.so.3.3.2", "size_i": "30576", "regex": "false"}
+]

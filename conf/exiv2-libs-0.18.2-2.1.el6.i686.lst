@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libexiv2.so.5", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libexiv2.so.5.3.1", "size_i": "1602500", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/exiv2.mo", "size_i": "255946", "regex": "false"},
+	{"name_s": "/usr/share/locale/es/LC_MESSAGES/exiv2.mo", "size_i": "33163", "regex": "false"},
+	{"name_s": "/usr/share/locale/fi/LC_MESSAGES/exiv2.mo", "size_i": "1448", "regex": "false"},
+	{"name_s": "/usr/share/locale/fr/LC_MESSAGES/exiv2.mo", "size_i": "107125", "regex": "false"},
+	{"name_s": "/usr/share/locale/pl/LC_MESSAGES/exiv2.mo", "size_i": "233849", "regex": "false"},
+	{"name_s": "/usr/share/locale/ru/LC_MESSAGES/exiv2.mo", "size_i": "87342", "regex": "false"},
+	{"name_s": "/usr/share/locale/sk/LC_MESSAGES/exiv2.mo", "size_i": "186864", "regex": "false"}
+]

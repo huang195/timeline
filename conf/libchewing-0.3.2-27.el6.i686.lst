@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/lib/chewing", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/chewing/fonetree.dat", "size_i": "2430112", "regex": "false"},
+	{"name_s": "/usr/lib/libchewing.so.3", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libchewing.so.3.0.1", "size_i": "82316", "regex": "false"},
+	{"name_s": "/usr/share/chewing", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/chewing/ch_index_begin.dat", "size_i": "5640", "regex": "false"},
+	{"name_s": "/usr/share/chewing/ch_index_phone.dat", "size_i": "2820", "regex": "false"},
+	{"name_s": "/usr/share/chewing/dict.dat", "size_i": "1854379", "regex": "false"},
+	{"name_s": "/usr/share/chewing/ph_index.dat", "size_i": "474904", "regex": "false"},
+	{"name_s": "/usr/share/chewing/pinyin.tab", "size_i": "547", "regex": "false"},
+	{"name_s": "/usr/share/chewing/swkb.dat", "size_i": "173", "regex": "false"},
+	{"name_s": "/usr/share/chewing/symbols.dat", "size_i": "973", "regex": "false"},
+	{"name_s": "/usr/share/chewing/us_freq.dat", "size_i": "104316", "regex": "false"},
+	{"name_s": "/usr/share/doc/libchewing-0.3.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libchewing-0.3.2/AUTHORS", "size_i": "684", "regex": "false"},
+	{"name_s": "/usr/share/doc/libchewing-0.3.2/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/libchewing-0.3.2/README", "size_i": "1986", "regex": "false"}
+]

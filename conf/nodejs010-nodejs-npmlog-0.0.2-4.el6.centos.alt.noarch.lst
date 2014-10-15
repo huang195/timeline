@@ -1,0 +1,11 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/npmlog", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/npmlog/log.js", "size_i": "3927", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/npmlog/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/npmlog/node_modules/ansi", "size_i": "48", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/npmlog/package.json", "size_i": "413", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-npmlog-0.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-npmlog-0.0.2/LICENSE", "size_i": "1318", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-npmlog-0.0.2/README.md", "size_i": "3968", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-npmlog-0.0.2/example.js", "size_i": "1621", "regex": "false"}
+]

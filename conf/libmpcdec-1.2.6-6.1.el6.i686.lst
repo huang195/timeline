@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libmpcdec.so.5", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libmpcdec.so.5.0.2", "size_i": "48004", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmpcdec-1.2.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmpcdec-1.2.6/AUTHORS", "size_i": "282", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmpcdec-1.2.6/COPYING", "size_i": "1563", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmpcdec-1.2.6/ChangeLog", "size_i": "1692", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmpcdec-1.2.6/README", "size_i": "173", "regex": "false"}
+]

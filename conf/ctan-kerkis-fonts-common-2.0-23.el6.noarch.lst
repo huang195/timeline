@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/ctan-kerkis-fonts-common-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctan-kerkis-fonts-common-2.0/License.txt", "size_i": "512", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctan-kerkis-fonts-common-2.0/README.html", "size_i": "5975", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis", "size_i": "4096", "regex": "false"}
+]

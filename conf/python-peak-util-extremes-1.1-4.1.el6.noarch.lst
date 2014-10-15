@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/Extremes-1.1-py2.6-nspkg.pth", "size_i": "666", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/Extremes-1.1-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/Extremes-1.1-py2.6.egg-info/PKG-INFO", "size_i": "2722", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/Extremes-1.1-py2.6.egg-info/SOURCES.txt", "size_i": "259", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/Extremes-1.1-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/Extremes-1.1-py2.6.egg-info/namespace_packages.txt", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/Extremes-1.1-py2.6.egg-info/top_level.txt", "size_i": "5", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/peak", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/peak/util", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/peak/util/extremes.py", "size_i": "1155", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/peak/util/extremes.pyc", "size_i": "2639", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/peak/util/extremes.pyo", "size_i": "2639", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-peak-util-extremes-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-peak-util-extremes-1.1/README.txt", "size_i": "2057", "regex": "false"}
+]

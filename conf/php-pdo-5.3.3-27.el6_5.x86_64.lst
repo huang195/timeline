@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/php.d/pdo.ini", "size_i": "47", "regex": "false"},
+	{"name_s": "/etc/php.d/pdo_sqlite.ini", "size_i": "61", "regex": "false"},
+	{"name_s": "/etc/php.d/sqlite3.ini", "size_i": "55", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/pdo.so", "size_i": "102456", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/pdo_sqlite.so", "size_i": "24640", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/sqlite3.so", "size_i": "44368", "regex": "false"}
+]

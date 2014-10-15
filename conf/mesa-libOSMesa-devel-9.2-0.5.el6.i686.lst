@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/GL/osmesa.h", "size_i": "8505", "regex": "false"},
+	{"name_s": "/usr/lib/libOSMesa.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libOSMesa16.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libOSMesa32.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/osmesa.pc", "size_i": "255", "regex": "false"}
+]

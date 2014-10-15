@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/gnome-autogen.sh", "size_i": "16451", "regex": "false"},
+	{"name_s": "/usr/bin/gnome-doc-common", "size_i": "961", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/gnome-common.m4", "size_i": "1381", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/gnome-compiler-flags.m4", "size_i": "4064", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-common-2.28.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-common-2.28.0/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-common-2.28.0/ChangeLog", "size_i": "458586", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-common-2.28.0/README", "size_i": "1378", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-common-2.28.0/doc-README", "size_i": "469", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-common-2.28.0/usage.txt", "size_i": "1354", "regex": "false"},
+	{"name_s": "/usr/share/gnome-common", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gnome-common/data", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gnome-common/data/omf.make", "size_i": "2280", "regex": "false"},
+	{"name_s": "/usr/share/gnome-common/data/xmldocs.make", "size_i": "3180", "regex": "false"}
+]

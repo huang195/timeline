@@ -1,0 +1,22 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/DateTime", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/DateTime.pm", "size_i": "118586", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/DateTime/Duration.pm", "size_i": "17711", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/DateTime/Helpers.pm", "size_i": "416", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/DateTime/Infinite.pm", "size_i": "4798", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/DateTime/LeapSecond.pm", "size_i": "4296", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/DateTimePP.pm", "size_i": "5245", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/DateTimePPExtra.pm", "size_i": "1365", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/DateTime", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/DateTime/DateTime.so", "size_i": "16872", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-DateTime-1.06", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-DateTime-1.06/CREDITS", "size_i": "1179", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-DateTime-1.06/Changes", "size_i": "47707", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-DateTime-1.06/LICENSE", "size_i": "9040", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-DateTime-1.06/README", "size_i": "231", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-DateTime-1.06/TODO", "size_i": "644", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/DateTime.3pm.gz", "size_i": "21471", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/DateTime::Duration.3pm.gz", "size_i": "5907", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/DateTime::Infinite.3pm.gz", "size_i": "2678", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/DateTime::LeapSecond.3pm.gz", "size_i": "2440", "regex": "false"}
+]

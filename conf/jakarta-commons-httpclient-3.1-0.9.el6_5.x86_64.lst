@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/gcj/jakarta-commons-httpclient", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/jakarta-commons-httpclient/jakarta-commons-httpclient-3.1.jar.db", "size_i": "16384", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/jakarta-commons-httpclient/jakarta-commons-httpclient-3.1.jar.so", "size_i": "1415576", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-httpclient-3.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-httpclient-3.1/LICENSE.txt", "size_i": "10173", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-httpclient-3.1/README.txt", "size_i": "313", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-httpclient-3.1/RELEASE_NOTES.txt", "size_i": "118445", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-httpclient-3.1.jar", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-httpclient.jar", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-httpclient3.jar", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-httpclient-3.1.jar", "size_i": "303763", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-httpclient.jar", "size_i": "34", "regex": "false"}
+]

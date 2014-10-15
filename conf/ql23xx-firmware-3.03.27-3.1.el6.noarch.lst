@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/firmware/ql2300_fw.bin", "size_i": "125088", "regex": "false"},
+	{"name_s": "/lib/firmware/ql2322_fw.bin", "size_i": "135896", "regex": "false"},
+	{"name_s": "/usr/share/doc/ql23xx-firmware-3.03.27", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ql23xx-firmware-3.03.27/LICENSE", "size_i": "1837", "regex": "false"}
+]

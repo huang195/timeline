@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Params-Check-0.38", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Params-Check-0.38/CHANGES", "size_i": "2840", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Params-Check-0.38/README", "size_i": "1015", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Params::Check.3pm.gz", "size_i": "5994", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Params", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Params/Check.pm", "size_i": "19330", "regex": "false"}
+]

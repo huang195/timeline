@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/kasumi", "size_i": "141408", "regex": "false"},
+	{"name_s": "/usr/share/doc/kasumi-2.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/kasumi-2.5/AUTHORS", "size_i": "420", "regex": "false"},
+	{"name_s": "/usr/share/doc/kasumi-2.5/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/kasumi-2.5/ChangeLog", "size_i": "14025", "regex": "false"},
+	{"name_s": "/usr/share/doc/kasumi-2.5/NEWS", "size_i": "149", "regex": "false"},
+	{"name_s": "/usr/share/doc/kasumi-2.5/README", "size_i": "97", "regex": "false"},
+	{"name_s": "/usr/share/locale/it/LC_MESSAGES/kasumi.mo", "size_i": "1998", "regex": "false"},
+	{"name_s": "/usr/share/locale/ja/LC_MESSAGES/kasumi.mo", "size_i": "3773", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/kasumi.1.gz", "size_i": "831", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/kasumi.png", "size_i": "2473", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/graphviz/guile", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/guile/libgv_guile.so", "size_i": "58376", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gv.3guile.gz", "size_i": "1618", "regex": "false"}
+]

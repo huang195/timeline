@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/freeradius/rlm_sql_unixodbc-2.1.12.so", "size_i": "11024", "regex": "false"},
+	{"name_s": "/usr/lib64/freeradius/rlm_sql_unixodbc.so", "size_i": "26", "regex": "false"}
+]

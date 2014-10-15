@@ -1,0 +1,18 @@
+[
+	{"name_s": "/lib64/libnss_db-2.2.3.so", "size_i": "808200", "regex": "false"},
+	{"name_s": "/lib64/libnss_db.so.2", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/bin/makedb", "size_i": "804768", "regex": "false"},
+	{"name_s": "/usr/lib64/libnss_db.so", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss_db-2.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss_db-2.2.3/AUTHORS", "size_i": "115", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss_db-2.2.3/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss_db-2.2.3/COPYING.LIB", "size_i": "25283", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss_db-2.2.3/ChangeLog", "size_i": "4907", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss_db-2.2.3/NEWS", "size_i": "1272", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss_db-2.2.3/README", "size_i": "1702", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss_db-2.2.3/THANKS", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/doc/nss_db-2.2.3/db-getent-Makefile", "size_i": "4183", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/nss_db.mo", "size_i": "2453", "regex": "false"},
+	{"name_s": "/usr/share/locale/nl/LC_MESSAGES/nss_db.mo", "size_i": "2351", "regex": "false"},
+	{"name_s": "/var/db/Makefile", "size_i": "4588", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/urlview.conf", "size_i": "313", "regex": "false"},
+	{"name_s": "/usr/bin/url_handler.sh", "size_i": "3181", "regex": "false"},
+	{"name_s": "/usr/bin/urlview", "size_i": "17136", "regex": "false"},
+	{"name_s": "/usr/share/doc/urlview-0.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/urlview-0.9/AUTHORS", "size_i": "58", "regex": "false"},
+	{"name_s": "/usr/share/doc/urlview-0.9/COPYING", "size_i": "17989", "regex": "false"},
+	{"name_s": "/usr/share/doc/urlview-0.9/ChangeLog", "size_i": "1849", "regex": "false"},
+	{"name_s": "/usr/share/doc/urlview-0.9/README", "size_i": "406", "regex": "false"},
+	{"name_s": "/usr/share/doc/urlview-0.9/sample.urlview", "size_i": "898", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/urlview.1.gz", "size_i": "1366", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/urlview.conf.5.gz", "size_i": "39", "regex": "false"}
+]

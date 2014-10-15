@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib/libm17n-core.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libm17n-core.so.0.3.0", "size_i": "125328", "regex": "false"},
+	{"name_s": "/usr/lib/libm17n-flt.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libm17n-flt.so.0.3.0", "size_i": "34628", "regex": "false"},
+	{"name_s": "/usr/lib/libm17n.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libm17n.so.0.3.0", "size_i": "162468", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-lib-1.5.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-lib-1.5.5/AUTHORS", "size_i": "207", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-lib-1.5.5/COPYING", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/m17n-lib-1.5.5/NEWS", "size_i": "7121", "regex": "false"}
+]

@@ -1,0 +1,12 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-CPAN-Meta-Requirements-2.122", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-CPAN-Meta-Requirements-2.122/Changes", "size_i": "424", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-CPAN-Meta-Requirements-2.122/LICENSE", "size_i": "18404", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-CPAN-Meta-Requirements-2.122/README", "size_i": "7593", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-CPAN-Meta-Requirements-2.122/README.PATCHING", "size_i": "1711", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-CPAN-Meta-Requirements-2.122/perlcritic.rc", "size_i": "573", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/CPAN::Meta::Requirements.3pm.gz", "size_i": "4523", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/CPAN", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/CPAN/Meta", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/CPAN/Meta/Requirements.pm", "size_i": "17714", "regex": "false"}
+]

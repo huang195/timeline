@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/nss3/nssbase.h", "size_i": "6893", "regex": "false"},
+	{"name_s": "/usr/include/nss3/nssbaset.h", "size_i": "2688", "regex": "false"},
+	{"name_s": "/usr/include/nss3/nssckepv.h", "size_i": "320", "regex": "false"},
+	{"name_s": "/usr/include/nss3/nssckft.h", "size_i": "327", "regex": "false"},
+	{"name_s": "/usr/include/nss3/nssckfw.h", "size_i": "6456", "regex": "false"},
+	{"name_s": "/usr/include/nss3/nssckfwc.h", "size_i": "16649", "regex": "false"},
+	{"name_s": "/usr/include/nss3/nssckfwt.h", "size_i": "2036", "regex": "false"},
+	{"name_s": "/usr/include/nss3/nssckg.h", "size_i": "314", "regex": "false"},
+	{"name_s": "/usr/include/nss3/nssckmdt.h", "size_i": "61099", "regex": "false"},
+	{"name_s": "/usr/include/nss3/nssckt.h", "size_i": "367", "regex": "false"},
+	{"name_s": "/usr/lib64/libnssb.a", "size_i": "41872", "regex": "false"},
+	{"name_s": "/usr/lib64/libnssckfw.a", "size_i": "146526", "regex": "false"}
+]

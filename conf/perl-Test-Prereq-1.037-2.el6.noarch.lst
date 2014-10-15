@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-Prereq-1.037", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Prereq-1.037/Changes", "size_i": "2918", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Prereq-1.037/LICENSE", "size_i": "61", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Prereq-1.037/README", "size_i": "483", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Prereq.3.gz", "size_i": "3847", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Prereq::Build.3.gz", "size_i": "2046", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Prereq", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Prereq.pm", "size_i": "10279", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Prereq/Build.pm", "size_i": "1548", "regex": "false"}
+]

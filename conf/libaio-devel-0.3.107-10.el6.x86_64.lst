@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/libaio.h", "size_i": "7252", "regex": "false"},
+	{"name_s": "/usr/lib64/libaio.a", "size_i": "16200", "regex": "false"},
+	{"name_s": "/usr/lib64/libaio.so", "size_i": "22", "regex": "false"}
+]

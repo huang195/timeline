@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/include/archive.h", "size_i": "32092", "regex": "false"},
+	{"name_s": "/usr/include/archive_entry.h", "size_i": "24631", "regex": "false"},
+	{"name_s": "/usr/lib/libarchive.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libarchive.pc", "size_i": "274", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/archive_entry.3.gz", "size_i": "3837", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/archive_read.3.gz", "size_i": "6411", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/archive_read_disk.3.gz", "size_i": "3504", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/archive_util.3.gz", "size_i": "2006", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/archive_write.3.gz", "size_i": "6348", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/archive_write_disk.3.gz", "size_i": "4720", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libarchive.3.gz", "size_i": "4107", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libarchive_internals.3.gz", "size_i": "5470", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/libarchive-formats.5.gz", "size_i": "5715", "regex": "false"}
+]

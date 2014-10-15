@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/lib64/perl5/Attribute", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Attribute/Params", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Attribute/Params/Validate.pm", "size_i": "4190", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Params", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Params/Validate.pm", "size_i": "22445", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Params/ValidatePP.pm", "size_i": "18382", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Params/ValidateXS.pm", "size_i": "2901", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Params", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Params/Validate", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Params/Validate/Validate.bs", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Params/Validate/Validate.so", "size_i": "53176", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Params-Validate-0.92", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Params-Validate-0.92/Changes", "size_i": "18095", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Params-Validate-0.92/LICENSE", "size_i": "20545", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Params-Validate-0.92/README", "size_i": "23320", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Params-Validate-0.92/TODO", "size_i": "534", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Attribute::Params::Validate.3pm.gz", "size_i": "2723", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Params::Validate.3pm.gz", "size_i": "9455", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Params::ValidatePP.3pm.gz", "size_i": "1918", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Params::ValidateXS.3pm.gz", "size_i": "1922", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-script-2.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-script-2.2.0/LICENSE", "size_i": "1055", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-script-2.2.0/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-script-2.2.0/lib/coffee-script.rb", "size_i": "24", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/coffee-script-2.2.0/lib/coffee_script.rb", "size_i": "1230", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/coffee-script-2.2.0.gemspec", "size_i": "1098", "regex": "false"}
+]

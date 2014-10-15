@@ -1,0 +1,22 @@
+[
+	{"name_s": "/etc/centos-release", "size_i": "27", "regex": "false"},
+	{"name_s": "/etc/issue", "size_i": "47", "regex": "false"},
+	{"name_s": "/etc/issue.net", "size_i": "46", "regex": "false"},
+	{"name_s": "/etc/pki/rpm-gpg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6", "size_i": "1706", "regex": "false"},
+	{"name_s": "/etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-Debug-6", "size_i": "1730", "regex": "false"},
+	{"name_s": "/etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-Security-6", "size_i": "1730", "regex": "false"},
+	{"name_s": "/etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-Testing-6", "size_i": "1734", "regex": "false"},
+	{"name_s": "/etc/redhat-release", "size_i": "14", "regex": "false"},
+	{"name_s": "/etc/rpm/macros.dist", "size_i": "66", "regex": "false"},
+	{"name_s": "/etc/system-release", "size_i": "14", "regex": "false"},
+	{"name_s": "/etc/system-release-cpe", "size_i": "25", "regex": "false"},
+	{"name_s": "/etc/yum.repos.d/CentOS-Base.repo", "size_i": "1926", "regex": "false"},
+	{"name_s": "/etc/yum.repos.d/CentOS-Debuginfo.repo", "size_i": "638", "regex": "false"},
+	{"name_s": "/etc/yum.repos.d/CentOS-Media.repo", "size_i": "630", "regex": "false"},
+	{"name_s": "/etc/yum.repos.d/CentOS-Vault.repo", "size_i": "3664", "regex": "false"},
+	{"name_s": "/usr/share/doc/centos-release-6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/centos-release-6/EULA", "size_i": "285", "regex": "false"},
+	{"name_s": "/usr/share/doc/centos-release-6/GPL", "size_i": "18416", "regex": "false"},
+	{"name_s": "/usr/share/doc/redhat-release", "size_i": "31", "regex": "false"}
+]

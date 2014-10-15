@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libXcomposite.so.1", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libXcomposite.so.1.0.0", "size_i": "7740", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXcomposite-0.4.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXcomposite-0.4.3/AUTHORS", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXcomposite-0.4.3/COPYING", "size_i": "2238", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXcomposite-0.4.3/ChangeLog", "size_i": "19148", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXcomposite-0.4.3/README", "size_i": "722", "regex": "false"}
+]

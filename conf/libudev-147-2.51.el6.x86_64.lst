@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib64/libudev.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/lib64/libudev.so.0.5.1", "size_i": "55184", "regex": "false"},
+	{"name_s": "/usr/share/doc/libudev-147", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libudev-147/COPYING", "size_i": "17987", "regex": "false"}
+]

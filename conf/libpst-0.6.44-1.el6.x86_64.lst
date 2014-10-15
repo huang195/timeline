@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/lspst", "size_i": "11008", "regex": "false"},
+	{"name_s": "/usr/bin/pst2dii", "size_i": "26040", "regex": "false"},
+	{"name_s": "/usr/bin/pst2ldif", "size_i": "22120", "regex": "false"},
+	{"name_s": "/usr/bin/readpst", "size_i": "48408", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/lspst.1.gz", "size_i": "912", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pst2dii.1.gz", "size_i": "1227", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pst2ldif.1.gz", "size_i": "1465", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/readpst.1.gz", "size_i": "2051", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/outlook.pst.5.gz", "size_i": "10882", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/share/doc/ws-jaxme-0.5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ws-jaxme-0.5.1/LICENSE", "size_i": "11357", "regex": "false"},
+	{"name_s": "/usr/share/doc/ws-jaxme-0.5.1/manual", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ws-jaxme-0.5.1/manual/apa.html", "size_i": "14736", "regex": "false"},
+	{"name_s": "/usr/share/doc/ws-jaxme-0.5.1/manual/apb.html", "size_i": "17878", "regex": "false"},
+	{"name_s": "/usr/share/doc/ws-jaxme-0.5.1/manual/ch01.html", "size_i": "13629", "regex": "false"},
+	{"name_s": "/usr/share/doc/ws-jaxme-0.5.1/manual/ch01s02.html", "size_i": "10607", "regex": "false"},
+	{"name_s": "/usr/share/doc/ws-jaxme-0.5.1/manual/ch02.html", "size_i": "16879", "regex": "false"},
+	{"name_s": "/usr/share/doc/ws-jaxme-0.5.1/manual/ch02s02.html", "size_i": "38538", "regex": "false"},
+	{"name_s": "/usr/share/doc/ws-jaxme-0.5.1/manual/go01.html", "size_i": "2332", "regex": "false"},
+	{"name_s": "/usr/share/doc/ws-jaxme-0.5.1/manual/index.html", "size_i": "4460", "regex": "false"},
+	{"name_s": "/usr/share/doc/ws-jaxme-0.5.1/manual/pr01.html", "size_i": "3215", "regex": "false"}
+]

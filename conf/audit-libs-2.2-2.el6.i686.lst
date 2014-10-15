@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/libaudit.conf", "size_i": "191", "regex": "false"},
+	{"name_s": "/lib/libaudit.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/lib/libaudit.so.1.0.0", "size_i": "112224", "regex": "false"},
+	{"name_s": "/lib/libauparse.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/lib/libauparse.so.0.0.0", "size_i": "58988", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/libaudit.conf.5.gz", "size_i": "555", "regex": "false"}
+]

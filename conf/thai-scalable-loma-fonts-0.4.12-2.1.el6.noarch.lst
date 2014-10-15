@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/fonts/thai-scalable", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Loma-Bold.ttf", "size_i": "67000", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Loma-BoldOblique.ttf", "size_i": "75360", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Loma-Oblique.ttf", "size_i": "78100", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Loma.ttf", "size_i": "66920", "regex": "false"}
+]

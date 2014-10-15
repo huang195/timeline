@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-nso-0.20060120", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-nso-0.20060120/README_ns_ZA.txt", "size_i": "30966", "regex": "false"},
+	{"name_s": "/usr/share/myspell/nso_ZA.aff", "size_i": "905", "regex": "false"},
+	{"name_s": "/usr/share/myspell/nso_ZA.dic", "size_i": "58235", "regex": "false"}
+]

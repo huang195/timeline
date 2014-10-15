@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/bin/qemu-img", "size_i": "488536", "regex": "false"},
+	{"name_s": "/usr/bin/qemu-io", "size_i": "488536", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/qemu-img.1.gz", "size_i": "6827", "regex": "false"}
+]

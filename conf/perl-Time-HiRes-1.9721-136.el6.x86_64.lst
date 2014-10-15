@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/perl5/Time/HiRes.pm", "size_i": "22217", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Time/HiRes/HiRes.so", "size_i": "26120", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Time::HiRes.3pm.gz", "size_i": "9068", "regex": "false"}
+]

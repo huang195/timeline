@@ -1,0 +1,16 @@
+[
+	{"name_s": "/etc/qpidd.conf", "size_i": "1030", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/qpidd", "size_i": "2992", "regex": "false"},
+	{"name_s": "/etc/sasl2/qpidd.conf", "size_i": "1719", "regex": "false"},
+	{"name_s": "/usr/lib/libqpidbroker.so.7", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libqpidbroker.so.7.0.0", "size_i": "2984236", "regex": "false"},
+	{"name_s": "/usr/lib/qpid/daemon", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/qpid/daemon/acl.so", "size_i": "281800", "regex": "false"},
+	{"name_s": "/usr/lib/qpid/daemon/replicating_listener.so", "size_i": "69420", "regex": "false"},
+	{"name_s": "/usr/lib/qpid/daemon/replication_exchange.so", "size_i": "48600", "regex": "false"},
+	{"name_s": "/usr/sbin/qpidd", "size_i": "86032", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/qpidd.1.gz", "size_i": "3077", "regex": "false"},
+	{"name_s": "/var/lib/qpidd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/qpidd/qpidd.sasldb", "size_i": "12288", "regex": "false"},
+	{"name_s": "/var/run/qpidd", "size_i": "4096", "regex": "false"}
+]

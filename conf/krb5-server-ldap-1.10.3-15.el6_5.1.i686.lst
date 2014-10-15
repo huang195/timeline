@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib/krb5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/krb5/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/krb5/plugins/kdb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/krb5/plugins/kdb/kldap.so", "size_i": "5568", "regex": "false"},
+	{"name_s": "/usr/lib/libkdb_ldap.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libkdb_ldap.so.1", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libkdb_ldap.so.1.0", "size_i": "104704", "regex": "false"},
+	{"name_s": "/usr/sbin/kdb5_ldap_util", "size_i": "63172", "regex": "false"},
+	{"name_s": "/usr/share/doc/krb5-server-ldap-1.10.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/krb5-server-ldap-1.10.3/60kerberos.ldif", "size_i": "23517", "regex": "false"},
+	{"name_s": "/usr/share/doc/krb5-server-ldap-1.10.3/kerberos.ldif", "size_i": "26523", "regex": "false"},
+	{"name_s": "/usr/share/doc/krb5-server-ldap-1.10.3/kerberos.schema", "size_i": "23520", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/kdb5_ldap_util.8.gz", "size_i": "4535", "regex": "false"}
+]

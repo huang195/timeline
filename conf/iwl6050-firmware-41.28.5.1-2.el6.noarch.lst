@@ -1,0 +1,7 @@
+[
+	{"name_s": "/lib/firmware/iwlwifi-6050-4.ucode", "size_i": "463692", "regex": "false"},
+	{"name_s": "/lib/firmware/iwlwifi-6050-5.ucode", "size_i": "469780", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl6050-firmware-41.28.5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl6050-firmware-41.28.5.1/LICENSE", "size_i": "2046", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl6050-firmware-41.28.5.1/README", "size_i": "4789", "regex": "false"}
+]

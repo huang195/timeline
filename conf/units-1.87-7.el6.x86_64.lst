@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/units", "size_i": "49448", "regex": "false"},
+	{"name_s": "/usr/share/doc/units-1.87", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/units-1.87/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/units-1.87/ChangeLog", "size_i": "12571", "regex": "false"},
+	{"name_s": "/usr/share/doc/units-1.87/NEWS", "size_i": "3471", "regex": "false"},
+	{"name_s": "/usr/share/doc/units-1.87/README", "size_i": "6025", "regex": "false"},
+	{"name_s": "/usr/share/info/units.info.gz", "size_i": "13862", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/units.1.gz", "size_i": "12521", "regex": "false"},
+	{"name_s": "/usr/share/units.dat", "size_i": "205486", "regex": "false"}
+]

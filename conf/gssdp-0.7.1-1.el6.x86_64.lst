@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/gssdp-device-sniffer", "size_i": "19816", "regex": "false"},
+	{"name_s": "/usr/lib64/libgssdp-1.0.so.2", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libgssdp-1.0.so.2.0.0", "size_i": "45592", "regex": "false"},
+	{"name_s": "/usr/share/doc/gssdp-0.7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gssdp-0.7.1/AUTHORS", "size_i": "105", "regex": "false"},
+	{"name_s": "/usr/share/doc/gssdp-0.7.1/COPYING", "size_i": "25292", "regex": "false"},
+	{"name_s": "/usr/share/doc/gssdp-0.7.1/NEWS", "size_i": "3849", "regex": "false"},
+	{"name_s": "/usr/share/doc/gssdp-0.7.1/README", "size_i": "93", "regex": "false"},
+	{"name_s": "/usr/share/gssdp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gssdp/gssdp-device-sniffer.ui", "size_i": "27753", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/hal-probe-vmmouse", "size_i": "1448", "regex": "false"},
+	{"name_s": "/usr/bin/vmmouse_detect", "size_i": "5264", "regex": "false"},
+	{"name_s": "/usr/lib64/xorg/modules/input/vmmouse_drv.so", "size_i": "14136", "regex": "false"},
+	{"name_s": "/usr/share/hal/fdi/policy/20thirdparty/11-x11-vmmouse.fdi", "size_i": "487", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/vmmouse_detect.1.gz", "size_i": "1039", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/vmmouse.4.gz", "size_i": "837", "regex": "false"}
+]

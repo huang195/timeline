@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib/libgdmsimplegreeter.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libgdmsimplegreeter.so.1", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libgdmsimplegreeter.so.1.0.0", "size_i": "74276", "regex": "false"}
+]

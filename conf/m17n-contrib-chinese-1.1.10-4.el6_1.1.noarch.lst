@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/m17n/icons/zh-zhuyin.png", "size_i": "2717", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-pinyin-vi.mim", "size_i": "576", "regex": "false"},
+	{"name_s": "/usr/share/m17n/zh-zhuyin.mim", "size_i": "137012", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-fr-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-fr-2.0/README_hyph_fr_FR.txt", "size_i": "568", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_fr_BE.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_fr_CA.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_fr_CH.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_fr_FR.dic", "size_i": "13219", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_fr_LU.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_fr_MC.dic", "size_i": "14", "regex": "false"}
+]

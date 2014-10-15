@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-hil-0.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-hil-0.13/LICENSES-en.txt", "size_i": "138", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-hil-0.13/README_hil_PH.txt", "size_i": "19175", "regex": "false"},
+	{"name_s": "/usr/share/myspell/hil_PH.aff", "size_i": "85", "regex": "false"},
+	{"name_s": "/usr/share/myspell/hil_PH.dic", "size_i": "206047", "regex": "false"}
+]

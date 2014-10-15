@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/sha", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/sha/index.js", "size_i": "3066", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/sha/package.json", "size_i": "389", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-sha-1.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-sha-1.2.1/LICENSE", "size_i": "2326", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-sha-1.2.1/README.md", "size_i": "1728", "regex": "false"}
+]

@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/lib64/babl-0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/babl-0.1/CIE.so", "size_i": "14856", "regex": "false"},
+	{"name_s": "/usr/lib64/babl-0.1/gegl-fixups.so", "size_i": "10728", "regex": "false"},
+	{"name_s": "/usr/lib64/babl-0.1/gggl-lies.so", "size_i": "19928", "regex": "false"},
+	{"name_s": "/usr/lib64/babl-0.1/gggl.so", "size_i": "20184", "regex": "false"},
+	{"name_s": "/usr/lib64/babl-0.1/gimp-8bit.so", "size_i": "10720", "regex": "false"},
+	{"name_s": "/usr/lib64/babl-0.1/naive-CMYK.so", "size_i": "5664", "regex": "false"},
+	{"name_s": "/usr/lib64/babl-0.1/sse-fixups.so", "size_i": "6632", "regex": "false"},
+	{"name_s": "/usr/lib64/libbabl-0.1.so.0", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libbabl-0.1.so.0.101.1", "size_i": "117928", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-0.1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-0.1.2/AUTHORS", "size_i": "1543", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-0.1.2/COPYING", "size_i": "7639", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-0.1.2/ChangeLog", "size_i": "18800", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-0.1.2/NEWS", "size_i": "4020", "regex": "false"},
+	{"name_s": "/usr/share/doc/babl-0.1.2/README", "size_i": "23333", "regex": "false"}
+]

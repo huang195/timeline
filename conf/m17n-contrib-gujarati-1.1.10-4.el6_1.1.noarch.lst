@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/gu-inscript.mim", "size_i": "3566", "regex": "false"},
+	{"name_s": "/usr/share/m17n/gu-phonetic.mim", "size_i": "3189", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/gu-inscript.png", "size_i": "1465", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/gu-phonetic.png", "size_i": "1655", "regex": "false"}
+]

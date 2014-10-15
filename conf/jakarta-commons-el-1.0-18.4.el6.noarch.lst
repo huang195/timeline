@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/jakarta-commons-el-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-el-1.0/LICENSE.txt", "size_i": "2811", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-el-1.0/STATUS.html", "size_i": "2333", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-el-1.0.jar", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-el.jar", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-el-1.0.jar", "size_i": "114313", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-el.jar", "size_i": "26", "regex": "false"}
+]

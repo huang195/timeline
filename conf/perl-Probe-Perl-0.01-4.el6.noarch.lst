@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Probe-Perl-0.01", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Probe-Perl-0.01/Changes", "size_i": "136", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Probe-Perl-0.01/README", "size_i": "1281", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Probe::Perl.3pm.gz", "size_i": "3347", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Probe", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Probe/Perl.pm", "size_i": "6606", "regex": "false"}
+]

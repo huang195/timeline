@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/anthy-azik.el", "size_i": "25706", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/anthy-conf.el", "size_i": "5969", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/anthy-dic.el", "size_i": "4492", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/anthy-isearch.el", "size_i": "3056", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/anthy-kyuri.el", "size_i": "14207", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/anthy.el", "size_i": "26821", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/leim-list.el", "size_i": "212", "regex": "false"}
+]

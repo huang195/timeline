@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/xmlcatalog", "size_i": "15152", "regex": "false"},
+	{"name_s": "/usr/bin/xmllint", "size_i": "58760", "regex": "false"},
+	{"name_s": "/usr/lib64/libxml2.so.2", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libxml2.so.2.7.6", "size_i": "1381472", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxml2-2.7.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxml2-2.7.6/AUTHORS", "size_i": "208", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxml2-2.7.6/ChangeLog.gz", "size_i": "203670", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxml2-2.7.6/Copyright", "size_i": "1498", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxml2-2.7.6/NEWS", "size_i": "95842", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxml2-2.7.6/README", "size_i": "1190", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxml2-2.7.6/TODO", "size_i": "11366", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xmlcatalog.1.gz", "size_i": "2089", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xmllint.1.gz", "size_i": "3868", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libxml.3.gz", "size_i": "848", "regex": "false"}
+]

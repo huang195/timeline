@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/libplpa.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libplpa.so.0.0.1", "size_i": "14168", "regex": "false"},
+	{"name_s": "/usr/share/doc/plpa-libs-1.3.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/plpa-libs-1.3.2/AUTHORS", "size_i": "235", "regex": "false"},
+	{"name_s": "/usr/share/doc/plpa-libs-1.3.2/LICENSE", "size_i": "2690", "regex": "false"},
+	{"name_s": "/usr/share/doc/plpa-libs-1.3.2/NEWS", "size_i": "4255", "regex": "false"},
+	{"name_s": "/usr/share/doc/plpa-libs-1.3.2/README", "size_i": "27715", "regex": "false"},
+	{"name_s": "/usr/share/doc/plpa-libs-1.3.2/VERSION", "size_i": "2116", "regex": "false"}
+]

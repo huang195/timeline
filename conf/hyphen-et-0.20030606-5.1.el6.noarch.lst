@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-et-0.20030606", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-et-0.20030606/COPYRIGHT", "size_i": "2537", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-et-0.20030606/README", "size_i": "1325", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_et_EE.dic", "size_i": "22637", "regex": "false"}
+]

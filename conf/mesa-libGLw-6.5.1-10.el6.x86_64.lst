@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/libGLw.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libGLw.so.1.0.0", "size_i": "25448", "regex": "false"},
+	{"name_s": "/usr/share/doc/mesa-libGLw-6.5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mesa-libGLw-6.5.1/README", "size_i": "2660", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/openobex", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/openobex/obex.h", "size_i": "6874", "regex": "false"},
+	{"name_s": "/usr/include/openobex/obex_const.h", "size_i": "10905", "regex": "false"},
+	{"name_s": "/usr/lib/libopenobex.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/openobex.pc", "size_i": "253", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/mediaprofiles.so", "size_i": "16616", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/totem", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/totem/__init__.py", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/totem/__init__.pyc", "size_i": "147", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/totem/__init__.pyo", "size_i": "147", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/totem/plparser.so", "size_i": "16144", "regex": "false"}
+]

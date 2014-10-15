@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/sgmlspl", "size_i": "9656", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-SGMLSpm-1.03ii", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-SGMLSpm-1.03ii/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-SGMLSpm-1.03ii/README", "size_i": "3201", "regex": "false"},
+	{"name_s": "/usr/share/perl5/SGMLS", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/SGMLS.pm", "size_i": "26807", "regex": "false"},
+	{"name_s": "/usr/share/perl5/SGMLS/Output.pm", "size_i": "5306", "regex": "false"},
+	{"name_s": "/usr/share/perl5/SGMLS/Refs.pm", "size_i": "4975", "regex": "false"},
+	{"name_s": "/usr/share/perl5/skel.pl", "size_i": "4853", "regex": "false"}
+]

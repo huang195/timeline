@@ -1,0 +1,16 @@
+[
+	{"name_s": "/etc/rc.d/init.d/saslauthd", "size_i": "2056", "regex": "false"},
+	{"name_s": "/etc/sysconfig/saslauthd", "size_i": "553", "regex": "false"},
+	{"name_s": "/usr/lib64/sasl2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/sbin/pluginviewer", "size_i": "13000", "regex": "false"},
+	{"name_s": "/usr/sbin/saslauthd", "size_i": "88496", "regex": "false"},
+	{"name_s": "/usr/sbin/testsaslauthd", "size_i": "10976", "regex": "false"},
+	{"name_s": "/usr/share/doc/cyrus-sasl-2.1.23", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cyrus-sasl-2.1.23/LDAP_SASLAUTHD", "size_i": "9400", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pluginviewer.8.gz", "size_i": "1802", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/saslauthd.8.gz", "size_i": "3250", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sasldblistusers2.8.gz", "size_i": "1260", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/saslpasswd2.8.gz", "size_i": "1554", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/testsaslauthd.8.gz", "size_i": "395", "regex": "false"},
+	{"name_s": "/var/run/saslauthd", "size_i": "4096", "regex": "false"}
+]

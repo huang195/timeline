@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/dhcp-common-4.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dhcp-common-4.1.1/LICENSE", "size_i": "967", "regex": "false"},
+	{"name_s": "/usr/share/doc/dhcp-common-4.1.1/README", "size_i": "26713", "regex": "false"},
+	{"name_s": "/usr/share/doc/dhcp-common-4.1.1/RELNOTES", "size_i": "110769", "regex": "false"},
+	{"name_s": "/usr/share/doc/dhcp-common-4.1.1/References.txt", "size_i": "31873", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/dhcp-eval.5.gz", "size_i": "7082", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/dhcp-options.5.gz", "size_i": "20596", "regex": "false"}
+]

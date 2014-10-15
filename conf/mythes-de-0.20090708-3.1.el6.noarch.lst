@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/share/doc/mythes-de-0.20090708", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-de-0.20090708/README_th_de_DE_v2.txt", "size_i": "28876", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_de_AT_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_de_AT_v2.idx", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_de_BE_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_de_BE_v2.idx", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_de_CH_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_de_CH_v2.idx", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_de_DE_v2.dat", "size_i": "5967181", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_de_DE_v2.idx", "size_i": "1098187", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_de_LI_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_de_LI_v2.idx", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_de_LU_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_de_LU_v2.idx", "size_i": "15", "regex": "false"}
+]

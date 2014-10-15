@@ -1,0 +1,21 @@
+[
+	{"name_s": "/etc/rc.d/init.d/netcf-transaction", "size_i": "7271", "regex": "false"},
+	{"name_s": "/usr/lib64/libnetcf.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libnetcf.so.1.4.0", "size_i": "58728", "regex": "false"},
+	{"name_s": "/usr/share/doc/netcf-libs-0.1.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/netcf-libs-0.1.9/AUTHORS", "size_i": "398", "regex": "false"},
+	{"name_s": "/usr/share/doc/netcf-libs-0.1.9/COPYING", "size_i": "26536", "regex": "false"},
+	{"name_s": "/usr/share/doc/netcf-libs-0.1.9/NEWS", "size_i": "4825", "regex": "false"},
+	{"name_s": "/usr/share/netcf", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/netcf/iptables-forward-bridged", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/share/netcf/lenses", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/netcf/lenses/netcf.aug", "size_i": "170", "regex": "false"},
+	{"name_s": "/usr/share/netcf/lenses/sysconfig.aug", "size_i": "2041", "regex": "false"},
+	{"name_s": "/usr/share/netcf/xml", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/netcf/xml/augeas.rng", "size_i": "1213", "regex": "false"},
+	{"name_s": "/usr/share/netcf/xml/initscripts-get.xsl", "size_i": "7870", "regex": "false"},
+	{"name_s": "/usr/share/netcf/xml/initscripts-put.xsl", "size_i": "10112", "regex": "false"},
+	{"name_s": "/usr/share/netcf/xml/interface.rng", "size_i": "14229", "regex": "false"},
+	{"name_s": "/usr/share/netcf/xml/util-get.xsl", "size_i": "1413", "regex": "false"},
+	{"name_s": "/usr/share/netcf/xml/util-put.xsl", "size_i": "2537", "regex": "false"}
+]

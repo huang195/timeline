@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/dwarf.h", "size_i": "24424", "regex": "false"},
+	{"name_s": "/usr/include/elfutils", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/elfutils/elf-knowledge.h", "size_i": "6293", "regex": "false"},
+	{"name_s": "/usr/include/elfutils/libasm.h", "size_i": "7348", "regex": "false"},
+	{"name_s": "/usr/include/elfutils/libdw.h", "size_i": "32597", "regex": "false"},
+	{"name_s": "/usr/include/elfutils/libdwfl.h", "size_i": "26631", "regex": "false"},
+	{"name_s": "/usr/include/elfutils/libebl.h", "size_i": "16312", "regex": "false"},
+	{"name_s": "/usr/include/elfutils/version.h", "size_i": "3176", "regex": "false"},
+	{"name_s": "/usr/lib64/libasm.so", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/lib64/libdw.so", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/lib64/libebl.a", "size_i": "119172", "regex": "false"}
+]

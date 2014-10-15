@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/esc-m", "size_i": "8352", "regex": "false"},
+	{"name_s": "/usr/bin/min12xxw", "size_i": "17648", "regex": "false"},
+	{"name_s": "/usr/share/doc/min12xxw-0.0.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/min12xxw-0.0.9/AUTHORS", "size_i": "394", "regex": "false"},
+	{"name_s": "/usr/share/doc/min12xxw-0.0.9/COPYING", "size_i": "18011", "regex": "false"},
+	{"name_s": "/usr/share/doc/min12xxw-0.0.9/ChangeLog", "size_i": "3225", "regex": "false"},
+	{"name_s": "/usr/share/doc/min12xxw-0.0.9/NEWS", "size_i": "666", "regex": "false"},
+	{"name_s": "/usr/share/doc/min12xxw-0.0.9/README", "size_i": "3340", "regex": "false"},
+	{"name_s": "/usr/share/doc/min12xxw-0.0.9/format.txt", "size_i": "8575", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/min12xxw.1.gz", "size_i": "4273", "regex": "false"}
+]

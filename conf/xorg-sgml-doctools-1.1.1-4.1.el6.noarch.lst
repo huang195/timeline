@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/share/sgml/X11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/sgml/X11/defs.ent", "size_i": "1839", "regex": "false"}
+]

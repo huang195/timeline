@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/celtdec051", "size_i": "14628", "regex": "false"},
+	{"name_s": "/usr/bin/celtenc051", "size_i": "18908", "regex": "false"},
+	{"name_s": "/usr/lib/libcelt051.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libcelt051.so.0.0.0", "size_i": "58180", "regex": "false"},
+	{"name_s": "/usr/share/doc/celt051-0.5.1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/celt051-0.5.1.3/COPYING", "size_i": "1557", "regex": "false"},
+	{"name_s": "/usr/share/doc/celt051-0.5.1.3/README", "size_i": "1358", "regex": "false"},
+	{"name_s": "/usr/share/doc/celt051-0.5.1.3/TODO", "size_i": "662", "regex": "false"}
+]

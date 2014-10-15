@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/babl-0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/babl-0.1/babl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/babl-0.1/babl/babl-macros.h", "size_i": "1102", "regex": "false"},
+	{"name_s": "/usr/include/babl-0.1/babl/babl-types.h", "size_i": "1732", "regex": "false"},
+	{"name_s": "/usr/include/babl-0.1/babl/babl-version.h", "size_i": "1414", "regex": "false"},
+	{"name_s": "/usr/include/babl-0.1/babl/babl.h", "size_i": "6471", "regex": "false"},
+	{"name_s": "/usr/lib/libbabl-0.1.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/babl.pc", "size_i": "228", "regex": "false"}
+]

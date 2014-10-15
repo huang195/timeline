@@ -1,0 +1,17 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-culmus-david-clm.conf", "size_i": "57", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-culmus-david-clm.conf", "size_i": "1336", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DavidCLM-Bold.afm", "size_i": "10430", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DavidCLM-Bold.pfa", "size_i": "63778", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DavidCLM-Bold.ttf", "size_i": "23720", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DavidCLM-BoldItalic.afm", "size_i": "12818", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DavidCLM-BoldItalic.pfa", "size_i": "60541", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DavidCLM-BoldItalic.ttf", "size_i": "25492", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DavidCLM-Medium.afm", "size_i": "10436", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DavidCLM-Medium.pfa", "size_i": "66834", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DavidCLM-Medium.ttf", "size_i": "24008", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DavidCLM-MediumItalic.afm", "size_i": "12822", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DavidCLM-MediumItalic.pfa", "size_i": "61463", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/DavidCLM-MediumItalic.ttf", "size_i": "25968", "regex": "false"}
+]

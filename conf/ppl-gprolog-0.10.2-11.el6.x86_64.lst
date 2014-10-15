@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/ppl_gprolog", "size_i": "5075200", "regex": "false"},
+	{"name_s": "/usr/lib64/ppl/libppl_gprolog.so", "size_i": "4594208", "regex": "false"},
+	{"name_s": "/usr/lib64/ppl/ppl_gprolog.pl", "size_i": "113129", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-gprolog-0.10.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-gprolog-0.10.2/README.gprolog", "size_i": "2144", "regex": "false"}
+]

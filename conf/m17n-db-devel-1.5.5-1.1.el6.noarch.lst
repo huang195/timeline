@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/m17n-db", "size_i": "3720", "regex": "false"},
+	{"name_s": "/usr/share/pkgconfig/m17n-db.pc", "size_i": "135", "regex": "false"}
+]

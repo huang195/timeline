@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib/libgiomm-2.4.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libgiomm-2.4.so.1.2.0", "size_i": "477016", "regex": "false"},
+	{"name_s": "/usr/lib/libglibmm-2.4.so.1", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libglibmm-2.4.so.1.2.0", "size_i": "340020", "regex": "false"},
+	{"name_s": "/usr/lib/libglibmm_generate_extra_defs-2.4.so.1", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/lib/libglibmm_generate_extra_defs-2.4.so.1.2.0", "size_i": "16692", "regex": "false"},
+	{"name_s": "/usr/share/doc/glibmm24-2.22.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/glibmm24-2.22.1/AUTHORS", "size_i": "667", "regex": "false"},
+	{"name_s": "/usr/share/doc/glibmm24-2.22.1/COPYING", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/glibmm24-2.22.1/ChangeLog", "size_i": "212746", "regex": "false"},
+	{"name_s": "/usr/share/doc/glibmm24-2.22.1/NEWS", "size_i": "36999", "regex": "false"},
+	{"name_s": "/usr/share/doc/glibmm24-2.22.1/README", "size_i": "96", "regex": "false"}
+]

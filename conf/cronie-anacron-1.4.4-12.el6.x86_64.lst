@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/anacrontab", "size_i": "541", "regex": "false"},
+	{"name_s": "/etc/cron.hourly/0anacron", "size_i": "409", "regex": "false"},
+	{"name_s": "/usr/sbin/anacron", "size_i": "38968", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/anacrontab.5.gz", "size_i": "1505", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/anacron.8.gz", "size_i": "2583", "regex": "false"},
+	{"name_s": "/var/spool/anacron", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/spool/anacron/cron.daily", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/spool/anacron/cron.monthly", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/spool/anacron/cron.weekly", "size_i": "0", "regex": "false"}
+]

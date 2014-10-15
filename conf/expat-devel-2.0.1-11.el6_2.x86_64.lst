@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/include/expat.h", "size_i": "40696", "regex": "false"},
+	{"name_s": "/usr/include/expat_external.h", "size_i": "3364", "regex": "false"},
+	{"name_s": "/usr/lib64/libexpat.a", "size_i": "311096", "regex": "false"},
+	{"name_s": "/usr/lib64/libexpat.so", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-devel-2.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-devel-2.0.1/Changes", "size_i": "9204", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-devel-2.0.1/doc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-devel-2.0.1/doc/expat.png", "size_i": "1027", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-devel-2.0.1/doc/reference.html", "size_i": "92697", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-devel-2.0.1/doc/style.css", "size_i": "1340", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-devel-2.0.1/doc/valid-xhtml10.png", "size_i": "2368", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-devel-2.0.1/doc/xmlwf.1", "size_i": "7895", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-devel-2.0.1/doc/xmlwf.sgml", "size_i": "13884", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-devel-2.0.1/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-devel-2.0.1/examples/elements.c", "size_i": "1617", "regex": "false"},
+	{"name_s": "/usr/share/doc/expat-devel-2.0.1/examples/outline.c", "size_i": "2415", "regex": "false"}
+]

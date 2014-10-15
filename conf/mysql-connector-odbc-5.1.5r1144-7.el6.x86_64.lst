@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libmyodbc5-5.1.5.so", "size_i": "283400", "regex": "false"},
+	{"name_s": "/usr/lib64/libmyodbc5.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-odbc-5.1.5r1144", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-odbc-5.1.5r1144/ChangeLog", "size_i": "37737", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-odbc-5.1.5r1144/LICENSE.exceptions", "size_i": "5413", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-odbc-5.1.5r1144/LICENSE.gpl", "size_i": "19071", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-odbc-5.1.5r1144/README", "size_i": "4383", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-odbc-5.1.5r1144/README.debug", "size_i": "2996", "regex": "false"}
+]

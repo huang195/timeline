@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/fonts/thai-scalable", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Waree-Bold.ttf", "size_i": "80588", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Waree-BoldOblique.ttf", "size_i": "89448", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Waree-Oblique.ttf", "size_i": "91432", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Waree.ttf", "size_i": "80852", "regex": "false"}
+]

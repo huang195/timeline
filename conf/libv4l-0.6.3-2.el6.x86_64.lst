@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/libv4l", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libv4l/ov511-decomp", "size_i": "15320", "regex": "false"},
+	{"name_s": "/usr/lib64/libv4l/ov518-decomp", "size_i": "21728", "regex": "false"},
+	{"name_s": "/usr/lib64/libv4l/v4l1compat.so", "size_i": "5296", "regex": "false"},
+	{"name_s": "/usr/lib64/libv4l/v4l2convert.so", "size_i": "5864", "regex": "false"},
+	{"name_s": "/usr/lib64/libv4l1.so.0", "size_i": "21032", "regex": "false"},
+	{"name_s": "/usr/lib64/libv4l2.so.0", "size_i": "44136", "regex": "false"},
+	{"name_s": "/usr/lib64/libv4lconvert.so.0", "size_i": "119440", "regex": "false"},
+	{"name_s": "/usr/share/doc/libv4l-0.6.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libv4l-0.6.3/COPYING.LIB", "size_i": "26431", "regex": "false"},
+	{"name_s": "/usr/share/doc/libv4l-0.6.3/ChangeLog", "size_i": "20173", "regex": "false"},
+	{"name_s": "/usr/share/doc/libv4l-0.6.3/README", "size_i": "7564", "regex": "false"},
+	{"name_s": "/usr/share/doc/libv4l-0.6.3/TODO", "size_i": "629", "regex": "false"}
+]

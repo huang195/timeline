@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/febootstrap-supermin-helper", "size_i": "865104", "regex": "false"},
+	{"name_s": "/usr/share/doc/febootstrap-supermin-helper-3.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/febootstrap-supermin-helper-3.21/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/febootstrap-supermin-helper.8.gz", "size_i": "4345", "regex": "false"}
+]

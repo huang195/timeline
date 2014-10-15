@@ -1,0 +1,7 @@
+[
+	{"name_s": "/sbin/rfkill", "size_i": "8840", "regex": "false"},
+	{"name_s": "/usr/share/doc/rfkill-0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rfkill-0.3/COPYING", "size_i": "863", "regex": "false"},
+	{"name_s": "/usr/share/doc/rfkill-0.3/README", "size_i": "390", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rfkill.1.gz", "size_i": "635", "regex": "false"}
+]

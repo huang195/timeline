@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/sbin/diskdevstat", "size_i": "4249", "regex": "false"},
+	{"name_s": "/usr/sbin/netdevstat", "size_i": "4214", "regex": "false"},
+	{"name_s": "/usr/sbin/scomes", "size_i": "6002", "regex": "false"},
+	{"name_s": "/usr/sbin/varnetload", "size_i": "2626", "regex": "false"},
+	{"name_s": "/usr/share/doc/tuned-utils-0.2.19", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/tuned-utils-0.2.19/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/tuned-utils-0.2.19/README.scomes", "size_i": "2264", "regex": "false"},
+	{"name_s": "/usr/share/doc/tuned-utils-0.2.19/README.utils", "size_i": "7393", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/diskdevstat.8.gz", "size_i": "462", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/netdevstat.8.gz", "size_i": "466", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/scomes.8.gz", "size_i": "532", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/varnetload.8.gz", "size_i": "637", "regex": "false"}
+]

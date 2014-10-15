@@ -1,0 +1,6 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/Storable.pm", "size_i": "41380", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/auto/Storable", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/auto/Storable/Storable.so", "size_i": "81576", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Storable.3pm.gz", "size_i": "14400", "regex": "false"}
+]

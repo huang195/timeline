@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/libexec/ck-collect-session-info", "size_i": "17712", "regex": "false"},
+	{"name_s": "/usr/libexec/ck-get-x11-display-device", "size_i": "18232", "regex": "false"},
+	{"name_s": "/usr/libexec/ck-get-x11-server-pid", "size_i": "8040", "regex": "false"}
+]

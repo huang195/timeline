@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libsvn_auth_kwallet-1.so.0", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib64/libsvn_auth_kwallet-1.so.0.0.0", "size_i": "15632", "regex": "false"}
+]

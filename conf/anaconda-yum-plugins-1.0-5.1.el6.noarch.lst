@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/blacklist.conf", "size_i": "17", "regex": "false"},
+	{"name_s": "/etc/yum/pluginconf.d/whiteout.conf", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/blacklist.py", "size_i": "2055", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/whiteout.py", "size_i": "1772", "regex": "false"},
+	{"name_s": "/usr/share/doc/anaconda-yum-plugins-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/anaconda-yum-plugins-1.0/COPYING", "size_i": "17982", "regex": "false"}
+]

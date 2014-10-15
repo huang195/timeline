@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/dapltest", "size_i": "150808", "regex": "false"},
+	{"name_s": "/usr/bin/dtest", "size_i": "39952", "regex": "false"},
+	{"name_s": "/usr/bin/dtestcm", "size_i": "23480", "regex": "false"},
+	{"name_s": "/usr/bin/dtestx", "size_i": "31696", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dapltest.1.gz", "size_i": "3841", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dtest.1.gz", "size_i": "907", "regex": "false"}
+]

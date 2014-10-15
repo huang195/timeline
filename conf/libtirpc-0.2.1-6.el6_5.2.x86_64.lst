@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/netconfig", "size_i": "767", "regex": "false"},
+	{"name_s": "/lib64/libtirpc.so.1", "size_i": "18", "regex": "false"},
+	{"name_s": "/lib64/libtirpc.so.1.0.10", "size_i": "162016", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtirpc-0.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtirpc-0.2.1/AUTHORS", "size_i": "93", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtirpc-0.2.1/ChangeLog", "size_i": "7360", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtirpc-0.2.1/NEWS", "size_i": "97", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtirpc-0.2.1/README", "size_i": "2186", "regex": "false"}
+]

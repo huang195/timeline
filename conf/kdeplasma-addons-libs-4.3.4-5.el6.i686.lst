@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib/libconversion.so.4", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libconversion.so.4.3.0", "size_i": "143396", "regex": "false"},
+	{"name_s": "/usr/lib/liblancelot.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/liblancelot.so.0.7.0", "size_i": "416624", "regex": "false"},
+	{"name_s": "/usr/lib/libocsclient.so.4", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libocsclient.so.4.3.0", "size_i": "143264", "regex": "false"},
+	{"name_s": "/usr/lib/libplasmacomicprovidercore.so.1", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/lib/libplasmacomicprovidercore.so.1.0.0", "size_i": "17332", "regex": "false"},
+	{"name_s": "/usr/lib/libplasmapotdprovidercore.so.1", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib/libplasmapotdprovidercore.so.1.0.0", "size_i": "6516", "regex": "false"},
+	{"name_s": "/usr/lib/libplasmaweather.so.4", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib/libplasmaweather.so.4.3.0", "size_i": "94836", "regex": "false"}
+]

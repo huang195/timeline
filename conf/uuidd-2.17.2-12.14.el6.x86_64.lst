@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/rc.d/init.d/uuidd", "size_i": "1887", "regex": "false"},
+	{"name_s": "/usr/sbin/uuidd", "size_i": "15208", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/uuidd.8.gz", "size_i": "984", "regex": "false"},
+	{"name_s": "/var/lib/libuuid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/run/uuidd", "size_i": "4096", "regex": "false"}
+]

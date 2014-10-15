@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/rc.d/init.d/sensord", "size_i": "1223", "regex": "false"},
+	{"name_s": "/etc/sysconfig/sensord", "size_i": "358", "regex": "false"},
+	{"name_s": "/usr/sbin/sensord", "size_i": "29352", "regex": "false"},
+	{"name_s": "/usr/share/doc/lm_sensors-sensord-3.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lm_sensors-sensord-3.1.1/README", "size_i": "367", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sensord.8.gz", "size_i": "4868", "regex": "false"}
+]

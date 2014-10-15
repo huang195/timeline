@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-IO-String-1.08", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-IO-String-1.08/Changes", "size_i": "2516", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-IO-String-1.08/README", "size_i": "527", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/IO::String.3pm.gz", "size_i": "3588", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/IO", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/IO/String.pm", "size_i": "11461", "regex": "false"}
+]

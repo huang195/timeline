@@ -1,0 +1,4 @@
+[
+	{"name_s": "/lib64/libdbus-1.so.3", "size_i": "18", "regex": "false"},
+	{"name_s": "/lib64/libdbus-1.so.3.4.0", "size_i": "265728", "regex": "false"}
+]

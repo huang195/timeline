@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/report-cli", "size_i": "25384", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/report-cli.1.gz", "size_i": "975", "regex": "false"}
+]

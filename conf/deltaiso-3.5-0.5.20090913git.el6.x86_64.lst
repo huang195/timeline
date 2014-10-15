@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/applydeltaiso", "size_i": "31736", "regex": "false"},
+	{"name_s": "/usr/bin/fragiso", "size_i": "45432", "regex": "false"},
+	{"name_s": "/usr/bin/makedeltaiso", "size_i": "49376", "regex": "false"},
+	{"name_s": "/usr/share/doc/deltaiso-3.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/deltaiso-3.5/LICENSE.BSD", "size_i": "1344", "regex": "false"},
+	{"name_s": "/usr/share/doc/deltaiso-3.5/README", "size_i": "5457", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/applydeltaiso.8.gz", "size_i": "287", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/makedeltaiso.8.gz", "size_i": "259", "regex": "false"}
+]

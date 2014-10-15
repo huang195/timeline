@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/logrotate.d/trace-cmd", "size_i": "118", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/trace-cmd", "size_i": "3059", "regex": "false"},
+	{"name_s": "/etc/sysconfig/trace-cmd.config", "size_i": "195", "regex": "false"}
+]

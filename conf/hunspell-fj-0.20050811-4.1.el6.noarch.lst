@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-fj-0.20050811", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-fj-0.20050811/README_fj_FJ.txt", "size_i": "26157", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fj_FJ.aff", "size_i": "11625", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fj_FJ.dic", "size_i": "228955", "regex": "false"}
+]

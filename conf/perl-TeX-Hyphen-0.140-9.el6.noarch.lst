@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/share/doc/perl-TeX-Hyphen-0.140", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-TeX-Hyphen-0.140/Changes", "size_i": "1565", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-TeX-Hyphen-0.140/README", "size_i": "1085", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/TeX::Hyphen.3pm.gz", "size_i": "3604", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/TeX::Hyphen::czech.3pm.gz", "size_i": "2486", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/TeX::Hyphen::german.3pm.gz", "size_i": "1861", "regex": "false"},
+	{"name_s": "/usr/share/perl5/TeX", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/TeX/Hyphen", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/TeX/Hyphen.pm", "size_i": "37360", "regex": "false"},
+	{"name_s": "/usr/share/perl5/TeX/Hyphen/czech.pm", "size_i": "3851", "regex": "false"},
+	{"name_s": "/usr/share/perl5/TeX/Hyphen/german.pm", "size_i": "2571", "regex": "false"}
+]

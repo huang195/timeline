@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/perl-String-Format-1.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-String-Format-1.15/Changes", "size_i": "989", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/String::Format.3pm.gz", "size_i": "3680", "regex": "false"},
+	{"name_s": "/usr/share/perl5/String", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/String/Format.pm", "size_i": "7446", "regex": "false"}
+]

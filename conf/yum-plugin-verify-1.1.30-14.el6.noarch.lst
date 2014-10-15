@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/verify.conf", "size_i": "659", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/verify.py", "size_i": "16069", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/verify.pyc", "size_i": "14182", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/verify.pyo", "size_i": "14182", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-verify-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-verify-1.1.30/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/yum-verify.1.gz", "size_i": "1175", "regex": "false"}
+]

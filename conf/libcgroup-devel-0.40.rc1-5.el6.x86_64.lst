@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/include/libcgroup.h", "size_i": "1459", "regex": "false"},
+	{"name_s": "/usr/include/libcgroup/config.h", "size_i": "3579", "regex": "false"},
+	{"name_s": "/usr/include/libcgroup/error.h", "size_i": "2639", "regex": "false"},
+	{"name_s": "/usr/include/libcgroup/groups.h", "size_i": "19960", "regex": "false"},
+	{"name_s": "/usr/include/libcgroup/init.h", "size_i": "2110", "regex": "false"},
+	{"name_s": "/usr/include/libcgroup/iterators.h", "size_i": "13466", "regex": "false"},
+	{"name_s": "/usr/include/libcgroup/log.h", "size_i": "4584", "regex": "false"},
+	{"name_s": "/usr/include/libcgroup/tasks.h", "size_i": "6671", "regex": "false"},
+	{"name_s": "/usr/lib64/libcgroup.so", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libcgroup.pc", "size_i": "206", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcgroup-devel-0.40.rc1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcgroup-devel-0.40.rc1/COPYING", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcgroup-devel-0.40.rc1/INSTALL", "size_i": "9512", "regex": "false"}
+]

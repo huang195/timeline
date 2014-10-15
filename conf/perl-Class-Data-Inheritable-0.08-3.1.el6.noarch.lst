@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/man/man3/Class::Data::Inheritable.3pm.gz", "size_i": "3213", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Class", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Class/Data", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Class/Data/Inheritable.pm", "size_i": "4067", "regex": "false"}
+]

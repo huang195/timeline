@@ -1,0 +1,6 @@
+[
+	{"name_s": "/opt/rh/php54/root/etc/php.d/bcmath.ini", "size_i": "53", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/bcmath.so", "size_i": "29264", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-bcmath-5.4.16", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-bcmath-5.4.16/libbcmath_COPYING", "size_i": "26532", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-culmus-ellinia-clm.conf", "size_i": "59", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-culmus-ellinia-clm.conf", "size_i": "621", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/ElliniaCLM-Bold.afm", "size_i": "3858", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/ElliniaCLM-Bold.pfa", "size_i": "19777", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/ElliniaCLM-BoldItalic.afm", "size_i": "3734", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/ElliniaCLM-BoldItalic.pfa", "size_i": "19093", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/ElliniaCLM-Light.afm", "size_i": "4274", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/ElliniaCLM-Light.pfa", "size_i": "22100", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/ElliniaCLM-LightItalic.afm", "size_i": "3888", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/ElliniaCLM-LightItalic.pfa", "size_i": "19192", "regex": "false"}
+]

@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/curl", "size_i": "119280", "regex": "false"},
+	{"name_s": "/usr/share/doc/curl-7.19.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/curl-7.19.7/BUGS", "size_i": "3504", "regex": "false"},
+	{"name_s": "/usr/share/doc/curl-7.19.7/CHANGES", "size_i": "70828", "regex": "false"},
+	{"name_s": "/usr/share/doc/curl-7.19.7/COPYING", "size_i": "1044", "regex": "false"},
+	{"name_s": "/usr/share/doc/curl-7.19.7/FAQ", "size_i": "53101", "regex": "false"},
+	{"name_s": "/usr/share/doc/curl-7.19.7/FEATURES", "size_i": "3844", "regex": "false"},
+	{"name_s": "/usr/share/doc/curl-7.19.7/MANUAL", "size_i": "35657", "regex": "false"},
+	{"name_s": "/usr/share/doc/curl-7.19.7/README", "size_i": "1734", "regex": "false"},
+	{"name_s": "/usr/share/doc/curl-7.19.7/RESOURCES", "size_i": "2137", "regex": "false"},
+	{"name_s": "/usr/share/doc/curl-7.19.7/TODO", "size_i": "18573", "regex": "false"},
+	{"name_s": "/usr/share/doc/curl-7.19.7/TheArtOfHttpScripting", "size_i": "20765", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/curl.1.gz", "size_i": "24928", "regex": "false"}
+]

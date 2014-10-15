@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/gpod-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gpod-1.0/gpod", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gpod-1.0/gpod/itdb.h", "size_i": "78720", "regex": "false"},
+	{"name_s": "/usr/lib/libgpod.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libgpod-1.0.pc", "size_i": "287", "regex": "false"}
+]

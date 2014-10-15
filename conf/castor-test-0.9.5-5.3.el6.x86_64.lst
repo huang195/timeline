@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/gcj/castor", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/castor/castor-tests-0.9.5.jar.db", "size_i": "12288", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/castor/castor-tests-0.9.5.jar.so", "size_i": "587536", "regex": "false"},
+	{"name_s": "/usr/share/java/castor-tests-0.9.5.jar", "size_i": "137897", "regex": "false"},
+	{"name_s": "/usr/share/java/castor-tests.jar", "size_i": "22", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/libreport/events/report_Kerneloops.xml", "size_i": "7792", "regex": "false"},
+	{"name_s": "/usr/bin/reporter-kerneloops", "size_i": "9800", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/reporter-kerneloops.1.gz", "size_i": "1128", "regex": "false"}
+]

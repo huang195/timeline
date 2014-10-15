@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/include/lzma", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/lzma.h", "size_i": "9306", "regex": "false"},
+	{"name_s": "/usr/include/lzma/base.h", "size_i": "22114", "regex": "false"},
+	{"name_s": "/usr/include/lzma/bcj.h", "size_i": "2627", "regex": "false"},
+	{"name_s": "/usr/include/lzma/block.h", "size_i": "20136", "regex": "false"},
+	{"name_s": "/usr/include/lzma/check.h", "size_i": "4256", "regex": "false"},
+	{"name_s": "/usr/include/lzma/container.h", "size_i": "16341", "regex": "false"},
+	{"name_s": "/usr/include/lzma/delta.h", "size_i": "1865", "regex": "false"},
+	{"name_s": "/usr/include/lzma/filter.h", "size_i": "13735", "regex": "false"},
+	{"name_s": "/usr/include/lzma/index.h", "size_i": "14418", "regex": "false"},
+	{"name_s": "/usr/include/lzma/index_hash.h", "size_i": "3903", "regex": "false"},
+	{"name_s": "/usr/include/lzma/lzma.h", "size_i": "14043", "regex": "false"},
+	{"name_s": "/usr/include/lzma/stream_flags.h", "size_i": "8357", "regex": "false"},
+	{"name_s": "/usr/include/lzma/subblock.h", "size_i": "6646", "regex": "false"},
+	{"name_s": "/usr/include/lzma/version.h", "size_i": "3498", "regex": "false"},
+	{"name_s": "/usr/include/lzma/vli.h", "size_i": "6600", "regex": "false"},
+	{"name_s": "/usr/lib/liblzma.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/liblzma.pc", "size_i": "386", "regex": "false"}
+]

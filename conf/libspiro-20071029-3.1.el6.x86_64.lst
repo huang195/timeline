@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libspiro.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libspiro.so.0.0.1", "size_i": "16984", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspiro-20071029", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspiro-20071029/README", "size_i": "471", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspiro-20071029/README-RaphLevien", "size_i": "3360", "regex": "false"},
+	{"name_s": "/usr/share/doc/libspiro-20071029/gpl.txt", "size_i": "17987", "regex": "false"}
+]

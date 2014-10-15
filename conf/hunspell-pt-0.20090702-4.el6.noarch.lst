@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-pt-0.20090702", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-pt-0.20090702/COPYING", "size_i": "70247", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-pt-0.20090702/README_pt_BR.TXT", "size_i": "8274", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-pt-0.20090702/README_pt_PT.txt", "size_i": "1150", "regex": "false"},
+	{"name_s": "/usr/share/myspell/pt_BR.aff", "size_i": "926806", "regex": "false"},
+	{"name_s": "/usr/share/myspell/pt_BR.dic", "size_i": "4557090", "regex": "false"},
+	{"name_s": "/usr/share/myspell/pt_PT.aff", "size_i": "82347", "regex": "false"},
+	{"name_s": "/usr/share/myspell/pt_PT.dic", "size_i": "1422224", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/librelp.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/librelp.so.0.0.0", "size_i": "40720", "regex": "false"},
+	{"name_s": "/usr/share/doc/librelp-0.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/librelp-0.1.1/AUTHORS", "size_i": "54", "regex": "false"},
+	{"name_s": "/usr/share/doc/librelp-0.1.1/COPYING", "size_i": "35443", "regex": "false"},
+	{"name_s": "/usr/share/doc/librelp-0.1.1/NEWS", "size_i": "63", "regex": "false"},
+	{"name_s": "/usr/share/doc/librelp-0.1.1/README", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/share/doc/librelp-0.1.1/relp.html", "size_i": "19108", "regex": "false"}
+]

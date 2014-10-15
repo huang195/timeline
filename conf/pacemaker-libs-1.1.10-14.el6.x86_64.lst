@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/lib64/libcib.so.3", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libcib.so.3.0.1", "size_i": "114008", "regex": "false"},
+	{"name_s": "/usr/lib64/libcrmcommon.so.3", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libcrmcommon.so.3.2.0", "size_i": "263640", "regex": "false"},
+	{"name_s": "/usr/lib64/libcrmservice.so.1", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libcrmservice.so.1.0.0", "size_i": "33320", "regex": "false"},
+	{"name_s": "/usr/lib64/liblrmd.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/liblrmd.so.1.1.1", "size_i": "50576", "regex": "false"},
+	{"name_s": "/usr/lib64/libpe_rules.so.2", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libpe_rules.so.2.0.2", "size_i": "42000", "regex": "false"},
+	{"name_s": "/usr/lib64/libpe_status.so.4", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libpe_status.so.4.2.0", "size_i": "211952", "regex": "false"},
+	{"name_s": "/usr/lib64/libpengine.so.4", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libpengine.so.4.2.0", "size_i": "332848", "regex": "false"},
+	{"name_s": "/usr/lib64/libstonithd.so.2", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libstonithd.so.2.1.0", "size_i": "58520", "regex": "false"},
+	{"name_s": "/usr/lib64/libtransitioner.so.2", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libtransitioner.so.2.0.1", "size_i": "32176", "regex": "false"},
+	{"name_s": "/usr/share/doc/pacemaker-libs-1.1.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pacemaker-libs-1.1.10/AUTHORS", "size_i": "1102", "regex": "false"},
+	{"name_s": "/usr/share/doc/pacemaker-libs-1.1.10/COPYING.LIB", "size_i": "26434", "regex": "false"}
+]

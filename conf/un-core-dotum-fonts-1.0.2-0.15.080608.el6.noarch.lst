@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-un-core-dotum.conf", "size_i": "56", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-un-core-dotum.conf", "size_i": "471", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core/UnDotum.ttf", "size_i": "3656228", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core/UnDotumBold.ttf", "size_i": "4093740", "regex": "false"}
+]

@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/include/X11/extensions/dmxext.h", "size_i": "6449", "regex": "false"},
+	{"name_s": "/usr/lib64/libdmx.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/dmx.pc", "size_i": "220", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMX.3.gz", "size_i": "1316", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXAddInput.3.gz", "size_i": "1794", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXAddScreen.3.gz", "size_i": "1495", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXChangeDesktopAttributes.3.gz", "size_i": "1567", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXChangeScreensAttributes.3.gz", "size_i": "1656", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXForceWindowCreation.3.gz", "size_i": "1051", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXGetDesktopAttributes.3.gz", "size_i": "1221", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXGetInputAttributes.3.gz", "size_i": "1791", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXGetInputCount.3.gz", "size_i": "1065", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXGetScreenAttributes.3.gz", "size_i": "1630", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXGetScreenCount.3.gz", "size_i": "1319", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXGetWindowAttributes.3.gz", "size_i": "2045", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXQueryExtension.3.gz", "size_i": "1049", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXQueryVersion.3.gz", "size_i": "1481", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXRemoveInput.3.gz", "size_i": "1093", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXRemoveScreen.3.gz", "size_i": "1083", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DMXSync.3.gz", "size_i": "1051", "regex": "false"}
+]

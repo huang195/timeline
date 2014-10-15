@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/dumpsexp.exe", "size_i": "85025", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/hmac256.exe", "size_i": "88074", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/libgcrypt-11.dll", "size_i": "1851052", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/libgcrypt-config", "size_i": "3876", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/gcrypt-module.h", "size_i": "7184", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/gcrypt.h", "size_i": "70525", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libgcrypt.dll.a", "size_i": "120360", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libgcrypt.la", "size_i": "913", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/share/aclocal/libgcrypt.m4", "size_i": "4205", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-libgcrypt-1.4.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-libgcrypt-1.4.4/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-libgcrypt-1.4.4/COPYING.LIB", "size_i": "26536", "regex": "false"}
+]

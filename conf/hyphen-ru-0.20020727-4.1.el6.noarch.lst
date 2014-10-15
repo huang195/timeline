@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-ru-0.20020727", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-ru-0.20020727/README_hyph_ru_RU.txt", "size_i": "367", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_ru_RU.dic", "size_i": "22071", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_ru_UA.dic", "size_i": "14", "regex": "false"}
+]

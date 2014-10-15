@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/readline5/libhistory.a", "size_i": "53770", "regex": "false"},
+	{"name_s": "/usr/lib64/readline5/libreadline.a", "size_i": "476288", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/dapltest1", "size_i": "150808", "regex": "false"},
+	{"name_s": "/usr/bin/dtest1", "size_i": "36504", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dapltest1.1.gz", "size_i": "3841", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dtest1.1.gz", "size_i": "907", "regex": "false"}
+]

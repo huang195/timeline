@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/icons/si-samanala.png", "size_i": "2287", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/si-wijesekera.png", "size_i": "2299", "regex": "false"},
+	{"name_s": "/usr/share/m17n/si-samanala.mim", "size_i": "3417", "regex": "false"},
+	{"name_s": "/usr/share/m17n/si-wijesekera-preedit.mim", "size_i": "6252", "regex": "false"}
+]

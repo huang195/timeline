@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/httpd/conf.d/ssl.conf", "size_i": "9473", "regex": "false"},
+	{"name_s": "/usr/lib64/httpd/modules/mod_ssl.so", "size_i": "177792", "regex": "false"},
+	{"name_s": "/var/cache/mod_ssl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/cache/mod_ssl/scache.dir", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/cache/mod_ssl/scache.pag", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/cache/mod_ssl/scache.sem", "size_i": "0", "regex": "false"}
+]

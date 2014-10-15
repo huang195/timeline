@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/libgsf-1.so.114", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libgsf-1.so.114.0.15", "size_i": "258024", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgsf-1.14.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgsf-1.14.15/AUTHORS", "size_i": "95", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgsf-1.14.15/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgsf-1.14.15/COPYING.LIB", "size_i": "26431", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgsf-1.14.15/README", "size_i": "1658", "regex": "false"},
+	{"name_s": "/usr/share/locale/es/LC_MESSAGES/libgsf.mo", "size_i": "1933", "regex": "false"},
+	{"name_s": "/usr/share/locale/nb/LC_MESSAGES/libgsf.mo", "size_i": "558", "regex": "false"},
+	{"name_s": "/usr/share/locale/oc/LC_MESSAGES/libgsf.mo", "size_i": "477", "regex": "false"},
+	{"name_s": "/usr/share/locale/sv/LC_MESSAGES/libgsf.mo", "size_i": "14955", "regex": "false"},
+	{"name_s": "/usr/share/locale/zh_HK/LC_MESSAGES/libgsf.mo", "size_i": "12138", "regex": "false"},
+	{"name_s": "/usr/share/locale/zh_TW/LC_MESSAGES/libgsf.mo", "size_i": "12135", "regex": "false"}
+]

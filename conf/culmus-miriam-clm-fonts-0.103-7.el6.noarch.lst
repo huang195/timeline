@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-culmus-miriam-clm.conf", "size_i": "58", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-culmus-miriam-clm.conf", "size_i": "725", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/MiriamCLM-Bold.afm", "size_i": "3735", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/MiriamCLM-Bold.pfa", "size_i": "28954", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/MiriamCLM-Book.afm", "size_i": "3741", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/MiriamCLM-Book.pfa", "size_i": "39556", "regex": "false"}
+]

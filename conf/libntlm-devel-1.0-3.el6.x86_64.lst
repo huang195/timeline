@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/ntlm.h", "size_i": "3592", "regex": "false"},
+	{"name_s": "/usr/lib64/libntlm.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libntlm.pc", "size_i": "490", "regex": "false"},
+	{"name_s": "/usr/share/doc/libntlm-devel-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libntlm-devel-1.0/COPYING", "size_i": "26432", "regex": "false"}
+]

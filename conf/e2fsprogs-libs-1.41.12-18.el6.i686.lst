@@ -1,0 +1,8 @@
+[
+	{"name_s": "/lib/libe2p.so.2", "size_i": "13", "regex": "false"},
+	{"name_s": "/lib/libe2p.so.2.3", "size_i": "26836", "regex": "false"},
+	{"name_s": "/lib/libext2fs.so.2", "size_i": "16", "regex": "false"},
+	{"name_s": "/lib/libext2fs.so.2.4", "size_i": "211928", "regex": "false"},
+	{"name_s": "/usr/share/doc/e2fsprogs-libs-1.41.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/e2fsprogs-libs-1.41.12/COPYING", "size_i": "44569", "regex": "false"}
+]

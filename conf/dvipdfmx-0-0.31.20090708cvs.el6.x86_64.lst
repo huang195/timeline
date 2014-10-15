@@ -1,0 +1,18 @@
+[
+	{"name_s": "/etc/texmf/dvipdfmx", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/texmf/dvipdfmx/cid-x.map", "size_i": "172", "regex": "false"},
+	{"name_s": "/usr/bin/dvipdfmx", "size_i": "608080", "regex": "false"},
+	{"name_s": "/usr/bin/ebbx", "size_i": "8", "regex": "false"},
+	{"name_s": "/usr/bin/extractbb", "size_i": "8", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvipdfmx-0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvipdfmx-0/AUTHORS", "size_i": "131", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvipdfmx-0/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvipdfmx-0/ChangeLog", "size_i": "78356", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvipdfmx-0/README", "size_i": "16472", "regex": "false"},
+	{"name_s": "/usr/share/texmf/dvipdfmx", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/texmf/dvipdfmx/dvipdfmx.cfg", "size_i": "7131", "regex": "false"},
+	{"name_s": "/usr/share/texmf/fonts/cmap/dvipdfmx/EUC-UCS2", "size_i": "101740", "regex": "false"},
+	{"name_s": "/usr/share/texmf/fonts/map/dvipdfmx/cid-x.map", "size_i": "4385", "regex": "false"},
+	{"name_s": "/usr/share/texmf/fonts/map/glyphlist/glyphlist.txt", "size_i": "78200", "regex": "false"},
+	{"name_s": "/usr/share/texmf/fonts/map/glyphlist/pdfglyphlist.txt", "size_i": "5117", "regex": "false"}
+]

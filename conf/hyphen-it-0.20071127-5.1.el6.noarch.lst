@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-it-0.20071127", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-it-0.20071127/README_hyph_it_IT.txt", "size_i": "812", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_it_CH.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_it_IT.dic", "size_i": "2158", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_la_VA.dic", "size_i": "14", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/bin/gpk-backend-status", "size_i": "19896", "regex": "false"},
+	{"name_s": "/usr/bin/gpk-service-pack", "size_i": "86696", "regex": "false"},
+	{"name_s": "/usr/share/applications/gpk-log.desktop", "size_i": "7855", "regex": "false"},
+	{"name_s": "/usr/share/applications/gpk-repo.desktop", "size_i": "7040", "regex": "false"},
+	{"name_s": "/usr/share/applications/gpk-service-pack.desktop", "size_i": "4194", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-packagekit-extra-2.28.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-packagekit-extra-2.28.3/AUTHORS", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-packagekit-extra-2.28.3/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-packagekit-extra-2.28.3/NEWS", "size_i": "79312", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-packagekit-extra-2.28.3/README", "size_i": "426", "regex": "false"},
+	{"name_s": "/usr/share/gnome-packagekit/gpk-backend-status.ui", "size_i": "60672", "regex": "false"},
+	{"name_s": "/usr/share/gnome-packagekit/gpk-service-pack.ui", "size_i": "16296", "regex": "false"}
+]

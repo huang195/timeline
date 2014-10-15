@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/gupnp-binding-tool", "size_i": "20176", "regex": "false"},
+	{"name_s": "/usr/lib/libgupnp-1.0.so.3", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libgupnp-1.0.so.3.0.0", "size_i": "138488", "regex": "false"},
+	{"name_s": "/usr/share/doc/gupnp-0.13.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gupnp-0.13.2/AUTHORS", "size_i": "86", "regex": "false"},
+	{"name_s": "/usr/share/doc/gupnp-0.13.2/COPYING", "size_i": "25292", "regex": "false"},
+	{"name_s": "/usr/share/doc/gupnp-0.13.2/README", "size_i": "1126", "regex": "false"}
+]

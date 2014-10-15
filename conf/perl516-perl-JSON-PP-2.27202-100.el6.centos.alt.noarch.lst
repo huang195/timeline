@@ -1,0 +1,13 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/bin/json_pp", "size_i": "3950", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-JSON-PP-2.27202", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-JSON-PP-2.27202/Changes", "size_i": "11434", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-JSON-PP-2.27202/README", "size_i": "518", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man1/json_pp.1.gz", "size_i": "2748", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/JSON::PP.3pm.gz", "size_i": "15810", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/JSON::PP::Boolean.3pm.gz", "size_i": "1999", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/JSON", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/JSON/PP", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/JSON/PP.pm", "size_i": "81997", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/JSON/PP/Boolean.pm", "size_i": "425", "regex": "false"}
+]

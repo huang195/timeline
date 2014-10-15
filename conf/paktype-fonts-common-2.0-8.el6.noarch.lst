@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/paktype-fonts-common-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/paktype-fonts-common-2.0/PakTypeNaqsh-readme.txt", "size_i": "14545", "regex": "false"},
+	{"name_s": "/usr/share/doc/paktype-fonts-common-2.0/PakTypeTehreer-readme.txt", "size_i": "14022", "regex": "false"},
+	{"name_s": "/usr/share/fonts/paktype", "size_i": "4096", "regex": "false"}
+]

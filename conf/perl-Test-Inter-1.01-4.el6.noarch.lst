@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-Inter-1.01", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Inter-1.01/ChangeLog", "size_i": "145", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Inter-1.01/LICENSE", "size_i": "109", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Inter-1.01/README", "size_i": "37077", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Inter-1.01/TODO", "size_i": "346", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Inter-1.01/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Inter-1.01/examples/is", "size_i": "597", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Inter-1.01/examples/ok", "size_i": "1378", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Inter-1.01/examples/plan", "size_i": "201", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Inter-1.01/examples/tests", "size_i": "1058", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Inter-1.01/examples/use_ok", "size_i": "288", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Inter.3pm.gz", "size_i": "13265", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Inter.pm", "size_i": "39507", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Inter.pod", "size_i": "33526", "regex": "false"}
+]

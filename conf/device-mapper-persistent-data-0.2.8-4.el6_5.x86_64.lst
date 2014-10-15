@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/sbin/thin_check", "size_i": "327032", "regex": "false"},
+	{"name_s": "/usr/sbin/thin_dump", "size_i": "2146136", "regex": "false"},
+	{"name_s": "/usr/sbin/thin_metadata_size", "size_i": "11736", "regex": "false"},
+	{"name_s": "/usr/sbin/thin_repair", "size_i": "2141968", "regex": "false"},
+	{"name_s": "/usr/sbin/thin_restore", "size_i": "2142032", "regex": "false"},
+	{"name_s": "/usr/sbin/thin_rmap", "size_i": "344040", "regex": "false"},
+	{"name_s": "/usr/share/doc/device-mapper-persistent-data-0.2.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/device-mapper-persistent-data-0.2.8/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/device-mapper-persistent-data-0.2.8/README.md", "size_i": "3427", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/thin_check.8.gz", "size_i": "883", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/thin_dump.8.gz", "size_i": "912", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/thin_metadata_size.8.gz", "size_i": "1165", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/thin_repair.8.gz", "size_i": "644", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/thin_restore.8.gz", "size_i": "657", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/thin_rmap.8.gz", "size_i": "576", "regex": "false"}
+]

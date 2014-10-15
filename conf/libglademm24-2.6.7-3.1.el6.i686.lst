@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libglademm-2.4.so.1", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libglademm-2.4.so.1.0.5", "size_i": "33132", "regex": "false"},
+	{"name_s": "/usr/share/doc/libglademm24-2.6.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libglademm24-2.6.7/AUTHORS", "size_i": "46", "regex": "false"},
+	{"name_s": "/usr/share/doc/libglademm24-2.6.7/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/libglademm24-2.6.7/ChangeLog", "size_i": "14950", "regex": "false"},
+	{"name_s": "/usr/share/doc/libglademm24-2.6.7/INSTALL", "size_i": "7831", "regex": "false"},
+	{"name_s": "/usr/share/doc/libglademm24-2.6.7/NEWS", "size_i": "3096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libglademm24-2.6.7/README", "size_i": "40", "regex": "false"}
+]

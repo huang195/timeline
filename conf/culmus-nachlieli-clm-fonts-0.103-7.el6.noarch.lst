@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-culmus-nachlieli-clm.conf", "size_i": "61", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-culmus-nachlieli-clm.conf", "size_i": "743", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/NachlieliCLM-Bold.afm", "size_i": "17573", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/NachlieliCLM-Bold.pfa", "size_i": "55837", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/NachlieliCLM-BoldOblique.afm", "size_i": "12295", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/NachlieliCLM-BoldOblique.pfa", "size_i": "58444", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/NachlieliCLM-Light.afm", "size_i": "17646", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/NachlieliCLM-Light.pfa", "size_i": "54677", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/NachlieliCLM-LightOblique.afm", "size_i": "12281", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/NachlieliCLM-LightOblique.pfa", "size_i": "57901", "regex": "false"}
+]

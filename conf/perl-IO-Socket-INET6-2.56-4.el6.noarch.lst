@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-IO-Socket-INET6-2.56", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-IO-Socket-INET6-2.56/ChangeLog", "size_i": "3572", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-IO-Socket-INET6-2.56/README", "size_i": "1179", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/IO::Socket::INET6.3pm.gz", "size_i": "4630", "regex": "false"},
+	{"name_s": "/usr/share/perl5/IO", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/IO/Socket", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/IO/Socket/INET6.pm", "size_i": "18878", "regex": "false"}
+]

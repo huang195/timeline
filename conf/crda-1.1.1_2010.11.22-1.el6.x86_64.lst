@@ -1,0 +1,19 @@
+[
+	{"name_s": "/lib/crda", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/crda/pubkeys", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/crda/pubkeys/key.pub.pem", "size_i": "451", "regex": "false"},
+	{"name_s": "/lib/crda/pubkeys/linville.key.pub.pem", "size_i": "451", "regex": "false"},
+	{"name_s": "/lib/crda/regulatory.bin", "size_i": "3224", "regex": "false"},
+	{"name_s": "/lib/udev/rules.d/85-regulatory.rules", "size_i": "287", "regex": "false"},
+	{"name_s": "/sbin/crda", "size_i": "9992", "regex": "false"},
+	{"name_s": "/sbin/regdbdump", "size_i": "7776", "regex": "false"},
+	{"name_s": "/sbin/setregdomain", "size_i": "1503", "regex": "false"},
+	{"name_s": "/usr/share/doc/crda-1.1.1_2010.11.22", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/crda-1.1.1_2010.11.22/LICENSE", "size_i": "880", "regex": "false"},
+	{"name_s": "/usr/share/doc/crda-1.1.1_2010.11.22/README.crda", "size_i": "3645", "regex": "false"},
+	{"name_s": "/usr/share/doc/crda-1.1.1_2010.11.22/README.wireless-regdb", "size_i": "1214", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/setregdomain.1.gz", "size_i": "292", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/regulatory.bin.5.gz", "size_i": "522", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/crda.8.gz", "size_i": "1040", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/regdbdump.8.gz", "size_i": "444", "regex": "false"}
+]

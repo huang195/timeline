@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/createfp", "size_i": "6024", "regex": "false"},
+	{"name_s": "/usr/include/libtextcat", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libtextcat/common.h", "size_i": "2751", "regex": "false"},
+	{"name_s": "/usr/include/libtextcat/constants.h", "size_i": "3076", "regex": "false"},
+	{"name_s": "/usr/include/libtextcat/fingerprint.h", "size_i": "2166", "regex": "false"},
+	{"name_s": "/usr/include/libtextcat/textcat.h", "size_i": "3620", "regex": "false"},
+	{"name_s": "/usr/include/libtextcat/utf8misc.h", "size_i": "3390", "regex": "false"},
+	{"name_s": "/usr/lib64/libtextcat.so", "size_i": "19", "regex": "false"}
+]

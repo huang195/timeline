@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/liblcms.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/liblcms.so.1.0.19", "size_i": "224792", "regex": "false"},
+	{"name_s": "/usr/share/doc/lcms-libs-1.19", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lcms-libs-1.19/AUTHORS", "size_i": "60", "regex": "false"},
+	{"name_s": "/usr/share/doc/lcms-libs-1.19/COPYING", "size_i": "1078", "regex": "false"},
+	{"name_s": "/usr/share/doc/lcms-libs-1.19/NEWS", "size_i": "276", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/lib64/security/pam_passwdqc.so", "size_i": "52808", "regex": "false"},
+	{"name_s": "/usr/share/doc/pam_passwdqc-1.0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pam_passwdqc-1.0.5/LICENSE", "size_i": "786", "regex": "false"},
+	{"name_s": "/usr/share/doc/pam_passwdqc-1.0.5/README", "size_i": "6665", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pam_passwdqc.8.gz", "size_i": "3770", "regex": "false"}
+]

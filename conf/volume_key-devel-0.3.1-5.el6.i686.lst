@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/volume_key", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/volume_key/libvolume_key.h", "size_i": "14526", "regex": "false"},
+	{"name_s": "/usr/lib/libvolume_key.so", "size_i": "22", "regex": "false"}
+]

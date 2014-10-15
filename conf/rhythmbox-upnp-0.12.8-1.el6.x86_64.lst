@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/MediaPlayer.py", "size_i": "22108", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/MediaPlayer.pyc", "size_i": "18811", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/MediaPlayer.pyo", "size_i": "18811", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/MediaStore.py", "size_i": "17022", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/MediaStore.pyc", "size_i": "19141", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/MediaStore.pyo", "size_i": "19141", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/UpnpSource.py", "size_i": "5974", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/UpnpSource.pyc", "size_i": "5711", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/UpnpSource.pyo", "size_i": "5711", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/__init__.py", "size_i": "11713", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/__init__.pyc", "size_i": "10526", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/__init__.pyo", "size_i": "10526", "regex": "false"},
+	{"name_s": "/usr/lib64/rhythmbox/plugins/upnp_coherence/coherence.rb-plugin", "size_i": "13901", "regex": "false"}
+]

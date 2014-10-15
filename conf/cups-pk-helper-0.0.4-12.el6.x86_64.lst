@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/dbus-1/system.d/org.opensuse.CupsPkHelper.Mechanism.conf", "size_i": "535", "regex": "false"},
+	{"name_s": "/usr/libexec/cups-pk-helper-mechanism", "size_i": "53352", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/system-services/org.opensuse.CupsPkHelper.Mechanism.service", "size_i": "110", "regex": "false"},
+	{"name_s": "/usr/share/doc/cups-pk-helper-0.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cups-pk-helper-0.0.4/AUTHORS", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/share/doc/cups-pk-helper-0.0.4/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/cups-pk-helper-0.0.4/NEWS", "size_i": "1070", "regex": "false"},
+	{"name_s": "/usr/share/polkit-1/actions/org.opensuse.cupspkhelper.mechanism.policy", "size_i": "4294", "regex": "false"}
+]

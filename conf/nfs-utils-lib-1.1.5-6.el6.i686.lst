@@ -1,0 +1,23 @@
+[
+	{"name_s": "/etc/idmapd.conf", "size_i": "3581", "regex": "false"},
+	{"name_s": "/usr/lib/libnfsidmap.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libnfsidmap.so.0.3.0", "size_i": "26400", "regex": "false"},
+	{"name_s": "/usr/lib/libnfsidmap/nsswitch.so", "size_i": "7004", "regex": "false"},
+	{"name_s": "/usr/lib/libnfsidmap/static.so", "size_i": "4408", "regex": "false"},
+	{"name_s": "/usr/lib/libnfsidmap/umich_ldap.so", "size_i": "22780", "regex": "false"},
+	{"name_s": "/usr/lib/librpcsecgss.so.3", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/librpcsecgss.so.3.0.0", "size_i": "59892", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs-utils-lib-1.1.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs-utils-lib-1.1.5/libnfsidmap-0.24", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs-utils-lib-1.1.5/libnfsidmap-0.24/AUTHORS", "size_i": "41", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs-utils-lib-1.1.5/libnfsidmap-0.24/ChangeLog", "size_i": "6112", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs-utils-lib-1.1.5/libnfsidmap-0.24/NEWS", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs-utils-lib-1.1.5/libnfsidmap-0.24/README", "size_i": "5393", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs-utils-lib-1.1.5/librpcsecgss-0.18", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs-utils-lib-1.1.5/librpcsecgss-0.18/AUTHORS", "size_i": "235", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs-utils-lib-1.1.5/librpcsecgss-0.18/ChangeLog", "size_i": "4471", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs-utils-lib-1.1.5/librpcsecgss-0.18/NEWS", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/doc/nfs-utils-lib-1.1.5/librpcsecgss-0.18/README", "size_i": "119", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/nfs4_uid_to_name.3.gz", "size_i": "1543", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/idmapd.conf.5.gz", "size_i": "2744", "regex": "false"}
+]

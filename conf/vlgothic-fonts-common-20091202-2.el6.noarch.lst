@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/share/doc/vlgothic-fonts-common-20091202", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/vlgothic-fonts-common-20091202/LICENSE", "size_i": "2886", "regex": "false"},
+	{"name_s": "/usr/share/doc/vlgothic-fonts-common-20091202/LICENSE.en", "size_i": "2647", "regex": "false"},
+	{"name_s": "/usr/share/doc/vlgothic-fonts-common-20091202/LICENSE.euc", "size_i": "2576", "regex": "false"},
+	{"name_s": "/usr/share/doc/vlgothic-fonts-common-20091202/LICENSE_E.mplus", "size_i": "375", "regex": "false"},
+	{"name_s": "/usr/share/doc/vlgothic-fonts-common-20091202/LICENSE_J.mplus", "size_i": "329", "regex": "false"},
+	{"name_s": "/usr/share/doc/vlgothic-fonts-common-20091202/README", "size_i": "2917", "regex": "false"},
+	{"name_s": "/usr/share/doc/vlgothic-fonts-common-20091202/README.euc", "size_i": "2311", "regex": "false"},
+	{"name_s": "/usr/share/doc/vlgothic-fonts-common-20091202/README.sazanami", "size_i": "7374", "regex": "false"},
+	{"name_s": "/usr/share/doc/vlgothic-fonts-common-20091202/README_J.mplus", "size_i": "4112", "regex": "false"},
+	{"name_s": "/usr/share/fonts/vlgothic", "size_i": "4096", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/dovecot/auth/libdriver_mysql.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/dovecot/dict/libdriver_mysql.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/dovecot/libdriver_mysql.so", "size_i": "18320", "regex": "false"}
+]

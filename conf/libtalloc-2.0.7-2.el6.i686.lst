@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/libtalloc.so.2", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libtalloc.so.2.0.7", "size_i": "38812", "regex": "false"}
+]

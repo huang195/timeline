@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Tree-DAG_Node-1.06", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Tree-DAG_Node-1.06/ChangeLog", "size_i": "2934", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Tree-DAG_Node-1.06/README", "size_i": "4307", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Tree::DAG_Node.3pm.gz", "size_i": "20551", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Tree", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Tree/DAG_Node.pm", "size_i": "91793", "regex": "false"}
+]

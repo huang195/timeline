@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-culmus-caladings-clm.conf", "size_i": "61", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-culmus-caladings-clm.conf", "size_i": "347", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/CaladingsCLM.afm", "size_i": "2176", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/CaladingsCLM.pfa", "size_i": "27182", "regex": "false"}
+]

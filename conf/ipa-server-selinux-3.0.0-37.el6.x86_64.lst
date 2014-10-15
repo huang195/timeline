@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/ipa-server-selinux-3.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-server-selinux-3.0.0/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-server-selinux-3.0.0/Contributors.txt", "size_i": "1271", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-server-selinux-3.0.0/README", "size_i": "2289", "regex": "false"},
+	{"name_s": "/usr/share/selinux/targeted/ipa_dogtag.pp", "size_i": "9066", "regex": "false"},
+	{"name_s": "/usr/share/selinux/targeted/ipa_httpd.pp", "size_i": "8771", "regex": "false"}
+]

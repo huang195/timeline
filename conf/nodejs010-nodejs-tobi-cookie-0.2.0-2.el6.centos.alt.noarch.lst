@@ -1,0 +1,7 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/cookie-jar", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/cookie-jar/index.js", "size_i": "1310", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/cookie-jar/jar.js", "size_i": "1447", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/cookie-jar/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/cookie-jar/package.json", "size_i": "512", "regex": "false"}
+]

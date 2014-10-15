@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/pdffonts", "size_i": "15528", "regex": "false"},
+	{"name_s": "/usr/bin/pdfimages", "size_i": "27912", "regex": "false"},
+	{"name_s": "/usr/bin/pdfinfo", "size_i": "19880", "regex": "false"},
+	{"name_s": "/usr/bin/pdftohtml", "size_i": "69544", "regex": "false"},
+	{"name_s": "/usr/bin/pdftoppm", "size_i": "16648", "regex": "false"},
+	{"name_s": "/usr/bin/pdftops", "size_i": "16712", "regex": "false"},
+	{"name_s": "/usr/bin/pdftotext", "size_i": "18416", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pdffonts.1.gz", "size_i": "950", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pdfimages.1.gz", "size_i": "843", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pdfinfo.1.gz", "size_i": "1070", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pdftohtml.1.gz", "size_i": "961", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pdftoppm.1.gz", "size_i": "1096", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pdftops.1.gz", "size_i": "2334", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pdftotext.1.gz", "size_i": "1276", "regex": "false"}
+]

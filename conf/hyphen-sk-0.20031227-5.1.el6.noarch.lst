@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-sk-0.20031227", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-sk-0.20031227/README_hyph_sk_SK.txt", "size_i": "620", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_sk_SK.dic", "size_i": "18205", "regex": "false"}
+]

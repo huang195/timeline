@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-CSS-Tiny-1.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-CSS-Tiny-1.15/Changes", "size_i": "2347", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-CSS-Tiny-1.15/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-CSS-Tiny-1.15/README", "size_i": "5018", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/CSS::Tiny.3pm.gz", "size_i": "3884", "regex": "false"},
+	{"name_s": "/usr/share/perl5/CSS", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/CSS/Tiny.pm", "size_i": "8003", "regex": "false"}
+]

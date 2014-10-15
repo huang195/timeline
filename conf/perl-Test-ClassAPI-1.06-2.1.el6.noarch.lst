@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-ClassAPI-1.06", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-ClassAPI-1.06/Changes", "size_i": "1586", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-ClassAPI-1.06/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::ClassAPI.3pm.gz", "size_i": "3731", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/ClassAPI.pm", "size_i": "10772", "regex": "false"}
+]

@@ -1,0 +1,16 @@
+[
+	{"name_s": "/etc/sgml/docbook", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/sgml/docbook/xmlcatalog", "size_i": "236", "regex": "false"},
+	{"name_s": "/etc/xml", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/xml/catalog", "size_i": "819", "regex": "false"},
+	{"name_s": "/usr/share/doc/xml-common-0.6.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xml-common-0.6.3/AUTHORS", "size_i": "84", "regex": "false"},
+	{"name_s": "/usr/share/doc/xml-common-0.6.3/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/xml-common-0.6.3/ChangeLog", "size_i": "575", "regex": "false"},
+	{"name_s": "/usr/share/doc/xml-common-0.6.3/NEWS", "size_i": "75", "regex": "false"},
+	{"name_s": "/usr/share/doc/xml-common-0.6.3/README", "size_i": "843", "regex": "false"},
+	{"name_s": "/usr/share/sgml", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/sgml/docbook", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/sgml/docbook/xmlcatalog", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/xml", "size_i": "4096", "regex": "false"}
+]

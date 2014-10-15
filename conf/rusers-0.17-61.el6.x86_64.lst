@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/rup", "size_i": "14088", "regex": "false"},
+	{"name_s": "/usr/bin/rusers", "size_i": "12104", "regex": "false"},
+	{"name_s": "/usr/share/doc/rusers-0.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rusers-0.17/README", "size_i": "4087", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rup.1.gz", "size_i": "1878", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rusers.1.gz", "size_i": "1759", "regex": "false"}
+]

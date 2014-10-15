@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/perl-Spiffy-0.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Spiffy-0.30/Changes", "size_i": "3266", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Spiffy-0.30/README", "size_i": "19254", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Spiffy.3pm.gz", "size_i": "8898", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Spiffy.pm", "size_i": "33313", "regex": "false"}
+]

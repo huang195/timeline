@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/ppl/libppl_java.so", "size_i": "3288424", "regex": "false"},
+	{"name_s": "/usr/lib64/ppl/ppl_java.jar", "size_i": "60663", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-java-0.10.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-java-0.10.2/README.java", "size_i": "1085", "regex": "false"}
+]

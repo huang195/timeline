@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/jakarta-commons-io-1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-io-1.4/LICENSE.txt", "size_i": "11359", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-io-1.4/NOTICE.txt", "size_i": "172", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-io-1.4/RELEASE-NOTES.txt", "size_i": "4335", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-io-1.4.jar", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-io.jar", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-io-1.4.jar", "size_i": "106420", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-io.jar", "size_i": "26", "regex": "false"}
+]

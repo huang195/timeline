@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/vmware_drv.so", "size_i": "53912", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/vmware.xinf", "size_i": "110", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/vmware.4.gz", "size_i": "1882", "regex": "false"}
+]

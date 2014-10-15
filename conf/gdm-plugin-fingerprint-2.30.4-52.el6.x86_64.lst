@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/pam.d/gdm-fingerprint", "size_i": "489", "regex": "false"},
+	{"name_s": "/usr/lib64/gdm/simple-greeter/plugins/fingerprint.so", "size_i": "78296", "regex": "false"},
+	{"name_s": "/usr/share/gdm/simple-greeter/extensions/fingerprint/page.ui", "size_i": "2116", "regex": "false"}
+]

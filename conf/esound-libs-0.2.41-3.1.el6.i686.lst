@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib/libesd.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libesd.so.0.2.39", "size_i": "45228", "regex": "false"},
+	{"name_s": "/usr/lib/libesddsp.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libesddsp.so.0.2.39", "size_i": "11412", "regex": "false"},
+	{"name_s": "/usr/share/doc/esound-libs-0.2.41", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/esound-libs-0.2.41/AUTHORS", "size_i": "2153", "regex": "false"},
+	{"name_s": "/usr/share/doc/esound-libs-0.2.41/COPYING.LIB", "size_i": "25265", "regex": "false"},
+	{"name_s": "/usr/share/doc/esound-libs-0.2.41/ChangeLog", "size_i": "79418", "regex": "false"},
+	{"name_s": "/usr/share/doc/esound-libs-0.2.41/NEWS", "size_i": "6081", "regex": "false"},
+	{"name_s": "/usr/share/doc/esound-libs-0.2.41/README", "size_i": "682", "regex": "false"},
+	{"name_s": "/usr/share/doc/esound-libs-0.2.41/TIPS", "size_i": "2876", "regex": "false"},
+	{"name_s": "/usr/share/doc/esound-libs-0.2.41/TODO", "size_i": "91", "regex": "false"},
+	{"name_s": "/usr/share/doc/esound-libs-0.2.41/esound.sgml", "size_i": "19935", "regex": "false"}
+]

@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac/eclipse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac/eclipse/features", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac/eclipse/features/org.eclipse.mylyn.trac_feature_3.4.2.v20100916-0100-e3x", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac/eclipse/features/org.eclipse.mylyn.trac_feature_3.4.2.v20100916-0100-e3x/about.html", "size_i": "1308", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac/eclipse/features/org.eclipse.mylyn.trac_feature_3.4.2.v20100916-0100-e3x/epl-v10.html", "size_i": "16536", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac/eclipse/features/org.eclipse.mylyn.trac_feature_3.4.2.v20100916-0100-e3x/feature.properties", "size_i": "8934", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac/eclipse/features/org.eclipse.mylyn.trac_feature_3.4.2.v20100916-0100-e3x/feature.xml", "size_i": "2036", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac/eclipse/features/org.eclipse.mylyn.trac_feature_3.4.2.v20100916-0100-e3x/license.html", "size_i": "9051", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac/eclipse/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac/eclipse/plugins/javax.xml.bind.jar", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac/eclipse/plugins/org.eclipse.mylyn.trac.core_3.4.1.v20100916-0100-e3x.jar", "size_i": "143433", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/mylyn-trac/eclipse/plugins/org.eclipse.mylyn.trac.ui_3.4.1.v20100916-0100-e3x.jar", "size_i": "73050", "regex": "false"}
+]

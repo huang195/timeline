@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/alsa/pcm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/alsa/pcm/samplerate.conf", "size_i": "160", "regex": "false"},
+	{"name_s": "/usr/lib/alsa-lib/libasound_module_rate_samplerate.so", "size_i": "6116", "regex": "false"},
+	{"name_s": "/usr/lib/alsa-lib/libasound_module_rate_samplerate_best.so", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/lib/alsa-lib/libasound_module_rate_samplerate_linear.so", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/lib/alsa-lib/libasound_module_rate_samplerate_medium.so", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/lib/alsa-lib/libasound_module_rate_samplerate_order.so", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-samplerate-1.0.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-samplerate-1.0.21/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-samplerate-1.0.21/COPYING.GPL", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-samplerate-1.0.21/samplerate.txt", "size_i": "933", "regex": "false"}
+]

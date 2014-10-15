@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/btparser", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/btparser/__init__.py", "size_i": "78", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/btparser/__init__.pyc", "size_i": "254", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/btparser/__init__.pyo", "size_i": "254", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/btparser/_btparser.so", "size_i": "45480", "regex": "false"}
+]

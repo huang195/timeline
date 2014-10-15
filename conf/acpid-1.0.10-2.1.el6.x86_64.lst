@@ -1,0 +1,18 @@
+[
+	{"name_s": "/etc/acpi", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/acpi/actions", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/acpi/actions/power.sh", "size_i": "662", "regex": "false"},
+	{"name_s": "/etc/acpi/events", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/acpi/events/power.conf", "size_i": "168", "regex": "false"},
+	{"name_s": "/etc/acpi/events/video.conf", "size_i": "236", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/acpid", "size_i": "1725", "regex": "false"},
+	{"name_s": "/usr/bin/acpi_listen", "size_i": "14984", "regex": "false"},
+	{"name_s": "/usr/sbin/acpid", "size_i": "27312", "regex": "false"},
+	{"name_s": "/usr/share/doc/acpid-1.0.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/acpid-1.0.10/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/acpid-1.0.10/Changelog", "size_i": "6650", "regex": "false"},
+	{"name_s": "/usr/share/doc/acpid-1.0.10/README", "size_i": "1333", "regex": "false"},
+	{"name_s": "/usr/share/doc/acpid-1.0.10/TODO", "size_i": "282", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/acpi_listen.8.gz", "size_i": "691", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/acpid.8.gz", "size_i": "2356", "regex": "false"}
+]

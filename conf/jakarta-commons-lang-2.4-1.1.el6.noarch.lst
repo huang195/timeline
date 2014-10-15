@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/jakarta-commons-lang-2.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-lang-2.4/LICENSE.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-lang-2.4/NOTICE.txt", "size_i": "173", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-lang-2.4/RELEASE-NOTES.txt", "size_i": "6520", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-lang-2.4.jar", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-lang.jar", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-lang-2.4.jar", "size_i": "261225", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-lang.jar", "size_i": "28", "regex": "false"}
+]

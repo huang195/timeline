@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/trident_drv.so", "size_i": "139936", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/trident.xinf", "size_i": "1680", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/trident.4.gz", "size_i": "1844", "regex": "false"}
+]

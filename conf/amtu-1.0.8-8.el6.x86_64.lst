@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/rc.d/init.d/amtu", "size_i": "1816", "regex": "false"},
+	{"name_s": "/etc/sysconfig/amtu", "size_i": "390", "regex": "false"},
+	{"name_s": "/usr/sbin/amtu", "size_i": "31992", "regex": "false"},
+	{"name_s": "/usr/share/doc/amtu-1.0.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/amtu-1.0.8/AMTUHowTo.txt", "size_i": "2885", "regex": "false"},
+	{"name_s": "/usr/share/doc/amtu-1.0.8/LICENSE", "size_i": "11697", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/amtu.8.gz", "size_i": "1286", "regex": "false"}
+]

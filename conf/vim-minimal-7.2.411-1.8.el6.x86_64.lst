@@ -1,0 +1,8 @@
+[
+	{"name_s": "/bin/ex", "size_i": "2", "regex": "false"},
+	{"name_s": "/bin/rvi", "size_i": "2", "regex": "false"},
+	{"name_s": "/bin/rview", "size_i": "2", "regex": "false"},
+	{"name_s": "/bin/vi", "size_i": "764088", "regex": "false"},
+	{"name_s": "/bin/view", "size_i": "2", "regex": "false"},
+	{"name_s": "/etc/virc", "size_i": "1962", "regex": "false"}
+]

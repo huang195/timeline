@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-khmeros-metal-chrieng.conf", "size_i": "64", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-khmeros-metal-chrieng.conf", "size_i": "542", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros/KhmerOS_metalchrieng.ttf", "size_i": "224984", "regex": "false"}
+]

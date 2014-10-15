@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/include/meanwhile", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_channel.h", "size_i": "11947", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_cipher.h", "size_i": "7948", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_common.h", "size_i": "12423", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_error.h", "size_i": "5723", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_message.h", "size_i": "8493", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_service.h", "size_i": "11523", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_session.h", "size_i": "12887", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_srvc_aware.h", "size_i": "7876", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_srvc_conf.h", "size_i": "6631", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_srvc_dir.h", "size_i": "5972", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_srvc_ft.h", "size_i": "6885", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_srvc_im.h", "size_i": "8622", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_srvc_place.h", "size_i": "3512", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_srvc_resolve.h", "size_i": "4225", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_srvc_store.h", "size_i": "6047", "regex": "false"},
+	{"name_s": "/usr/include/meanwhile/mw_st_list.h", "size_i": "5410", "regex": "false"},
+	{"name_s": "/usr/lib/libmeanwhile.a", "size_i": "310804", "regex": "false"},
+	{"name_s": "/usr/lib/libmeanwhile.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/meanwhile.pc", "size_i": "306", "regex": "false"}
+]

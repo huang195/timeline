@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/pgsql/plpython.so", "size_i": "54200", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/plpython-8.4.mo", "size_i": "7957", "regex": "false"},
+	{"name_s": "/usr/share/locale/es/LC_MESSAGES/plpython-8.4.mo", "size_i": "7876", "regex": "false"},
+	{"name_s": "/usr/share/locale/fr/LC_MESSAGES/plpython-8.4.mo", "size_i": "7985", "regex": "false"},
+	{"name_s": "/usr/share/locale/it/LC_MESSAGES/plpython-8.4.mo", "size_i": "7958", "regex": "false"},
+	{"name_s": "/usr/share/locale/ja/LC_MESSAGES/plpython-8.4.mo", "size_i": "8563", "regex": "false"},
+	{"name_s": "/usr/share/locale/pl/LC_MESSAGES/plpython-8.4.mo", "size_i": "7904", "regex": "false"},
+	{"name_s": "/usr/share/locale/pt_BR/LC_MESSAGES/plpython-8.4.mo", "size_i": "7666", "regex": "false"},
+	{"name_s": "/usr/share/locale/ru/LC_MESSAGES/plpython-8.4.mo", "size_i": "9886", "regex": "false"},
+	{"name_s": "/usr/share/locale/tr/LC_MESSAGES/plpython-8.4.mo", "size_i": "7717", "regex": "false"},
+	{"name_s": "/usr/share/locale/zh_CN/LC_MESSAGES/plpython-8.4.mo", "size_i": "7216", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/perl5/List", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/List/MoreUtils.pm", "size_i": "20404", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/List", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/List/MoreUtils", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/List/MoreUtils/MoreUtils.so", "size_i": "107656", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-List-MoreUtils-0.22", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-List-MoreUtils-0.22/Changes", "size_i": "3968", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-List-MoreUtils-0.22/README", "size_i": "704", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/List::MoreUtils.3pm.gz", "size_i": "6978", "regex": "false"}
+]

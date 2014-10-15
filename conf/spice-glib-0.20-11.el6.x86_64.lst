@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libspice-client-glib-2.0.so.8", "size_i": "33", "regex": "false"},
+	{"name_s": "/usr/lib64/libspice-client-glib-2.0.so.8.4.0", "size_i": "1120592", "regex": "false"},
+	{"name_s": "/usr/lib64/libspice-controller.so.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/libspice-controller.so.0.0.0", "size_i": "66640", "regex": "false"},
+	{"name_s": "/usr/libexec/spice-gtk-x86_64/spice-client-glib-usb-acl-helper", "size_i": "18472", "regex": "false"},
+	{"name_s": "/usr/share/locale/fr/LC_MESSAGES/spice-gtk.mo", "size_i": "3610", "regex": "false"},
+	{"name_s": "/usr/share/polkit-1/actions/org.spice-space.lowlevelusbaccess.policy", "size_i": "703", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/libpytalloc-util.so.2", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/libpytalloc-util.so.2.0.7", "size_i": "6864", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/talloc.so", "size_i": "7648", "regex": "false"}
+]

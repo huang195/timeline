@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/evince/1/backends/dvidocument.evince-backend", "size_i": "3194", "regex": "false"},
+	{"name_s": "/usr/lib64/evince/1/backends/libdvidocument.so", "size_i": "146048", "regex": "false"}
+]

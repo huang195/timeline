@@ -1,0 +1,23 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/License", "size_i": "1060", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack-protection.rb", "size_i": "26", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection.rb", "size_i": "1747", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/authenticity_token.rb", "size_i": "717", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/base.rb", "size_i": "2505", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/escaped_params.rb", "size_i": "2373", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/form_token.rb", "size_i": "737", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/frame_options.rb", "size_i": "895", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/ip_spoofing.rb", "size_i": "705", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/json_csrf.rb", "size_i": "872", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/path_traversal.rb", "size_i": "989", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/remote_referrer.rb", "size_i": "607", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/remote_token.rb", "size_i": "604", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/session_hijacking.rb", "size_i": "1189", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/version.rb", "size_i": "325", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/rack-protection-1.2.0/lib/rack/protection/xss_header.rb", "size_i": "764", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/rack-protection-1.2.0.gemspec", "size_i": "1355", "regex": "false"}
+]

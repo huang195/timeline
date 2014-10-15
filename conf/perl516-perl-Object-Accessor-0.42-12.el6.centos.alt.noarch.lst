@@ -1,0 +1,5 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Object::Accessor.3pm.gz", "size_i": "6442", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Object", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Object/Accessor.pm", "size_i": "23172", "regex": "false"}
+]

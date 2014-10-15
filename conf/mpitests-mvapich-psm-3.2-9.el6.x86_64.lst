@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/mvapich-psm/bin/mpitests-osu_alltoall", "size_i": "6824", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich-psm/bin/mpitests-osu_bcast", "size_i": "8472", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich-psm/bin/mpitests-osu_bibw", "size_i": "10928", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich-psm/bin/mpitests-osu_bw", "size_i": "7144", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich-psm/bin/mpitests-osu_latency", "size_i": "6816", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich-psm/bin/mpitests-osu_mbw_mr", "size_i": "10968", "regex": "false"},
+	{"name_s": "/usr/lib64/mvapich-psm/bin/mpitests-osu_multi_lat", "size_i": "6840", "regex": "false"}
+]

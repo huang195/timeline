@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/tmprepo.conf", "size_i": "417", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/tmprepo.py", "size_i": "10208", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/tmprepo.pyc", "size_i": "8237", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/tmprepo.pyo", "size_i": "8237", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-tmprepo-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-tmprepo-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

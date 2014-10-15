@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib/libksba.so.8", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libksba.so.8.9.6", "size_i": "214252", "regex": "false"},
+	{"name_s": "/usr/share/doc/libksba-1.0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libksba-1.0.7/AUTHORS", "size_i": "590", "regex": "false"},
+	{"name_s": "/usr/share/doc/libksba-1.0.7/COPYING", "size_i": "35068", "regex": "false"},
+	{"name_s": "/usr/share/doc/libksba-1.0.7/ChangeLog", "size_i": "8695", "regex": "false"},
+	{"name_s": "/usr/share/doc/libksba-1.0.7/NEWS", "size_i": "12990", "regex": "false"},
+	{"name_s": "/usr/share/doc/libksba-1.0.7/README", "size_i": "1781", "regex": "false"},
+	{"name_s": "/usr/share/doc/libksba-1.0.7/THANKS", "size_i": "847", "regex": "false"},
+	{"name_s": "/usr/share/doc/libksba-1.0.7/TODO", "size_i": "2192", "regex": "false"},
+	{"name_s": "/usr/share/doc/libksba-1.0.7/VERSION", "size_i": "6", "regex": "false"}
+]

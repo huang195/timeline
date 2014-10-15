@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/speexdec", "size_i": "20336", "regex": "false"},
+	{"name_s": "/usr/bin/speexenc", "size_i": "27912", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/speexdec.1.gz", "size_i": "756", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/speexenc.1.gz", "size_i": "1002", "regex": "false"}
+]

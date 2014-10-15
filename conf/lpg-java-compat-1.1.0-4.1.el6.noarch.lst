@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/lpg-java-compat-1.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpg-java-compat-1.1.0/Eclipse", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/java/lpgjavaruntime-1.1.0.jar", "size_i": "77853", "regex": "false"},
+	{"name_s": "/usr/share/java/lpgjavaruntime.jar", "size_i": "24", "regex": "false"}
+]

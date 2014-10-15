@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/ansidecl.h", "size_i": "13857", "regex": "false"},
+	{"name_s": "/usr/include/bfd.h", "size_i": "192902", "regex": "false"},
+	{"name_s": "/usr/include/bfdlink.h", "size_i": "29596", "regex": "false"},
+	{"name_s": "/usr/include/dis-asm.h", "size_i": "16793", "regex": "false"},
+	{"name_s": "/usr/include/libiberty.h", "size_i": "23878", "regex": "false"},
+	{"name_s": "/usr/include/symcat.h", "size_i": "1902", "regex": "false"},
+	{"name_s": "/usr/lib/libbfd.a", "size_i": "1090766", "regex": "false"},
+	{"name_s": "/usr/lib/libbfd.so", "size_i": "271", "regex": "false"},
+	{"name_s": "/usr/lib/libiberty.a", "size_i": "271434", "regex": "false"},
+	{"name_s": "/usr/lib/libopcodes.a", "size_i": "598144", "regex": "false"},
+	{"name_s": "/usr/lib/libopcodes.so", "size_i": "202", "regex": "false"},
+	{"name_s": "/usr/share/info/bfd.info.gz", "size_i": "108418", "regex": "false"}
+]

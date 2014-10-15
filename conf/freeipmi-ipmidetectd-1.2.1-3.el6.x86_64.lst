@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/ipmidetectd.conf", "size_i": "589", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/ipmidetectd", "size_i": "2368", "regex": "false"},
+	{"name_s": "/usr/sbin/ipmidetectd", "size_i": "51824", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/ipmidetectd.conf.5.gz", "size_i": "1378", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ipmidetectd.8.gz", "size_i": "1313", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/firmware/iwlwifi-5150-2.ucode", "size_i": "337400", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl5150-firmware-8.24.2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl5150-firmware-8.24.2.2/LICENSE", "size_i": "2075", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl5150-firmware-8.24.2.2/README", "size_i": "4955", "regex": "false"}
+]

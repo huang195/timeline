@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/_openscap_py.so", "size_i": "1457440", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/openscap.py", "size_i": "389521", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/openscap.pyc", "size_i": "448087", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/openscap.pyo", "size_i": "448087", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/openscap_api.py", "size_i": "36565", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/openscap_api.pyc", "size_i": "34636", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/openscap_api.pyo", "size_i": "34636", "regex": "false"}
+]

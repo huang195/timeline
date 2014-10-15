@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/libfakeroot", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libfakeroot/libfakeroot-0.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libfakeroot/libfakeroot-sysv.so", "size_i": "38752", "regex": "false"},
+	{"name_s": "/usr/lib64/libfakeroot/libfakeroot-tcp.so", "size_i": "41528", "regex": "false"}
+]

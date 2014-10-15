@@ -1,0 +1,19 @@
+[
+	{"name_s": "/etc/isns", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/isns/isnsadm.conf", "size_i": "2000", "regex": "false"},
+	{"name_s": "/etc/isns/isnsd.conf", "size_i": "3772", "regex": "false"},
+	{"name_s": "/etc/isns/isnsdd.conf", "size_i": "2017", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/isnsd", "size_i": "1253", "regex": "false"},
+	{"name_s": "/usr/sbin/isnsadm", "size_i": "448952", "regex": "false"},
+	{"name_s": "/usr/sbin/isnsd", "size_i": "434544", "regex": "false"},
+	{"name_s": "/usr/sbin/isnsdd", "size_i": "451656", "regex": "false"},
+	{"name_s": "/usr/sbin/isnssetup", "size_i": "1252", "regex": "false"},
+	{"name_s": "/usr/share/doc/isns-utils-0.93", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/isns-utils-0.93/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/isns-utils-0.93/README", "size_i": "5850", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/isns_config.5.gz", "size_i": "5143", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/isnsadm.8.gz", "size_i": "6797", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/isnsd.8.gz", "size_i": "1186", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/isnsdd.8.gz", "size_i": "1077", "regex": "false"},
+	{"name_s": "/var/lib/isns", "size_i": "4096", "regex": "false"}
+]

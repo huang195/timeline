@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/dvigif", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/bin/dvipng", "size_i": "100648", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvipng-1.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvipng-1.11/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvipng-1.11/ChangeLog", "size_i": "22533", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvipng-1.11/ChangeLog.0", "size_i": "19567", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvipng-1.11/README", "size_i": "4117", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvipng-1.11/RELEASE", "size_i": "1296", "regex": "false"},
+	{"name_s": "/usr/share/info/dvipng.info.gz", "size_i": "15022", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dvigif.1.gz", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dvipng.1.gz", "size_i": "8065", "regex": "false"}
+]

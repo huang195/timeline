@@ -1,0 +1,23 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/json-1.5.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/json-1.5.5/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/json-1.5.5/lib/json", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/json-1.5.5/lib/json/ext", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/json-1.5.5/lib/json/ext/generator.so", "size_i": "28400", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/gems/exts/json-1.5.5/lib/json/ext/parser.so", "size_i": "23320", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/lib64/ruby/json", "size_i": "61", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/json-1.5.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/json-1.5.5/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/json-1.5.5/lib/json", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/json-1.5.5/lib/json.rb", "size_i": "1779", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/json-1.5.5/lib/json/add", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/json-1.5.5/lib/json/add/complex.rb", "size_i": "398", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/json-1.5.5/lib/json/add/core.rb", "size_i": "6566", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/json-1.5.5/lib/json/add/rational.rb", "size_i": "414", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/json-1.5.5/lib/json/common.rb", "size_i": "14759", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/json-1.5.5/lib/json/ext.rb", "size_i": "391", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/json-1.5.5/lib/json/version.rb", "size_i": "271", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/json-1.5.5.gemspec", "size_i": "235", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/ruby/json", "size_i": "60", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/ruby/json.rb", "size_i": "63", "regex": "false"}
+]

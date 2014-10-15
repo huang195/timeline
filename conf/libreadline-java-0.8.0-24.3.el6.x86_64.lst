@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/gcj/libreadline-java", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/libreadline-java/libreadline-java-0.8.0.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/libreadline-java/libreadline-java-0.8.0.jar.so", "size_i": "57936", "regex": "false"},
+	{"name_s": "/usr/lib64/libreadline-java", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreadline-java/libJavaEditline.so", "size_i": "10816", "regex": "false"},
+	{"name_s": "/usr/lib64/libreadline-java/libreadline-java-0.8.0.jar", "size_i": "8455", "regex": "false"},
+	{"name_s": "/usr/lib64/libreadline-java/libreadline-java.jar", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/share/doc/libreadline-java-0.8.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libreadline-java-0.8.0/COPYING.LIB", "size_i": "24389", "regex": "false"},
+	{"name_s": "/usr/share/doc/libreadline-java-0.8.0/ChangeLog", "size_i": "20171", "regex": "false"},
+	{"name_s": "/usr/share/doc/libreadline-java-0.8.0/NEWS", "size_i": "3267", "regex": "false"},
+	{"name_s": "/usr/share/doc/libreadline-java-0.8.0/README", "size_i": "3722", "regex": "false"},
+	{"name_s": "/usr/share/doc/libreadline-java-0.8.0/README.1st", "size_i": "1101", "regex": "false"},
+	{"name_s": "/usr/share/doc/libreadline-java-0.8.0/VERSION", "size_i": "6", "regex": "false"}
+]

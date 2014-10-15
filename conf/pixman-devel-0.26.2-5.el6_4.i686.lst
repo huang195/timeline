@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/pixman-1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/pixman-1/pixman-version.h", "size_i": "1739", "regex": "false"},
+	{"name_s": "/usr/include/pixman-1/pixman.h", "size_i": "39731", "regex": "false"},
+	{"name_s": "/usr/lib/libpixman-1.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/pixman-1.pc", "size_i": "208", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/mrtg2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/mrtg2/BER.pm", "size_i": "27787", "regex": "false"},
+	{"name_s": "/usr/lib64/mrtg2/MRTG_lib.pm", "size_i": "78573", "regex": "false"},
+	{"name_s": "/usr/lib64/mrtg2/Net_SNMP_util.pm", "size_i": "65075", "regex": "false"},
+	{"name_s": "/usr/lib64/mrtg2/SNMP_Session.pm", "size_i": "35176", "regex": "false"},
+	{"name_s": "/usr/lib64/mrtg2/SNMP_util.pm", "size_i": "41180", "regex": "false"},
+	{"name_s": "/usr/lib64/mrtg2/locales_mrtg.pm", "size_i": "218151", "regex": "false"}
+]

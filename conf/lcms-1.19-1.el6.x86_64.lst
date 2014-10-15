@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/bin/icc2ps", "size_i": "9800", "regex": "false"},
+	{"name_s": "/usr/bin/icclink", "size_i": "15216", "regex": "false"},
+	{"name_s": "/usr/bin/icctrans", "size_i": "28192", "regex": "false"},
+	{"name_s": "/usr/bin/jpegicc", "size_i": "23616", "regex": "false"},
+	{"name_s": "/usr/bin/tiffdiff", "size_i": "19960", "regex": "false"},
+	{"name_s": "/usr/bin/tifficc", "size_i": "28456", "regex": "false"},
+	{"name_s": "/usr/bin/wtpt", "size_i": "7328", "regex": "false"},
+	{"name_s": "/usr/share/doc/lcms-1.19", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lcms-1.19/README.1ST", "size_i": "2888", "regex": "false"},
+	{"name_s": "/usr/share/doc/lcms-1.19/TUTORIAL.TXT", "size_i": "68555", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/icc2ps.1.gz", "size_i": "589", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/icclink.1.gz", "size_i": "1133", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/jpegicc.1.gz", "size_i": "887", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/tifficc.1.gz", "size_i": "1138", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/wtpt.1.gz", "size_i": "498", "regex": "false"}
+]

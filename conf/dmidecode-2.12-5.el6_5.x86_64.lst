@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/sbin/biosdecode", "size_i": "15632", "regex": "false"},
+	{"name_s": "/usr/sbin/dmidecode", "size_i": "77680", "regex": "false"},
+	{"name_s": "/usr/sbin/ownership", "size_i": "8776", "regex": "false"},
+	{"name_s": "/usr/sbin/vpddecode", "size_i": "11344", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmidecode-2.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmidecode-2.12/AUTHORS", "size_i": "1547", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmidecode-2.12/CHANGELOG", "size_i": "51408", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmidecode-2.12/LICENSE", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmidecode-2.12/README", "size_i": "4705", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/biosdecode.8.gz", "size_i": "911", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dmidecode.8.gz", "size_i": "3421", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ownership.8.gz", "size_i": "472", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/vpddecode.8.gz", "size_i": "1097", "regex": "false"}
+]

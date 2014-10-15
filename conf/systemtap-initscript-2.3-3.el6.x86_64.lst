@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/rc.d/init.d/systemtap", "size_i": "15965", "regex": "false"},
+	{"name_s": "/etc/systemtap", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/systemtap/conf.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/systemtap/config", "size_i": "492", "regex": "false"},
+	{"name_s": "/etc/systemtap/script.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/systemtap-initscript-2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/systemtap-initscript-2.3/README.systemtap", "size_i": "11479", "regex": "false"},
+	{"name_s": "/var/cache/systemtap", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/run/systemtap", "size_i": "4096", "regex": "false"}
+]

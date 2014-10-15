@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/gcj/libfonts", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/libfonts/libfonts.jar.db", "size_i": "16384", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/libfonts/libfonts.jar.so", "size_i": "740344", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfonts-1.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfonts-1.0.0/ChangeLog.txt", "size_i": "6318", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfonts-1.0.0/README.txt", "size_i": "2606", "regex": "false"},
+	{"name_s": "/usr/share/doc/libfonts-1.0.0/licence-LGPL.txt", "size_i": "27688", "regex": "false"},
+	{"name_s": "/usr/share/java/libfonts.jar", "size_i": "224583", "regex": "false"}
+]

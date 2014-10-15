@@ -1,0 +1,13 @@
+[
+	{"name_s": "/sbin/lspci", "size_i": "67072", "regex": "false"},
+	{"name_s": "/sbin/setpci", "size_i": "19560", "regex": "false"},
+	{"name_s": "/usr/sbin/update-pciids", "size_i": "1755", "regex": "false"},
+	{"name_s": "/usr/share/doc/pciutils-3.1.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pciutils-3.1.10/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/pciutils-3.1.10/ChangeLog", "size_i": "64316", "regex": "false"},
+	{"name_s": "/usr/share/doc/pciutils-3.1.10/README", "size_i": "5208", "regex": "false"},
+	{"name_s": "/usr/share/doc/pciutils-3.1.10/pciutils.lsm", "size_i": "600", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/lspci.8.gz", "size_i": "4319", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/setpci.8.gz", "size_i": "2649", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/update-pciids.8.gz", "size_i": "465", "regex": "false"}
+]

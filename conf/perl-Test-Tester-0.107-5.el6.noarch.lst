@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-Tester-0.107", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Tester-0.107/ARTISTIC", "size_i": "6451", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Tester-0.107/CHANGES", "size_i": "3143", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Tester-0.107/README", "size_i": "12462", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Tester-0.107/TODO", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Tester.3pm.gz", "size_i": "6494", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Tester::Capture.3pm.gz", "size_i": "2040", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Tester::CaptureRunner.3pm.gz", "size_i": "1932", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Tester", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Tester.pm", "size_i": "17068", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Tester/Capture.pm", "size_i": "4251", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Tester/CaptureRunner.pm", "size_i": "1273", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Tester/Delegate.pm", "size_i": "372", "regex": "false"}
+]

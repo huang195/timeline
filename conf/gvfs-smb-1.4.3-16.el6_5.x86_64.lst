@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/libexec/gvfsd-smb", "size_i": "158000", "regex": "false"},
+	{"name_s": "/usr/libexec/gvfsd-smb-browse", "size_i": "152032", "regex": "false"},
+	{"name_s": "/usr/share/gvfs/mounts/smb-browse.mount", "size_i": "141", "regex": "false"},
+	{"name_s": "/usr/share/gvfs/mounts/smb.mount", "size_i": "78", "regex": "false"}
+]

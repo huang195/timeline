@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/gcrypt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib64/.libgcrypt.so.11.hmac", "size_i": "65", "regex": "false"},
+	{"name_s": "/lib64/libgcrypt.so.11", "size_i": "19", "regex": "false"},
+	{"name_s": "/lib64/libgcrypt.so.11.5.3", "size_i": "478496", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgcrypt-1.4.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgcrypt-1.4.5/AUTHORS", "size_i": "4130", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgcrypt-1.4.5/COPYING.LIB", "size_i": "26536", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgcrypt-1.4.5/NEWS", "size_i": "20839", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgcrypt-1.4.5/THANKS", "size_i": "6556", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Tie-IxHash-1.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Tie-IxHash-1.21/Changes", "size_i": "425", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Tie-IxHash-1.21/README", "size_i": "1248", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Tie::IxHash.3pm.gz", "size_i": "4010", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Tie", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Tie/IxHash.pm", "size_i": "13918", "regex": "false"}
+]

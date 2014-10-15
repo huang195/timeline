@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/maven/fragments", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/maven/fragments/jakarta-commons-net", "size_i": "296", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-net-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-net-2.0/LICENSE.txt", "size_i": "11560", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-net-2.0.jar", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-net.jar", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-net-2.0.jar", "size_i": "196632", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-net.jar", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/maven2/poms/JPP-jakarta-commons-net.pom", "size_i": "7656", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-is-0.20030920", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-is-0.20030920/README_hyph_is_IS.txt", "size_i": "351", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_is_IS.dic", "size_i": "28448", "regex": "false"}
+]

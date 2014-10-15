@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/libboost_date_time-mt.so.5", "size_i": "65100", "regex": "false"},
+	{"name_s": "/usr/lib/libboost_date_time.so.5", "size_i": "65080", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-date-time-1.41.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-date-time-1.41.0/LICENSE_1_0.txt", "size_i": "1338", "regex": "false"}
+]

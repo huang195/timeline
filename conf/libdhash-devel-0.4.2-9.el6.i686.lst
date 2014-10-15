@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/dhash.h", "size_i": "17624", "regex": "false"},
+	{"name_s": "/usr/lib/libdhash.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/dhash.pc", "size_i": "290", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdhash-devel-0.4.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdhash-devel-0.4.2/README.dhash", "size_i": "51", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdhash-devel-0.4.2/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdhash-devel-0.4.2/examples/dhash_example.c", "size_i": "4462", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdhash-devel-0.4.2/examples/dhash_test.c", "size_i": "19431", "regex": "false"}
+]

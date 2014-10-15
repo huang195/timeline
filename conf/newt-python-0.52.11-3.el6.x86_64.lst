@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/_snackmodule.so", "size_i": "35504", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/snack.py", "size_i": "30643", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/snack.pyc", "size_i": "40757", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/snack.pyo", "size_i": "40757", "regex": "false"},
+	{"name_s": "/usr/share/doc/newt-python-0.52.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/newt-python-0.52.11/peanuts.py", "size_i": "1141", "regex": "false"},
+	{"name_s": "/usr/share/doc/newt-python-0.52.11/popcorn.py", "size_i": "2972", "regex": "false"}
+]

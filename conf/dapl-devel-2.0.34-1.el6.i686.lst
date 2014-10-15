@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/include/dat2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/dat2/dat.h", "size_i": "51397", "regex": "false"},
+	{"name_s": "/usr/include/dat2/dat_error.h", "size_i": "14192", "regex": "false"},
+	{"name_s": "/usr/include/dat2/dat_ib_extensions.h", "size_i": "38388", "regex": "false"},
+	{"name_s": "/usr/include/dat2/dat_platform_specific.h", "size_i": "8614", "regex": "false"},
+	{"name_s": "/usr/include/dat2/dat_redirection.h", "size_i": "29095", "regex": "false"},
+	{"name_s": "/usr/include/dat2/dat_registry.h", "size_i": "4569", "regex": "false"},
+	{"name_s": "/usr/include/dat2/dat_vendor_specific.h", "size_i": "2220", "regex": "false"},
+	{"name_s": "/usr/include/dat2/udat.h", "size_i": "18869", "regex": "false"},
+	{"name_s": "/usr/include/dat2/udat_config.h", "size_i": "3161", "regex": "false"},
+	{"name_s": "/usr/include/dat2/udat_redirection.h", "size_i": "13939", "regex": "false"},
+	{"name_s": "/usr/include/dat2/udat_vendor_specific.h", "size_i": "2504", "regex": "false"},
+	{"name_s": "/usr/lib/libdaplofa.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libdaploscm.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libdaploucm.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libdat2.so", "size_i": "16", "regex": "false"}
+]

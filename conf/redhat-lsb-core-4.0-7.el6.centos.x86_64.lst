@@ -1,0 +1,23 @@
+[
+	{"name_s": "/bin/redhat_lsb_init", "size_i": "576", "regex": "false"},
+	{"name_s": "/etc/lsb-release", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/lsb-release.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/lsb-release.d/base-4.0-amd64", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/lsb-release.d/base-4.0-noarch", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/lsb-release.d/core-4.0-amd64", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/lsb-release.d/core-4.0-noarch", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/redhat-lsb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/redhat-lsb/lsb_killproc", "size_i": "70", "regex": "false"},
+	{"name_s": "/etc/redhat-lsb/lsb_log_message", "size_i": "243", "regex": "false"},
+	{"name_s": "/etc/redhat-lsb/lsb_pidofproc", "size_i": "59", "regex": "false"},
+	{"name_s": "/etc/redhat-lsb/lsb_start_daemon", "size_i": "650", "regex": "false"},
+	{"name_s": "/lib/lsb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/lsb/init-functions", "size_i": "631", "regex": "false"},
+	{"name_s": "/lib64/ld-lsb-x86-64.so.3", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/bin/lsb_release", "size_i": "15929", "regex": "false"},
+	{"name_s": "/usr/lib/lsb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/lsb/install_initd", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/lsb/remove_initd", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/sbin/redhat_lsb_trigger.x86_64", "size_i": "2896", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/lsb_release.1.gz", "size_i": "1771", "regex": "false"}
+]

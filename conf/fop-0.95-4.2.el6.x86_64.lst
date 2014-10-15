@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/fop", "size_i": "725", "regex": "false"},
+	{"name_s": "/usr/share/doc/fop-0.95", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/fop-0.95/LICENSE", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/fop-0.95/NOTICE", "size_i": "351", "regex": "false"},
+	{"name_s": "/usr/share/doc/fop-0.95/README", "size_i": "7766", "regex": "false"},
+	{"name_s": "/usr/share/fop", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fop/conf", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fop/conf/fop.xconf", "size_i": "5401", "regex": "false"},
+	{"name_s": "/usr/share/java/fop-0.95.jar", "size_i": "2253827", "regex": "false"},
+	{"name_s": "/usr/share/java/fop.jar", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/share/java/pdf-transcoder.jar", "size_i": "642619", "regex": "false"}
+]

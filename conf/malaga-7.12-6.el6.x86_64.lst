@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/bin/malaga", "size_i": "49824", "regex": "false"},
+	{"name_s": "/usr/bin/mallex", "size_i": "53968", "regex": "false"},
+	{"name_s": "/usr/bin/malmake", "size_i": "12504", "regex": "false"},
+	{"name_s": "/usr/bin/malrul", "size_i": "40656", "regex": "false"},
+	{"name_s": "/usr/bin/malshow", "size_i": "83992", "regex": "false"},
+	{"name_s": "/usr/bin/malsym", "size_i": "15336", "regex": "false"},
+	{"name_s": "/usr/share/info/malaga.info.gz", "size_i": "42613", "regex": "false"},
+	{"name_s": "/usr/share/malaga", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/malaga/malaga.el", "size_i": "23494", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/malaga.1.gz", "size_i": "1141", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mallex.1.gz", "size_i": "1416", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/malmake.1.gz", "size_i": "874", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/malrul.1.gz", "size_i": "785", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/malshow.1.gz", "size_i": "746", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/malsym.1.gz", "size_i": "834", "regex": "false"}
+]

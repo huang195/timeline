@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/lib64/dirsrv/plugins/nisserver-plugin.so", "size_i": "140120", "regex": "false"},
+	{"name_s": "/usr/lib64/dirsrv/plugins/schemacompat-plugin.so", "size_i": "110712", "regex": "false"},
+	{"name_s": "/usr/sbin/nisserver-plugin-defs", "size_i": "10976", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40/COPYING", "size_i": "628", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40/NEWS", "size_i": "4878", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40/README", "size_i": "630", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40/STATUS", "size_i": "41", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40/format-specifiers.txt", "size_i": "18454", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40/nis-configuration.txt", "size_i": "6544", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40/nis-getting-started.txt", "size_i": "11501", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40/nis-known-maps.txt", "size_i": "561", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40/nis-plugin-example.ldif", "size_i": "2000", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40/sch-configuration.txt", "size_i": "3523", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40/sch-getting-started.txt", "size_i": "9658", "regex": "false"},
+	{"name_s": "/usr/share/doc/slapi-nis-0.40/sch-plugin-example.ldif", "size_i": "2510", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/nisserver-plugin-defs.1.gz", "size_i": "640", "regex": "false"}
+]

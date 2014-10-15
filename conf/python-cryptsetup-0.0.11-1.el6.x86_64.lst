@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/cryptsetup.so", "size_i": "16096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pycryptsetup", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pycryptsetup-0.0.11-py2.6.egg-info", "size_i": "224", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pycryptsetup/__init__.py", "size_i": "1678", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pycryptsetup/__init__.pyc", "size_i": "1477", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pycryptsetup/__init__.pyo", "size_i": "1477", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pycryptsetup/fillins.py", "size_i": "5392", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pycryptsetup/fillins.pyc", "size_i": "4351", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pycryptsetup/fillins.pyo", "size_i": "4351", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-cryptsetup-0.0.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-cryptsetup-0.0.11/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-cryptsetup-0.0.11/selftest.py", "size_i": "689", "regex": "false"}
+]

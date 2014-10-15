@@ -1,0 +1,16 @@
+[
+	{"name_s": "/sbin/xfsdump", "size_i": "291640", "regex": "false"},
+	{"name_s": "/sbin/xfsrestore", "size_i": "343904", "regex": "false"},
+	{"name_s": "/usr/sbin/xfsdump", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/sbin/xfsinvutil", "size_i": "61456", "regex": "false"},
+	{"name_s": "/usr/sbin/xfsrestore", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/share/doc/xfsdump-3.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xfsdump-3.0.4/CHANGES", "size_i": "22191", "regex": "false"},
+	{"name_s": "/usr/share/doc/xfsdump-3.0.4/COPYING", "size_i": "18191", "regex": "false"},
+	{"name_s": "/usr/share/doc/xfsdump-3.0.4/README", "size_i": "452", "regex": "false"},
+	{"name_s": "/usr/share/doc/xfsdump-3.0.4/README.xfsdump", "size_i": "6314", "regex": "false"},
+	{"name_s": "/usr/share/doc/xfsdump-3.0.4/xfsdump_ts.txt", "size_i": "2777", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/xfsdump.8.gz", "size_i": "9058", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/xfsinvutil.8.gz", "size_i": "1979", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/xfsrestore.8.gz", "size_i": "8083", "regex": "false"}
+]

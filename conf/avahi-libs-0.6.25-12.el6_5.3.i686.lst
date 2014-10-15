@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/libavahi-client.so.3", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libavahi-client.so.3.2.5", "size_i": "64064", "regex": "false"},
+	{"name_s": "/usr/lib/libavahi-common.so.3", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libavahi-common.so.3.5.1", "size_i": "47608", "regex": "false"}
+]

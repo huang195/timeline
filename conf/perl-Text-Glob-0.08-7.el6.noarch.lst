@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Text-Glob-0.08", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Text-Glob-0.08/Changes", "size_i": "1037", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Text-Glob-0.08/README", "size_i": "1247", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Text::Glob.3pm.gz", "size_i": "2892", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Text", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Text/Glob.pm", "size_i": "4615", "regex": "false"}
+]

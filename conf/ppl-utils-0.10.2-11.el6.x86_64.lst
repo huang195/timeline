@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/ppl_lcdd", "size_i": "58848", "regex": "false"},
+	{"name_s": "/usr/bin/ppl_lpsol", "size_i": "32816", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ppl_lcdd.1.gz", "size_i": "1061", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ppl_lpsol.1.gz", "size_i": "1437", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/libibverbs.d/cxgb4.driver", "size_i": "13", "regex": "false"},
+	{"name_s": "/etc/modprobe.d/libcxgb4.conf", "size_i": "79", "regex": "false"},
+	{"name_s": "/usr/lib64/libcxgb4-rdmav2.so", "size_i": "27928", "regex": "false"},
+	{"name_s": "/usr/lib64/libcxgb4.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcxgb4-1.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcxgb4-1.2.0/AUTHORS", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcxgb4-1.2.0/COPYING", "size_i": "1487", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcxgb4-1.2.0/README", "size_i": "557", "regex": "false"}
+]

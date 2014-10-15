@@ -1,0 +1,16 @@
+[
+	{"name_s": "/lib/libproc.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/include/proc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/proc/alloc.h", "size_i": "279", "regex": "false"},
+	{"name_s": "/usr/include/proc/devname.h", "size_i": "431", "regex": "false"},
+	{"name_s": "/usr/include/proc/escape.h", "size_i": "803", "regex": "false"},
+	{"name_s": "/usr/include/proc/procps.h", "size_i": "3597", "regex": "false"},
+	{"name_s": "/usr/include/proc/pwcache.h", "size_i": "313", "regex": "false"},
+	{"name_s": "/usr/include/proc/readproc.h", "size_i": "11545", "regex": "false"},
+	{"name_s": "/usr/include/proc/sig.h", "size_i": "944", "regex": "false"},
+	{"name_s": "/usr/include/proc/slab.h", "size_i": "1794", "regex": "false"},
+	{"name_s": "/usr/include/proc/sysinfo.h", "size_i": "4450", "regex": "false"},
+	{"name_s": "/usr/include/proc/version.h", "size_i": "1079", "regex": "false"},
+	{"name_s": "/usr/include/proc/wchan.h", "size_i": "418", "regex": "false"},
+	{"name_s": "/usr/include/proc/whattime.h", "size_i": "174", "regex": "false"}
+]

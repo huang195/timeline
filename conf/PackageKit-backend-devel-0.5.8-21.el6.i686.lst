@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/include/PackageKit", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/PackageKit/backend", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/PackageKit/backend/pk-backend-spawn.h", "size_i": "2842", "regex": "false"},
+	{"name_s": "/usr/include/PackageKit/backend/pk-backend.h", "size_i": "12813", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-backend-devel-0.5.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-backend-devel-0.5.8/AUTHORS", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-backend-devel-0.5.8/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-backend-devel-0.5.8/NEWS", "size_i": "205506", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-backend-devel-0.5.8/README", "size_i": "279", "regex": "false"}
+]

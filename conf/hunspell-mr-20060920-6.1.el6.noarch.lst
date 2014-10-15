@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-mr-20060920", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-mr-20060920/LICENCE", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-mr-20060920/README_mr_IN.txt", "size_i": "4191", "regex": "false"},
+	{"name_s": "/usr/share/myspell/mr_IN.aff", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/share/myspell/mr_IN.dic", "size_i": "294482", "regex": "false"}
+]

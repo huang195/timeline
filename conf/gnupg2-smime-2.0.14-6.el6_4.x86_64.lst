@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/gpgsm", "size_i": "416728", "regex": "false"},
+	{"name_s": "/usr/bin/gpgsm-gencert.sh", "size_i": "4635", "regex": "false"},
+	{"name_s": "/usr/bin/kbxutil", "size_i": "108176", "regex": "false"},
+	{"name_s": "/usr/bin/scdaemon", "size_i": "358648", "regex": "false"},
+	{"name_s": "/usr/share/gnupg/com-certs.pem", "size_i": "27164", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gpgsm-gencert.sh.1.gz", "size_i": "454", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gpgsm.1.gz", "size_i": "11656", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/scdaemon.1.gz", "size_i": "4366", "regex": "false"}
+]

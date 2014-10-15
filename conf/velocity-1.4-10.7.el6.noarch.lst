@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/velocity-1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/velocity-1.4/LICENSE", "size_i": "11356", "regex": "false"},
+	{"name_s": "/usr/share/doc/velocity-1.4/NOTICE", "size_i": "102", "regex": "false"},
+	{"name_s": "/usr/share/doc/velocity-1.4/README.txt", "size_i": "3654", "regex": "false"},
+	{"name_s": "/usr/share/java/velocity-1.4.jar", "size_i": "365407", "regex": "false"},
+	{"name_s": "/usr/share/java/velocity.jar", "size_i": "16", "regex": "false"}
+]

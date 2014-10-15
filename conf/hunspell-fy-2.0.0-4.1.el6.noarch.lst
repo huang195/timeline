@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-fy-2.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-fy-2.0.0/README-fy.txt", "size_i": "1841", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fy_DE.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fy_DE.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fy_NL.aff", "size_i": "5285", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fy_NL.dic", "size_i": "3784045", "regex": "false"}
+]

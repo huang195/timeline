@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/share/doc/perl-Digest-HMAC-1.01", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Digest-HMAC-1.01/Changes", "size_i": "149", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Digest-HMAC-1.01/README", "size_i": "687", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Digest-HMAC-1.01/rfc2104.txt", "size_i": "22297", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Digest::HMAC.3pm.gz", "size_i": "2216", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Digest::HMAC_MD5.3pm.gz", "size_i": "1987", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Digest::HMAC_SHA1.3pm.gz", "size_i": "1991", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Digest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Digest/HMAC.pm", "size_i": "2433", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Digest/HMAC_MD5.pm", "size_i": "1114", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Digest/HMAC_SHA1.pm", "size_i": "1133", "regex": "false"}
+]

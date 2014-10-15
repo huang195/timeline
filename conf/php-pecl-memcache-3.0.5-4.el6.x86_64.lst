@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/php.d/memcache.ini", "size_i": "1329", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/memcache.so", "size_i": "98536", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-memcache-3.0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-memcache-3.0.5/CHANGELOG", "size_i": "9972", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-memcache-3.0.5/CREDITS", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-memcache-3.0.5/LICENSE", "size_i": "3208", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-memcache-3.0.5/README", "size_i": "5253", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-memcache-3.0.5/example.php", "size_i": "509", "regex": "false"},
+	{"name_s": "/usr/share/doc/php-pecl-memcache-3.0.5/memcache.php", "size_i": "28546", "regex": "false"},
+	{"name_s": "/usr/share/pear/.pkgxml/php-pecl-memcache.xml", "size_i": "20072", "regex": "false"}
+]

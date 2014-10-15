@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/filter-data.conf", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/filter-data.py", "size_i": "17610", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/filter-data.pyc", "size_i": "15486", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/filter-data.pyo", "size_i": "15486", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-filter-data-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-filter-data-1.1.30/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/yum-filter-data.1.gz", "size_i": "1456", "regex": "false"}
+]

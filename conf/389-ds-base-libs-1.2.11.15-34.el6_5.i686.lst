@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/dirsrv", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/dirsrv/libslapd.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/dirsrv/libslapd.so.0.0.0", "size_i": "1020516", "regex": "false"},
+	{"name_s": "/usr/share/doc/389-ds-base-libs-1.2.11.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/389-ds-base-libs-1.2.11.15/EXCEPTION", "size_i": "806", "regex": "false"},
+	{"name_s": "/usr/share/doc/389-ds-base-libs-1.2.11.15/LICENSE", "size_i": "2064", "regex": "false"},
+	{"name_s": "/usr/share/doc/389-ds-base-libs-1.2.11.15/LICENSE.GPLv2", "size_i": "17996", "regex": "false"},
+	{"name_s": "/usr/share/doc/389-ds-base-libs-1.2.11.15/README.devel", "size_i": "177", "regex": "false"}
+]

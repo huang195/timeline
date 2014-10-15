@@ -1,0 +1,18 @@
+[
+	{"name_s": "/lib/libgpg-error.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/lib/libgpg-error.so.0.5.0", "size_i": "13628", "regex": "false"},
+	{"name_s": "/usr/bin/gpg-error", "size_i": "17840", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgpg-error-1.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgpg-error-1.7/AUTHORS", "size_i": "1040", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgpg-error-1.7/COPYING", "size_i": "18002", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgpg-error-1.7/COPYING.LIB", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgpg-error-1.7/ChangeLog", "size_i": "27514", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgpg-error-1.7/NEWS", "size_i": "9277", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgpg-error-1.7/README", "size_i": "2495", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/libgpg-error.mo", "size_i": "17078", "regex": "false"},
+	{"name_s": "/usr/share/locale/fr/LC_MESSAGES/libgpg-error.mo", "size_i": "14496", "regex": "false"},
+	{"name_s": "/usr/share/locale/pl/LC_MESSAGES/libgpg-error.mo", "size_i": "16753", "regex": "false"},
+	{"name_s": "/usr/share/locale/ro/LC_MESSAGES/libgpg-error.mo", "size_i": "14267", "regex": "false"},
+	{"name_s": "/usr/share/locale/sv/LC_MESSAGES/libgpg-error.mo", "size_i": "16002", "regex": "false"},
+	{"name_s": "/usr/share/locale/vi/LC_MESSAGES/libgpg-error.mo", "size_i": "18006", "regex": "false"}
+]

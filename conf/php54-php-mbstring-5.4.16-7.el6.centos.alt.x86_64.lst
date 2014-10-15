@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/php54/root/etc/php.d/mbstring.ini", "size_i": "57", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/mbstring.so", "size_i": "1300008", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-mbstring-5.4.16", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-mbstring-5.4.16/libmbfl_LICENSE", "size_i": "24389", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-mbstring-5.4.16/oniguruma_COPYING", "size_i": "1601", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-mbstring-5.4.16/ucgendat_LICENSE", "size_i": "2213", "regex": "false"}
+]

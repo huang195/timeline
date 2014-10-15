@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libnm-glib-vpn.so.1", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libnm-glib-vpn.so.1.1.0", "size_i": "32552", "regex": "false"},
+	{"name_s": "/usr/lib64/libnm-glib.so.2", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libnm-glib.so.2.7.0", "size_i": "194648", "regex": "false"},
+	{"name_s": "/usr/lib64/libnm-util.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libnm-util.so.1.9.0", "size_i": "342632", "regex": "false"}
+]

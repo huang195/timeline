@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/efax", "size_i": "92904", "regex": "false"},
+	{"name_s": "/usr/bin/efix", "size_i": "50088", "regex": "false"},
+	{"name_s": "/usr/bin/fax", "size_i": "28512", "regex": "false"},
+	{"name_s": "/usr/share/doc/efax-0.9a", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/efax-0.9a/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/efax-0.9a/README", "size_i": "2950", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/efax.1.gz", "size_i": "16239", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/efix.1.gz", "size_i": "2636", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/fax.1.gz", "size_i": "2765", "regex": "false"},
+	{"name_s": "/var/log/fax", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/spool/fax", "size_i": "4096", "regex": "false"}
+]

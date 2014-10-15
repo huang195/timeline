@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/rc.d/init.d/rpcbind", "size_i": "2073", "regex": "false"},
+	{"name_s": "/sbin/rpcbind", "size_i": "54408", "regex": "false"},
+	{"name_s": "/usr/sbin/rpcinfo", "size_i": "27968", "regex": "false"},
+	{"name_s": "/usr/share/doc/rpcbind-0.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rpcbind-0.2.0/AUTHORS", "size_i": "106", "regex": "false"},
+	{"name_s": "/usr/share/doc/rpcbind-0.2.0/ChangeLog", "size_i": "9045", "regex": "false"},
+	{"name_s": "/usr/share/doc/rpcbind-0.2.0/README", "size_i": "112", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rpcbind.8.gz", "size_i": "1555", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rpcinfo.8.gz", "size_i": "2388", "regex": "false"},
+	{"name_s": "/var/cache/rpcbind", "size_i": "4096", "regex": "false"}
+]

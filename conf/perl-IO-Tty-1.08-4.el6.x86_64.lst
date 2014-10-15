@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/perl5/vendor_perl/IO", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/IO/Pty.pm", "size_i": "8528", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/IO/Tty", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/IO/Tty.pm", "size_i": "7524", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/IO/Tty/Constant.pm", "size_i": "7184", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/IO", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/IO/Tty", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/IO/Tty/Tty.so", "size_i": "35656", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-IO-Tty-1.08", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-IO-Tty-1.08/ChangeLog", "size_i": "7182", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-IO-Tty-1.08/README", "size_i": "1686", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/IO::Pty.3pm.gz", "size_i": "4380", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/IO::Tty.3pm.gz", "size_i": "4550", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/IO::Tty::Constant.3pm.gz", "size_i": "3332", "regex": "false"}
+]

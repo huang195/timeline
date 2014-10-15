@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/ant.d/jmf", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-jmf-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-jmf-1.7.1.jar.so", "size_i": "32920", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-jmf.jar", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-jmf-1.7.1.jar", "size_i": "6586", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-jmf.jar", "size_i": "17", "regex": "false"}
+]

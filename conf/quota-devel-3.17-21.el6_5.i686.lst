@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/rpcsvc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/rpcsvc/rquota.h", "size_i": "5545", "regex": "false"},
+	{"name_s": "/usr/include/rpcsvc/rquota.x", "size_i": "3470", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/rquota.3.gz", "size_i": "375", "regex": "false"}
+]

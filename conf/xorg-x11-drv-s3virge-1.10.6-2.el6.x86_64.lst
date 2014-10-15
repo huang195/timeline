@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/s3virge_drv.so", "size_i": "70120", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/s3virge.xinf", "size_i": "756", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/s3virge.4.gz", "size_i": "3097", "regex": "false"}
+]

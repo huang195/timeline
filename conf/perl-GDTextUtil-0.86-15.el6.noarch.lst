@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/share/doc/perl-GDTextUtil-0.86", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GDTextUtil-0.86/Changes", "size_i": "1800", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GDTextUtil-0.86/README", "size_i": "4831", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GDTextUtil-0.86/demo", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GDTextUtil-0.86/demo/GDWrap.pl", "size_i": "1610", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-GDTextUtil-0.86/demo/GDWrap.ref.png", "size_i": "4149", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/GD::Text.3pm.gz", "size_i": "5094", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/GD::Text::Align.3pm.gz", "size_i": "3714", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/GD::Text::Wrap.3pm.gz", "size_i": "4010", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD/Text", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD/Text.pm", "size_i": "16996", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD/Text/Align.pm", "size_i": "11673", "regex": "false"},
+	{"name_s": "/usr/share/perl5/GD/Text/Wrap.pm", "size_i": "12157", "regex": "false"}
+]

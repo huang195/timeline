@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/mythes-el-0.20070412", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-el-0.20070412/README_th_el_GR_v2.txt", "size_i": "20085", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_el_CY_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_el_CY_v2.idx", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_el_GR_v2.dat", "size_i": "813070", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_el_GR_v2.idx", "size_i": "112172", "regex": "false"}
+]

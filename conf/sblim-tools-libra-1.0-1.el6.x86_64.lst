@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libRaTools.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libRaTools.so.0.0.0", "size_i": "16176", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-tools-libra-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-tools-libra-1.0/AUTHORS", "size_i": "359", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-tools-libra-1.0/COPYING", "size_i": "11533", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-tools-libra-1.0/README", "size_i": "2004", "regex": "false"}
+]

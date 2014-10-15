@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/bin/substrings.pl", "size_i": "5039", "regex": "false"},
+	{"name_s": "/usr/include/hyphen.h", "size_i": "5366", "regex": "false"},
+	{"name_s": "/usr/lib64/libhyphen.so", "size_i": "18", "regex": "false"}
+]

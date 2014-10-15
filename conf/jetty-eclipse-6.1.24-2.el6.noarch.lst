@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/share/doc/jetty-eclipse-6.1.24", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jetty-eclipse-6.1.24/NOTICE.txt", "size_i": "1621", "regex": "false"},
+	{"name_s": "/usr/share/doc/jetty-eclipse-6.1.24/VERSION.txt", "size_i": "166148", "regex": "false"},
+	{"name_s": "/usr/share/java/jetty-eclipse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/java/jetty-eclipse/jetty-6.1.24.jar", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/share/java/jetty-eclipse/jetty-util-6.1.24.jar", "size_i": "50", "regex": "false"},
+	{"name_s": "/usr/share/java/jetty-eclipse/jetty-util.jar", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/share/java/jetty-eclipse/jetty.jar", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/jetty-eclipse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/jetty-eclipse/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/jetty-eclipse/lib/jetty-6.1.24.jar", "size_i": "535147", "regex": "false"},
+	{"name_s": "/usr/share/jetty-eclipse/lib/jetty-util-6.1.24.jar", "size_i": "175149", "regex": "false"}
+]

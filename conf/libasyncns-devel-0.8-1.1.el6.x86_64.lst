@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/asyncns.h", "size_i": "6985", "regex": "false"},
+	{"name_s": "/usr/lib64/libasyncns.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libasyncns.pc", "size_i": "211", "regex": "false"}
+]

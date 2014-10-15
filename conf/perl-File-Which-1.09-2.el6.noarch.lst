@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/pwhich", "size_i": "3102", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Which-1.09", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Which-1.09/Changes", "size_i": "2608", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Which-1.09/README", "size_i": "4078", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pwhich.1.gz", "size_i": "2743", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::Which.3pm.gz", "size_i": "3674", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Which.pm", "size_i": "6682", "regex": "false"}
+]

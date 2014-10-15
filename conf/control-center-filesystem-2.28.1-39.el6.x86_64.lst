@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/window-manager-settings", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gnome-control-center", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gnome-control-center/keybindings", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gnome/wm-properties", "size_i": "4096", "regex": "false"}
+]

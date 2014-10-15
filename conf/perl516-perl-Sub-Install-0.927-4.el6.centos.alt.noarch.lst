@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sub-Install-0.927", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sub-Install-0.927/Changes", "size_i": "1454", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sub-Install-0.927/LICENSE", "size_i": "18353", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Sub-Install-0.927/README", "size_i": "307", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Sub::Install.3pm.gz", "size_i": "3572", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Sub", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Sub/Install.pm", "size_i": "8238", "regex": "false"}
+]

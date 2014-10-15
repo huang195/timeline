@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/evolution/2.32/plugins/liborg-gnome-pst-import.so", "size_i": "42048", "regex": "false"},
+	{"name_s": "/usr/lib64/evolution/2.32/plugins/org-gnome-pst-import.eplug", "size_i": "802", "regex": "false"}
+]

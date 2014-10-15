@@ -1,0 +1,17 @@
+[
+	{"name_s": "/etc/sgml/xhtml1-dtds-1.0-20020801.7.soc", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/sgml/xhtml1-dtds.soc", "size_i": "30", "regex": "false"},
+	{"name_s": "/etc/xml/xhtml1-dtds-1.0-20020801.7.xml", "size_i": "1293", "regex": "false"},
+	{"name_s": "/etc/xml/xhtml1-dtds.xml", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/share/xml/xhtml", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/xml/xhtml/1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/xml/xhtml/1.0/catalog.xml", "size_i": "1152", "regex": "false"},
+	{"name_s": "/usr/share/xml/xhtml/1.0/xhtml-lat1.ent", "size_i": "11775", "regex": "false"},
+	{"name_s": "/usr/share/xml/xhtml/1.0/xhtml-special.ent", "size_i": "4131", "regex": "false"},
+	{"name_s": "/usr/share/xml/xhtml/1.0/xhtml-symbol.ent", "size_i": "13848", "regex": "false"},
+	{"name_s": "/usr/share/xml/xhtml/1.0/xhtml.soc", "size_i": "1120", "regex": "false"},
+	{"name_s": "/usr/share/xml/xhtml/1.0/xhtml1-frameset.dtd", "size_i": "32950", "regex": "false"},
+	{"name_s": "/usr/share/xml/xhtml/1.0/xhtml1-strict.dtd", "size_i": "25473", "regex": "false"},
+	{"name_s": "/usr/share/xml/xhtml/1.0/xhtml1-transitional.dtd", "size_i": "32112", "regex": "false"},
+	{"name_s": "/usr/share/xml/xhtml/1.0/xhtml1.dcl", "size_i": "7467", "regex": "false"}
+]

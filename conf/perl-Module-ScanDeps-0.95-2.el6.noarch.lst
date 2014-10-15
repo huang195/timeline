@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/scandeps.pl", "size_i": "5811", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Module-ScanDeps-0.95", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Module-ScanDeps-0.95/AUTHORS", "size_i": "1651", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Module-ScanDeps-0.95/Changes", "size_i": "16013", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Module-ScanDeps-0.95/README", "size_i": "879", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/scandeps.pl.1.gz", "size_i": "3056", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Module::ScanDeps.3pm.gz", "size_i": "5154", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Module::ScanDeps::DataFeed.3pm.gz", "size_i": "2353", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/ScanDeps", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/ScanDeps.pm", "size_i": "44396", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/ScanDeps/Cache.pm", "size_i": "2495", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/ScanDeps/DataFeed.pm", "size_i": "3622", "regex": "false"}
+]

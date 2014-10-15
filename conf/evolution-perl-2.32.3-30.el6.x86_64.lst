@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/libexec/evolution/2.32/csv2vcard", "size_i": "7217", "regex": "false"},
+	{"name_s": "/usr/libexec/evolution/2.32/evolution-addressbook-clean", "size_i": "606", "regex": "false"}
+]

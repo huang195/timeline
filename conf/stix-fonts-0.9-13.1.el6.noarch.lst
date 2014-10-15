@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/fonts/conf.d/61-stix.conf", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/share/doc/stix-fonts-0.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/stix-fonts-0.9/License.txt", "size_i": "3908", "regex": "false"},
+	{"name_s": "/usr/share/doc/stix-fonts-0.9/Readme.txt", "size_i": "4442", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/61-stix.conf", "size_i": "332", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXGeneral.otf", "size_i": "273424", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXGeneralBol.otf", "size_i": "188836", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXGeneralBolIta.otf", "size_i": "154180", "regex": "false"},
+	{"name_s": "/usr/share/fonts/stix/STIXGeneralItalic.otf", "size_i": "149946", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/libbind9.so.80", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libbind9.so.80.0.4", "size_i": "49936", "regex": "false"},
+	{"name_s": "/usr/lib64/libdns.so.81", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libdns.so.81.4.1", "size_i": "1671904", "regex": "false"},
+	{"name_s": "/usr/lib64/libisc.so.83", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libisc.so.83.0.3", "size_i": "355952", "regex": "false"},
+	{"name_s": "/usr/lib64/libisccc.so.80", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libisccc.so.80.0.0", "size_i": "32056", "regex": "false"},
+	{"name_s": "/usr/lib64/libisccfg.so.82", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libisccfg.so.82.0.1", "size_i": "137536", "regex": "false"},
+	{"name_s": "/usr/lib64/liblwres.so.80", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/liblwres.so.80.0.2", "size_i": "73336", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/libcmpiutil", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libcmpiutil/libcmpiutil.h", "size_i": "20590", "regex": "false"},
+	{"name_s": "/usr/include/libcmpiutil/std_association.h", "size_i": "8352", "regex": "false"},
+	{"name_s": "/usr/include/libcmpiutil/std_indication.h", "size_i": "10488", "regex": "false"},
+	{"name_s": "/usr/include/libcmpiutil/std_instance.h", "size_i": "3675", "regex": "false"},
+	{"name_s": "/usr/include/libcmpiutil/std_invokemethod.h", "size_i": "5037", "regex": "false"},
+	{"name_s": "/usr/lib64/libcmpiutil.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libcueoparser.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libcmpiutil.pc", "size_i": "214", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcmpiutil-devel-0.5.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcmpiutil-devel-0.5.6/SubmittingPatches", "size_i": "1548", "regex": "false"}
+]

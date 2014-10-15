@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libspice-client-gtk-2.0.so.4", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/lib/libspice-client-gtk-2.0.so.4.0.0", "size_i": "86844", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-gtk-0.20", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-gtk-0.20/AUTHORS", "size_i": "283", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-gtk-0.20/COPYING", "size_i": "26530", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-gtk-0.20/NEWS", "size_i": "6963", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-gtk-0.20/README", "size_i": "1643", "regex": "false"}
+]

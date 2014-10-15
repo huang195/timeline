@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-da-1.7.29", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-da-1.7.29/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-da-1.7.29/Copyright", "size_i": "861", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-da-1.7.29/README", "size_i": "1087", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-da-1.7.29/contributors", "size_i": "32616", "regex": "false"},
+	{"name_s": "/usr/share/myspell/da_DK.aff", "size_i": "21145", "regex": "false"},
+	{"name_s": "/usr/share/myspell/da_DK.dic", "size_i": "1061714", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/libminizip-1.dll", "size_i": "116966", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/minizip", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/minizip/crypt.h", "size_i": "4712", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/minizip/ioapi.h", "size_i": "2535", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/minizip/mztools.h", "size_i": "681", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/minizip/unzip.h", "size_i": "12968", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/minizip/zip.h", "size_i": "8847", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libminizip.dll.a", "size_i": "27466", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libminizip.la", "size_i": "977", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/pkgconfig/minizip.pc", "size_i": "348", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-minizip-1.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-minizip-1.2.3/ChangeLogUnzip", "size_i": "2055", "regex": "false"}
+]

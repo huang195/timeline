@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/freeradius/rlm_python-2.1.12.so", "size_i": "16688", "regex": "false"},
+	{"name_s": "/usr/lib64/freeradius/rlm_python.so", "size_i": "20", "regex": "false"}
+]

@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/X11/fontpath.d/liberation-fonts", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/doc/liberation-fonts-common-1.05.1.20090721", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/liberation-fonts-common-1.05.1.20090721/AUTHORS", "size_i": "151", "regex": "false"},
+	{"name_s": "/usr/share/doc/liberation-fonts-common-1.05.1.20090721/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/liberation-fonts-common-1.05.1.20090721/ChangeLog", "size_i": "7084", "regex": "false"},
+	{"name_s": "/usr/share/doc/liberation-fonts-common-1.05.1.20090721/License.txt", "size_i": "4009", "regex": "false"},
+	{"name_s": "/usr/share/doc/liberation-fonts-common-1.05.1.20090721/README", "size_i": "2178", "regex": "false"},
+	{"name_s": "/usr/share/fonts/liberation", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/liberation/fonts.dir", "size_i": "14582", "regex": "false"},
+	{"name_s": "/usr/share/fonts/liberation/fonts.scale", "size_i": "14582", "regex": "false"}
+]

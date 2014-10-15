@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-la-0.20080903", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-la-0.20080903/README-la-2008-09-03.txt", "size_i": "20495", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-la-0.20080903/README_extension_owner-la.txt", "size_i": "865", "regex": "false"},
+	{"name_s": "/usr/share/myspell/la_VA.aff", "size_i": "187931", "regex": "false"},
+	{"name_s": "/usr/share/myspell/la_VA.dic", "size_i": "439358", "regex": "false"}
+]

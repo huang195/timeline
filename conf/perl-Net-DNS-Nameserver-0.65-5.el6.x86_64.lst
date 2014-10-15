@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/perl5/Net/DNS/Nameserver.pm", "size_i": "22689", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Net::DNS::Nameserver.3pm.gz", "size_i": "5029", "regex": "false"}
+]

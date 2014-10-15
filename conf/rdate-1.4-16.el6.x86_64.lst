@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/rdate", "size_i": "10968", "regex": "false"},
+	{"name_s": "/usr/share/doc/rdate-1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rdate-1.4/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rdate.1.gz", "size_i": "700", "regex": "false"}
+]

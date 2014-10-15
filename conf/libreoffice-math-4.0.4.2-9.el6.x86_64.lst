@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/oomath", "size_i": "39", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/smath.cfg", "size_i": "918", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/smath.db", "size_i": "706634", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/smath.ht", "size_i": "566792", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/smath.idxl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/smath.idxl/_0.cfs", "size_i": "465151", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/smath.idxl/segments.gen", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/smath.idxl/segments_3", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/smath.jar", "size_i": "155274", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/smath.key", "size_i": "180460", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/help/en/smath.tree", "size_i": "2149", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/libsmdlo.so", "size_i": "50520", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/libsmlo.so", "size_i": "1149032", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/resource/smen-US.res", "size_i": "61844", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/smath", "size_i": "62", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/registry/math.xcd", "size_i": "16100", "regex": "false"},
+	{"name_s": "/usr/share/applications/libreoffice-math.desktop", "size_i": "13251", "regex": "false"}
+]

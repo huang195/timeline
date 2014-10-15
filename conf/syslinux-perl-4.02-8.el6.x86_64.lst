@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/bin/isohybrid.pl", "size_i": "13971", "regex": "false"},
+	{"name_s": "/usr/bin/keytab-lilo", "size_i": "2108", "regex": "false"},
+	{"name_s": "/usr/bin/lss16toppm", "size_i": "2479", "regex": "false"},
+	{"name_s": "/usr/bin/md5pass", "size_i": "587", "regex": "false"},
+	{"name_s": "/usr/bin/mkdiskimage", "size_i": "8774", "regex": "false"},
+	{"name_s": "/usr/bin/ppmtolss16", "size_i": "9600", "regex": "false"},
+	{"name_s": "/usr/bin/pxelinux-options", "size_i": "9966", "regex": "false"},
+	{"name_s": "/usr/bin/sha1pass", "size_i": "596", "regex": "false"},
+	{"name_s": "/usr/bin/syslinux2ansi", "size_i": "1421", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/lss16toppm.1.gz", "size_i": "394", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ppmtolss16.1.gz", "size_i": "873", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/syslinux2ansi.1.gz", "size_i": "816", "regex": "false"}
+]

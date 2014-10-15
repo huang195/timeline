@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/ftp", "size_i": "85832", "regex": "false"},
+	{"name_s": "/usr/bin/pftp", "size_i": "3", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ftp.1.gz", "size_i": "9101", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pftp.1.gz", "size_i": "8", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/netrc.5.gz", "size_i": "2072", "regex": "false"}
+]

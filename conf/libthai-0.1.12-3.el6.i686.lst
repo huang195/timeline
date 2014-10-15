@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib/libthai.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libthai.so.0.1.4", "size_i": "49268", "regex": "false"},
+	{"name_s": "/usr/share/doc/libthai-0.1.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libthai-0.1.12/AUTHORS", "size_i": "250", "regex": "false"},
+	{"name_s": "/usr/share/doc/libthai-0.1.12/COPYING", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/libthai-0.1.12/ChangeLog", "size_i": "72827", "regex": "false"},
+	{"name_s": "/usr/share/doc/libthai-0.1.12/README", "size_i": "1137", "regex": "false"},
+	{"name_s": "/usr/share/doc/libthai-0.1.12/TODO", "size_i": "87", "regex": "false"},
+	{"name_s": "/usr/share/libthai", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/libthai/thbrk.tri", "size_i": "543716", "regex": "false"}
+]

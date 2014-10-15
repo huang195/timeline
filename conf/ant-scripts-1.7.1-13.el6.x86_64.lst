@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/antRun.pl", "size_i": "2199", "regex": "false"},
+	{"name_s": "/usr/bin/complete-ant-cmd.pl", "size_i": "3200", "regex": "false"},
+	{"name_s": "/usr/bin/runant.pl", "size_i": "4422", "regex": "false"},
+	{"name_s": "/usr/bin/runant.py", "size_i": "3285", "regex": "false"}
+]

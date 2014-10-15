@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/cron.d/dmeventd-logwatch", "size_i": "156", "regex": "false"},
+	{"name_s": "/etc/logwatch/conf", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/logwatch/conf/services", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/logwatch/conf/services/dmeventd.conf", "size_i": "1239", "regex": "false"},
+	{"name_s": "/etc/logwatch/scripts", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/logwatch/scripts/services", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/logwatch/scripts/services/dmeventd", "size_i": "2754", "regex": "false"},
+	{"name_s": "/var/cache/logwatch/dmeventd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/cache/logwatch/dmeventd/syslogpattern.txt", "size_i": "0", "regex": "false"}
+]

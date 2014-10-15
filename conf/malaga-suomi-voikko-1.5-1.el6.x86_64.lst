@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/voikko", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/voikko/2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/voikko/2/mor-standard", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/voikko/2/mor-standard/voikko-fi_FI.lex_l", "size_i": "8283346", "regex": "false"},
+	{"name_s": "/usr/lib64/voikko/2/mor-standard/voikko-fi_FI.mor_l", "size_i": "52473", "regex": "false"},
+	{"name_s": "/usr/lib64/voikko/2/mor-standard/voikko-fi_FI.pro", "size_i": "1462", "regex": "false"},
+	{"name_s": "/usr/lib64/voikko/2/mor-standard/voikko-fi_FI.sym_l", "size_i": "17903", "regex": "false"},
+	{"name_s": "/usr/share/doc/malaga-suomi-voikko-1.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/malaga-suomi-voikko-1.5/CONTRIBUTORS", "size_i": "965", "regex": "false"},
+	{"name_s": "/usr/share/doc/malaga-suomi-voikko-1.5/COPYING", "size_i": "17989", "regex": "false"},
+	{"name_s": "/usr/share/doc/malaga-suomi-voikko-1.5/ChangeLog", "size_i": "5247", "regex": "false"},
+	{"name_s": "/usr/share/doc/malaga-suomi-voikko-1.5/README", "size_i": "4487", "regex": "false"},
+	{"name_s": "/usr/share/doc/malaga-suomi-voikko-1.5/README.fi", "size_i": "2196", "regex": "false"}
+]

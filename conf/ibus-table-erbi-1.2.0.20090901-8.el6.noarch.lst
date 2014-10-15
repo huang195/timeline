@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/ibus-table-erbi-1.2.0.20090901", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-table-erbi-1.2.0.20090901/AUTHORS", "size_i": "192", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-table-erbi-1.2.0.20090901/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-table-erbi-1.2.0.20090901/ChangeLog", "size_i": "3785", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-table-erbi-1.2.0.20090901/README", "size_i": "251", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/icons/erbi-qs.svg", "size_i": "11015", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/icons/erbi.png", "size_i": "2627", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/erbi.db", "size_i": "1867776", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/erbi_qs.db", "size_i": "4956160", "regex": "false"}
+]

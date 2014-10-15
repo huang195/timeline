@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libsexy.so.2", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libsexy.so.2.0.4", "size_i": "65412", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsexy-0.1.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsexy-0.1.11/AUTHORS", "size_i": "217", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsexy-0.1.11/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsexy-0.1.11/NEWS", "size_i": "4905", "regex": "false"}
+]

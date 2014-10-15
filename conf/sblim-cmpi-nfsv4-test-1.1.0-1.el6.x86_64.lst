@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_NFSv4SettingContext.cim", "size_i": "2549", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_NFSv4SystemConfiguration.cim", "size_i": "1474", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/cim/Linux_NFSv4SystemSetting.cim", "size_i": "1742", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/exports.nfsv4", "size_i": "247", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/sblim-cmpi-nfsv4-test.sh", "size_i": "930", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_NFSv4SettingContext.system", "size_i": "385", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_NFSv4SystemConfiguration.system", "size_i": "708", "regex": "false"},
+	{"name_s": "/usr/share/sblim-testsuite/system/linux/Linux_NFSv4SystemSetting.system", "size_i": "746", "regex": "false"}
+]

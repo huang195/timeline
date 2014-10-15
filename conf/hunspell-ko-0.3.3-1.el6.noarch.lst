@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-ko-0.3.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ko-0.3.3/LICENSE", "size_i": "1675", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ko-0.3.3/LICENSE.GPL", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ko-0.3.3/LICENSE.LGPL", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ko-0.3.3/LICENSE.MPL", "size_i": "30826", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ko-0.3.3/README", "size_i": "10473", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ko_KR.aff", "size_i": "5512666", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ko_KR.dic", "size_i": "8132939", "regex": "false"}
+]

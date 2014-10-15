@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/rcp", "size_i": "20888", "regex": "false"},
+	{"name_s": "/usr/bin/rexec", "size_i": "17304", "regex": "false"},
+	{"name_s": "/usr/bin/rlogin", "size_i": "15640", "regex": "false"},
+	{"name_s": "/usr/bin/rsh", "size_i": "11408", "regex": "false"},
+	{"name_s": "/usr/share/doc/rsh-0.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rsh-0.17/BUGS", "size_i": "441", "regex": "false"},
+	{"name_s": "/usr/share/doc/rsh-0.17/README", "size_i": "4721", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rcp.1.gz", "size_i": "1984", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rexec.1.gz", "size_i": "2870", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rlogin.1.gz", "size_i": "2029", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rsh.1.gz", "size_i": "2121", "regex": "false"}
+]

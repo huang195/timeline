@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib/sasl2/libldapdb.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/sasl2/libldapdb.so.2", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/sasl2/libldapdb.so.2.0.23", "size_i": "17928", "regex": "false"}
+]

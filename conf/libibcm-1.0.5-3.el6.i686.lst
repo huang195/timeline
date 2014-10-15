@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libibcm.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libibcm.so.1.0.0", "size_i": "14436", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibcm-1.0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibcm-1.0.5/AUTHORS", "size_i": "71", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibcm-1.0.5/COPYING", "size_i": "19825", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibcm-1.0.5/README", "size_i": "704", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/hike-1.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/hike-1.2.1/LICENSE", "size_i": "1058", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/hike-1.2.1/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/hike-1.2.1/lib/hike", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/hike-1.2.1/lib/hike.rb", "size_i": "263", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/hike-1.2.1/lib/hike/extensions.rb", "size_i": "507", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/hike-1.2.1/lib/hike/index.rb", "size_i": "6258", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/hike-1.2.1/lib/hike/normalized_array.rb", "size_i": "1219", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/hike-1.2.1/lib/hike/paths.rb", "size_i": "650", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/hike-1.2.1/lib/hike/trail.rb", "size_i": "5681", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/hike-1.2.1.gemspec", "size_i": "715", "regex": "false"}
+]

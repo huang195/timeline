@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/perl5/Params", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Params/Util.pm", "size_i": "20767", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Params", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Params/Util", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Params/Util/Util.so", "size_i": "21808", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Params-Util-1.00", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Params-Util-1.00/Changes", "size_i": "5058", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Params-Util-1.00/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Params::Util.3pm.gz", "size_i": "6138", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-or-0.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-or-0.03/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-or-0.03/Copyright", "size_i": "821", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-or-0.03/README", "size_i": "2584", "regex": "false"},
+	{"name_s": "/usr/share/myspell/or_IN.aff", "size_i": "252", "regex": "false"},
+	{"name_s": "/usr/share/myspell/or_IN.dic", "size_i": "21458", "regex": "false"}
+]

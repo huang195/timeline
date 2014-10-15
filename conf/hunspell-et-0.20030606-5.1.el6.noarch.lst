@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-et-0.20030606", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-et-0.20030606/COPYRIGHT", "size_i": "2537", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-et-0.20030606/README", "size_i": "1325", "regex": "false"},
+	{"name_s": "/usr/share/myspell/et_EE.aff", "size_i": "236335", "regex": "false"},
+	{"name_s": "/usr/share/myspell/et_EE.dic", "size_i": "4383841", "regex": "false"}
+]

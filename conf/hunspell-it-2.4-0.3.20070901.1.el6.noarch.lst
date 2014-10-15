@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-it-2.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-it-2.4/it_IT_AUTHORS", "size_i": "5302", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-it-2.4/it_IT_COPYING", "size_i": "34695", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-it-2.4/it_IT_README.txt", "size_i": "18501", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-it-2.4/it_IT_license.txt", "size_i": "1099", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-it-2.4/it_IT_notes.txt", "size_i": "16027", "regex": "false"},
+	{"name_s": "/usr/share/myspell/it_CH.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/it_CH.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/it_IT.aff", "size_i": "80174", "regex": "false"},
+	{"name_s": "/usr/share/myspell/it_IT.dic", "size_i": "1290961", "regex": "false"}
+]

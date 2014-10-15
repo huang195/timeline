@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/bin/gperf", "size_i": "85928", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/COPYING", "size_i": "18154", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/NEWS", "size_i": "3210", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/README", "size_i": "1227", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf.html", "size_i": "78660", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf.pdf", "size_i": "225619", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf_1.html", "size_i": "18811", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf_10.html", "size_i": "3703", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf_2.html", "size_i": "1801", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf_3.html", "size_i": "1970", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf_4.html", "size_i": "4429", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf_5.html", "size_i": "24768", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf_6.html", "size_i": "19788", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf_7.html", "size_i": "2213", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf_8.html", "size_i": "1738", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf_9.html", "size_i": "2850", "regex": "false"},
+	{"name_s": "/usr/share/doc/gperf-3.0.3/gperf_toc.html", "size_i": "3124", "regex": "false"},
+	{"name_s": "/usr/share/info/gperf.info.gz", "size_i": "22734", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gperf.1.gz", "size_i": "3105", "regex": "false"}
+]

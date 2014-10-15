@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/podspell", "size_i": "423", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Pod-Spell-1.01", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Pod-Spell-1.01/ChangeLog", "size_i": "227", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Pod-Spell-1.01/README", "size_i": "8866", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Pod::Spell.3pm.gz", "size_i": "4329", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Pod::Wordlist.3pm.gz", "size_i": "2550", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Pod", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Pod/Spell.pm", "size_i": "11658", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Pod/Wordlist.pm", "size_i": "8920", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Pod/Wordlist.pod", "size_i": "1651", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/usbredirfilter.h", "size_i": "5466", "regex": "false"},
+	{"name_s": "/usr/include/usbredirhost.h", "size_i": "7228", "regex": "false"},
+	{"name_s": "/usr/include/usbredirparser.h", "size_i": "17345", "regex": "false"},
+	{"name_s": "/usr/include/usbredirproto.h", "size_i": "6502", "regex": "false"},
+	{"name_s": "/usr/lib64/libusbredirhost.so", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libusbredirparser.so", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libusbredirhost.pc", "size_i": "247", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libusbredirparser.pc", "size_i": "206", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbredir-devel-0.5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbredir-devel-0.5.1/README.multi-thread", "size_i": "2902", "regex": "false"},
+	{"name_s": "/usr/share/doc/usbredir-devel-0.5.1/usb-redirection-protocol.txt", "size_i": "31538", "regex": "false"}
+]

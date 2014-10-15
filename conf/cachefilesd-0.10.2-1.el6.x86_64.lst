@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/cachefilesd.conf", "size_i": "755", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/cachefilesd", "size_i": "2645", "regex": "false"},
+	{"name_s": "/sbin/cachefilesd", "size_i": "25448", "regex": "false"},
+	{"name_s": "/usr/share/doc/cachefilesd-0.10.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cachefilesd-0.10.2/README", "size_i": "12969", "regex": "false"},
+	{"name_s": "/usr/share/doc/cachefilesd-0.10.2/cachefilesd.fc", "size_i": "1229", "regex": "false"},
+	{"name_s": "/usr/share/doc/cachefilesd-0.10.2/cachefilesd.if", "size_i": "1228", "regex": "false"},
+	{"name_s": "/usr/share/doc/cachefilesd-0.10.2/cachefilesd.te", "size_i": "5020", "regex": "false"},
+	{"name_s": "/usr/share/doc/cachefilesd-0.10.2/howto.txt", "size_i": "10055", "regex": "false"},
+	{"name_s": "/usr/share/doc/cachefilesd-0.10.2/move-cache.txt", "size_i": "2651", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/cachefilesd.conf.5.gz", "size_i": "2690", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/cachefilesd.8.gz", "size_i": "719", "regex": "false"},
+	{"name_s": "/var/cache/fscache", "size_i": "4096", "regex": "false"}
+]

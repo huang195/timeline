@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/include/X11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/X11/Xtrans", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/X11/Xtrans/Xtrans.c", "size_i": "29380", "regex": "false"},
+	{"name_s": "/usr/include/X11/Xtrans/Xtrans.h", "size_i": "9456", "regex": "false"},
+	{"name_s": "/usr/include/X11/Xtrans/Xtransint.h", "size_i": "10384", "regex": "false"},
+	{"name_s": "/usr/include/X11/Xtrans/Xtranslcl.c", "size_i": "56523", "regex": "false"},
+	{"name_s": "/usr/include/X11/Xtrans/Xtranssock.c", "size_i": "60143", "regex": "false"},
+	{"name_s": "/usr/include/X11/Xtrans/Xtranstli.c", "size_i": "32020", "regex": "false"},
+	{"name_s": "/usr/include/X11/Xtrans/Xtransutil.c", "size_i": "15412", "regex": "false"},
+	{"name_s": "/usr/include/X11/Xtrans/transport.c", "size_i": "2925", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/xtrans.m4", "size_i": "5126", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xtrans-devel-1.2.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xtrans-devel-1.2.7-2.el6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xtrans-devel-1.2.7-2.el6/xtrans.xml", "size_i": "40724", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xtrans-devel-1.2.7/AUTHORS", "size_i": "342", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xtrans-devel-1.2.7/COPYING", "size_i": "6232", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xtrans-devel-1.2.7/ChangeLog", "size_i": "65402", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xtrans-devel-1.2.7/README", "size_i": "1457", "regex": "false"},
+	{"name_s": "/usr/share/pkgconfig/xtrans.pc", "size_i": "213", "regex": "false"}
+]

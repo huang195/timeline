@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/share/doc/perl-Frontier-RPC-doc-0.07b4p1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Frontier-RPC-doc-0.07b4p1/COPYING", "size_i": "169", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Frontier-RPC-doc-0.07b4p1/ChangeLog", "size_i": "4654", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Frontier-RPC-doc-0.07b4p1/Changes", "size_i": "3632", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Frontier-RPC-doc-0.07b4p1/README", "size_i": "4248", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Frontier-RPC-doc-0.07b4p1/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Frontier-RPC-doc-0.07b4p1/examples/cli-xml-rpc.pl", "size_i": "3166", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Frontier-RPC-doc-0.07b4p1/examples/example-cli-input", "size_i": "187", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Frontier-RPC-doc-0.07b4p1/examples/rpc-client.pl", "size_i": "2231", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Frontier-RPC-doc-0.07b4p1/examples/states-client.pl", "size_i": "871", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Frontier-RPC-doc-0.07b4p1/examples/states-daemon.pl", "size_i": "1537", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Frontier-RPC-doc-0.07b4p1/examples/validator1-daemon.pl", "size_i": "1517", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Apache::XMLRPC.3pm.gz", "size_i": "2903", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Frontier::Client.3pm.gz", "size_i": "3681", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Frontier::Daemon.3pm.gz", "size_i": "2272", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Frontier::RPC2.3pm.gz", "size_i": "3772", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Frontier::Responder.3pm.gz", "size_i": "3244", "regex": "false"}
+]

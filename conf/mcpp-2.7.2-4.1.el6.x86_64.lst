@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/mcpp", "size_i": "4504", "regex": "false"},
+	{"name_s": "/usr/share/doc/mcpp-2.7.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mcpp-2.7.2/ChangeLog", "size_i": "18217", "regex": "false"},
+	{"name_s": "/usr/share/doc/mcpp-2.7.2/ChangeLog.old", "size_i": "17711", "regex": "false"},
+	{"name_s": "/usr/share/doc/mcpp-2.7.2/LICENSE", "size_i": "1460", "regex": "false"},
+	{"name_s": "/usr/share/doc/mcpp-2.7.2/NEWS", "size_i": "3888", "regex": "false"},
+	{"name_s": "/usr/share/doc/mcpp-2.7.2/README", "size_i": "2242", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mcpp.1.gz", "size_i": "1761", "regex": "false"}
+]

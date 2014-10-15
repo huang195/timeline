@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libiec61883.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libiec61883.so.0.1.1", "size_i": "49688", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiec61883-1.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiec61883-1.2.0/AUTHORS", "size_i": "343", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiec61883-1.2.0/COPYING", "size_i": "26428", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiec61883-1.2.0/NEWS", "size_i": "1748", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiec61883-1.2.0/README", "size_i": "2058", "regex": "false"}
+]

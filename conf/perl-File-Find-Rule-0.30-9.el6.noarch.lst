@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/findrule", "size_i": "3414", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Find-Rule-0.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Find-Rule-0.30/Changes", "size_i": "3843", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Find-Rule-0.30/README", "size_i": "2017", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/findrule.1.gz", "size_i": "2534", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::Find::Rule.3pm.gz", "size_i": "5657", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::Find::Rule::Extending.3pm.gz", "size_i": "2777", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::Find::Rule::Procedural.3pm.gz", "size_i": "2610", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Find", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Find/Rule", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Find/Rule.pm", "size_i": "19859", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Find/Rule/Extending.pod", "size_i": "2279", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Find/Rule/Procedural.pod", "size_i": "1817", "regex": "false"}
+]

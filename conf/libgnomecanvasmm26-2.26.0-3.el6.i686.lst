@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libgnomecanvasmm-2.6.so.1", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/lib/libgnomecanvasmm-2.6.so.1.0.6", "size_i": "253188", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomecanvasmm26-2.26.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomecanvasmm26-2.26.0/AUTHORS", "size_i": "929", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomecanvasmm26-2.26.0/COPYING", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomecanvasmm26-2.26.0/ChangeLog", "size_i": "20937", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomecanvasmm26-2.26.0/INSTALL", "size_i": "7831", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomecanvasmm26-2.26.0/NEWS", "size_i": "1732", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomecanvasmm26-2.26.0/README", "size_i": "78", "regex": "false"}
+]

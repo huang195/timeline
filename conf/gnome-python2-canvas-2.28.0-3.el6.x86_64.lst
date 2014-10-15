@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnome/canvas.py", "size_i": "207", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnome/canvas.pyc", "size_i": "370", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnome/canvas.pyo", "size_i": "370", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnomecanvas.so", "size_i": "50008", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-canvas-2.28.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-canvas-2.28.0/canvas-curve.py", "size_i": "6929", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-canvas-2.28.0/canvas-example.py", "size_i": "4207", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/canvas.defs", "size_i": "13086", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/libLLVM-3.3-mesa.so", "size_i": "16818664", "regex": "false"},
+	{"name_s": "/usr/share/doc/mesa-private-llvm-3.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mesa-private-llvm-3.3/LICENSE.TXT", "size_i": "3254", "regex": "false"}
+]

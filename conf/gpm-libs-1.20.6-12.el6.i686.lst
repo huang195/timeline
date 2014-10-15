@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/libgpm.so.2", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libgpm.so.2.1.0", "size_i": "20596", "regex": "false"}
+]

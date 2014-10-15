@@ -1,0 +1,16 @@
+[
+	{"name_s": "/etc/maven/fragments", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/maven/fragments/jakarta-commons-dbcp", "size_i": "311", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-dbcp-1.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-dbcp-1.2.1/LICENSE.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-dbcp-1.2.1/NOTICE.txt", "size_i": "101", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-dbcp-1.2.1/README.txt", "size_i": "104", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-dbcp-1.2.1.jar", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-dbcp.jar", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/java/hibernate_jdbc_cache.jar", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-dbcp-1.2.1.jar", "size_i": "109138", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-dbcp.jar", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/share/maven2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/maven2/poms", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/maven2/poms/JPP-jakarta-commons-dbcp.pom", "size_i": "6703", "regex": "false"}
+]

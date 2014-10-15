@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/sblim", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/sblim/ind_helper.h", "size_i": "23102", "regex": "false"},
+	{"name_s": "/usr/lib64/libind_helper.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-indication_helper-devel-0.5.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-indication_helper-devel-0.5.0/COPYING", "size_i": "11249", "regex": "false"}
+]

@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/share/doc/perl-Font-AFM-1.20", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Font-AFM-1.20/Changes", "size_i": "557", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Font-AFM-1.20/README", "size_i": "4712", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Font::AFM.3pm.gz", "size_i": "3904", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/AFM.pm", "size_i": "10696", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics/Courier.pm", "size_i": "2170", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics/CourierBold.pm", "size_i": "2179", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics/CourierBoldOblique.pm", "size_i": "2193", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics/CourierOblique.pm", "size_i": "2185", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics/Helvetica.pm", "size_i": "2257", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics/HelveticaBold.pm", "size_i": "2266", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics/HelveticaBoldOblique.pm", "size_i": "2280", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics/HelveticaOblique.pm", "size_i": "2272", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics/TimesBold.pm", "size_i": "2254", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics/TimesBoldItalic.pm", "size_i": "2266", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics/TimesItalic.pm", "size_i": "2258", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Font/Metrics/TimesRoman.pm", "size_i": "2256", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/guestfs.py", "size_i": "306181", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/guestfs.pyc", "size_i": "333693", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/guestfs.pyo", "size_i": "333693", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/libguestfsmod.so", "size_i": "444688", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-libguestfs-1.20.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-libguestfs-1.20.11/create_disk.py", "size_i": "1868", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-libguestfs-1.20.11/inspect_vm.py", "size_i": "1815", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/guestfs-python.3.gz", "size_i": "3553", "regex": "false"}
+]

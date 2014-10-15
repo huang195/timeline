@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/bin/sfconv", "size_i": "45400", "regex": "false"},
+	{"name_s": "/usr/bin/teckit_compile", "size_i": "8496", "regex": "false"},
+	{"name_s": "/usr/bin/txtconv", "size_i": "12792", "regex": "false"},
+	{"name_s": "/usr/lib64/libTECkit.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libTECkit.so.0.0.0", "size_i": "131296", "regex": "false"},
+	{"name_s": "/usr/lib64/libTECkit_Compiler.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib64/libTECkit_Compiler.so.0.0.0", "size_i": "1477672", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-2.5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-2.5.1/AUTHORS", "size_i": "350", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-2.5.1/COPYING", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-2.5.1/INSTALL", "size_i": "570", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-2.5.1/LICENSING.txt", "size_i": "2070", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-2.5.1/License_CPLv05.txt", "size_i": "11565", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-2.5.1/License_LGPLv21.txt", "size_i": "26432", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-2.5.1/NEWS", "size_i": "418", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-2.5.1/README", "size_i": "533", "regex": "false"}
+]

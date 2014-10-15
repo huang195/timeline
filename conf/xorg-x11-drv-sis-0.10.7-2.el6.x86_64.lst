@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/sis_drv.so", "size_i": "549488", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/sis.xinf", "size_i": "1234", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/sis.4.gz", "size_i": "5479", "regex": "false"}
+]

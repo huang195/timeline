@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/libgnomeuimm-2.6.so.1", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/libgnomeuimm-2.6.so.1.0.4", "size_i": "622064", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomeuimm26-2.28.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomeuimm26-2.28.0/AUTHORS", "size_i": "841", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomeuimm26-2.28.0/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomeuimm26-2.28.0/ChangeLog", "size_i": "22596", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomeuimm26-2.28.0/INSTALL", "size_i": "11870", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomeuimm26-2.28.0/NEWS", "size_i": "3130", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgnomeuimm26-2.28.0/README", "size_i": "0", "regex": "false"}
+]

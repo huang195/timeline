@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw-gnome", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw-gnome/gdkpixbuf.h", "size_i": "1310", "regex": "false"},
+	{"name_s": "/usr/lib/libopenrawgnome.so", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libopenraw-gnome-1.0.pc", "size_i": "320", "regex": "false"}
+]

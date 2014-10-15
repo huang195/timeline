@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-khmeros-base.conf", "size_i": "55", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-khmeros-base.conf", "size_i": "1750", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros/KhmerOS.ttf", "size_i": "265552", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros/KhmerOS_content.ttf", "size_i": "200088", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros/KhmerOS_sys.ttf", "size_i": "265624", "regex": "false"}
+]

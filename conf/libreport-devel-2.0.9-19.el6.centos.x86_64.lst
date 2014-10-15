@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/libreport", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libreport/client.h", "size_i": "1458", "regex": "false"},
+	{"name_s": "/usr/include/libreport/dump_dir.h", "size_i": "3806", "regex": "false"},
+	{"name_s": "/usr/include/libreport/event_config.h", "size_i": "3412", "regex": "false"},
+	{"name_s": "/usr/include/libreport/internal_abrt_dbus.h", "size_i": "4428", "regex": "false"},
+	{"name_s": "/usr/include/libreport/internal_libreport.h", "size_i": "29775", "regex": "false"},
+	{"name_s": "/usr/include/libreport/problem_data.h", "size_i": "3321", "regex": "false"},
+	{"name_s": "/usr/include/libreport/report.h", "size_i": "2127", "regex": "false"},
+	{"name_s": "/usr/include/libreport/run_event.h", "size_i": "2971", "regex": "false"},
+	{"name_s": "/usr/lib64/libabrt_dbus.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libreport.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libreport.pc", "size_i": "243", "regex": "false"}
+]

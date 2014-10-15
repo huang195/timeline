@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/bin/metacity-theme-viewer", "size_i": "24376", "regex": "false"},
+	{"name_s": "/usr/bin/metacity-window-demo", "size_i": "25992", "regex": "false"},
+	{"name_s": "/usr/include/metacity-1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/metacity-1/metacity-private", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/metacity-1/metacity-private/boxes.h", "size_i": "13076", "regex": "false"},
+	{"name_s": "/usr/include/metacity-1/metacity-private/common.h", "size_i": "8842", "regex": "false"},
+	{"name_s": "/usr/include/metacity-1/metacity-private/gradient.h", "size_i": "2678", "regex": "false"},
+	{"name_s": "/usr/include/metacity-1/metacity-private/preview-widget.h", "size_i": "3055", "regex": "false"},
+	{"name_s": "/usr/include/metacity-1/metacity-private/theme-parser.h", "size_i": "1051", "regex": "false"},
+	{"name_s": "/usr/include/metacity-1/metacity-private/theme.h", "size_i": "43190", "regex": "false"},
+	{"name_s": "/usr/include/metacity-1/metacity-private/util.h", "size_i": "5445", "regex": "false"},
+	{"name_s": "/usr/lib64/libmetacity-private.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libmetacity-private.pc", "size_i": "277", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/metacity-theme-viewer.1.gz", "size_i": "692", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/metacity-window-demo.1.gz", "size_i": "577", "regex": "false"}
+]

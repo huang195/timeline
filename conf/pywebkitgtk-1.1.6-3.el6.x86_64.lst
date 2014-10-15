@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/webkit-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/webkit-1.0.pth", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/webkit-1.0/webkit.so", "size_i": "62728", "regex": "false"},
+	{"name_s": "/usr/share/doc/pywebkitgtk-1.1.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pywebkitgtk-1.1.6/AUTHORS", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/share/doc/pywebkitgtk-1.1.6/COPYING", "size_i": "25284", "regex": "false"},
+	{"name_s": "/usr/share/doc/pywebkitgtk-1.1.6/ChangeLog", "size_i": "54549", "regex": "false"},
+	{"name_s": "/usr/share/doc/pywebkitgtk-1.1.6/MAINTAINERS", "size_i": "57", "regex": "false"},
+	{"name_s": "/usr/share/doc/pywebkitgtk-1.1.6/NEWS", "size_i": "1585", "regex": "false"},
+	{"name_s": "/usr/share/doc/pywebkitgtk-1.1.6/README", "size_i": "1229", "regex": "false"},
+	{"name_s": "/usr/share/doc/pywebkitgtk-1.1.6/demos", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pywebkitgtk-1.1.6/demos/inspector.py", "size_i": "3028", "regex": "false"},
+	{"name_s": "/usr/share/doc/pywebkitgtk-1.1.6/demos/tabbed_browser.py", "size_i": "14147", "regex": "false"},
+	{"name_s": "/usr/share/pywebkitgtk/defs/webkit-1.0.2.defs", "size_i": "14400", "regex": "false"},
+	{"name_s": "/usr/share/pywebkitgtk/defs/webkit-1.1-types.defs", "size_i": "2909", "regex": "false"},
+	{"name_s": "/usr/share/pywebkitgtk/defs/webkit-1.1.defs", "size_i": "7736", "regex": "false"},
+	{"name_s": "/usr/share/pywebkitgtk/defs/webkit-base-types.defs", "size_i": "2387", "regex": "false"}
+]

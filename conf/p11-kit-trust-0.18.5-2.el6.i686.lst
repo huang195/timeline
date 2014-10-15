@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/p11-kit/p11-kit-extract-trust", "size_i": "344", "regex": "false"},
+	{"name_s": "/usr/lib/p11-kit/p11-kit-redhat-setup-trust", "size_i": "1063", "regex": "false"},
+	{"name_s": "/usr/lib/pkcs11/p11-kit-trust.so", "size_i": "151748", "regex": "false"},
+	{"name_s": "/usr/share/p11-kit/modules/p11-kit-trust.module", "size_i": "693", "regex": "false"}
+]

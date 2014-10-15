@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/ident.key", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/xinetd.d/auth", "size_i": "808", "regex": "false"},
+	{"name_s": "/usr/sbin/in.authd", "size_i": "31944", "regex": "false"},
+	{"name_s": "/usr/share/doc/authd-1.4.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/authd-1.4.3/COPYING", "size_i": "18140", "regex": "false"},
+	{"name_s": "/usr/share/doc/authd-1.4.3/README.html", "size_i": "23166", "regex": "false"},
+	{"name_s": "/usr/share/doc/authd-1.4.3/rfc1413.txt", "size_i": "16291", "regex": "false"},
+	{"name_s": "/usr/share/locale/ja/LC_MESSAGES/authd.mo", "size_i": "4628", "regex": "false"}
+]

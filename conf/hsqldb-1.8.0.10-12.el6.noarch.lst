@@ -1,0 +1,16 @@
+[
+	{"name_s": "/etc/rc.d/init.d/hsqldb", "size_i": "17826", "regex": "false"},
+	{"name_s": "/etc/sysconfig/hsqldb", "size_i": "5824", "regex": "false"},
+	{"name_s": "/usr/bin/hsqldbRunUtil", "size_i": "1133", "regex": "false"},
+	{"name_s": "/usr/share/doc/hsqldb-1.8.0.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hsqldb-1.8.0.10/hsqldb_lic.txt", "size_i": "1602", "regex": "false"},
+	{"name_s": "/usr/share/java/hsqldb-1.8.0.10.jar", "size_i": "700829", "regex": "false"},
+	{"name_s": "/usr/share/java/hsqldb.jar", "size_i": "19", "regex": "false"},
+	{"name_s": "/var/lib/hsqldb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/hsqldb/data", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/hsqldb/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/hsqldb/lib/functions", "size_i": "7008", "regex": "false"},
+	{"name_s": "/var/lib/hsqldb/server.properties", "size_i": "756", "regex": "false"},
+	{"name_s": "/var/lib/hsqldb/sqltool.rc", "size_i": "4300", "regex": "false"},
+	{"name_s": "/var/lib/hsqldb/webserver.properties", "size_i": "315", "regex": "false"}
+]

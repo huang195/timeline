@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/share/m17n/eo-h-f.mim", "size_i": "1724", "regex": "false"},
+	{"name_s": "/usr/share/m17n/eo-h.mim", "size_i": "1611", "regex": "false"},
+	{"name_s": "/usr/share/m17n/eo-plena.mim", "size_i": "2206", "regex": "false"},
+	{"name_s": "/usr/share/m17n/eo-q.mim", "size_i": "1611", "regex": "false"},
+	{"name_s": "/usr/share/m17n/eo-vi.mim", "size_i": "1681", "regex": "false"},
+	{"name_s": "/usr/share/m17n/eo-x.mim", "size_i": "1626", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/eo-h-fundamente.png", "size_i": "971", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/eo-h-sistemo.png", "size_i": "936", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/eo-plena.png", "size_i": "892", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/eo-q-sistemo.png", "size_i": "907", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/eo-x-sistemo.png", "size_i": "928", "regex": "false"}
+]

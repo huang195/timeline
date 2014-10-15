@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/bin/b43-asm", "size_i": "1234", "regex": "false"},
+	{"name_s": "/usr/bin/b43-asm.bin", "size_i": "70568", "regex": "false"},
+	{"name_s": "/usr/bin/b43-beautifier", "size_i": "2793", "regex": "false"},
+	{"name_s": "/usr/bin/b43-dasm", "size_i": "14240", "regex": "false"},
+	{"name_s": "/usr/bin/b43-fwdump", "size_i": "4361", "regex": "false"},
+	{"name_s": "/usr/bin/b43-ivaldump", "size_i": "2078", "regex": "false"},
+	{"name_s": "/usr/bin/ssb-sprom", "size_i": "27288", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/B43_debug_tools-0.0.0-py2.6.egg-info", "size_i": "189", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/libb43.py", "size_i": "18746", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/libb43.pyc", "size_i": "26131", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/libb43.pyo", "size_i": "26131", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-tools-0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-tools-0/COPYING.assembler", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-tools-0/COPYING.debug", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-tools-0/COPYING.disassembler", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-tools-0/COPYING.ssb_sprom", "size_i": "18011", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-tools-0/README.assembler", "size_i": "4236", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-tools-0/README.debug", "size_i": "2092", "regex": "false"},
+	{"name_s": "/usr/share/doc/b43-tools-0/README.ssb_sprom", "size_i": "4226", "regex": "false"}
+]

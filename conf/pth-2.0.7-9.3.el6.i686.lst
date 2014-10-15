@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/lib/libpth.so.20", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libpth.so.20.0.27", "size_i": "72212", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7/ANNOUNCE", "size_i": "3766", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7/AUTHORS", "size_i": "602", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7/COPYING", "size_i": "26866", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7/ChangeLog", "size_i": "104918", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7/HISTORY", "size_i": "3852", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7/NEWS", "size_i": "3973", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7/PORTING", "size_i": "19473", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7/README", "size_i": "4058", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7/SUPPORT", "size_i": "2379", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7/TESTS", "size_i": "6237", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7/THANKS", "size_i": "6477", "regex": "false"},
+	{"name_s": "/usr/share/doc/pth-2.0.7/USERS", "size_i": "1530", "regex": "false"}
+]

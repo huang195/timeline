@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/lib64/freerdp/audin.so", "size_i": "9344", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/audin_pulse.so", "size_i": "10952", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/cliprdr.so", "size_i": "12264", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/disk.so", "size_i": "26312", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/drdynvc.so", "size_i": "13080", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/parallel.so", "size_i": "9400", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/printer.so", "size_i": "12512", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/rail.so", "size_i": "19408", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/rdpdbg.so", "size_i": "5776", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/rdpdr.so", "size_i": "11912", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/rdpsnd.so", "size_i": "10832", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/rdpsnd_pulse.so", "size_i": "11688", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/scard.so", "size_i": "26384", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/serial.so", "size_i": "19680", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/tsmf.so", "size_i": "32424", "regex": "false"},
+	{"name_s": "/usr/lib64/freerdp/tsmf_pulse.so", "size_i": "10960", "regex": "false"}
+]

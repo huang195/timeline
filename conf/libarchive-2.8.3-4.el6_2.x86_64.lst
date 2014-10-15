@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libarchive.so.2", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libarchive.so.2.8.3", "size_i": "272976", "regex": "false"},
+	{"name_s": "/usr/share/doc/libarchive-2.8.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libarchive-2.8.3/COPYING", "size_i": "2854", "regex": "false"},
+	{"name_s": "/usr/share/doc/libarchive-2.8.3/NEWS", "size_i": "25401", "regex": "false"},
+	{"name_s": "/usr/share/doc/libarchive-2.8.3/README", "size_i": "6024", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/purple-2/perl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/purple-2/perl.so", "size_i": "54752", "regex": "false"},
+	{"name_s": "/usr/lib64/purple-2/perl/Purple.pm", "size_i": "2830", "regex": "false"},
+	{"name_s": "/usr/lib64/purple-2/perl/auto", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/purple-2/perl/auto/Purple", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/purple-2/perl/auto/Purple/Purple.so", "size_i": "902416", "regex": "false"},
+	{"name_s": "/usr/lib64/purple-2/perl/auto/Purple/autosplit.ix", "size_i": "85", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Purple.3pm.gz", "size_i": "2550", "regex": "false"}
+]

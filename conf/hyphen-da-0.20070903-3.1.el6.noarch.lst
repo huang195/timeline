@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-da-0.20070903", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-da-0.20070903/README_hyph_da_DK.txt", "size_i": "366", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_da_DK.dic", "size_i": "6049", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/scanadf", "size_i": "28056", "regex": "false"},
+	{"name_s": "/usr/bin/xcam", "size_i": "83648", "regex": "false"},
+	{"name_s": "/usr/share/doc/sane-frontends-1.0.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sane-frontends-1.0.14/AUTHORS", "size_i": "416", "regex": "false"},
+	{"name_s": "/usr/share/doc/sane-frontends-1.0.14/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/sane-frontends-1.0.14/README", "size_i": "1248", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/scanadf.1.gz", "size_i": "3085", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xcam.1.gz", "size_i": "1073", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/lsb-release.d/printing-4.0-amd64", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/lsb-release.d/printing-4.0-noarch", "size_i": "0", "regex": "false"}
+]

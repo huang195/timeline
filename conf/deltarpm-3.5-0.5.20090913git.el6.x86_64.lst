@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/applydeltarpm", "size_i": "65248", "regex": "false"},
+	{"name_s": "/usr/bin/combinedeltarpm", "size_i": "49344", "regex": "false"},
+	{"name_s": "/usr/bin/makedeltarpm", "size_i": "62208", "regex": "false"},
+	{"name_s": "/usr/bin/rpmdumpheader", "size_i": "6784", "regex": "false"},
+	{"name_s": "/usr/share/doc/deltarpm-3.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/deltarpm-3.5/LICENSE.BSD", "size_i": "1344", "regex": "false"},
+	{"name_s": "/usr/share/doc/deltarpm-3.5/README", "size_i": "5457", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/applydeltarpm.8.gz", "size_i": "848", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/combinedeltarpm.8.gz", "size_i": "635", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/makedeltarpm.8.gz", "size_i": "870", "regex": "false"}
+]

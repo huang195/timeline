@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/cracklib.py", "size_i": "5659", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/cracklib.pyc", "size_i": "4553", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/cracklib.pyo", "size_i": "4553", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/_cracklibmodule.so", "size_i": "7696", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/sasl2/libcrammd5.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/sasl2/libcrammd5.so.2", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/sasl2/libcrammd5.so.2.0.23", "size_i": "22936", "regex": "false"},
+	{"name_s": "/usr/lib64/sasl2/libdigestmd5.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/sasl2/libdigestmd5.so.2", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/sasl2/libdigestmd5.so.2.0.23", "size_i": "52088", "regex": "false"}
+]

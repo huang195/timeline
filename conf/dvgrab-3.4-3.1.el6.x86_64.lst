@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/dvgrab", "size_i": "242416", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvgrab-3.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvgrab-3.4/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvgrab-3.4/ChangeLog", "size_i": "25267", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvgrab-3.4/NEWS", "size_i": "11462", "regex": "false"},
+	{"name_s": "/usr/share/doc/dvgrab-3.4/README", "size_i": "1024", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dvgrab.1.gz", "size_i": "7244", "regex": "false"}
+]

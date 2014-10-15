@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/libtdb.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libtdb.so.1.2.10", "size_i": "71740", "regex": "false"}
+]

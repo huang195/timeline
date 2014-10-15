@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/mythes-ro-3.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-ro-3.3/COPYING.GPL", "size_i": "18324", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-ro-3.3/README", "size_i": "843", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ro_RO_v2.dat", "size_i": "2981132", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ro_RO_v2.idx", "size_i": "841699", "regex": "false"}
+]

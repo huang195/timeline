@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/html2psrc", "size_i": "298", "regex": "false"},
+	{"name_s": "/usr/bin/html2ps", "size_i": "132339", "regex": "false"},
+	{"name_s": "/usr/share/doc/html2ps-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/html2ps-1.0/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/html2ps-1.0/README", "size_i": "1597", "regex": "false"},
+	{"name_s": "/usr/share/doc/html2ps-1.0/html2ps.html", "size_i": "62879", "regex": "false"},
+	{"name_s": "/usr/share/doc/html2ps-1.0/sample", "size_i": "1665", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/html2ps.1.gz", "size_i": "4185", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/html2psrc.5.gz", "size_i": "10926", "regex": "false"}
+]

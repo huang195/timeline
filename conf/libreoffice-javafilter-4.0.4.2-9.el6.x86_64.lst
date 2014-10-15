@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libreoffice/program/classes/aportisdoc.jar", "size_i": "16428", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/classes/pexcel.jar", "size_i": "82105", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/program/classes/pocketword.jar", "size_i": "24315", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/registry/palm.xcd", "size_i": "1859", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/registry/pocketexcel.xcd", "size_i": "1685", "regex": "false"},
+	{"name_s": "/usr/lib64/libreoffice/share/registry/pocketword.xcd", "size_i": "1828", "regex": "false"},
+	{"name_s": "/usr/share/applications/libreoffice-javafilter.desktop", "size_i": "5124", "regex": "false"}
+]

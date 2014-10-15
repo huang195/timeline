@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/system-config-firewall-tui", "size_i": "1155", "regex": "false"},
+	{"name_s": "/usr/share/system-config-firewall/fw_tui.py", "size_i": "35722", "regex": "false"},
+	{"name_s": "/usr/share/system-config-firewall/fw_tui.pyc", "size_i": "23922", "regex": "false"},
+	{"name_s": "/usr/share/system-config-firewall/fw_tui.pyo", "size_i": "23922", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/include/amanda", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libamanda.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libamandad.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libamar.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libamclient.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libamdevice.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libamserver.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libamxfer.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/librestore.so", "size_i": "21", "regex": "false"}
+]

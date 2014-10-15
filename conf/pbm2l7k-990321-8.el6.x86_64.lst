@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/pbm2l7k", "size_i": "77000", "regex": "false"},
+	{"name_s": "/usr/bin/pbm2lex", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/share/doc/pbm2l7k-990321", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pbm2l7k-990321/README", "size_i": "5693", "regex": "false"},
+	{"name_s": "/usr/share/doc/pbm2l7k-990321/lexmarkprotocol.txt", "size_i": "4016", "regex": "false"},
+	{"name_s": "/usr/share/pbm2l7k", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pbm2l7k/pr5700.prn", "size_i": "107", "regex": "false"},
+	{"name_s": "/usr/share/pbm2l7k/pr7000.prn", "size_i": "110", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libsigc-2.0.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libsigc-2.0.so.0.0.0", "size_i": "17524", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsigc++20-2.2.4.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsigc++20-2.2.4.2/AUTHORS", "size_i": "484", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsigc++20-2.2.4.2/COPYING", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsigc++20-2.2.4.2/ChangeLog", "size_i": "88991", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsigc++20-2.2.4.2/NEWS", "size_i": "14070", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsigc++20-2.2.4.2/README", "size_i": "2782", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsigc++20-2.2.4.2/TODO", "size_i": "1913", "regex": "false"}
+]

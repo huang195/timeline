@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/include/libpst-4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libpst-4/libpst", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libpst-4/libpst/common.h", "size_i": "1104", "regex": "false"},
+	{"name_s": "/usr/include/libpst-4/libpst/libpst.h", "size_i": "39124", "regex": "false"},
+	{"name_s": "/usr/include/libpst-4/libpst/libstrfunc.h", "size_i": "212", "regex": "false"},
+	{"name_s": "/usr/include/libpst-4/libpst/lzfu.h", "size_i": "543", "regex": "false"},
+	{"name_s": "/usr/include/libpst-4/libpst/timeconv.h", "size_i": "947", "regex": "false"},
+	{"name_s": "/usr/include/libpst-4/libpst/vbuf.h", "size_i": "870", "regex": "false"},
+	{"name_s": "/usr/lib64/libpst.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libpst.pc", "size_i": "213", "regex": "false"}
+]

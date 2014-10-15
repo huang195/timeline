@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/perl-Exception-Class-1.29", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Exception-Class-1.29/Changes", "size_i": "9380", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Exception-Class-1.29/LICENSE", "size_i": "20545", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Exception::Class.3pm.gz", "size_i": "6146", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Exception::Class::Base.3pm.gz", "size_i": "4836", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Exception", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Exception/Class", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Exception/Class.pm", "size_i": "15201", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Exception/Class/Base.pm", "size_i": "13290", "regex": "false"}
+]

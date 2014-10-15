@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-nl-1.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-nl-1.10/README_EN.txt", "size_i": "3952", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-nl-1.10/README_NL.txt", "size_i": "4119", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-nl-1.10/desc_en_US.txt", "size_i": "136", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-nl-1.10/desc_nl_NL.txt", "size_i": "164", "regex": "false"},
+	{"name_s": "/usr/share/myspell/nl_AW.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/nl_AW.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/nl_BE.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/nl_BE.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/nl_NL.aff", "size_i": "7901", "regex": "false"},
+	{"name_s": "/usr/share/myspell/nl_NL.dic", "size_i": "2213427", "regex": "false"}
+]

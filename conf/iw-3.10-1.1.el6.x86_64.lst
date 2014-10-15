@@ -1,0 +1,6 @@
+[
+	{"name_s": "/sbin/iw", "size_i": "130800", "regex": "false"},
+	{"name_s": "/usr/share/doc/iw-3.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iw-3.10/COPYING", "size_i": "849", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/iw.8.gz", "size_i": "608", "regex": "false"}
+]

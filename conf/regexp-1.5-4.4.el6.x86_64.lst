@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/gcj/regexp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/regexp/regexp-1.5.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/regexp/regexp-1.5.jar.so", "size_i": "193672", "regex": "false"},
+	{"name_s": "/usr/share/doc/regexp-1.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/regexp-1.5/LICENSE", "size_i": "11357", "regex": "false"},
+	{"name_s": "/usr/share/java/regexp-1.5.jar", "size_i": "44860", "regex": "false"},
+	{"name_s": "/usr/share/java/regexp.jar", "size_i": "14", "regex": "false"}
+]

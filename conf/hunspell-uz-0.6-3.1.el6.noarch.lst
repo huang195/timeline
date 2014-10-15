@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-uz-0.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-uz-0.6/COPYING", "size_i": "18011", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-uz-0.6/ChangeLog", "size_i": "1946", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-uz-0.6/Copyright", "size_i": "821", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-uz-0.6/README", "size_i": "1344", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-uz-0.6/README.hunspell", "size_i": "1223", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-uz-0.6/TODO", "size_i": "236", "regex": "false"},
+	{"name_s": "/usr/share/myspell/uz_UZ.aff", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/share/myspell/uz_UZ.dic", "size_i": "2248078", "regex": "false"}
+]

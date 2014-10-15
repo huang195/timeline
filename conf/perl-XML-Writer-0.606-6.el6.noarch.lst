@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/perl-XML-Writer-0.606", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-Writer-0.606/Changes", "size_i": "5582", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-Writer-0.606/LICENSE", "size_i": "1113", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-Writer-0.606/README", "size_i": "1199", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-Writer-0.606/TODO", "size_i": "490", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::Writer.3pm.gz", "size_i": "6744", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/Writer.pm", "size_i": "39616", "regex": "false"}
+]

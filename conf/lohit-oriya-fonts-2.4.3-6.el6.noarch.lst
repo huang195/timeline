@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/fonts/conf.d/66-lohit-oriya.conf", "size_i": "52", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-oriya-fonts-2.4.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-oriya-fonts-2.4.3/AUTHORS", "size_i": "154", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-oriya-fonts-2.4.3/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-oriya-fonts-2.4.3/COPYRIGHT", "size_i": "792", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-oriya-fonts-2.4.3/ChangeLog", "size_i": "184", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-oriya-fonts-2.4.3/ChangeLog.old", "size_i": "9704", "regex": "false"},
+	{"name_s": "/usr/share/doc/lohit-oriya-fonts-2.4.3/README", "size_i": "184", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/66-lohit-oriya.conf", "size_i": "450", "regex": "false"},
+	{"name_s": "/usr/share/fonts/lohit-oriya", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/lohit-oriya/Lohit-Oriya.ttf", "size_i": "99280", "regex": "false"}
+]

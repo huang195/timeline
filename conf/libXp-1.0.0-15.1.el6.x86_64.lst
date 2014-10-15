@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libXp.so.6", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libXp.so.6.2.0", "size_i": "36248", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXp-1.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXp-1.0.0/AUTHORS", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXp-1.0.0/COPYING", "size_i": "1159", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXp-1.0.0/ChangeLog", "size_i": "2044", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXp-1.0.0/INSTALL", "size_i": "171", "regex": "false"}
+]

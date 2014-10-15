@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/pg_filedump", "size_i": "23280", "regex": "false"},
+	{"name_s": "/usr/share/doc/rhdb-utils-8.4.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rhdb-utils-8.4.0/ChangeLog", "size_i": "5473", "regex": "false"},
+	{"name_s": "/usr/share/doc/rhdb-utils-8.4.0/README.pg_filedump", "size_i": "4326", "regex": "false"}
+]

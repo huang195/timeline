@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/libreport", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/libreport/events", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/libreport/events.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/libreport/plugins", "size_i": "4096", "regex": "false"}
+]

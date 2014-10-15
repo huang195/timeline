@@ -1,0 +1,23 @@
+[
+	{"name_s": "/etc/udev/rules.d/85-pcscd_ccid.rules", "size_i": "1914", "regex": "false"},
+	{"name_s": "/usr/bin/RSA_SecurID_getpasswd", "size_i": "7504", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/ifd-ccid.bundle", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/ifd-ccid.bundle/Contents", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/ifd-ccid.bundle/Contents/Info.plist", "size_i": "13261", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/ifd-ccid.bundle/Contents/Linux", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/libccid.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/ifd-ccid.bundle/Contents/Linux/libccid.so.1.3.9", "size_i": "76792", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/serial", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/serial/libccidtwin.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/serial/libccidtwin.so.1.3.9", "size_i": "73016", "regex": "false"},
+	{"name_s": "/usr/sbin/Kobil_mIDentity_switch", "size_i": "6768", "regex": "false"},
+	{"name_s": "/usr/share/doc/ccid-1.3.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ccid-1.3.9/AUTHORS", "size_i": "44", "regex": "false"},
+	{"name_s": "/usr/share/doc/ccid-1.3.9/COPYING", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/ccid-1.3.9/ChangeLog", "size_i": "154510", "regex": "false"},
+	{"name_s": "/usr/share/doc/ccid-1.3.9/GemPCTwin.reader.conf", "size_i": "461", "regex": "false"},
+	{"name_s": "/usr/share/doc/ccid-1.3.9/README", "size_i": "33795", "regex": "false"},
+	{"name_s": "/usr/share/doc/ccid-1.3.9/README_Kobil_mIDentity_switch.txt", "size_i": "8861", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/RSA_SecurID_getpasswd.1.gz", "size_i": "229", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/Kobil_mIDentity_switch.8.gz", "size_i": "345", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/lpg-java-2.0.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lpg-java-2.0.17/Eclipse", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/java/lpgruntime-2.0.17.jar", "size_i": "95777", "regex": "false"},
+	{"name_s": "/usr/share/java/lpgruntime.jar", "size_i": "21", "regex": "false"}
+]

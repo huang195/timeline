@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/libcord.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libcord.so.1.0.3", "size_i": "36152", "regex": "false"},
+	{"name_s": "/usr/lib64/libgc.so.1", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libgc.so.1.0.3", "size_i": "158976", "regex": "false"},
+	{"name_s": "/usr/lib64/libgccpp.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libgccpp.so.1.0.3", "size_i": "4672", "regex": "false"},
+	{"name_s": "/usr/share/doc/gc-7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gc-7.1/README", "size_i": "27867", "regex": "false"},
+	{"name_s": "/usr/share/doc/gc-7.1/README.changes", "size_i": "142747", "regex": "false"},
+	{"name_s": "/usr/share/doc/gc-7.1/README.contributors", "size_i": "3170", "regex": "false"},
+	{"name_s": "/usr/share/doc/gc-7.1/README.environment", "size_i": "6639", "regex": "false"},
+	{"name_s": "/usr/share/doc/gc-7.1/README.linux", "size_i": "4408", "regex": "false"}
+]

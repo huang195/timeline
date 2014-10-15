@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/profile.d/gnome-ssh-askpass.csh", "size_i": "58", "regex": "false"},
+	{"name_s": "/etc/profile.d/gnome-ssh-askpass.sh", "size_i": "70", "regex": "false"},
+	{"name_s": "/usr/libexec/openssh/gnome-ssh-askpass", "size_i": "12848", "regex": "false"},
+	{"name_s": "/usr/libexec/openssh/ssh-askpass", "size_i": "17", "regex": "false"}
+]

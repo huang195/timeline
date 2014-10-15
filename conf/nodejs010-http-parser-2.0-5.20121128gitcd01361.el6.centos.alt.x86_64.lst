@@ -1,0 +1,11 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib64/libhttp_parser.so.2", "size_i": "21", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib64/libhttp_parser.so.2.0", "size_i": "19592", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib64/libhttp_parser_strict.so.2", "size_i": "28", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib64/libhttp_parser_strict.so.2.0", "size_i": "19608", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-http-parser-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-http-parser-2.0/AUTHORS", "size_i": "1371", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-http-parser-2.0/CONTRIBUTIONS", "size_i": "184", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-http-parser-2.0/LICENSE-MIT", "size_i": "1251", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-http-parser-2.0/README.md", "size_i": "7334", "regex": "false"}
+]

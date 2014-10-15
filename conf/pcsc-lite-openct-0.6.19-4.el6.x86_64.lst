@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/reader.conf.d/openct.conf", "size_i": "260", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/openct-ifd.bundle", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/openct-ifd.bundle/Contents", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/openct-ifd.bundle/Contents/Info.plist", "size_i": "4964", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/openct-ifd.bundle/Contents/Linux", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/openct-ifd.bundle/Contents/Linux/openct-ifd.so", "size_i": "7256", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers/openct-ifd.bundle/Contents/PkgInfo", "size_i": "9", "regex": "false"}
+]

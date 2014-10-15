@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/iconv", "size_i": "135892", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/libcharset-1.dll", "size_i": "11202", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/libiconv-2.dll", "size_i": "923866", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/iconv.h", "size_i": "8325", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/libcharset.h", "size_i": "1550", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/localcharset.h", "size_i": "1395", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/charset.alias", "size_i": "187", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libcharset.dll.a", "size_i": "2808", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libcharset.la", "size_i": "813", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libiconv.dll.a", "size_i": "8256", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libiconv.la", "size_i": "803", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-iconv-1.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-iconv-1.12/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-iconv-1.12/COPYING.LIB", "size_i": "25291", "regex": "false"}
+]

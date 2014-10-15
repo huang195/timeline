@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/graphviz/ruby", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/ruby/gv.so", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/ruby/libgv_ruby.so", "size_i": "74920", "regex": "false"},
+	{"name_s": "/usr/lib64/ruby/site_ruby", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ruby/site_ruby/1.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ruby/site_ruby/1.8/x86_64-linux", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ruby/site_ruby/1.8/x86_64-linux/gv.so", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gv.3ruby.gz", "size_i": "1615", "regex": "false"}
+]

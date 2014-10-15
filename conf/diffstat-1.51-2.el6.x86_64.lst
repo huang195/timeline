@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/diffstat", "size_i": "31584", "regex": "false"},
+	{"name_s": "/usr/share/doc/diffstat-1.51", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/diffstat-1.51/CHANGES", "size_i": "9063", "regex": "false"},
+	{"name_s": "/usr/share/doc/diffstat-1.51/COPYING", "size_i": "1601", "regex": "false"},
+	{"name_s": "/usr/share/doc/diffstat-1.51/README", "size_i": "299", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/diffstat.1.gz", "size_i": "3021", "regex": "false"}
+]

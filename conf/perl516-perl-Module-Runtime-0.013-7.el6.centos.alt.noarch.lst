@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Runtime-0.013", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Runtime-0.013/Changes", "size_i": "4596", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Runtime-0.013/README", "size_i": "1279", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Module::Runtime.3pm.gz", "size_i": "6082", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Module", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Module/Runtime.pm", "size_i": "15850", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/mythes-uk-1.6.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-uk-1.6.0/COPYING.GPL", "size_i": "18011", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-uk-1.6.0/COPYING.LGPL", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-uk-1.6.0/Copyright", "size_i": "1101", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-uk-1.6.0/README", "size_i": "458", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-uk-1.6.0/README.uk", "size_i": "2339", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_uk_UA_v2.dat", "size_i": "1032761", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_uk_UA_v2.idx", "size_i": "306457", "regex": "false"}
+]

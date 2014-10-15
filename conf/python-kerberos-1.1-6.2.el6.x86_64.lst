@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/kerberos-1.0-py2.6.egg-info", "size_i": "202", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/kerberos.so", "size_i": "25856", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-kerberos-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-kerberos-1.1/LICENSE", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-kerberos-1.1/README.txt", "size_i": "2528", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-kerberos-1.1/test.py", "size_i": "6943", "regex": "false"}
+]

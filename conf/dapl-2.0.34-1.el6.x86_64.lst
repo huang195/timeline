@@ -1,0 +1,17 @@
+[
+	{"name_s": "/etc/rdma/dat.conf", "size_i": "1490", "regex": "false"},
+	{"name_s": "/usr/lib64/libdaplofa.so.2", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libdaplofa.so.2.0.0", "size_i": "115504", "regex": "false"},
+	{"name_s": "/usr/lib64/libdaploscm.so.2", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libdaploscm.so.2.0.0", "size_i": "123360", "regex": "false"},
+	{"name_s": "/usr/lib64/libdaploucm.so.2", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libdaploucm.so.2.0.0", "size_i": "131552", "regex": "false"},
+	{"name_s": "/usr/lib64/libdat2.so.2", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libdat2.so.2.0.0", "size_i": "39968", "regex": "false"},
+	{"name_s": "/usr/share/doc/dapl-2.0.34", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dapl-2.0.34/AUTHORS", "size_i": "278", "regex": "false"},
+	{"name_s": "/usr/share/doc/dapl-2.0.34/COPYING", "size_i": "1235", "regex": "false"},
+	{"name_s": "/usr/share/doc/dapl-2.0.34/ChangeLog", "size_i": "213684", "regex": "false"},
+	{"name_s": "/usr/share/doc/dapl-2.0.34/README", "size_i": "18024", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/dat.conf.5.gz", "size_i": "2010", "regex": "false"}
+]

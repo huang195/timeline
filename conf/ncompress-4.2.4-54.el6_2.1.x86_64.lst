@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/compress", "size_i": "20320", "regex": "false"},
+	{"name_s": "/usr/bin/uncompress", "size_i": "8", "regex": "false"},
+	{"name_s": "/usr/share/doc/ncompress-4.2.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ncompress-4.2.4/LZW.INFO", "size_i": "4347", "regex": "false"},
+	{"name_s": "/usr/share/doc/ncompress-4.2.4/README", "size_i": "3871", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/compress.1.gz", "size_i": "2808", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/uncompress.1.gz", "size_i": "13", "regex": "false"}
+]

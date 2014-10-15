@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/hsqldb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hsqldb/demo", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hsqldb/demo/localhost_clientserver.html", "size_i": "1496", "regex": "false"},
+	{"name_s": "/usr/share/hsqldb/demo/memorydbmanager.html", "size_i": "1364", "regex": "false"},
+	{"name_s": "/usr/share/hsqldb/demo/memoryquery.html", "size_i": "1371", "regex": "false"},
+	{"name_s": "/usr/share/hsqldb/demo/runManager.sh", "size_i": "1132", "regex": "false"},
+	{"name_s": "/usr/share/hsqldb/demo/runServer.sh", "size_i": "1118", "regex": "false"},
+	{"name_s": "/usr/share/hsqldb/demo/runUtil.sh", "size_i": "1125", "regex": "false"},
+	{"name_s": "/usr/share/hsqldb/demo/runWebServer.sh", "size_i": "1121", "regex": "false"},
+	{"name_s": "/usr/share/hsqldb/demo/servletdemo.html", "size_i": "1559", "regex": "false"}
+]

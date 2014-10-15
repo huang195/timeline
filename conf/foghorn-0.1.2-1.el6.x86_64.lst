@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/dbus-1/system.d/dbus-foghorn.conf", "size_i": "245", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/foghorn", "size_i": "1676", "regex": "false"},
+	{"name_s": "/usr/sbin/foghorn", "size_i": "21552", "regex": "false"},
+	{"name_s": "/usr/share/doc/foghorn-0.1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/foghorn-0.1.2/AUTHORS", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/share/doc/foghorn-0.1.2/COPYING", "size_i": "18092", "regex": "false"},
+	{"name_s": "/usr/share/doc/foghorn-0.1.2/NEWS", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/foghorn-0.1.2/README", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/foghorn.8.gz", "size_i": "638", "regex": "false"},
+	{"name_s": "/usr/share/snmp/mibs/REDHAT-FENCE-MIB", "size_i": "2747", "regex": "false"},
+	{"name_s": "/usr/share/snmp/mibs/REDHAT-FOGHORN-MIB", "size_i": "2556", "regex": "false"},
+	{"name_s": "/usr/share/snmp/mibs/REDHAT-RGMANAGER-MIB", "size_i": "3634", "regex": "false"}
+]

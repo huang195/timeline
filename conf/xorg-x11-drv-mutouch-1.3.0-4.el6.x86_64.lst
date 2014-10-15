@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/input/mutouch_drv.so", "size_i": "19504", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/mutouch.4.gz", "size_i": "654", "regex": "false"}
+]

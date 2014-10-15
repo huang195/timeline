@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/man/man3/Devel::InnerPackage.3pm.gz", "size_i": "2085", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Module::Pluggable.3pm.gz", "size_i": "4579", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Module::Pluggable::Object.3pm.gz", "size_i": "2332", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Devel/InnerPackage.pm", "size_i": "2448", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/Pluggable", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/Pluggable.pm", "size_i": "8862", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/Pluggable/Object.pm", "size_i": "10725", "regex": "false"}
+]

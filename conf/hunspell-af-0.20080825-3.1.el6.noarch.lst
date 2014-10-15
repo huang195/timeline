@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-af-0.20080825", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-af-0.20080825/README_af_ZA.txt", "size_i": "31492", "regex": "false"},
+	{"name_s": "/usr/share/myspell/af_NA.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/af_NA.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/af_ZA.aff", "size_i": "4440", "regex": "false"},
+	{"name_s": "/usr/share/myspell/af_ZA.dic", "size_i": "1517615", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/lib/i686-pc-mingw32-cpp", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/bin/i686-pc-mingw32-cpp", "size_i": "259648", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcc/i686-pc-mingw32/4.4.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/gcc/i686-pc-mingw32/4.4.6/cc1", "size_i": "9079696", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/i686-pc-mingw32-cpp.1.gz", "size_i": "13282", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/libibverbs.d/cxgb3.driver", "size_i": "13", "regex": "false"},
+	{"name_s": "/etc/modprobe.d/libcxgb3.conf", "size_i": "79", "regex": "false"},
+	{"name_s": "/usr/lib64/libcxgb3-rdmav2.so", "size_i": "21024", "regex": "false"},
+	{"name_s": "/usr/lib64/libcxgb3.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcxgb3-1.3.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcxgb3-1.3.1/AUTHORS", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcxgb3-1.3.1/COPYING", "size_i": "1487", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcxgb3-1.3.1/README", "size_i": "557", "regex": "false"}
+]

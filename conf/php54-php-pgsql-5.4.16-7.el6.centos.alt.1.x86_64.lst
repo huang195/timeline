@@ -1,0 +1,6 @@
+[
+	{"name_s": "/opt/rh/php54/root/etc/php.d/pdo_pgsql.ini", "size_i": "59", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php.d/pgsql.ini", "size_i": "51", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/pdo_pgsql.so", "size_i": "37056", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/pgsql.so", "size_i": "119912", "regex": "false"}
+]

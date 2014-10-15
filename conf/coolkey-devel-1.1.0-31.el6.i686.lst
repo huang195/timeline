@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/cky_applet.h", "size_i": "25695", "regex": "false"},
+	{"name_s": "/usr/include/cky_base.h", "size_i": "10229", "regex": "false"},
+	{"name_s": "/usr/include/cky_card.h", "size_i": "5599", "regex": "false"},
+	{"name_s": "/usr/include/cky_factory.h", "size_i": "8969", "regex": "false"},
+	{"name_s": "/usr/include/cky_list.h", "size_i": "4636", "regex": "false"},
+	{"name_s": "/usr/lib/libckyapplet.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libckyapplet.pc", "size_i": "205", "regex": "false"}
+]

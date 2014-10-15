@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/versionlock.conf", "size_i": "161", "regex": "false"},
+	{"name_s": "/etc/yum/pluginconf.d/versionlock.list", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/versionlock.py", "size_i": "8610", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/versionlock.pyc", "size_i": "7442", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/versionlock.pyo", "size_i": "7401", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-versionlock-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-versionlock-1.1.30/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-versionlock-1.1.30/README", "size_i": "619", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/yum-versionlock.1.gz", "size_i": "1130", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/yum-versionlock.conf.5.gz", "size_i": "969", "regex": "false"}
+]

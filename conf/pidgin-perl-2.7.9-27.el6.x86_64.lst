@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/pidgin/perl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pidgin/perl/Pidgin.pm", "size_i": "1242", "regex": "false"},
+	{"name_s": "/usr/lib64/pidgin/perl/auto", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pidgin/perl/auto/Pidgin", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pidgin/perl/auto/Pidgin/Pidgin.so", "size_i": "169560", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Pidgin.3pm.gz", "size_i": "2196", "regex": "false"}
+]

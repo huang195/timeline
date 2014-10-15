@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libGL.so.1", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libGL.so.1.2.0", "size_i": "388328", "regex": "false"}
+]

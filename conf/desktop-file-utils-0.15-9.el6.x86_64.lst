@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/desktop-file-install", "size_i": "50440", "regex": "false"},
+	{"name_s": "/usr/bin/desktop-file-validate", "size_i": "42296", "regex": "false"},
+	{"name_s": "/usr/bin/update-desktop-database", "size_i": "14080", "regex": "false"},
+	{"name_s": "/usr/share/doc/desktop-file-utils-0.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/desktop-file-utils-0.15/AUTHORS", "size_i": "96", "regex": "false"},
+	{"name_s": "/usr/share/doc/desktop-file-utils-0.15/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/desktop-file-utils-0.15/NEWS", "size_i": "4603", "regex": "false"},
+	{"name_s": "/usr/share/doc/desktop-file-utils-0.15/README", "size_i": "504", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/desktop-entry-mode.el", "size_i": "7814", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/desktop-entry-mode.elc", "size_i": "5748", "regex": "false"}
+]

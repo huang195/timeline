@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/mythes-ru-0.20070613", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-ru-0.20070613/README_thes_ru_RU.txt", "size_i": "408", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-ru-0.20070613/licence.txt", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ru_RU_v2.dat", "size_i": "2055393", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ru_RU_v2.idx", "size_i": "136565", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ru_UA_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_ru_UA_v2.idx", "size_i": "15", "regex": "false"}
+]

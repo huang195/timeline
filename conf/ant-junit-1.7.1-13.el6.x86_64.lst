@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/ant.d/junit", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-junit-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-junit-1.7.1.jar.so", "size_i": "384976", "regex": "false"},
+	{"name_s": "/usr/share/ant/etc/junit-frames.xsl", "size_i": "33873", "regex": "false"},
+	{"name_s": "/usr/share/ant/etc/junit-noframes.xsl", "size_i": "18020", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-junit.jar", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-junit-1.7.1.jar", "size_i": "94991", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-junit.jar", "size_i": "19", "regex": "false"}
+]

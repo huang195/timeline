@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/pydoc", "size_i": "78", "regex": "false"},
+	{"name_s": "/usr/bin/python", "size_i": "4864", "regex": "false"},
+	{"name_s": "/usr/bin/python2", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/bin/python2.6", "size_i": "4864", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-2.6.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-2.6.6/LICENSE", "size_i": "14171", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-2.6.6/README", "size_i": "55001", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/python.1.gz", "size_i": "5489", "regex": "false"}
+]

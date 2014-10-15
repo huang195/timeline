@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/prioritized_methods-0.2.1-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/prioritized_methods-0.2.1-py2.6.egg-info/PKG-INFO", "size_i": "5289", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/prioritized_methods-0.2.1-py2.6.egg-info/SOURCES.txt", "size_i": "293", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/prioritized_methods-0.2.1-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/prioritized_methods-0.2.1-py2.6.egg-info/requires.txt", "size_i": "33", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/prioritized_methods-0.2.1-py2.6.egg-info/top_level.txt", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/prioritized_methods-0.2.1-py2.6.egg-info/zip-safe", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/prioritized_methods.py", "size_i": "9495", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/prioritized_methods.pyc", "size_i": "10232", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/prioritized_methods.pyo", "size_i": "10157", "regex": "false"}
+]

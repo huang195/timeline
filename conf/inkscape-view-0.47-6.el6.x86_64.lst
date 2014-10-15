@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/inkview", "size_i": "11846000", "regex": "false"},
+	{"name_s": "/usr/share/doc/inkscape-view-0.47", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/inkscape-view-0.47/AUTHORS", "size_i": "1967", "regex": "false"},
+	{"name_s": "/usr/share/doc/inkscape-view-0.47/COPYING", "size_i": "18032", "regex": "false"},
+	{"name_s": "/usr/share/doc/inkscape-view-0.47/ChangeLog", "size_i": "400643", "regex": "false"},
+	{"name_s": "/usr/share/doc/inkscape-view-0.47/NEWS", "size_i": "71027", "regex": "false"},
+	{"name_s": "/usr/share/doc/inkscape-view-0.47/README", "size_i": "2846", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/inkview.1.gz", "size_i": "915", "regex": "false"}
+]

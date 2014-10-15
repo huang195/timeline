@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/poppler/qt3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/poppler/qt3/poppler-link-qt3.h", "size_i": "4673", "regex": "false"},
+	{"name_s": "/usr/include/poppler/qt3/poppler-page-transition.h", "size_i": "3734", "regex": "false"},
+	{"name_s": "/usr/include/poppler/qt3/poppler-qt.h", "size_i": "7913", "regex": "false"},
+	{"name_s": "/usr/lib64/libpoppler-qt.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/poppler-qt.pc", "size_i": "256", "regex": "false"}
+]

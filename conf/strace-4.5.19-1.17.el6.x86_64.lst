@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/strace", "size_i": "306456", "regex": "false"},
+	{"name_s": "/usr/share/doc/strace-4.5.19", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/strace-4.5.19/COPYRIGHT", "size_i": "1763", "regex": "false"},
+	{"name_s": "/usr/share/doc/strace-4.5.19/CREDITS", "size_i": "1840", "regex": "false"},
+	{"name_s": "/usr/share/doc/strace-4.5.19/ChangeLog", "size_i": "8834", "regex": "false"},
+	{"name_s": "/usr/share/doc/strace-4.5.19/ChangeLog-CVS", "size_i": "204086", "regex": "false"},
+	{"name_s": "/usr/share/doc/strace-4.5.19/NEWS", "size_i": "9695", "regex": "false"},
+	{"name_s": "/usr/share/doc/strace-4.5.19/PORTING", "size_i": "3824", "regex": "false"},
+	{"name_s": "/usr/share/doc/strace-4.5.19/README", "size_i": "1220", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/strace.1.gz", "size_i": "8438", "regex": "false"}
+]

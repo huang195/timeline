@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/eclipse/dropins/subclipse-graph", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/subclipse-graph/eclipse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/subclipse-graph/eclipse/features", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/subclipse-graph/eclipse/features/org.tigris.subversion.subclipse.graph.feature_1.0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/subclipse-graph/eclipse/features/org.tigris.subversion.subclipse.graph.feature_1.0.7/feature.properties", "size_i": "3266", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/subclipse-graph/eclipse/features/org.tigris.subversion.subclipse.graph.feature_1.0.7/feature.xml", "size_i": "1638", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/subclipse-graph/eclipse/features/org.tigris.subversion.subclipse.graph.feature_1.0.7/license.html", "size_i": "1587", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/subclipse-graph/eclipse/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/eclipse/dropins/subclipse-graph/eclipse/plugins/org.tigris.subversion.subclipse.graph_1.0.7.jar", "size_i": "123386", "regex": "false"}
+]

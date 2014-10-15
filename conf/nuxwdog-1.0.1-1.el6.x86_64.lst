@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/nuxwdog", "size_i": "40832", "regex": "false"},
+	{"name_s": "/usr/lib64/libnuxwdog.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libnuxwdog.so.0.0.0", "size_i": "24088", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Nuxwdogclient.pm", "size_i": "2269", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Nuxwdogclient", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Nuxwdogclient/Nuxwdogclient.so", "size_i": "12440", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Nuxwdogclient/autosplit.ix", "size_i": "92", "regex": "false"},
+	{"name_s": "/usr/share/doc/nuxwdog-1.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nuxwdog-1.0.1/LICENSE", "size_i": "25381", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/nuxwdog.1.gz", "size_i": "2854", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Nuxwdogclient.3pm.gz", "size_i": "2010", "regex": "false"}
+]

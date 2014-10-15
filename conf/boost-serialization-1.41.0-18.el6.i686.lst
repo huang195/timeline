@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libboost_serialization-mt.so.5", "size_i": "438456", "regex": "false"},
+	{"name_s": "/usr/lib/libboost_serialization.so.5", "size_i": "438372", "regex": "false"},
+	{"name_s": "/usr/lib/libboost_wserialization-mt.so.5", "size_i": "314760", "regex": "false"},
+	{"name_s": "/usr/lib/libboost_wserialization.so.5", "size_i": "314644", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-serialization-1.41.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-serialization-1.41.0/LICENSE_1_0.txt", "size_i": "1338", "regex": "false"}
+]

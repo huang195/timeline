@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/include/nautilus-sendto/nautilus-sendto-plugin.h", "size_i": "4118", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/nautilus-sendto.pc", "size_i": "268", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto/api-index-full.html", "size_i": "2424", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto/ch01.html", "size_i": "2005", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto/home.png", "size_i": "654", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto/index.html", "size_i": "1842", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto/index.sgml", "size_i": "1189", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto/left.png", "size_i": "459", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto/nautilus-sendto-nautilus-sendto-plugin.html", "size_i": "11027", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto/nautilus-sendto.devhelp", "size_i": "978", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto/nautilus-sendto.devhelp2", "size_i": "1489", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto/right.png", "size_i": "472", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto/style.css", "size_i": "2433", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/nautilus-sendto/up.png", "size_i": "406", "regex": "false"}
+]

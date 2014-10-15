@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/compile_et", "size_i": "1481", "regex": "false"},
+	{"name_s": "/usr/include/et", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/et/com_err.h", "size_i": "2038", "regex": "false"},
+	{"name_s": "/usr/lib/libcom_err.a", "size_i": "12304", "regex": "false"},
+	{"name_s": "/usr/lib/libcom_err.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/com_err.pc", "size_i": "236", "regex": "false"},
+	{"name_s": "/usr/share/et", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/et/et_c.awk", "size_i": "6414", "regex": "false"},
+	{"name_s": "/usr/share/et/et_h.awk", "size_i": "4539", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/compile_et.1.gz", "size_i": "1151", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/com_err.3.gz", "size_i": "1170", "regex": "false"}
+]

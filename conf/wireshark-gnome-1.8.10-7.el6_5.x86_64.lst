@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/wireshark", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/sbin/wireshark", "size_i": "2525592", "regex": "false"},
+	{"name_s": "/usr/share/applications/wireshark.desktop", "size_i": "369", "regex": "false"},
+	{"name_s": "/usr/share/icons/gnome/16x16/mimetypes/application-x-pcap.png", "size_i": "655", "regex": "false"},
+	{"name_s": "/usr/share/icons/gnome/256x256/mimetypes/application-x-pcap.png", "size_i": "25329", "regex": "false"},
+	{"name_s": "/usr/share/icons/gnome/32x32/mimetypes/application-x-pcap.png", "size_i": "1860", "regex": "false"},
+	{"name_s": "/usr/share/icons/gnome/48x48/mimetypes/application-x-pcap.png", "size_i": "3036", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/16x16/apps/wireshark.png", "size_i": "850", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/256x256/apps/wireshark.png", "size_i": "29932", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/32x32/apps/wireshark.png", "size_i": "2004", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/48x48/apps/wireshark.png", "size_i": "3491", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/64x64/apps/wireshark.png", "size_i": "5094", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/wireshark.1.gz", "size_i": "48564", "regex": "false"},
+	{"name_s": "/usr/share/mime/packages/wireshark.xml", "size_i": "331", "regex": "false"}
+]

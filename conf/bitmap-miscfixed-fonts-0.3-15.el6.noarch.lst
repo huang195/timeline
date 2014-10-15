@@ -1,0 +1,22 @@
+[
+	{"name_s": "/etc/fonts/conf.d/66-bitmap-miscfixed.conf", "size_i": "57", "regex": "false"},
+	{"name_s": "/usr/share/doc/bitmap-miscfixed-fonts-0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bitmap-miscfixed-fonts-0.3/README", "size_i": "900", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/66-bitmap-miscfixed.conf", "size_i": "337", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/10x20.pcf.gz", "size_i": "92739", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/4x6.pcf.gz", "size_i": "14894", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/5x7.pcf.gz", "size_i": "27624", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/5x8.pcf.gz", "size_i": "22962", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/6x10.pcf.gz", "size_i": "26377", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/6x12.pcf.gz", "size_i": "30479", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/6x13.pcf.gz", "size_i": "76750", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/6x13B.pcf.gz", "size_i": "23791", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/6x9.pcf.gz", "size_i": "22459", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/7x14.pcf.gz", "size_i": "47134", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/7x14B.pcf.gz", "size_i": "18787", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/9x15.pcf.gz", "size_i": "90070", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/9x15B.pcf.gz", "size_i": "33252", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/9x18.pcf.gz", "size_i": "89598", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bitmap/9x18B.pcf.gz", "size_i": "16183", "regex": "false"}
+]

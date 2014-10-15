@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-fur-0.20050912", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-fur-0.20050912/COPYING.txt", "size_i": "15245", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-fur-0.20050912/LEIMI.txt", "size_i": "1111", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-fur-0.20050912/LICENCE.txt", "size_i": "18567", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fur_IT.aff", "size_i": "16550", "regex": "false"},
+	{"name_s": "/usr/share/myspell/fur_IT.dic", "size_i": "371941", "regex": "false"}
+]

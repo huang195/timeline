@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-un-core-pilgi.conf", "size_i": "56", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-un-core-pilgi.conf", "size_i": "463", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core/UnPilgi.ttf", "size_i": "932748", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core/UnPilgiBold.ttf", "size_i": "923780", "regex": "false"}
+]

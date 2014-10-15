@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/php54/root/etc/php.d/opcache-default.blacklist", "size_i": "645", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php.d/opcache.ini", "size_i": "3381", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/opcache.so", "size_i": "126800", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-zendopcache-7.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-zendopcache-7.0.2/LICENSE", "size_i": "3218", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-zendopcache-7.0.2/README", "size_i": "8267", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/var/lib/pear/pkgxml/php54-php-pecl-zendopcache.xml", "size_i": "9349", "regex": "false"}
+]

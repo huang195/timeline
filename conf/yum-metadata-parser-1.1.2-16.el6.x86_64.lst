@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/_sqlitecache.so", "size_i": "45320", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/sqlitecachec.py", "size_i": "2510", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/sqlitecachec.pyc", "size_i": "2176", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/sqlitecachec.pyo", "size_i": "2176", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/yum_metadata_parser-1.1.2-py2.6.egg-info", "size_i": "213", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-metadata-parser-1.1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-metadata-parser-1.1.2/AUTHORS", "size_i": "96", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-metadata-parser-1.1.2/ChangeLog", "size_i": "7354", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-metadata-parser-1.1.2/README", "size_i": "658", "regex": "false"}
+]

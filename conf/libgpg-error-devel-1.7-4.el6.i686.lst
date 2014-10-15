@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/gpg-error-config", "size_i": "1491", "regex": "false"},
+	{"name_s": "/usr/include/gpg-error.h", "size_i": "22689", "regex": "false"},
+	{"name_s": "/usr/lib/libgpg-error.so", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/gpg-error.m4", "size_i": "2514", "regex": "false"}
+]

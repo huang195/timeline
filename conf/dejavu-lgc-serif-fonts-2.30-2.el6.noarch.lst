@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/fonts/conf.d/20-unhint-small-dejavu-lgc-serif.conf", "size_i": "70", "regex": "false"},
+	{"name_s": "/etc/fonts/conf.d/58-dejavu-lgc-serif.conf", "size_i": "57", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/20-unhint-small-dejavu-lgc-serif.conf", "size_i": "866", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/58-dejavu-lgc-serif.conf", "size_i": "1689", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuLGCSerif-Bold.ttf", "size_i": "279528", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuLGCSerif-BoldItalic.ttf", "size_i": "264356", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuLGCSerif-Italic.ttf", "size_i": "274968", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuLGCSerif.ttf", "size_i": "304924", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuLGCSerifCondensed-Bold.ttf", "size_i": "255208", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuLGCSerifCondensed-BoldItalic.ttf", "size_i": "263688", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuLGCSerifCondensed-Italic.ttf", "size_i": "274480", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuLGCSerifCondensed.ttf", "size_i": "271912", "regex": "false"}
+]

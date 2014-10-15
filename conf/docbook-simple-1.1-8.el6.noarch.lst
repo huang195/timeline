@@ -1,0 +1,18 @@
+[
+	{"name_s": "/etc/sgml/docbook-simple.cat", "size_i": "1138", "regex": "false"},
+	{"name_s": "/etc/xml/docbook-simple.xml", "size_i": "1626", "regex": "false"},
+	{"name_s": "/usr/share/doc/docbook-simple-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/docbook-simple-1.1/README.redhat", "size_i": "3785", "regex": "false"},
+	{"name_s": "/usr/share/doc/docbook-simple-1.1/sdocbook.css", "size_i": "5357", "regex": "false"},
+	{"name_s": "/usr/share/xml/docbook/simple", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/xml/docbook/simple/1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/xml/docbook/simple/1.1/sdbcent.mod", "size_i": "2772", "regex": "false"},
+	{"name_s": "/usr/share/xml/docbook/simple/1.1/sdbhier.mod", "size_i": "3308", "regex": "false"},
+	{"name_s": "/usr/share/xml/docbook/simple/1.1/sdbpool.mod", "size_i": "6219", "regex": "false"},
+	{"name_s": "/usr/share/xml/docbook/simple/1.1/sdocbook-custom.dtd", "size_i": "13282", "regex": "false"},
+	{"name_s": "/usr/share/xml/docbook/simple/1.1/sdocbook.css", "size_i": "5357", "regex": "false"},
+	{"name_s": "/usr/share/xml/docbook/simple/1.1/sdocbook.dtd", "size_i": "58984", "regex": "false"},
+	{"name_s": "/usr/share/xml/docbook/simple/1.1/sdocbookref-custom.dtd", "size_i": "2503", "regex": "false"},
+	{"name_s": "/usr/share/xml/docbook/simple/1.1/sdocbookref.dtd", "size_i": "64034", "regex": "false"},
+	{"name_s": "/usr/share/xml/docbook/simple/1.1/sinclist.mod", "size_i": "12537", "regex": "false"}
+]

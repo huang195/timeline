@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libSDL-1.2.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libSDL-1.2.so.0.11.3", "size_i": "470996", "regex": "false"},
+	{"name_s": "/usr/share/doc/SDL-1.2.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/SDL-1.2.14/BUGS", "size_i": "489", "regex": "false"},
+	{"name_s": "/usr/share/doc/SDL-1.2.14/COPYING", "size_i": "24390", "regex": "false"},
+	{"name_s": "/usr/share/doc/SDL-1.2.14/CREDITS", "size_i": "3072", "regex": "false"},
+	{"name_s": "/usr/share/doc/SDL-1.2.14/README-SDL.txt", "size_i": "425", "regex": "false"}
+]

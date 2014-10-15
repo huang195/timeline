@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/dbus-1.0/dbus/connection.h", "size_i": "2222", "regex": "false"},
+	{"name_s": "/usr/include/dbus-1.0/dbus/dbus-qt.h", "size_i": "2422", "regex": "false"},
+	{"name_s": "/usr/include/dbus-1.0/dbus/message.h", "size_i": "3520", "regex": "false"},
+	{"name_s": "/usr/include/dbus-1.0/dbus/server.h", "size_i": "1519", "regex": "false"},
+	{"name_s": "/usr/lib64/libdbus-qt-1.so", "size_i": "21", "regex": "false"}
+]

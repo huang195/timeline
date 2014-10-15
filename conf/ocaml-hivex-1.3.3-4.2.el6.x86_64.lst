@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/ocaml/hivex", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/hivex/META", "size_i": "164", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/hivex/hivex.cmi", "size_i": "3411", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/hivex/mlhivex.cma", "size_i": "2803", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/stublibs/dllmlhivex.so", "size_i": "19544", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/stublibs/dllmlhivex.so.owner", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-hivex-1.3.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-hivex-1.3.3/README", "size_i": "3067", "regex": "false"}
+]

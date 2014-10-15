@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-sr-0.20090511", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-sr-0.20090511/README_hyph.txt", "size_i": "895", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_bs_BA.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_sh_ME.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_sh_RS.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_sh_YU.dic", "size_i": "19615", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_sr_ME.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_sr_RS.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_sr_YU.dic", "size_i": "19127", "regex": "false"}
+]

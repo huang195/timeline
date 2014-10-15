@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/memcache.py", "size_i": "39165", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/memcache.pyc", "size_i": "37299", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/memcache.pyo", "size_i": "37299", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/python_memcached-1.43-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/python_memcached-1.43-py2.6.egg-info/PKG-INFO", "size_i": "1126", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/python_memcached-1.43-py2.6.egg-info/SOURCES.txt", "size_i": "197", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/python_memcached-1.43-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/python_memcached-1.43-py2.6.egg-info/top_level.txt", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-memcached-1.43", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-memcached-1.43/ChangeLog", "size_i": "9006", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-memcached-1.43/LICENSE", "size_i": "13549", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-memcached-1.43/README", "size_i": "376", "regex": "false"}
+]

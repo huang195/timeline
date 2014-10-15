@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/mythes-cs-0.20070926", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-cs-0.20070926/th_cs_CZ_license.txt", "size_i": "1086", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_cs_CZ_v2.dat", "size_i": "433562", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_cs_CZ_v2.idx", "size_i": "217062", "regex": "false"}
+]

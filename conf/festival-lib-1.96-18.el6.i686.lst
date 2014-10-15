@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib/libFestival.so.1.96.0", "size_i": "1111984", "regex": "false"},
+	{"name_s": "/usr/share/doc/festival-lib-1.96", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/festival-lib-1.96/COPYING", "size_i": "5038", "regex": "false"}
+]

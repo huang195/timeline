@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-tet-0.20050108", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-tet-0.20050108/README_tet_ID.txt", "size_i": "19146", "regex": "false"},
+	{"name_s": "/usr/share/myspell/tet_ID.aff", "size_i": "837", "regex": "false"},
+	{"name_s": "/usr/share/myspell/tet_ID.dic", "size_i": "76277", "regex": "false"},
+	{"name_s": "/usr/share/myspell/tet_TL.aff", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/share/myspell/tet_TL.dic", "size_i": "10", "regex": "false"}
+]

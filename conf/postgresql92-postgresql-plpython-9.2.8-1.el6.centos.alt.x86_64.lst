@@ -1,0 +1,20 @@
+[
+	{"name_s": "/opt/rh/postgresql92/root/usr/lib64/pgsql/plpython2.so", "size_i": "119208", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/cs/LC_MESSAGES/plpython-9.2.mo", "size_i": "10375", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/de/LC_MESSAGES/plpython-9.2.mo", "size_i": "10665", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/es/LC_MESSAGES/plpython-9.2.mo", "size_i": "10397", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/fr/LC_MESSAGES/plpython-9.2.mo", "size_i": "10686", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/it/LC_MESSAGES/plpython-9.2.mo", "size_i": "10731", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/ja/LC_MESSAGES/plpython-9.2.mo", "size_i": "11935", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/pl/LC_MESSAGES/plpython-9.2.mo", "size_i": "10535", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/pt_BR/LC_MESSAGES/plpython-9.2.mo", "size_i": "10285", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/ro/LC_MESSAGES/plpython-9.2.mo", "size_i": "9155", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/ru/LC_MESSAGES/plpython-9.2.mo", "size_i": "13449", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/locale/zh_CN/LC_MESSAGES/plpython-9.2.mo", "size_i": "9608", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/pgsql/extension/plpython2u--1.0.sql", "size_i": "351", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/pgsql/extension/plpython2u--unpackaged--1.0.sql", "size_i": "402", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/pgsql/extension/plpython2u.control", "size_i": "196", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/pgsql/extension/plpythonu--1.0.sql", "size_i": "347", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/pgsql/extension/plpythonu--unpackaged--1.0.sql", "size_i": "393", "regex": "false"},
+	{"name_s": "/opt/rh/postgresql92/root/usr/share/pgsql/extension/plpythonu.control", "size_i": "194", "regex": "false"}
+]

@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/include/festival", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/festival/Makefile", "size_i": "2651", "regex": "false"},
+	{"name_s": "/usr/include/festival/ModuleDescription.h", "size_i": "5624", "regex": "false"},
+	{"name_s": "/usr/include/festival/Phone.h", "size_i": "6319", "regex": "false"},
+	{"name_s": "/usr/include/festival/festival.h", "size_i": "7159", "regex": "false"},
+	{"name_s": "/usr/include/festival/fngram.h", "size_i": "3061", "regex": "false"},
+	{"name_s": "/usr/include/festival/intonation.h", "size_i": "3219", "regex": "false"},
+	{"name_s": "/usr/include/festival/lexicon.h", "size_i": "6028", "regex": "false"},
+	{"name_s": "/usr/include/festival/module_support.h", "size_i": "5692", "regex": "false"},
+	{"name_s": "/usr/include/festival/modules.h", "size_i": "3376", "regex": "false"},
+	{"name_s": "/usr/include/festival/text.h", "size_i": "3722", "regex": "false"},
+	{"name_s": "/usr/lib64/libFestival.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/share/doc/festival-devel-1.96", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/festival-devel-1.96/COPYING", "size_i": "5038", "regex": "false"}
+]

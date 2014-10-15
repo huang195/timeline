@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/gitweb.conf", "size_i": "2337", "regex": "false"},
+	{"name_s": "/etc/httpd/conf.d/git.conf", "size_i": "139", "regex": "false"},
+	{"name_s": "/usr/share/doc/gitweb-1.7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gitweb-1.7.1/INSTALL", "size_i": "10519", "regex": "false"},
+	{"name_s": "/usr/share/doc/gitweb-1.7.1/README", "size_i": "22062", "regex": "false"},
+	{"name_s": "/var/www/git", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/www/git/git-favicon.png", "size_i": "115", "regex": "false"},
+	{"name_s": "/var/www/git/git-logo.png", "size_i": "207", "regex": "false"},
+	{"name_s": "/var/www/git/gitweb.cgi", "size_i": "204721", "regex": "false"},
+	{"name_s": "/var/www/git/gitweb.css", "size_i": "8379", "regex": "false"},
+	{"name_s": "/var/www/git/gitweb.js", "size_i": "24142", "regex": "false"}
+]

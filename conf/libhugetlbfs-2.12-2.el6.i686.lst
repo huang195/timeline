@@ -1,0 +1,22 @@
+[
+	{"name_s": "/etc/security/limits.d/hugepages.conf", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/lib/libhugetlbfs.so", "size_i": "64600", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhugetlbfs-2.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhugetlbfs-2.12/HOWTO", "size_i": "31336", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhugetlbfs-2.12/LGPL-2.1", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhugetlbfs-2.12/NEWS", "size_i": "12899", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhugetlbfs-2.12/README", "size_i": "1864", "regex": "false"},
+	{"name_s": "/usr/share/libhugetlbfs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/libhugetlbfs/ld", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/share/libhugetlbfs/ld.hugetlbfs", "size_i": "1921", "regex": "false"},
+	{"name_s": "/usr/share/libhugetlbfs/ldscripts", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/libhugetlbfs/ldscripts/elf32ppclinux.xB", "size_i": "10170", "regex": "false"},
+	{"name_s": "/usr/share/libhugetlbfs/ldscripts/elf32ppclinux.xBDT", "size_i": "9832", "regex": "false"},
+	{"name_s": "/usr/share/libhugetlbfs/ldscripts/elf64ppc.xB", "size_i": "9524", "regex": "false"},
+	{"name_s": "/usr/share/libhugetlbfs/ldscripts/elf64ppc.xBDT", "size_i": "9855", "regex": "false"},
+	{"name_s": "/usr/share/libhugetlbfs/ldscripts/elf_i386.xB", "size_i": "7793", "regex": "false"},
+	{"name_s": "/usr/share/libhugetlbfs/ldscripts/elf_i386.xBDT", "size_i": "8088", "regex": "false"},
+	{"name_s": "/usr/share/libhugetlbfs/ldscripts/elf_x86_64.xB", "size_i": "8273", "regex": "false"},
+	{"name_s": "/usr/share/libhugetlbfs/ldscripts/elf_x86_64.xBDT", "size_i": "8500", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/libhugetlbfs.7.gz", "size_i": "3842", "regex": "false"}
+]

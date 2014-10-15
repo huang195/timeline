@@ -1,0 +1,16 @@
+[
+	{"name_s": "/etc/dbus-1/system.d/dnsmasq.conf", "size_i": "475", "regex": "false"},
+	{"name_s": "/etc/dnsmasq.conf", "size_i": "21214", "regex": "false"},
+	{"name_s": "/etc/dnsmasq.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/dnsmasq", "size_i": "1702", "regex": "false"},
+	{"name_s": "/usr/sbin/dnsmasq", "size_i": "180560", "regex": "false"},
+	{"name_s": "/usr/share/doc/dnsmasq-2.48", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dnsmasq-2.48/CHANGELOG", "size_i": "14084", "regex": "false"},
+	{"name_s": "/usr/share/doc/dnsmasq-2.48/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/dnsmasq-2.48/DBus-interface", "size_i": "3297", "regex": "false"},
+	{"name_s": "/usr/share/doc/dnsmasq-2.48/FAQ", "size_i": "23280", "regex": "false"},
+	{"name_s": "/usr/share/doc/dnsmasq-2.48/doc.html", "size_i": "5259", "regex": "false"},
+	{"name_s": "/usr/share/doc/dnsmasq-2.48/setup.html", "size_i": "12022", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dnsmasq.8.gz", "size_i": "20504", "regex": "false"},
+	{"name_s": "/var/lib/dnsmasq", "size_i": "4096", "regex": "false"}
+]

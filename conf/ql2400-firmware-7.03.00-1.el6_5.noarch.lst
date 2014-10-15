@@ -1,0 +1,5 @@
+[
+	{"name_s": "/lib/firmware/ql2400_fw.bin", "size_i": "260656", "regex": "false"},
+	{"name_s": "/usr/share/doc/ql2400-firmware-7.03.00", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ql2400-firmware-7.03.00/LICENSE", "size_i": "1843", "regex": "false"}
+]

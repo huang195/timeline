@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/perlver", "size_i": "8447", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Perl-MinimumVersion-1.20", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Perl-MinimumVersion-1.20/Changes", "size_i": "3061", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Perl-MinimumVersion-1.20/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/perlver.1.gz", "size_i": "2526", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Perl::MinimumVersion.3pm.gz", "size_i": "3996", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Perl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Perl/MinimumVersion.pm", "size_i": "19329", "regex": "false"}
+]

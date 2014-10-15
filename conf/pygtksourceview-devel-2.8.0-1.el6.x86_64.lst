@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/pkgconfig/pygtksourceview-2.0.pc", "size_i": "214", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/gtksourceview2.defs", "size_i": "31407", "regex": "false"}
+]

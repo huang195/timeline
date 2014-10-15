@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboCheetah-1.0-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboCheetah-1.0-py2.6.egg-info/PKG-INFO", "size_i": "720", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboCheetah-1.0-py2.6.egg-info/SOURCES.txt", "size_i": "723", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboCheetah-1.0-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboCheetah-1.0-py2.6.egg-info/entry_points.txt", "size_i": "94", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboCheetah-1.0-py2.6.egg-info/not-zip-safe", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboCheetah-1.0-py2.6.egg-info/requires.txt", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/TurboCheetah-1.0-py2.6.egg-info/top_level.txt", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbocheetah", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbocheetah/__init__.py", "size_i": "117", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbocheetah/__init__.pyc", "size_i": "269", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbocheetah/__init__.pyo", "size_i": "269", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbocheetah/cheetahsupport.py", "size_i": "3900", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbocheetah/cheetahsupport.pyc", "size_i": "4045", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/turbocheetah/cheetahsupport.pyo", "size_i": "4045", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-turbocheetah-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-turbocheetah-1.0/README.txt", "size_i": "756", "regex": "false"}
+]

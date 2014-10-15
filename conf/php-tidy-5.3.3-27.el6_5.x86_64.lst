@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/tidy.ini", "size_i": "49", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/tidy.so", "size_i": "49320", "regex": "false"}
+]

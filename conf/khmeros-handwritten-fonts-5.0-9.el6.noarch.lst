@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-khmeros-handwritten.conf", "size_i": "62", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-khmeros-handwritten.conf", "size_i": "907", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros/KhmerOS_fasthand.ttf", "size_i": "228828", "regex": "false"},
+	{"name_s": "/usr/share/fonts/khmeros/KhmerOS_freehand.ttf", "size_i": "238028", "regex": "false"}
+]

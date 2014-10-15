@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libgsl.a", "size_i": "3993862", "regex": "false"},
+	{"name_s": "/usr/lib64/libgslcblas.a", "size_i": "445090", "regex": "false"},
+	{"name_s": "/usr/share/doc/gsl-static-1.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gsl-static-1.13/AUTHORS", "size_i": "1586", "regex": "false"},
+	{"name_s": "/usr/share/doc/gsl-static-1.13/COPYING", "size_i": "35147", "regex": "false"}
+]

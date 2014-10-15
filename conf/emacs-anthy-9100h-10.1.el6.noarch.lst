@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/emacs-anthy-9100h", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/emacs-anthy-9100h/ELISP", "size_i": "3162", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/anthy-azik.elc", "size_i": "10721", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/anthy-conf.elc", "size_i": "5013", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/anthy-dic.elc", "size_i": "4031", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/anthy-isearch.elc", "size_i": "3298", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/anthy-kyuri.elc", "size_i": "11853", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/anthy/anthy.elc", "size_i": "21515", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/site-start.d/anthy-init.el", "size_i": "385", "regex": "false"}
+]

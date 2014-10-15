@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/libpaps.h", "size_i": "3661", "regex": "false"},
+	{"name_s": "/usr/lib64/libpaps.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/doc/paps-devel-0.6.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/paps-devel-0.6.8/COPYING.LIB", "size_i": "25308", "regex": "false"}
+]

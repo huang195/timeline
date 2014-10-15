@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/libdns_sd.so.1", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libdns_sd.so.1.0.0", "size_i": "31716", "regex": "false"}
+]

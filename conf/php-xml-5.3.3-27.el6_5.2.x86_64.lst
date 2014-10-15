@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/php.d/dom.ini", "size_i": "47", "regex": "false"},
+	{"name_s": "/etc/php.d/wddx.ini", "size_i": "49", "regex": "false"},
+	{"name_s": "/etc/php.d/xmlreader.ini", "size_i": "59", "regex": "false"},
+	{"name_s": "/etc/php.d/xmlwriter.ini", "size_i": "59", "regex": "false"},
+	{"name_s": "/etc/php.d/xsl.ini", "size_i": "47", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/dom.so", "size_i": "170360", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/wddx.so", "size_i": "33320", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/xmlreader.so", "size_i": "30096", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/xmlwriter.so", "size_i": "46736", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/xsl.so", "size_i": "34056", "regex": "false"}
+]

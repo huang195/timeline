@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/plpa-info", "size_i": "7616", "regex": "false"},
+	{"name_s": "/usr/bin/plpa-taskset", "size_i": "27400", "regex": "false"}
+]

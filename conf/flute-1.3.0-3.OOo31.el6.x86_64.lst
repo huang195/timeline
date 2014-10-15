@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/gcj/flute", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/flute/flute.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/flute/flute.jar.so", "size_i": "386496", "regex": "false"},
+	{"name_s": "/usr/share/doc/flute-1.3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/flute-1.3.0/COPYRIGHT.html", "size_i": "3765", "regex": "false"},
+	{"name_s": "/usr/share/java/flute.jar", "size_i": "85530", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/qimageblitz", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/qimageblitz/blitzcpu.h", "size_i": "2670", "regex": "false"},
+	{"name_s": "/usr/include/qimageblitz/qimageblitz.h", "size_i": "18270", "regex": "false"},
+	{"name_s": "/usr/include/qimageblitz/qimageblitz_export.h", "size_i": "1627", "regex": "false"},
+	{"name_s": "/usr/lib/libqimageblitz.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/qimageblitz.pc", "size_i": "232", "regex": "false"}
+]

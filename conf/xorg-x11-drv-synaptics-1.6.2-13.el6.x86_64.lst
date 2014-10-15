@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/synclient", "size_i": "19128", "regex": "false"},
+	{"name_s": "/usr/bin/syndaemon", "size_i": "15256", "regex": "false"},
+	{"name_s": "/usr/lib64/xorg/modules/input/synaptics_drv.so", "size_i": "65304", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-synaptics-1.6.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-synaptics-1.6.2/COPYING", "size_i": "1749", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-synaptics-1.6.2/README", "size_i": "5252", "regex": "false"},
+	{"name_s": "/usr/share/hal/fdi/policy/20thirdparty/10-synaptics.fdi", "size_i": "1301", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/synclient.1.gz", "size_i": "1404", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/syndaemon.1.gz", "size_i": "1282", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/synaptics.4.gz", "size_i": "9701", "regex": "false"}
+]

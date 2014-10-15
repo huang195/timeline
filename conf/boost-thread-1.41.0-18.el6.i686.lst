@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib/libboost_thread-mt.so.5", "size_i": "77616", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-thread-1.41.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-thread-1.41.0/LICENSE_1_0.txt", "size_i": "1338", "regex": "false"}
+]

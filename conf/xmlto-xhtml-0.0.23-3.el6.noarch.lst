@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/xmlto/format/xhtml1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/xmlto/format/xhtml1/awt", "size_i": "383", "regex": "false"},
+	{"name_s": "/usr/share/xmlto/format/xhtml1/dvi", "size_i": "769", "regex": "false"},
+	{"name_s": "/usr/share/xmlto/format/xhtml1/fo", "size_i": "305", "regex": "false"},
+	{"name_s": "/usr/share/xmlto/format/xhtml1/mif", "size_i": "383", "regex": "false"},
+	{"name_s": "/usr/share/xmlto/format/xhtml1/pcl", "size_i": "384", "regex": "false"},
+	{"name_s": "/usr/share/xmlto/format/xhtml1/pdf", "size_i": "769", "regex": "false"},
+	{"name_s": "/usr/share/xmlto/format/xhtml1/ps", "size_i": "769", "regex": "false"},
+	{"name_s": "/usr/share/xmlto/format/xhtml1/svg", "size_i": "384", "regex": "false"},
+	{"name_s": "/usr/share/xmlto/format/xhtml1/txt", "size_i": "1169", "regex": "false"}
+]

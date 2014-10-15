@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libref_array.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libref_array.so.1.0.0", "size_i": "7776", "regex": "false"},
+	{"name_s": "/usr/share/doc/libref_array-0.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libref_array-0.1.1/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/libref_array-0.1.1/COPYING.LESSER", "size_i": "7643", "regex": "false"}
+]

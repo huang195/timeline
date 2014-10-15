@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/bin/gdbserver", "size_i": "234776", "regex": "false"},
+	{"name_s": "/usr/lib64/libinproctrace.so", "size_i": "27504", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gdbserver.1.gz", "size_i": "2026", "regex": "false"}
+]

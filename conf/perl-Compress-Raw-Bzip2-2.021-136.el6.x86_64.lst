@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/perl5/Compress", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Compress/Raw", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Compress/Raw/Bzip2.pm", "size_i": "10079", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Compress/Raw/Bzip2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Compress/Raw/Bzip2/Bzip2.so", "size_i": "44032", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Compress/Raw/Bzip2/autosplit.ix", "size_i": "98", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Compress::Raw::Bzip2.3pm.gz", "size_i": "4765", "regex": "false"}
+]

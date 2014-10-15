@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/include/pstoedit", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/base64writer.h", "size_i": "2288", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/cppcomp.h", "size_i": "7249", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/drvbase.h", "size_i": "35709", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/drvfuncs.h", "size_i": "1231", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/genericints.h", "size_i": "1671", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/miscutil.h", "size_i": "9393", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/ordlist.h", "size_i": "5830", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/papersizes.h", "size_i": "8071", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/poptions.h", "size_i": "8064", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/psimage.h", "size_i": "2678", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/pstoedit.h", "size_i": "4048", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/pstoeditoptions.h", "size_i": "31471", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/pstoeditoutputlib.h", "size_i": "1345", "regex": "false"},
+	{"name_s": "/usr/include/pstoedit/pstoedll.h", "size_i": "2830", "regex": "false"},
+	{"name_s": "/usr/lib64/libpstoedit.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/pstoedit.pc", "size_i": "276", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/pstoedit.m4", "size_i": "6258", "regex": "false"},
+	{"name_s": "/usr/share/doc/pstoedit-devel-3.45", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pstoedit-devel-3.45/changelog.htm", "size_i": "40337", "regex": "false"}
+]

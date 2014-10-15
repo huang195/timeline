@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/exrenvmap", "size_i": "28600", "regex": "false"},
+	{"name_s": "/usr/bin/exrheader", "size_i": "24728", "regex": "false"},
+	{"name_s": "/usr/bin/exrmakepreview", "size_i": "15448", "regex": "false"},
+	{"name_s": "/usr/bin/exrmaketiled", "size_i": "48536", "regex": "false"},
+	{"name_s": "/usr/bin/exrstdattr", "size_i": "52712", "regex": "false"}
+]

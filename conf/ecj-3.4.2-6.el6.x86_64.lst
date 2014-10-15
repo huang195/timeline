@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/maven/fragments/ecj", "size_i": "293", "regex": "false"},
+	{"name_s": "/usr/bin/ecj", "size_i": "127", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ecj", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ecj/ecj-3.4.2.jar.db", "size_i": "36864", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ecj/ecj-3.4.2.jar.so", "size_i": "6213768", "regex": "false"},
+	{"name_s": "/usr/share/doc/ecj-3.4.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ecj-3.4.2/about.html", "size_i": "1432", "regex": "false"},
+	{"name_s": "/usr/share/java/ecj-3.4.2.jar", "size_i": "1442090", "regex": "false"},
+	{"name_s": "/usr/share/java/ecj.jar", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/share/java/eclipse-ecj-3.4.2.jar", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/share/java/eclipse-ecj.jar", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/share/java/jdtcore.jar", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/share/maven2/poms/JPP-ecj.pom", "size_i": "1249", "regex": "false"}
+]

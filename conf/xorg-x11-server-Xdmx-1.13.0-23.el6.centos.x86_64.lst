@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/Xdmx", "size_i": "1764600", "regex": "false"},
+	{"name_s": "/usr/bin/dmxaddinput", "size_i": "6232", "regex": "false"},
+	{"name_s": "/usr/bin/dmxaddscreen", "size_i": "6224", "regex": "false"},
+	{"name_s": "/usr/bin/dmxinfo", "size_i": "10384", "regex": "false"},
+	{"name_s": "/usr/bin/dmxreconfig", "size_i": "10328", "regex": "false"},
+	{"name_s": "/usr/bin/dmxresize", "size_i": "6224", "regex": "false"},
+	{"name_s": "/usr/bin/dmxrminput", "size_i": "6224", "regex": "false"},
+	{"name_s": "/usr/bin/dmxrmscreen", "size_i": "6224", "regex": "false"},
+	{"name_s": "/usr/bin/dmxtodmx", "size_i": "43296", "regex": "false"},
+	{"name_s": "/usr/bin/dmxwininfo", "size_i": "10464", "regex": "false"},
+	{"name_s": "/usr/bin/vdltodmx", "size_i": "22704", "regex": "false"},
+	{"name_s": "/usr/bin/xdmx", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/bin/xdmxconfig", "size_i": "64648", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/Xdmx.1.gz", "size_i": "8184", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dmxtodmx.1.gz", "size_i": "969", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/vdltodmx.1.gz", "size_i": "1334", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xdmxconfig.1.gz", "size_i": "1432", "regex": "false"}
+]

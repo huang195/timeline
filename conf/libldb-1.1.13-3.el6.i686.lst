@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib/ldb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/ldb/modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/ldb/modules/ldb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/ldb/modules/ldb/asq.so", "size_i": "8148", "regex": "false"},
+	{"name_s": "/usr/lib/ldb/modules/ldb/paged_results.so", "size_i": "8620", "regex": "false"},
+	{"name_s": "/usr/lib/ldb/modules/ldb/paged_searches.so", "size_i": "8420", "regex": "false"},
+	{"name_s": "/usr/lib/ldb/modules/ldb/rdn_name.so", "size_i": "9476", "regex": "false"},
+	{"name_s": "/usr/lib/ldb/modules/ldb/sample.so", "size_i": "4212", "regex": "false"},
+	{"name_s": "/usr/lib/ldb/modules/ldb/server_sort.so", "size_i": "7996", "regex": "false"},
+	{"name_s": "/usr/lib/ldb/modules/ldb/skel.so", "size_i": "5832", "regex": "false"},
+	{"name_s": "/usr/lib/ldb/modules/ldb/tdb.so", "size_i": "55520", "regex": "false"},
+	{"name_s": "/usr/lib/libldb.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libldb.so.1.1.13", "size_i": "183456", "regex": "false"}
+]

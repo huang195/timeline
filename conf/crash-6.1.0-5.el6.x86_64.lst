@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/crash", "size_i": "6546976", "regex": "false"},
+	{"name_s": "/usr/share/doc/crash-6.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/crash-6.1.0/COPYING3", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/crash-6.1.0/README", "size_i": "15544", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/crash.8.gz", "size_i": "7283", "regex": "false"}
+]

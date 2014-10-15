@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib/libvisual-0.4.so.0", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libvisual-0.4.so.0.0.0", "size_i": "291088", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvisual-0.4.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvisual-0.4.0/AUTHORS", "size_i": "958", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvisual-0.4.0/COPYING", "size_i": "24354", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvisual-0.4.0/ChangeLog", "size_i": "93134", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvisual-0.4.0/NEWS", "size_i": "3989", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvisual-0.4.0/README", "size_i": "2634", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvisual-0.4.0/TODO", "size_i": "7039", "regex": "false"},
+	{"name_s": "/usr/share/locale/es_AR/LC_MESSAGES/libvisual-0.4.mo", "size_i": "5958", "regex": "false"},
+	{"name_s": "/usr/share/locale/es_ES/LC_MESSAGES/libvisual-0.4.mo", "size_i": "5958", "regex": "false"}
+]

@@ -1,0 +1,21 @@
+[
+	{"name_s": "/etc/ptp4l.conf", "size_i": "1273", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/phc2sys", "size_i": "1665", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/ptp4l", "size_i": "1725", "regex": "false"},
+	{"name_s": "/etc/sysconfig/phc2sys", "size_i": "21", "regex": "false"},
+	{"name_s": "/etc/sysconfig/ptp4l", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/sbin/hwstamp_ctl", "size_i": "10264", "regex": "false"},
+	{"name_s": "/usr/sbin/phc2sys", "size_i": "47568", "regex": "false"},
+	{"name_s": "/usr/sbin/pmc", "size_i": "51464", "regex": "false"},
+	{"name_s": "/usr/sbin/ptp4l", "size_i": "86344", "regex": "false"},
+	{"name_s": "/usr/share/doc/linuxptp-1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/linuxptp-1.3/COPYING", "size_i": "18092", "regex": "false"},
+	{"name_s": "/usr/share/doc/linuxptp-1.3/README.org", "size_i": "9973", "regex": "false"},
+	{"name_s": "/usr/share/doc/linuxptp-1.3/default.cfg", "size_i": "1273", "regex": "false"},
+	{"name_s": "/usr/share/doc/linuxptp-1.3/gPTP.cfg", "size_i": "1095", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/ptp4l.conf.5.gz", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/hwstamp_ctl.8.gz", "size_i": "641", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/phc2sys.8.gz", "size_i": "2520", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pmc.8.gz", "size_i": "937", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ptp4l.8.gz", "size_i": "4278", "regex": "false"}
+]

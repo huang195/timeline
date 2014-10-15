@@ -1,0 +1,5 @@
+[
+	{"name_s": "/lib64/libnspr4.so", "size_i": "244656", "regex": "false"},
+	{"name_s": "/lib64/libplc4.so", "size_i": "18720", "regex": "false"},
+	{"name_s": "/lib64/libplds4.so", "size_i": "14560", "regex": "false"}
+]

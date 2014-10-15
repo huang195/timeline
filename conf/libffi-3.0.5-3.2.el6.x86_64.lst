@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libffi.so.5", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libffi.so.5.0.6", "size_i": "31720", "regex": "false"},
+	{"name_s": "/usr/share/doc/libffi-3.0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libffi-3.0.5/LICENSE", "size_i": "1119", "regex": "false"},
+	{"name_s": "/usr/share/doc/libffi-3.0.5/README", "size_i": "10042", "regex": "false"}
+]

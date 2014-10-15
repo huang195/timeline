@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libburn.so.4", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libburn.so.4.35.0", "size_i": "211824", "regex": "false"},
+	{"name_s": "/usr/share/doc/libburn-0.7.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libburn-0.7.0/AUTHORS", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/share/doc/libburn-0.7.0/COPYING", "size_i": "15127", "regex": "false"},
+	{"name_s": "/usr/share/doc/libburn-0.7.0/COPYRIGHT", "size_i": "909", "regex": "false"},
+	{"name_s": "/usr/share/doc/libburn-0.7.0/README", "size_i": "22623", "regex": "false"}
+]

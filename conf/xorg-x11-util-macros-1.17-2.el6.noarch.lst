@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/aclocal/xorg-macros.m4", "size_i": "68834", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-util-macros-1.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-util-macros-1.17/COPYING", "size_i": "2283", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-util-macros-1.17/ChangeLog", "size_i": "65251", "regex": "false"},
+	{"name_s": "/usr/share/pkgconfig/xorg-macros.pc", "size_i": "382", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-2-ipa-pgothic.conf", "size_i": "54", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-pgothic-fonts-003.02", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-pgothic-fonts-003.02/IPA_Font_License_Agreement_v1.0.txt", "size_i": "20564", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipa-pgothic-fonts-003.02/Readme_ipagp00302.txt", "size_i": "1444", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-2-ipa-pgothic.conf", "size_i": "722", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ipa-pgothic", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ipa-pgothic/ipagp.ttf", "size_i": "6234432", "regex": "false"}
+]

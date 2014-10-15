@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/lib64/setools", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/apol", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/apol/libtapol.so.4.3", "size_i": "461208", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/apol/pkgIndex.tcl", "size_i": "537", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/poldiff", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/poldiff/libtpoldiff.so.1.3.2", "size_i": "203088", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/poldiff/pkgIndex.tcl", "size_i": "547", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/qpol", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/qpol/libtqpol.so.1.6", "size_i": "289016", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/qpol/pkgIndex.tcl", "size_i": "537", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/seaudit", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/seaudit/libtseaudit.so.4.4", "size_i": "228272", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/seaudit/pkgIndex.tcl", "size_i": "543", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/sefs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/sefs/libtsefs.so.4.0.3", "size_i": "106944", "regex": "false"},
+	{"name_s": "/usr/lib64/setools/sefs/pkgIndex.tcl", "size_i": "541", "regex": "false"}
+]

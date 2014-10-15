@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/samyak-fonts-common-1.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/samyak-fonts-common-1.2.1/AUTHORS", "size_i": "392", "regex": "false"},
+	{"name_s": "/usr/share/doc/samyak-fonts-common-1.2.1/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/samyak-fonts-common-1.2.1/README", "size_i": "1366", "regex": "false"},
+	{"name_s": "/usr/share/fonts/samyak", "size_i": "4096", "regex": "false"}
+]

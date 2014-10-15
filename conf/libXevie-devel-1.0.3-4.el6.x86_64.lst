@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/include/X11/extensions/Xevie.h", "size_i": "1913", "regex": "false"},
+	{"name_s": "/usr/lib64/libXevie.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/xevie.pc", "size_i": "235", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Xevie.3.gz", "size_i": "1683", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XevieEnd.3.gz", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XevieQueryVersion.3.gz", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XevieSelectInput.3.gz", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XevieSendEvent.3.gz", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XevieStart.3.gz", "size_i": "37", "regex": "false"}
+]

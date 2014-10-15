@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/xorg/modules/drivers", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/xorg/modules/drivers/xgi_drv.so", "size_i": "264776", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/xgi.xinf", "size_i": "280", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/xgi.4.gz", "size_i": "5007", "regex": "false"}
+]

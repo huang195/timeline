@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/apr-util-1/apr_dbd_pgsql-1.so", "size_i": "20400", "regex": "false"},
+	{"name_s": "/usr/lib64/apr-util-1/apr_dbd_pgsql.so", "size_i": "18", "regex": "false"}
+]

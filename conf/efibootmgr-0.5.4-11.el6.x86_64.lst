@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/sbin/efibootmgr", "size_i": "46264", "regex": "false"},
+	{"name_s": "/usr/share/doc/efibootmgr-0.5.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/efibootmgr-0.5.4/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/efibootmgr-0.5.4/INSTALL", "size_i": "106", "regex": "false"},
+	{"name_s": "/usr/share/doc/efibootmgr-0.5.4/README", "size_i": "5197", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/efibootmgr.8.gz", "size_i": "3120", "regex": "false"}
+]

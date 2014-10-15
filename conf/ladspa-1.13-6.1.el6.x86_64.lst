@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/analyseplugin", "size_i": "13024", "regex": "false"},
+	{"name_s": "/usr/bin/applyplugin", "size_i": "15120", "regex": "false"},
+	{"name_s": "/usr/bin/listplugins", "size_i": "6792", "regex": "false"},
+	{"name_s": "/usr/lib64/ladspa", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ladspa/amp.so", "size_i": "5776", "regex": "false"},
+	{"name_s": "/usr/lib64/ladspa/delay.so", "size_i": "5024", "regex": "false"},
+	{"name_s": "/usr/lib64/ladspa/filter.so", "size_i": "6384", "regex": "false"},
+	{"name_s": "/usr/lib64/ladspa/noise.so", "size_i": "4696", "regex": "false"},
+	{"name_s": "/usr/lib64/ladspa/sine.so", "size_i": "10920", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-1.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ladspa-1.13/COPYING", "size_i": "26534", "regex": "false"},
+	{"name_s": "/usr/share/ladspa", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ladspa/rdf", "size_i": "4096", "regex": "false"}
+]

@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib/libustr-1.0.so.1", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libustr-1.0.so.1.0.4", "size_i": "204256", "regex": "false"},
+	{"name_s": "/usr/share/doc/ustr-1.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ustr-1.0.4/ChangeLog", "size_i": "36842", "regex": "false"},
+	{"name_s": "/usr/share/doc/ustr-1.0.4/LICENSE", "size_i": "348", "regex": "false"},
+	{"name_s": "/usr/share/doc/ustr-1.0.4/LICENSE_BSD", "size_i": "1467", "regex": "false"},
+	{"name_s": "/usr/share/doc/ustr-1.0.4/LICENSE_LGPL", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/ustr-1.0.4/LICENSE_MIT", "size_i": "1056", "regex": "false"},
+	{"name_s": "/usr/share/doc/ustr-1.0.4/NEWS", "size_i": "1430", "regex": "false"},
+	{"name_s": "/usr/share/doc/ustr-1.0.4/README", "size_i": "332", "regex": "false"}
+]

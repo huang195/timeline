@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/man/man3/Module::Load::Conditional.3pm.gz", "size_i": "4694", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/Load", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/Load/Conditional.pm", "size_i": "18996", "regex": "false"}
+]

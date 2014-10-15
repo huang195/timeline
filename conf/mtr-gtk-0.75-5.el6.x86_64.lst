@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/pam.d/xmtr", "size_i": "97", "regex": "false"},
+	{"name_s": "/etc/security/console.apps/xmtr", "size_i": "49", "regex": "false"},
+	{"name_s": "/usr/bin/xmtr", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/bin/xmtr.bin", "size_i": "85664", "regex": "false"},
+	{"name_s": "/usr/share/applications/fedora-net-xmtr.desktop", "size_i": "224", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/mtr_icon.xpm", "size_i": "6951", "regex": "false"}
+]

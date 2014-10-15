@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/libIDL-config-2", "size_i": "2123", "regex": "false"},
+	{"name_s": "/usr/include/libIDL-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libIDL-2.0/libIDL", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libIDL-2.0/libIDL/IDL.h", "size_i": "24681", "regex": "false"},
+	{"name_s": "/usr/lib64/libIDL-2.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libIDL-2.0.pc", "size_i": "215", "regex": "false"},
+	{"name_s": "/usr/share/info/libIDL2.info.gz", "size_i": "4279", "regex": "false"}
+]

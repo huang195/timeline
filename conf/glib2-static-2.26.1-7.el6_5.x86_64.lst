@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libgio-2.0.a", "size_i": "2449078", "regex": "false"},
+	{"name_s": "/usr/lib64/libglib-2.0.a", "size_i": "1869174", "regex": "false"},
+	{"name_s": "/usr/lib64/libgmodule-2.0.a", "size_i": "14388", "regex": "false"},
+	{"name_s": "/usr/lib64/libgobject-2.0.a", "size_i": "610410", "regex": "false"},
+	{"name_s": "/usr/lib64/libgthread-2.0.a", "size_i": "22352", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-un-core-batang.conf", "size_i": "57", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-un-core-batang.conf", "size_i": "463", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core/UnBatang.ttf", "size_i": "6157280", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core/UnBatangBold.ttf", "size_i": "6794692", "regex": "false"}
+]

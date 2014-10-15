@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/include/hesiod.h", "size_i": "2835", "regex": "false"},
+	{"name_s": "/usr/lib64/libhesiod.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod.3.gz", "size_i": "1833", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_end.3.gz", "size_i": "93", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_free_list.3.gz", "size_i": "100", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_free_passwd.3.gz", "size_i": "110", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_free_postoffice.3.gz", "size_i": "115", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_free_servent.3.gz", "size_i": "114", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_free_string.3.gz", "size_i": "104", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_getmailhost.3.gz", "size_i": "1149", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_getpwnam.3.gz", "size_i": "1152", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_getpwuid.3.gz", "size_i": "102", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_getservbyname.3.gz", "size_i": "1130", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_init.3.gz", "size_i": "95", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_parse_result.3.gz", "size_i": "105", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_resolve.3.gz", "size_i": "98", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hesiod_to_bind.3.gz", "size_i": "97", "regex": "false"}
+]

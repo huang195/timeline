@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/matplotlib/backends/_tkagg.so", "size_i": "126808", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_tkagg.py", "size_i": "24887", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_tkagg.pyc", "size_i": "30771", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/matplotlib/backends/backend_tkagg.pyo", "size_i": "30771", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/matplotlib/backends/tkagg.py", "size_i": "1003", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/matplotlib/backends/tkagg.pyc", "size_i": "1415", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/matplotlib/backends/tkagg.pyo", "size_i": "1415", "regex": "false"}
+]

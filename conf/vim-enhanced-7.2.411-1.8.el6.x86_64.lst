@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/profile.d/vim.csh", "size_i": "97", "regex": "false"},
+	{"name_s": "/etc/profile.d/vim.sh", "size_i": "269", "regex": "false"},
+	{"name_s": "/usr/bin/ex", "size_i": "3", "regex": "false"},
+	{"name_s": "/usr/bin/rvim", "size_i": "3", "regex": "false"},
+	{"name_s": "/usr/bin/vim", "size_i": "1928744", "regex": "false"},
+	{"name_s": "/usr/bin/vimdiff", "size_i": "3", "regex": "false"},
+	{"name_s": "/usr/bin/vimtutor", "size_i": "2084", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rvim.1.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/vimdiff.1.gz", "size_i": "701", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/vimtutor.1.gz", "size_i": "732", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/sbin/aer-inject", "size_i": "21992", "regex": "false"},
+	{"name_s": "/sbin/mce-inject", "size_i": "24328", "regex": "false"},
+	{"name_s": "/usr/share/doc/aer-inject-0.1/README", "size_i": "1287", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/mce-inject.8.gz", "size_i": "1652", "regex": "false"}
+]

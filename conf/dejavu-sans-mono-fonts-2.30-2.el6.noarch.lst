@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/fonts/conf.d/20-unhint-small-dejavu-sans-mono.conf", "size_i": "70", "regex": "false"},
+	{"name_s": "/etc/fonts/conf.d/57-dejavu-sans-mono.conf", "size_i": "57", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/20-unhint-small-dejavu-sans-mono.conf", "size_i": "866", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/57-dejavu-sans-mono.conf", "size_i": "1509", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSansMono-Bold.ttf", "size_i": "301928", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSansMono-BoldOblique.ttf", "size_i": "223408", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSansMono-Oblique.ttf", "size_i": "229284", "regex": "false"},
+	{"name_s": "/usr/share/fonts/dejavu/DejaVuSansMono.ttf", "size_i": "321524", "regex": "false"}
+]

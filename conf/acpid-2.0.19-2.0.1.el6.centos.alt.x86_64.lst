@@ -1,0 +1,22 @@
+[
+	{"name_s": "/etc/acpi", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/acpi/actions", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/acpi/actions/power.sh", "size_i": "1189", "regex": "false"},
+	{"name_s": "/etc/acpi/events", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/acpi/events/powerconf", "size_i": "168", "regex": "false"},
+	{"name_s": "/etc/acpi/events/videoconf", "size_i": "236", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/acpid", "size_i": "1729", "regex": "false"},
+	{"name_s": "/etc/sysconfig/acpid", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/bin/acpi_listen", "size_i": "11288", "regex": "false"},
+	{"name_s": "/usr/sbin/acpid", "size_i": "44896", "regex": "false"},
+	{"name_s": "/usr/sbin/kacpimon", "size_i": "19144", "regex": "false"},
+	{"name_s": "/usr/share/doc/acpid-2.0.19", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/acpid-2.0.19/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/acpid-2.0.19/Changelog", "size_i": "21538", "regex": "false"},
+	{"name_s": "/usr/share/doc/acpid-2.0.19/README", "size_i": "3964", "regex": "false"},
+	{"name_s": "/usr/share/doc/acpid-2.0.19/TESTPLAN", "size_i": "3601", "regex": "false"},
+	{"name_s": "/usr/share/doc/acpid-2.0.19/TODO", "size_i": "1289", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/acpi_listen.8.gz", "size_i": "693", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/acpid.8.gz", "size_i": "3004", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/kacpimon.8.gz", "size_i": "1120", "regex": "false"}
+]

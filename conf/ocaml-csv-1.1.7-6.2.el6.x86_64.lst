@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/csvtool", "size_i": "370072", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/csv", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/csv/META", "size_i": "112", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/csv/csv.cma", "size_i": "50245", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/csv/csv.cmi", "size_i": "2697", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-csv-1.1.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-csv-1.1.7/README", "size_i": "181", "regex": "false"}
+]

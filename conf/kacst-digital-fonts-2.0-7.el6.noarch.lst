@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/67-kacst-digital.conf", "size_i": "54", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/67-kacst-digital.conf", "size_i": "453", "regex": "false"},
+	{"name_s": "/usr/share/fonts/kacst", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/kacst/KacstDigital.ttf", "size_i": "92572", "regex": "false"}
+]

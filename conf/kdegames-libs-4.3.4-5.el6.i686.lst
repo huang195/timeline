@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/lib/libiris_ksirk.so.2", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libiris_ksirk.so.2.0.0", "size_i": "1789864", "regex": "false"},
+	{"name_s": "/usr/lib/libkdegames.so.5", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libkdegames.so.5.0.0", "size_i": "1093152", "regex": "false"},
+	{"name_s": "/usr/lib/libkggzgames.so.4", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libkggzgames.so.4.3.0", "size_i": "55896", "regex": "false"},
+	{"name_s": "/usr/lib/libkggzmod.so.4", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libkggzmod.so.4.3.0", "size_i": "60688", "regex": "false"},
+	{"name_s": "/usr/lib/libkggznet.so.4", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libkggznet.so.4.3.0", "size_i": "32868", "regex": "false"},
+	{"name_s": "/usr/lib/libkmahjongglib.so.4", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libkmahjongglib.so.4.3.0", "size_i": "69704", "regex": "false"},
+	{"name_s": "/usr/lib/libkolfprivate.so.4", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libkolfprivate.so.4.3.0", "size_i": "463400", "regex": "false"},
+	{"name_s": "/usr/share/doc/kdegames-libs-4.3.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/kdegames-libs-4.3.4/COPYING", "size_i": "18274", "regex": "false"}
+]

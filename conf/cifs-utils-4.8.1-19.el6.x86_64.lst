@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/request-key.d/cifs.idmap.conf", "size_i": "50", "regex": "false"},
+	{"name_s": "/etc/request-key.d/cifs.spnego.conf", "size_i": "52", "regex": "false"},
+	{"name_s": "/sbin/mount.cifs", "size_i": "40544", "regex": "false"},
+	{"name_s": "/usr/bin/getcifsacl", "size_i": "10440", "regex": "false"},
+	{"name_s": "/usr/bin/setcifsacl", "size_i": "18728", "regex": "false"},
+	{"name_s": "/usr/sbin/cifs.idmap", "size_i": "10512", "regex": "false"},
+	{"name_s": "/usr/sbin/cifs.upcall", "size_i": "39680", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/getcifsacl.1.gz", "size_i": "957", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/setcifsacl.1.gz", "size_i": "1528", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/cifs.idmap.8.gz", "size_i": "1672", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/cifs.upcall.8.gz", "size_i": "2010", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/mount.cifs.8.gz", "size_i": "12489", "regex": "false"}
+]

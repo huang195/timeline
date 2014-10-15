@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/mkxauth", "size_i": "10859", "regex": "false"},
+	{"name_s": "/usr/bin/xauth", "size_i": "36928", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xauth-1.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xauth-1.0.2/AUTHORS", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xauth-1.0.2/COPYING", "size_i": "458", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xauth-1.0.2/ChangeLog", "size_i": "8539", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xauth-1.0.2/NEWS", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-xauth-1.0.2/README", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mkxauth.1x.gz", "size_i": "1988", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xauth.1.gz", "size_i": "4239", "regex": "false"}
+]

@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/api-guide.html", "size_i": "25451", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/changes.html", "size_i": "121094", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/conditions.html", "size_i": "5635", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/conformance.html", "size_i": "17403", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/dtdgen.html", "size_i": "6027", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/expressions.html", "size_i": "27186", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/extensibility.html", "size_i": "25146", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/extensions.html", "size_i": "59778", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/index.html", "size_i": "16119", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/instant.html", "size_i": "12273", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/limitations.html", "size_i": "2502", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/patterns.html", "size_i": "7324", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/samples.html", "size_i": "17487", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/using-xsl.html", "size_i": "14265", "regex": "false"},
+	{"name_s": "/usr/share/doc/saxon-manual-6.5.5/xsl-elements.html", "size_i": "68395", "regex": "false"}
+]

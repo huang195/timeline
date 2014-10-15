@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/bin/ijs-config", "size_i": "896", "regex": "false"},
+	{"name_s": "/usr/include/ghostscript", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/ghostscript/errors.h", "size_i": "941", "regex": "false"},
+	{"name_s": "/usr/include/ghostscript/gdevdsp.h", "size_i": "9966", "regex": "false"},
+	{"name_s": "/usr/include/ghostscript/iapi.h", "size_i": "10028", "regex": "false"},
+	{"name_s": "/usr/include/ghostscript/ierrors.h", "size_i": "4595", "regex": "false"},
+	{"name_s": "/usr/include/ijs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/ijs/ijs.h", "size_i": "3198", "regex": "false"},
+	{"name_s": "/usr/include/ijs/ijs_client.h", "size_i": "2606", "regex": "false"},
+	{"name_s": "/usr/include/ijs/ijs_server.h", "size_i": "3530", "regex": "false"},
+	{"name_s": "/usr/lib64/libgs.so", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/lib64/libijs.so", "size_i": "14", "regex": "false"}
+]

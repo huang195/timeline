@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/libproxy", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libproxy/proxy.h", "size_i": "3499", "regex": "false"},
+	{"name_s": "/usr/lib64/libproxy.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libproxy-1.0.pc", "size_i": "203", "regex": "false"}
+]

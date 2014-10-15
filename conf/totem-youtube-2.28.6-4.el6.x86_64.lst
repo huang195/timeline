@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/totem/plugins/youtube", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/totem/plugins/youtube/libyoutube.so", "size_i": "32464", "regex": "false"},
+	{"name_s": "/usr/lib64/totem/plugins/youtube/youtube.totem-plugin", "size_i": "7403", "regex": "false"},
+	{"name_s": "/usr/lib64/totem/plugins/youtube/youtube.ui", "size_i": "6206", "regex": "false"}
+]

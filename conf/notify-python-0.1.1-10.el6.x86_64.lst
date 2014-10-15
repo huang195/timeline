@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/pkgconfig/notify-python.pc", "size_i": "269", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/pynotify", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/pynotify/__init__.py", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/pynotify/__init__.pyc", "size_i": "190", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/pynotify/__init__.pyo", "size_i": "190", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/pynotify/_pynotify.so", "size_i": "25648", "regex": "false"},
+	{"name_s": "/usr/share/doc/notify-python-0.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/notify-python-0.1.1/AUTHORS", "size_i": "91", "regex": "false"},
+	{"name_s": "/usr/share/doc/notify-python-0.1.1/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/notify-python-0.1.1/ChangeLog", "size_i": "3578", "regex": "false"},
+	{"name_s": "/usr/share/doc/notify-python-0.1.1/NEWS", "size_i": "219", "regex": "false"},
+	{"name_s": "/usr/share/doc/notify-python-0.1.1/README", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/pynotify.defs", "size_i": "5380", "regex": "false"}
+]

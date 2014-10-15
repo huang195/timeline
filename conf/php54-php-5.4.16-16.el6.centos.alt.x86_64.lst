@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/httpd/conf.d/php54-php.conf", "size_i": "933", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/httpd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/httpd/modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/httpd/modules/libphp5.so", "size_i": "4658064", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/var/lib/php/session", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/httpd/modules/libphp54-php5.so", "size_i": "53", "regex": "false"},
+	{"name_s": "/var/www/icons/php54-php.gif", "size_i": "2523", "regex": "false"}
+]

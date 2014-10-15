@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/alsa/pcm/arcamav.conf", "size_i": "205", "regex": "false"},
+	{"name_s": "/usr/lib/alsa-lib/libasound_module_ctl_arcam_av.so", "size_i": "20116", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-arcamav-1.0.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-arcamav-1.0.21/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-arcamav-1.0.21/COPYING.GPL", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-arcamav-1.0.21/README-arcam-av", "size_i": "1012", "regex": "false"}
+]

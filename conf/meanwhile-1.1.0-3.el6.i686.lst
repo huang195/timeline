@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib/libmeanwhile.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libmeanwhile.so.1.1.0", "size_i": "212040", "regex": "false"},
+	{"name_s": "/usr/share/doc/meanwhile-1.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/meanwhile-1.1.0/AUTHORS", "size_i": "169", "regex": "false"},
+	{"name_s": "/usr/share/doc/meanwhile-1.1.0/COPYING", "size_i": "25275", "regex": "false"},
+	{"name_s": "/usr/share/doc/meanwhile-1.1.0/ChangeLog", "size_i": "6113", "regex": "false"},
+	{"name_s": "/usr/share/doc/meanwhile-1.1.0/INSTALL", "size_i": "9240", "regex": "false"},
+	{"name_s": "/usr/share/doc/meanwhile-1.1.0/LICENSE", "size_i": "25275", "regex": "false"},
+	{"name_s": "/usr/share/doc/meanwhile-1.1.0/NEWS", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/meanwhile-1.1.0/README", "size_i": "1007", "regex": "false"},
+	{"name_s": "/usr/share/doc/meanwhile-1.1.0/TODO", "size_i": "845", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Tree-DAG_Node-1.18", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Tree-DAG_Node-1.18/Changes", "size_i": "7320", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Tree-DAG_Node-1.18/README", "size_i": "4329", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Tree::DAG_Node.3pm.gz", "size_i": "22331", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Tree", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Tree/DAG_Node.pm", "size_i": "98848", "regex": "false"}
+]

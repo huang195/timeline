@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libXfixes.so.3", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libXfixes.so.3.1.0", "size_i": "18056", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXfixes-5.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXfixes-5.0/AUTHORS", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXfixes-5.0/COPYING", "size_i": "2232", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXfixes-5.0/ChangeLog", "size_i": "17880", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXfixes-5.0/README", "size_i": "864", "regex": "false"}
+]

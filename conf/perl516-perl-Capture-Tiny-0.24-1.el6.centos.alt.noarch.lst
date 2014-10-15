@@ -1,0 +1,13 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Capture-Tiny-0.24", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Capture-Tiny-0.24/Changes", "size_i": "6666", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Capture-Tiny-0.24/LICENSE", "size_i": "11500", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Capture-Tiny-0.24/README", "size_i": "12371", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Capture-Tiny-0.24/Todo", "size_i": "419", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Capture-Tiny-0.24/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Capture-Tiny-0.24/examples/rt-58208.pl", "size_i": "366", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Capture-Tiny-0.24/examples/tee.pl", "size_i": "401", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Capture::Tiny.3pm.gz", "size_i": "6354", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Capture", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Capture/Tiny.pm", "size_i": "28320", "regex": "false"}
+]

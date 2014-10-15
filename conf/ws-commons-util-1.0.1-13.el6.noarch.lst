@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/ws-commons-util-1.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ws-commons-util-1.0.1/LICENSE.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/java/ws-commons-util-1.0.1.jar", "size_i": "32060", "regex": "false"},
+	{"name_s": "/usr/share/java/ws-commons-util.jar", "size_i": "25", "regex": "false"}
+]

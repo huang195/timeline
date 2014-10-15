@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libwpd-0.8.so.8", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libwpd-0.8.so.8.0.14", "size_i": "537248", "regex": "false"},
+	{"name_s": "/usr/lib/libwpd-stream-0.8.so.8", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libwpd-stream-0.8.so.8.0.14", "size_i": "56360", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwpd-0.8.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwpd-0.8.14/CHANGES", "size_i": "17495", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwpd-0.8.14/COPYING", "size_i": "26429", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwpd-0.8.14/CREDITS", "size_i": "1629", "regex": "false"},
+	{"name_s": "/usr/share/doc/libwpd-0.8.14/README", "size_i": "5522", "regex": "false"}
+]

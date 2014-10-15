@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/share/doc/perl-Class-Accessor-0.31", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Class-Accessor-0.31/Changes", "size_i": "3001", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Class-Accessor-0.31/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Class-Accessor-0.31/examples/benchmark", "size_i": "1690", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Class::Accessor.3pm.gz", "size_i": "7086", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Class::Accessor::Fast.3pm.gz", "size_i": "2379", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Class::Accessor::Faster.3pm.gz", "size_i": "2188", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Class", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Class/Accessor", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Class/Accessor.pm", "size_i": "18240", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Class/Accessor/Fast.pm", "size_i": "2248", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Class/Accessor/Faster.pm", "size_i": "2473", "regex": "false"}
+]

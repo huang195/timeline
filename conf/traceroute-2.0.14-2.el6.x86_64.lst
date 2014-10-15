@@ -1,0 +1,11 @@
+[
+	{"name_s": "/bin/traceroute", "size_i": "53416", "regex": "false"},
+	{"name_s": "/bin/traceroute6", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/share/doc/traceroute-2.0.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/traceroute-2.0.14/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/traceroute-2.0.14/CREDITS", "size_i": "444", "regex": "false"},
+	{"name_s": "/usr/share/doc/traceroute-2.0.14/README", "size_i": "1343", "regex": "false"},
+	{"name_s": "/usr/share/doc/traceroute-2.0.14/TODO", "size_i": "2091", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/traceroute.8.gz", "size_i": "6208", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/traceroute6.8.gz", "size_i": "15", "regex": "false"}
+]

@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/bin/certutil", "size_i": "156136", "regex": "false"},
+	{"name_s": "/usr/bin/cmsutil", "size_i": "97992", "regex": "false"},
+	{"name_s": "/usr/bin/crlutil", "size_i": "110120", "regex": "false"},
+	{"name_s": "/usr/bin/modutil", "size_i": "152744", "regex": "false"},
+	{"name_s": "/usr/bin/pk12util", "size_i": "86136", "regex": "false"},
+	{"name_s": "/usr/bin/signtool", "size_i": "163848", "regex": "false"},
+	{"name_s": "/usr/bin/signver", "size_i": "85560", "regex": "false"},
+	{"name_s": "/usr/bin/ssltap", "size_i": "105840", "regex": "false"},
+	{"name_s": "/usr/lib64/nss/unsupported-tools/atob", "size_i": "10392", "regex": "false"},
+	{"name_s": "/usr/lib64/nss/unsupported-tools/btoa", "size_i": "10392", "regex": "false"},
+	{"name_s": "/usr/lib64/nss/unsupported-tools/derdump", "size_i": "76984", "regex": "false"},
+	{"name_s": "/usr/lib64/nss/unsupported-tools/ocspclnt", "size_i": "89480", "regex": "false"},
+	{"name_s": "/usr/lib64/nss/unsupported-tools/pp", "size_i": "77016", "regex": "false"},
+	{"name_s": "/usr/lib64/nss/unsupported-tools/selfserv", "size_i": "110584", "regex": "false"},
+	{"name_s": "/usr/lib64/nss/unsupported-tools/strsclnt", "size_i": "94104", "regex": "false"},
+	{"name_s": "/usr/lib64/nss/unsupported-tools/symkeyutil", "size_i": "90392", "regex": "false"},
+	{"name_s": "/usr/lib64/nss/unsupported-tools/tstclnt", "size_i": "94016", "regex": "false"},
+	{"name_s": "/usr/lib64/nss/unsupported-tools/vfychain", "size_i": "85328", "regex": "false"},
+	{"name_s": "/usr/lib64/nss/unsupported-tools/vfyserv", "size_i": "89920", "regex": "false"}
+]

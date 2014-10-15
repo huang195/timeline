@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Net", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/Net/LibIDN.pm", "size_i": "7425", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Net", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Net/LibIDN", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Net/LibIDN/LibIDN.so", "size_i": "31680", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/Net/LibIDN/autosplit.ix", "size_i": "89", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-LibIDN-0.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-LibIDN-0.12/Artistic", "size_i": "6111", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-LibIDN-0.12/COPYING", "size_i": "19847", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-LibIDN-0.12/Changes", "size_i": "2286", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Net-LibIDN-0.12/README", "size_i": "4006", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Net::LibIDN.3pm.gz", "size_i": "4064", "regex": "false"}
+]

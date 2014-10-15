@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/png2theora", "size_i": "24448", "regex": "false"},
+	{"name_s": "/usr/bin/theora_dump_video", "size_i": "12376", "regex": "false"},
+	{"name_s": "/usr/bin/theora_encode", "size_i": "40800", "regex": "false"},
+	{"name_s": "/usr/bin/theora_player", "size_i": "266", "regex": "false"},
+	{"name_s": "/usr/bin/theora_player.bin", "size_i": "19584", "regex": "false"}
+]

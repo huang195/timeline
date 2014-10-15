@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/otfdump", "size_i": "28536", "regex": "false"},
+	{"name_s": "/usr/bin/otflist", "size_i": "8512", "regex": "false"},
+	{"name_s": "/usr/bin/otftobdf", "size_i": "8336", "regex": "false"},
+	{"name_s": "/usr/bin/otfview", "size_i": "34400", "regex": "false"},
+	{"name_s": "/usr/lib64/libotf.so.0", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libotf.so.0.0.0", "size_i": "76504", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-0.9.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-0.9.9/AUTHORS", "size_i": "64", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-0.9.9/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-0.9.9/NEWS", "size_i": "2651", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-0.9.9/README", "size_i": "2749", "regex": "false"}
+]

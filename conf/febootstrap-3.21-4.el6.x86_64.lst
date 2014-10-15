@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/bin/febootstrap", "size_i": "6145", "regex": "false"},
+	{"name_s": "/usr/bin/febootstrap-install", "size_i": "1459", "regex": "false"},
+	{"name_s": "/usr/bin/febootstrap-minimize", "size_i": "6668", "regex": "false"},
+	{"name_s": "/usr/bin/febootstrap-run", "size_i": "1966", "regex": "false"},
+	{"name_s": "/usr/bin/febootstrap-to-initramfs", "size_i": "2193", "regex": "false"},
+	{"name_s": "/usr/bin/febootstrap-to-supermin", "size_i": "4917", "regex": "false"},
+	{"name_s": "/usr/bin/febootstrap3", "size_i": "468208", "regex": "false"},
+	{"name_s": "/usr/share/doc/febootstrap-3.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/febootstrap-3.21/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/doc/febootstrap-3.21/README2", "size_i": "2347", "regex": "false"},
+	{"name_s": "/usr/share/doc/febootstrap-3.21/README3", "size_i": "1736", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/febootstrap-install.8.gz", "size_i": "2484", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/febootstrap-minimize.8.gz", "size_i": "3775", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/febootstrap-run.8.gz", "size_i": "3015", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/febootstrap-to-initramfs.8.gz", "size_i": "3246", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/febootstrap-to-supermin.8.gz", "size_i": "4986", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/febootstrap.8.gz", "size_i": "5685", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/febootstrap3.8.gz", "size_i": "6622", "regex": "false"}
+]

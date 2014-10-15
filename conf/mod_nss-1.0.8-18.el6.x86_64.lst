@@ -1,0 +1,17 @@
+[
+	{"name_s": "/etc/httpd/alias", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/httpd/alias/cert8.db", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/httpd/alias/install.log", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/httpd/alias/key3.db", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/httpd/alias/libnssckbi.so", "size_i": "33", "regex": "false"},
+	{"name_s": "/etc/httpd/alias/secmod.db", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/httpd/conf.d/nss.conf", "size_i": "9451", "regex": "false"},
+	{"name_s": "/usr/lib64/httpd/modules/libmodnss.so", "size_i": "148024", "regex": "false"},
+	{"name_s": "/usr/sbin/gencert", "size_i": "5796", "regex": "false"},
+	{"name_s": "/usr/sbin/nss_pcache", "size_i": "11664", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_nss-1.0.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_nss-1.0.8/LICENSE", "size_i": "11357", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_nss-1.0.8/README", "size_i": "4382", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_nss-1.0.8/mod_nss.html", "size_i": "52647", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/gencert.8.gz", "size_i": "813", "regex": "false"}
+]

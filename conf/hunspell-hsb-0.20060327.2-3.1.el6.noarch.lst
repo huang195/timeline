@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-hsb-0.20060327.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-hsb-0.20060327.2/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-hsb-0.20060327.2/README", "size_i": "1176", "regex": "false"},
+	{"name_s": "/usr/share/myspell/hsb_DE.aff", "size_i": "55978", "regex": "false"},
+	{"name_s": "/usr/share/myspell/hsb_DE.dic", "size_i": "526248", "regex": "false"}
+]

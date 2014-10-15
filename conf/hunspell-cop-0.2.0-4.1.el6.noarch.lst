@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-cop-0.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-cop-0.2.0/README.txt", "size_i": "467", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-cop-0.2.0/license-gpl.txt", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/myspell/cop_EG.aff", "size_i": "34678", "regex": "false"},
+	{"name_s": "/usr/share/myspell/cop_EG.dic", "size_i": "119762", "regex": "false"}
+]

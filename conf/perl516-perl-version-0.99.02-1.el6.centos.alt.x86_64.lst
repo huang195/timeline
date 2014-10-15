@@ -1,0 +1,15 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/version", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/version/vxs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/version/vxs/vxs.so", "size_i": "32496", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/version", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/version.pm", "size_i": "6630", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/version.pod", "size_i": "9858", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/version/Internals.pod", "size_i": "24865", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/version/vxs.pm", "size_i": "507", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-version-0.99.02", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-version-0.99.02/Changes", "size_i": "77824", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-version-0.99.02/README", "size_i": "8770", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/version.3pm.gz", "size_i": "5729", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/version::Internals.3pm.gz", "size_i": "10997", "regex": "false"}
+]

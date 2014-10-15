@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/psm.h", "size_i": "41006", "regex": "false"},
+	{"name_s": "/usr/include/psm_mq.h", "size_i": "24182", "regex": "false"},
+	{"name_s": "/usr/lib64/libinfinipath.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libpsm_infinipath.so", "size_i": "22", "regex": "false"}
+]

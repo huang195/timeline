@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/ppi2html", "size_i": "1868", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-PPI-HTML-1.07", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-PPI-HTML-1.07/Changes", "size_i": "801", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-PPI-HTML-1.07/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-PPI-HTML-1.07/README", "size_i": "3462", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/PPI::HTML.3pm.gz", "size_i": "3442", "regex": "false"},
+	{"name_s": "/usr/share/perl5/PPI", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/PPI/HTML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/PPI/HTML.pm", "size_i": "12183", "regex": "false"},
+	{"name_s": "/usr/share/perl5/PPI/HTML/Fragment.pm", "size_i": "1873", "regex": "false"}
+]

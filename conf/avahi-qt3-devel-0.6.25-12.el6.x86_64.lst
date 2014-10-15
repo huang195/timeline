@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/avahi-qt3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/avahi-qt3/qt-watch.h", "size_i": "1109", "regex": "false"},
+	{"name_s": "/usr/lib64/libavahi-qt3.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/avahi-qt3.pc", "size_i": "271", "regex": "false"}
+]

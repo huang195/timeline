@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib/libstartup-notification-1.so.0", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib/libstartup-notification-1.so.0.0.0", "size_i": "35124", "regex": "false"},
+	{"name_s": "/usr/share/doc/startup-notification-0.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/startup-notification-0.10/AUTHORS", "size_i": "71", "regex": "false"},
+	{"name_s": "/usr/share/doc/startup-notification-0.10/COPYING", "size_i": "25613", "regex": "false"},
+	{"name_s": "/usr/share/doc/startup-notification-0.10/ChangeLog", "size_i": "8746", "regex": "false"},
+	{"name_s": "/usr/share/doc/startup-notification-0.10/NEWS", "size_i": "831", "regex": "false"},
+	{"name_s": "/usr/share/doc/startup-notification-0.10/startup-notification.txt", "size_i": "15900", "regex": "false"}
+]

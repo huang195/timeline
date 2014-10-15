@@ -1,0 +1,14 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Pluggable-5.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Pluggable-5.10/Changes", "size_i": "8314", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Module-Pluggable-5.10/README", "size_i": "10311", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Devel::InnerPackage.3pm.gz", "size_i": "2154", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Module::Pluggable.3pm.gz", "size_i": "5889", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Module::Pluggable::Object.3pm.gz", "size_i": "2408", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Devel", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Devel/InnerPackage.pm", "size_i": "2476", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Module", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Module/Pluggable", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Module/Pluggable.pm", "size_i": "12289", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Module/Pluggable/Object.pm", "size_i": "12686", "regex": "false"}
+]

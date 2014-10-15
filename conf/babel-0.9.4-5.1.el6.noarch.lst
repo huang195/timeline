@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/pybabel", "size_i": "295", "regex": "false"},
+	{"name_s": "/usr/share/doc/babel-0.9.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/babel-0.9.4/COPYING", "size_i": "1412", "regex": "false"},
+	{"name_s": "/usr/share/doc/babel-0.9.4/ChangeLog", "size_i": "6510", "regex": "false"},
+	{"name_s": "/usr/share/doc/babel-0.9.4/README.txt", "size_i": "362", "regex": "false"},
+	{"name_s": "/usr/share/doc/babel-0.9.4/cmdline.txt", "size_i": "6732", "regex": "false"}
+]

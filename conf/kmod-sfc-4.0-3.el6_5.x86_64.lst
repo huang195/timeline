@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/depmod.d/sfc.conf", "size_i": "43", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.29.2.el6.x86_64", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.29.2.el6.x86_64/extra", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.29.2.el6.x86_64/extra/sfc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.29.2.el6.x86_64/extra/sfc/sfc.ko", "size_i": "516248", "regex": "false"},
+	{"name_s": "/usr/share/doc/kmod-sfc/greylist.txt", "size_i": "533", "regex": "false"}
+]

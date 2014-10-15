@@ -1,0 +1,17 @@
+[
+	{"name_s": "/etc/ppp/options.pptp", "size_i": "1759", "regex": "false"},
+	{"name_s": "/usr/sbin/pptp", "size_i": "57528", "regex": "false"},
+	{"name_s": "/usr/share/doc/pptp-1.7.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pptp-1.7.2/AUTHORS", "size_i": "934", "regex": "false"},
+	{"name_s": "/usr/share/doc/pptp-1.7.2/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/pptp-1.7.2/ChangeLog", "size_i": "32463", "regex": "false"},
+	{"name_s": "/usr/share/doc/pptp-1.7.2/DESIGN.PPTP", "size_i": "2081", "regex": "false"},
+	{"name_s": "/usr/share/doc/pptp-1.7.2/DEVELOPERS", "size_i": "2110", "regex": "false"},
+	{"name_s": "/usr/share/doc/pptp-1.7.2/NEWS", "size_i": "4869", "regex": "false"},
+	{"name_s": "/usr/share/doc/pptp-1.7.2/PROTOCOL-SECURITY", "size_i": "4170", "regex": "false"},
+	{"name_s": "/usr/share/doc/pptp-1.7.2/README", "size_i": "1922", "regex": "false"},
+	{"name_s": "/usr/share/doc/pptp-1.7.2/TODO", "size_i": "3583", "regex": "false"},
+	{"name_s": "/usr/share/doc/pptp-1.7.2/USING", "size_i": "3434", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pptp.8.gz", "size_i": "2994", "regex": "false"},
+	{"name_s": "/var/run/pptp", "size_i": "4096", "regex": "false"}
+]

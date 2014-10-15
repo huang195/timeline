@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/ant.d/trax", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-trax-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-trax-1.7.1.jar.so", "size_i": "41368", "regex": "false"},
+	{"name_s": "/usr/share/ant/etc/coverage-frames.xsl", "size_i": "18570", "regex": "false"},
+	{"name_s": "/usr/share/ant/etc/mmetrics-frames.xsl", "size_i": "37833", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-trax.jar", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-trax-1.7.1.jar", "size_i": "6923", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-trax.jar", "size_i": "18", "regex": "false"}
+]

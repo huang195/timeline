@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnome", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-2.28.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-2.28.0/AUTHORS", "size_i": "101", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-2.28.0/ChangeLog", "size_i": "138162", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-python2-2.28.0/NEWS", "size_i": "20047", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/argtypes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs", "size_i": "4096", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/lib/firmware/amd-ucode", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/firmware/amd-ucode/microcode_amd.bin", "size_i": "12404", "regex": "false"},
+	{"name_s": "/lib/firmware/amd-ucode/microcode_amd_fam15h.bin", "size_i": "5260", "regex": "false"},
+	{"name_s": "/lib/firmware/microcode.dat", "size_i": "1857432", "regex": "false"},
+	{"name_s": "/lib/udev/rules.d/89-microcode.rules", "size_i": "130", "regex": "false"},
+	{"name_s": "/sbin/microcode_ctl", "size_i": "8504", "regex": "false"},
+	{"name_s": "/usr/share/doc/microcode_ctl-1.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/microcode_ctl-1.17/INSTALL.microcode_amd", "size_i": "642", "regex": "false"},
+	{"name_s": "/usr/share/doc/microcode_ctl-1.17/LICENSE.microcode_amd", "size_i": "9987", "regex": "false"},
+	{"name_s": "/usr/share/doc/microcode_ctl-1.17/README.microcode_amd", "size_i": "6278", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/microcode_ctl.8.gz", "size_i": "1188", "regex": "false"}
+]

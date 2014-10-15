@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-MockObject-1.09", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-MockObject-1.09/Changes", "size_i": "6880", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-MockObject-1.09/README", "size_i": "3311", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::MockObject.3pm.gz", "size_i": "7520", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::MockObject::Extends.3pm.gz", "size_i": "3597", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Test/MockObject", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Test/MockObject.pm", "size_i": "22834", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Test/MockObject/Extends.pm", "size_i": "8185", "regex": "false"}
+]

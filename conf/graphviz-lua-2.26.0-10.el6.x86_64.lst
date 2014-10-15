@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/graphviz/lua", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/lua/gv.so", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/lua/libgv_lua.so", "size_i": "91784", "regex": "false"},
+	{"name_s": "/usr/lib64/lua/5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/lua/5.1/gv.so", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gv.3lua.gz", "size_i": "1615", "regex": "false"}
+]

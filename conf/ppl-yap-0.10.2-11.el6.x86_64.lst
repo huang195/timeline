@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/ppl/ppl_yap.pl", "size_i": "987", "regex": "false"},
+	{"name_s": "/usr/lib64/ppl/ppl_yap.so", "size_i": "4967840", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-yap-0.10.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ppl-yap-0.10.2/README.yap", "size_i": "641", "regex": "false"}
+]

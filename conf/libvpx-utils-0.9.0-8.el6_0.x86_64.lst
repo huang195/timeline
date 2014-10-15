@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/decode_to_md5", "size_i": "11088", "regex": "false"},
+	{"name_s": "/usr/bin/decode_with_drops", "size_i": "8216", "regex": "false"},
+	{"name_s": "/usr/bin/error_resilient", "size_i": "8880", "regex": "false"},
+	{"name_s": "/usr/bin/example_xma", "size_i": "8552", "regex": "false"},
+	{"name_s": "/usr/bin/force_keyframe", "size_i": "8912", "regex": "false"},
+	{"name_s": "/usr/bin/ivfdec", "size_i": "20224", "regex": "false"},
+	{"name_s": "/usr/bin/ivfenc", "size_i": "25584", "regex": "false"},
+	{"name_s": "/usr/bin/postproc", "size_i": "8240", "regex": "false"},
+	{"name_s": "/usr/bin/vp8_scalable_patterns", "size_i": "9016", "regex": "false"},
+	{"name_s": "/usr/bin/vp8_set_maps", "size_i": "9856", "regex": "false"},
+	{"name_s": "/usr/bin/vp8_simple_decoder", "size_i": "7696", "regex": "false"},
+	{"name_s": "/usr/bin/vp8_simple_encoder", "size_i": "8864", "regex": "false"},
+	{"name_s": "/usr/bin/vp8_twopass_encoder", "size_i": "9312", "regex": "false"},
+	{"name_s": "/usr/bin/vp8cx_set_ref", "size_i": "9440", "regex": "false"}
+]

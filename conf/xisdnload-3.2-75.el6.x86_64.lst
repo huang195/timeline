@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/xisdnload", "size_i": "17800", "regex": "false"},
+	{"name_s": "/usr/bin/xmonisdn", "size_i": "21616", "regex": "false"},
+	{"name_s": "/usr/share/X11/app-defaults/XISDNLoad", "size_i": "411", "regex": "false"},
+	{"name_s": "/usr/share/doc/xisdnload-3.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xisdnload-3.2/README", "size_i": "2646", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xisdnload.1.gz", "size_i": "2252", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xmonisdn.1.gz", "size_i": "2827", "regex": "false"}
+]

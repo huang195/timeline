@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/m4", "size_i": "208520", "regex": "false"},
+	{"name_s": "/usr/share/doc/m4-1.4.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/m4-1.4.13/AUTHORS", "size_i": "2162", "regex": "false"},
+	{"name_s": "/usr/share/doc/m4-1.4.13/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/m4-1.4.13/ChangeLog", "size_i": "171996", "regex": "false"},
+	{"name_s": "/usr/share/doc/m4-1.4.13/NEWS", "size_i": "27949", "regex": "false"},
+	{"name_s": "/usr/share/doc/m4-1.4.13/README", "size_i": "3860", "regex": "false"},
+	{"name_s": "/usr/share/doc/m4-1.4.13/THANKS", "size_i": "4961", "regex": "false"},
+	{"name_s": "/usr/share/doc/m4-1.4.13/TODO", "size_i": "1962", "regex": "false"},
+	{"name_s": "/usr/share/info/m4.info-1.gz", "size_i": "88023", "regex": "false"},
+	{"name_s": "/usr/share/info/m4.info-2.gz", "size_i": "12847", "regex": "false"},
+	{"name_s": "/usr/share/info/m4.info.gz", "size_i": "1669", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/m4.1.gz", "size_i": "1853", "regex": "false"}
+]

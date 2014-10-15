@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/bin/exchange2ical", "size_i": "82432", "regex": "false"},
+	{"name_s": "/usr/bin/exchange2mbox", "size_i": "32416", "regex": "false"},
+	{"name_s": "/usr/bin/mapiprofile", "size_i": "28096", "regex": "false"},
+	{"name_s": "/usr/bin/mapitest", "size_i": "194008", "regex": "false"},
+	{"name_s": "/usr/bin/openchangeclient", "size_i": "67040", "regex": "false"},
+	{"name_s": "/usr/bin/openchangemapidump", "size_i": "25128", "regex": "false"},
+	{"name_s": "/usr/bin/openchangepfadmin", "size_i": "22176", "regex": "false"},
+	{"name_s": "/usr/bin/schemaIDGUID", "size_i": "5792", "regex": "false"},
+	{"name_s": "/usr/bin/test_asyncnotif", "size_i": "9984", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/exchange2ical.1.gz", "size_i": "1602", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/exchange2mbox.1.gz", "size_i": "1487", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mapiprofile.1.gz", "size_i": "3152", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mapitest.1.gz", "size_i": "1997", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/openchangeclient.1.gz", "size_i": "4625", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/openchangepfadmin.1.gz", "size_i": "2407", "regex": "false"},
+	{"name_s": "/usr/share/mapitest/lzfu", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mapitest/lzfu/testcase.rtf", "size_i": "13260", "regex": "false"},
+	{"name_s": "/usr/share/mapitest/lzxpress", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mapitest/lzxpress/001_Outlook_2007_in_ModifyRecipients_comp.dat", "size_i": "432", "regex": "false"},
+	{"name_s": "/usr/share/mapitest/lzxpress/002_Outlook_2007_in_Tables_operations_comp.dat", "size_i": "436", "regex": "false"}
+]

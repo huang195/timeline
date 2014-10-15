@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-IMB-EXT", "size_i": "56336", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-IMB-IO", "size_i": "69192", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-IMB-MPI1", "size_i": "61200", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_acc_latency", "size_i": "7696", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_alltoall", "size_i": "6808", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_bcast", "size_i": "10912", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_bibw", "size_i": "7232", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_bw", "size_i": "7240", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_get_bw", "size_i": "10944", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_get_latency", "size_i": "7768", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_latency", "size_i": "6800", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_latency_mt", "size_i": "8320", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_mbw_mr", "size_i": "11016", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_multi_lat", "size_i": "7080", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_put_bibw", "size_i": "10944", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_put_bw", "size_i": "10944", "regex": "false"},
+	{"name_s": "/usr/lib64/openmpi/bin/mpitests-osu_put_latency", "size_i": "7824", "regex": "false"}
+]

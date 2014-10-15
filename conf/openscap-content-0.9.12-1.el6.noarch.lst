@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/openscap/scap-oval.xml", "size_i": "39", "regex": "false"},
+	{"name_s": "/usr/share/openscap/scap-rhel6-oval.xml", "size_i": "294475", "regex": "false"},
+	{"name_s": "/usr/share/openscap/scap-rhel6-xccdf.xml", "size_i": "393679", "regex": "false"},
+	{"name_s": "/usr/share/openscap/scap-xccdf.xml", "size_i": "40", "regex": "false"}
+]

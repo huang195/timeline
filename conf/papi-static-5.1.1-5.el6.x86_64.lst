@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/libpfm.a", "size_i": "975812", "regex": "false"},
+	{"name_s": "/usr/lib64/papi-5.1.1/usr/lib/libpapi.a", "size_i": "3049966", "regex": "false"},
+	{"name_s": "/usr/lib64/papi-5.1.1/usr/lib/libpfm.a", "size_i": "1223788", "regex": "false"}
+]

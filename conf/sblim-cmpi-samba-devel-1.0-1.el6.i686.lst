@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/sblim/smt_smb_array.h", "size_i": "1412", "regex": "false"},
+	{"name_s": "/usr/include/sblim/smt_smb_defaultvalues.h", "size_i": "4325", "regex": "false"},
+	{"name_s": "/usr/include/sblim/smt_smb_ra_path.h", "size_i": "645", "regex": "false"},
+	{"name_s": "/usr/include/sblim/smt_smb_ra_support.h", "size_i": "14471", "regex": "false"},
+	{"name_s": "/usr/lib/libIBM_SmbProviderTooling.so", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib/libLinux_SmbGeneralProviderBasic.so", "size_i": "41", "regex": "false"},
+	{"name_s": "/usr/lib/libRaToolsSmb.so", "size_i": "22", "regex": "false"}
+]

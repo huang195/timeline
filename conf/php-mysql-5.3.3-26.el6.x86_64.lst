@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/php.d/mysql.ini", "size_i": "51", "regex": "false"},
+	{"name_s": "/etc/php.d/mysqli.ini", "size_i": "53", "regex": "false"},
+	{"name_s": "/etc/php.d/pdo_mysql.ini", "size_i": "59", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/mysql.so", "size_i": "54408", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/mysqli.so", "size_i": "136032", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/pdo_mysql.so", "size_i": "30112", "regex": "false"}
+]

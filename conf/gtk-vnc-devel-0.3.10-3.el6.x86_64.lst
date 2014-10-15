@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/gtk-vnc-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gtk-vnc-1.0/vncdisplay.h", "size_i": "5116", "regex": "false"},
+	{"name_s": "/usr/lib64/libgtk-vnc-1.0.so", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/gtk-vnc-1.0.pc", "size_i": "257", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk-vnc-devel-0.3.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk-vnc-devel-0.3.10/gvncviewer.c", "size_i": "15966", "regex": "false"}
+]

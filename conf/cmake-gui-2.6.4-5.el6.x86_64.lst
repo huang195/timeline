@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/cmake-gui", "size_i": "3028360", "regex": "false"},
+	{"name_s": "/usr/share/applications/CMake.desktop", "size_i": "295", "regex": "false"},
+	{"name_s": "/usr/share/mime/packages/cmakecache.xml", "size_i": "302", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/CMakeSetup.png", "size_i": "358", "regex": "false"}
+]

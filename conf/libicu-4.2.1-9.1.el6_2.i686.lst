@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib/libicudata.so.42", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libicudata.so.42.1", "size_i": "16010708", "regex": "false"},
+	{"name_s": "/usr/lib/libicui18n.so.42", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libicui18n.so.42.1", "size_i": "1678608", "regex": "false"},
+	{"name_s": "/usr/lib/libicuio.so.42", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libicuio.so.42.1", "size_i": "44744", "regex": "false"},
+	{"name_s": "/usr/lib/libicule.so.42", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libicule.so.42.1", "size_i": "218140", "regex": "false"},
+	{"name_s": "/usr/lib/libiculx.so.42", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libiculx.so.42.1", "size_i": "41892", "regex": "false"},
+	{"name_s": "/usr/lib/libicutu.so.42", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libicutu.so.42.1", "size_i": "130832", "regex": "false"},
+	{"name_s": "/usr/lib/libicuuc.so.42", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libicuuc.so.42.1", "size_i": "1338252", "regex": "false"}
+]

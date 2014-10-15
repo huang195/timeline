@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libdc1394.so.22", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libdc1394.so.22.1.4", "size_i": "216328", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdc1394-2.1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdc1394-2.1.2/AUTHORS", "size_i": "1349", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdc1394-2.1.2/COPYING", "size_i": "26428", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdc1394-2.1.2/ChangeLog", "size_i": "81631", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdc1394-2.1.2/NEWS", "size_i": "4596", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdc1394-2.1.2/README", "size_i": "2765", "regex": "false"}
+]

@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/share/man/man3/Test::Builder.3pm.gz", "size_i": "9295", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Builder::Module.3pm.gz", "size_i": "2974", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Builder::Tester.3pm.gz", "size_i": "5051", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Builder::Tester::Color.3pm.gz", "size_i": "2107", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::More.3pm.gz", "size_i": "13081", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Simple.3pm.gz", "size_i": "4510", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Tutorial.3pm.gz", "size_i": "8740", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Builder", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Builder.pm", "size_i": "51558", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Builder/Module.pm", "size_i": "4048", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Builder/Tester", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Builder/Tester.pm", "size_i": "16136", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Builder/Tester/Color.pm", "size_i": "969", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/More.pm", "size_i": "44951", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Simple.pm", "size_i": "6461", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Tutorial.pod", "size_i": "18949", "regex": "false"}
+]

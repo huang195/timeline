@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/plymouth/themes/fade-in", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/fade-in/bullet.png", "size_i": "296", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/fade-in/entry.png", "size_i": "350", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/fade-in/fade-in.plymouth", "size_i": "185", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/fade-in/lock.png", "size_i": "29126", "regex": "false"},
+	{"name_s": "/usr/share/plymouth/themes/fade-in/star.png", "size_i": "1057", "regex": "false"}
+]

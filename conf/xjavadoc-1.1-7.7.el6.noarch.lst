@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/xjavadoc-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xjavadoc-1.1/LICENSE.txt", "size_i": "1468", "regex": "false"},
+	{"name_s": "/usr/share/doc/xjavadoc-1.1/architecture.txt", "size_i": "1834", "regex": "false"},
+	{"name_s": "/usr/share/java/xjavadoc-1.1.jar", "size_i": "222917", "regex": "false"},
+	{"name_s": "/usr/share/java/xjavadoc.jar", "size_i": "16", "regex": "false"}
+]

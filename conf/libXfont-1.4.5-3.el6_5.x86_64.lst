@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libXfont.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libXfont.so.1.4.1", "size_i": "215632", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXfont-1.4.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXfont-1.4.5/AUTHORS", "size_i": "291", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXfont-1.4.5/COPYING", "size_i": "13424", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXfont-1.4.5/ChangeLog", "size_i": "72272", "regex": "false"}
+]

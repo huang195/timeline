@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/libboost_program_options-mt.so.5", "size_i": "286500", "regex": "false"},
+	{"name_s": "/usr/lib/libboost_program_options.so.5", "size_i": "286480", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-program-options-1.41.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-program-options-1.41.0/LICENSE_1_0.txt", "size_i": "1338", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/blkid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/blkid/blkid.h", "size_i": "11073", "regex": "false"},
+	{"name_s": "/usr/lib/libblkid.a", "size_i": "289824", "regex": "false"},
+	{"name_s": "/usr/lib/libblkid.so", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/blkid.pc", "size_i": "224", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libblkid.3.gz", "size_i": "1921", "regex": "false"}
+]

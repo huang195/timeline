@@ -1,0 +1,5 @@
+[
+	{"name_s": "/lib64/brltty/libbrlttybxw.so", "size_i": "23368", "regex": "false"},
+	{"name_s": "/usr/share/doc/brltty-xw-4.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/brltty-xw-4.1/README", "size_i": "1583", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/m17n/si-phonetic-dynamic.mim", "size_i": "6765", "regex": "false"},
+	{"name_s": "/usr/share/m17n/si-phonetic-static.mim", "size_i": "5568", "regex": "false"},
+	{"name_s": "/usr/share/m17n/si-trans.mim", "size_i": "6255", "regex": "false"}
+]

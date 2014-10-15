@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/libsaslwrapper.so.1", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libsaslwrapper.so.1.0.0", "size_i": "26016", "regex": "false"},
+	{"name_s": "/usr/share/doc/saslwrapper-0.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/saslwrapper-0.14/LICENSE", "size_i": "13143", "regex": "false"}
+]

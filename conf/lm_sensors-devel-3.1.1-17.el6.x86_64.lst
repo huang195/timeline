@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/sensors", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/sensors/error.h", "size_i": "3320", "regex": "false"},
+	{"name_s": "/usr/include/sensors/sensors.h", "size_i": "9922", "regex": "false"},
+	{"name_s": "/usr/lib64/libsensors.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/libsensors.3.gz", "size_i": "3397", "regex": "false"}
+]

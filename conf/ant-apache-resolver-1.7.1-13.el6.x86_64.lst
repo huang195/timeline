@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/ant.d/apache-resolver", "size_i": "45", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-apache-resolver-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-apache-resolver-1.7.1.jar.so", "size_i": "18976", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-apache-resolver.jar", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-apache-resolver-1.7.1.jar", "size_i": "4056", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-apache-resolver.jar", "size_i": "29", "regex": "false"}
+]

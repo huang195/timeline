@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/presto.conf", "size_i": "611", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/yum_presto-0.4.4-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/yum_presto-0.4.4-py2.6.egg-info/PKG-INFO", "size_i": "438", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/yum_presto-0.4.4-py2.6.egg-info/SOURCES.txt", "size_i": "151", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/yum_presto-0.4.4-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/yum_presto-0.4.4-py2.6.egg-info/top_level.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/presto.py", "size_i": "23239", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/presto.pyc", "size_i": "17874", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/presto.pyo", "size_i": "17874", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-presto-0.6.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-presto-0.6.2/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-presto-0.6.2/ChangeLog", "size_i": "4418", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-presto-0.6.2/README", "size_i": "971", "regex": "false"}
+]

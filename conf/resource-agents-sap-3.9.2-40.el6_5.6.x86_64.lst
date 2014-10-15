@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/ocf/lib/heartbeat/sapdb-nosha.sh", "size_i": "17179", "regex": "false"},
+	{"name_s": "/usr/lib/ocf/lib/heartbeat/sapdb.sh", "size_i": "8847", "regex": "false"},
+	{"name_s": "/usr/lib/ocf/resource.d/heartbeat/SAPDatabase", "size_i": "13539", "regex": "false"},
+	{"name_s": "/usr/lib/ocf/resource.d/heartbeat/SAPInstance", "size_i": "35533", "regex": "false"},
+	{"name_s": "/usr/sbin/sap_redhat_cluster_connector", "size_i": "16900", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/ocf_heartbeat_SAPDatabase.7.gz", "size_i": "2284", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/ocf_heartbeat_SAPInstance.7.gz", "size_i": "3929", "regex": "false"}
+]

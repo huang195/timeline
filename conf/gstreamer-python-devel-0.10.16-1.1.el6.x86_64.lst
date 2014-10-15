@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/lib64/pkgconfig/gst-python-0.10.pc", "size_i": "582", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/audio-controller.py", "size_i": "1146", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/audioconcat.py", "size_i": "5503", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/bps.py", "size_i": "3082", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/cp.py", "size_i": "2329", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/debugslider.py", "size_i": "1798", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/decodebin.py", "size_i": "3112", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/f2f.py", "size_i": "1900", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/filesrc.py", "size_i": "2924", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/fvumeter.py", "size_i": "8841", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/gstfile.py", "size_i": "1898", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/mixer.py", "size_i": "817", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/play.py", "size_i": "9415", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/remuxer.py", "size_i": "29377", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/sinkelement.py", "size_i": "1665", "regex": "false"},
+	{"name_s": "/usr/share/doc/gstreamer-python-devel-0.10.16/examples/vumeter.py", "size_i": "3450", "regex": "false"}
+]

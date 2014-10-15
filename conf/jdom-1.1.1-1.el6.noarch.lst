@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/jdom-1.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdom-1.1.1/CHANGES.txt", "size_i": "51297", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdom-1.1.1/COMMITTERS.txt", "size_i": "313", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdom-1.1.1/LICENSE.txt", "size_i": "2564", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdom-1.1.1/README.txt", "size_i": "3468", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdom-1.1.1/TODO.txt", "size_i": "8306", "regex": "false"},
+	{"name_s": "/usr/share/java/jdom-1.1.1.jar", "size_i": "153077", "regex": "false"},
+	{"name_s": "/usr/share/java/jdom.jar", "size_i": "14", "regex": "false"}
+]

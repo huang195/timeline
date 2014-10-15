@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/include/libmb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libmb/hash.h", "size_i": "1259", "regex": "false"},
+	{"name_s": "/usr/include/libmb/mb.h", "size_i": "1137", "regex": "false"},
+	{"name_s": "/usr/include/libmb/mbconfig.h", "size_i": "658", "regex": "false"},
+	{"name_s": "/usr/include/libmb/mbdotdesktop.h", "size_i": "4396", "regex": "false"},
+	{"name_s": "/usr/include/libmb/mbexp.h", "size_i": "13459", "regex": "false"},
+	{"name_s": "/usr/include/libmb/mbmenu.h", "size_i": "11106", "regex": "false"},
+	{"name_s": "/usr/include/libmb/mbpixbuf.h", "size_i": "17292", "regex": "false"},
+	{"name_s": "/usr/include/libmb/mbtray.h", "size_i": "16949", "regex": "false"},
+	{"name_s": "/usr/include/libmb/mbutil.h", "size_i": "3017", "regex": "false"},
+	{"name_s": "/usr/lib/libmb.so", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libmb.pc", "size_i": "254", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmatchbox-devel-1.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmatchbox-devel-1.9/AUTHORS", "size_i": "38", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmatchbox-devel-1.9/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmatchbox-devel-1.9/ChangeLog", "size_i": "14198", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmatchbox-devel-1.9/README", "size_i": "72", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/pdfbklt", "size_i": "17663", "regex": "false"},
+	{"name_s": "/usr/bin/pdfrevert", "size_i": "1083", "regex": "false"},
+	{"name_s": "/usr/bin/pdfstamp", "size_i": "2472", "regex": "false"},
+	{"name_s": "/usr/share/doc/pdf-tools-0.29a", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pdf-tools-0.29a/readme.txt", "size_i": "2787", "regex": "false"}
+]

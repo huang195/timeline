@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-lklug.conf", "size_i": "46", "regex": "false"},
+	{"name_s": "/usr/share/doc/lklug-fonts-0.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lklug-fonts-0.6/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/lklug-fonts-0.6/CREDITS", "size_i": "2499", "regex": "false"},
+	{"name_s": "/usr/share/doc/lklug-fonts-0.6/README.fonts", "size_i": "2067", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-lklug.conf", "size_i": "422", "regex": "false"},
+	{"name_s": "/usr/share/fonts/lklug", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/lklug/lklug.ttf", "size_i": "304916", "regex": "false"}
+]

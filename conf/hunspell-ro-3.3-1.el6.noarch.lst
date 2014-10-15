@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-ro-3.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ro-3.3/COPYING.GPL", "size_i": "18324", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ro-3.3/COPYING.LGPL", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ro-3.3/COPYING.MPL", "size_i": "25755", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ro-3.3/README", "size_i": "1707", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ro_RO.aff", "size_i": "49695", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ro_RO.dic", "size_i": "1917320", "regex": "false"}
+]

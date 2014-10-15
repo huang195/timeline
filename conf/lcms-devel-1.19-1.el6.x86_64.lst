@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/icc34.h", "size_i": "40068", "regex": "false"},
+	{"name_s": "/usr/include/lcms.h", "size_i": "78034", "regex": "false"},
+	{"name_s": "/usr/lib64/liblcms.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/lcms.pc", "size_i": "189", "regex": "false"},
+	{"name_s": "/usr/share/doc/lcms-devel-1.19", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lcms-devel-1.19/LCMSAPI.TXT", "size_i": "91710", "regex": "false"}
+]

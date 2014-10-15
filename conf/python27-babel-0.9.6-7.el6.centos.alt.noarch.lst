@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/python27/root/usr/bin/pybabel", "size_i": "316", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/doc/python27-babel-0.9.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/doc/python27-babel-0.9.6/COPYING", "size_i": "1412", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/doc/python27-babel-0.9.6/ChangeLog", "size_i": "8631", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/doc/python27-babel-0.9.6/README.txt", "size_i": "362", "regex": "false"},
+	{"name_s": "/opt/rh/python27/root/usr/share/doc/python27-babel-0.9.6/cmdline.txt", "size_i": "6732", "regex": "false"}
+]

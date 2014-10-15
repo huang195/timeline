@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/fonts/conf.d/44-wqy-zenhei.conf", "size_i": "51", "regex": "false"},
+	{"name_s": "/etc/fonts/conf.d/65-wqy-zenhei.conf", "size_i": "51", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/43-wqy-zenhei-sharp.conf", "size_i": "743", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/44-wqy-zenhei.conf", "size_i": "1010", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-wqy-zenhei.conf", "size_i": "1192", "regex": "false"},
+	{"name_s": "/usr/share/fonts/wqy-zenhei", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/wqy-zenhei/wqy-zenhei.ttc", "size_i": "16791251", "regex": "false"}
+]

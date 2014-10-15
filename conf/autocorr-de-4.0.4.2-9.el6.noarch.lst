@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/autocorr", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/autocorr/acor_de-AT.dat", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/autocorr/acor_de-BE.dat", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/autocorr/acor_de-CH.dat", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/autocorr/acor_de-DE.dat", "size_i": "4003", "regex": "false"},
+	{"name_s": "/usr/share/autocorr/acor_de-LI.dat", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/autocorr/acor_de-LU.dat", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/doc/autocorr-de-4.0.4.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/autocorr-de-4.0.4.2/LICENSE", "size_i": "436392", "regex": "false"}
+]

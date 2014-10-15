@@ -1,0 +1,18 @@
+[
+	{"name_s": "/etc/rc.d/init.d/memcached", "size_i": "1635", "regex": "false"},
+	{"name_s": "/etc/sysconfig/memcached", "size_i": "71", "regex": "false"},
+	{"name_s": "/usr/bin/memcached", "size_i": "85256", "regex": "false"},
+	{"name_s": "/usr/bin/memcached-tool", "size_i": "4128", "regex": "false"},
+	{"name_s": "/usr/share/doc/memcached-1.4.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/memcached-1.4.4/AUTHORS", "size_i": "69", "regex": "false"},
+	{"name_s": "/usr/share/doc/memcached-1.4.4/CONTRIBUTORS", "size_i": "1504", "regex": "false"},
+	{"name_s": "/usr/share/doc/memcached-1.4.4/COPYING", "size_i": "1503", "regex": "false"},
+	{"name_s": "/usr/share/doc/memcached-1.4.4/ChangeLog", "size_i": "19404", "regex": "false"},
+	{"name_s": "/usr/share/doc/memcached-1.4.4/NEWS", "size_i": "40", "regex": "false"},
+	{"name_s": "/usr/share/doc/memcached-1.4.4/README", "size_i": "796", "regex": "false"},
+	{"name_s": "/usr/share/doc/memcached-1.4.4/protocol.txt", "size_i": "29820", "regex": "false"},
+	{"name_s": "/usr/share/doc/memcached-1.4.4/readme.txt", "size_i": "74", "regex": "false"},
+	{"name_s": "/usr/share/doc/memcached-1.4.4/threads.txt", "size_i": "3556", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/memcached.1.gz", "size_i": "2434", "regex": "false"},
+	{"name_s": "/var/run/memcached", "size_i": "4096", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/vorbis", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/vorbis/codec.h", "size_i": "8449", "regex": "false"},
+	{"name_s": "/usr/include/vorbis/vorbisenc.h", "size_i": "3478", "regex": "false"},
+	{"name_s": "/usr/include/vorbis/vorbisfile.h", "size_i": "8027", "regex": "false"},
+	{"name_s": "/usr/lib/libvorbis.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libvorbisenc.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libvorbisfile.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/vorbis.pc", "size_i": "268", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/vorbisenc.pc", "size_i": "344", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/vorbisfile.pc", "size_i": "370", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/vorbis.m4", "size_i": "4861", "regex": "false"}
+]

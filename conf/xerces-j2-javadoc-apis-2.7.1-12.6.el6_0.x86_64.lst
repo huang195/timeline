@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis-2.7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis-2.7.1/allclasses-frame.html", "size_i": "726", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis-2.7.1/allclasses-noframe.html", "size_i": "3409", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis-2.7.1/index.html", "size_i": "887", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis-2.7.1/org", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis-2.7.1/org/w3c", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis-2.7.1/org/w3c/dom", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis-2.7.1/org/w3c/dom/html", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis-2.7.1/org/w3c/dom/html/HTMLDOMImplementation.html", "size_i": "7599", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis-2.7.1/org/w3c/dom/html/package-summary.html", "size_i": "3853", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis-2.7.1/package-list", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/xerces-j2-apis-2.7.1/stylesheet.css", "size_i": "4692", "regex": "false"}
+]

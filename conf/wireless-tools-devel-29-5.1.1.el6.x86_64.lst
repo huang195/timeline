@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/iwlib.h", "size_i": "16857", "regex": "false"},
+	{"name_s": "/usr/include/wireless.h", "size_i": "42901", "regex": "false"},
+	{"name_s": "/usr/lib64/libiw.so", "size_i": "23", "regex": "false"}
+]

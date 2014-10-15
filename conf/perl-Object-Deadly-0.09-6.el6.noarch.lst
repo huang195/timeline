@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/share/doc/perl-Object-Deadly-0.09", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Object-Deadly-0.09/Changes", "size_i": "1595", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Object-Deadly-0.09/README", "size_i": "3527", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Object::Deadly.3pm.gz", "size_i": "3413", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Object::Deadly::_safe.3pm.gz", "size_i": "1845", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Object::Deadly::_unsafe.3pm.gz", "size_i": "2460", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Object", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Object/Deadly", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Object/Deadly.pm", "size_i": "7584", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Object/Deadly/_safe.pm", "size_i": "412", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Object/Deadly/_unsafe.pm", "size_i": "3949", "regex": "false"}
+]

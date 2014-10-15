@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/sbin/powertop", "size_i": "419136", "regex": "false"},
+	{"name_s": "/usr/share/doc/powertop-2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/powertop-2.3/COPYING", "size_i": "18006", "regex": "false"},
+	{"name_s": "/usr/share/doc/powertop-2.3/README", "size_i": "3801", "regex": "false"},
+	{"name_s": "/usr/share/doc/powertop-2.3/TODO", "size_i": "651", "regex": "false"},
+	{"name_s": "/usr/share/locale/ca/LC_MESSAGES/powertop.mo", "size_i": "5878", "regex": "false"},
+	{"name_s": "/usr/share/locale/cs_CZ/LC_MESSAGES/powertop.mo", "size_i": "8927", "regex": "false"},
+	{"name_s": "/usr/share/locale/de_DE/LC_MESSAGES/powertop.mo", "size_i": "9622", "regex": "false"},
+	{"name_s": "/usr/share/locale/en_GB/LC_MESSAGES/powertop.mo", "size_i": "2055", "regex": "false"},
+	{"name_s": "/usr/share/locale/en_US/LC_MESSAGES/powertop.mo", "size_i": "5138", "regex": "false"},
+	{"name_s": "/usr/share/locale/es_ES/LC_MESSAGES/powertop.mo", "size_i": "5888", "regex": "false"},
+	{"name_s": "/usr/share/locale/hu_HU/LC_MESSAGES/powertop.mo", "size_i": "9818", "regex": "false"},
+	{"name_s": "/usr/share/locale/id_ID/LC_MESSAGES/powertop.mo", "size_i": "9402", "regex": "false"},
+	{"name_s": "/usr/share/locale/nl_NL/LC_MESSAGES/powertop.mo", "size_i": "1869", "regex": "false"},
+	{"name_s": "/usr/share/locale/zh_TW/LC_MESSAGES/powertop.mo", "size_i": "8761", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/powertop.8.gz", "size_i": "1051", "regex": "false"},
+	{"name_s": "/var/cache/powertop", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/cache/powertop/saved_parameters.powertop", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/cache/powertop/saved_results.powertop", "size_i": "0", "regex": "false"}
+]

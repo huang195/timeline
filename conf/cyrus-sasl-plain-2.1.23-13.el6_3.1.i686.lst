@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/sasl2/liblogin.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/sasl2/liblogin.so.2", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/sasl2/liblogin.so.2.0.23", "size_i": "17980", "regex": "false"},
+	{"name_s": "/usr/lib/sasl2/libplain.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/sasl2/libplain.so.2", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/sasl2/libplain.so.2.0.23", "size_i": "17980", "regex": "false"}
+]

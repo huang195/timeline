@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib/libhyphen.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libhyphen.so.0.2.0", "size_i": "16756", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-2.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-2.4/AUTHORS", "size_i": "772", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-2.4/ChangeLog", "size_i": "6862", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-2.4/README", "size_i": "3959", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-2.4/README.hyphen", "size_i": "4894", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-2.4/README.nonstandard", "size_i": "4232", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-2.4/TODO", "size_i": "158", "regex": "false"},
+	{"name_s": "/usr/share/hyphen", "size_i": "4096", "regex": "false"}
+]

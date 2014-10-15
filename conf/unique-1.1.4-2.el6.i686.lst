@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libunique-1.0.so.0", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libunique-1.0.so.0.0.0", "size_i": "47768", "regex": "false"},
+	{"name_s": "/usr/share/doc/unique-1.1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/unique-1.1.4/AUTHORS", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/doc/unique-1.1.4/COPYING", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/unique-1.1.4/ChangeLog", "size_i": "76250", "regex": "false"},
+	{"name_s": "/usr/share/doc/unique-1.1.4/README", "size_i": "628", "regex": "false"}
+]

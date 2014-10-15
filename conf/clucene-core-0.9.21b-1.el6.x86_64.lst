@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libclucene.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libclucene.so.0.0.0", "size_i": "1127496", "regex": "false"},
+	{"name_s": "/usr/share/doc/clucene-0.9.21b", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/clucene-0.9.21b/AUTHORS", "size_i": "1195", "regex": "false"},
+	{"name_s": "/usr/share/doc/clucene-0.9.21b/COPYING", "size_i": "2958", "regex": "false"},
+	{"name_s": "/usr/share/doc/clucene-0.9.21b/HACKING", "size_i": "3384", "regex": "false"},
+	{"name_s": "/usr/share/doc/clucene-0.9.21b/README", "size_i": "4206", "regex": "false"},
+	{"name_s": "/usr/share/doc/clucene-0.9.21b/REQUESTS", "size_i": "119", "regex": "false"}
+]

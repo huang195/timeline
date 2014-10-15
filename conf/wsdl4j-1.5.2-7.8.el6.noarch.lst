@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/wsdl4j-1.5.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/wsdl4j-1.5.2/license.html", "size_i": "15275", "regex": "false"},
+	{"name_s": "/usr/share/java/qname-1.5.2.jar", "size_i": "165789", "regex": "false"},
+	{"name_s": "/usr/share/java/wsdl4j-1.5.2.jar", "size_i": "165789", "regex": "false"},
+	{"name_s": "/usr/share/java/wsdl4j.jar", "size_i": "15", "regex": "false"}
+]

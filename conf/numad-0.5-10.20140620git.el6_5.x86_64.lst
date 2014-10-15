@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/logrotate.d/numad", "size_i": "106", "regex": "false"},
+	{"name_s": "/etc/numad.conf", "size_i": "91", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/numad", "size_i": "1875", "regex": "false"},
+	{"name_s": "/usr/bin/numad", "size_i": "60608", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/numad.8.gz", "size_i": "3737", "regex": "false"}
+]

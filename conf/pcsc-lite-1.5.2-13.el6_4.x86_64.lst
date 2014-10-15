@@ -1,0 +1,23 @@
+[
+	{"name_s": "/etc/rc.d/init.d/pcscd", "size_i": "2142", "regex": "false"},
+	{"name_s": "/etc/reader.conf", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/reader.conf.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/reader.conf.d/README", "size_i": "101", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/pcsc/drivers", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/sbin/pcscd", "size_i": "106472", "regex": "false"},
+	{"name_s": "/usr/sbin/update-reader.conf", "size_i": "957", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcsc-lite-1.5.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcsc-lite-1.5.2/AUTHORS", "size_i": "248", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcsc-lite-1.5.2/COPYING", "size_i": "1520", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcsc-lite-1.5.2/ChangeLog", "size_i": "49394", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcsc-lite-1.5.2/ChangeLog.svn", "size_i": "236522", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcsc-lite-1.5.2/DRIVERS", "size_i": "1087", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcsc-lite-1.5.2/HELP", "size_i": "382", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcsc-lite-1.5.2/README", "size_i": "4583", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcsc-lite-1.5.2/SECURITY", "size_i": "586", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcsc-lite-1.5.2/TODO", "size_i": "1170", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/reader.conf.5.gz", "size_i": "1191", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pcscd.8.gz", "size_i": "1348", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/update-reader.conf.8.gz", "size_i": "524", "regex": "false"}
+]

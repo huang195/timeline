@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/sbin/pk-device-rebind", "size_i": "11096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-device-rebind-0.5.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-device-rebind-0.5.8/AUTHORS", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-device-rebind-0.5.8/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-device-rebind-0.5.8/NEWS", "size_i": "205506", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-device-rebind-0.5.8/README", "size_i": "279", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pk-device-rebind.1.gz", "size_i": "911", "regex": "false"}
+]

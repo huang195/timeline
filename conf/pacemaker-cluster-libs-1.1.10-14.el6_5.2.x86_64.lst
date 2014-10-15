@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libcrmcluster.so.4", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libcrmcluster.so.4.0.0", "size_i": "91024", "regex": "false"},
+	{"name_s": "/usr/share/doc/pacemaker-cluster-libs-1.1.10", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pacemaker-cluster-libs-1.1.10/AUTHORS", "size_i": "1102", "regex": "false"},
+	{"name_s": "/usr/share/doc/pacemaker-cluster-libs-1.1.10/COPYING.LIB", "size_i": "26434", "regex": "false"}
+]

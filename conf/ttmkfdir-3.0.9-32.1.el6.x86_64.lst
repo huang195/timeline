@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/bin/ttmkfdir", "size_i": "99072", "regex": "false"},
+	{"name_s": "/usr/share/doc/ttmkfdir-3.0.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ttmkfdir-3.0.9/README", "size_i": "2675", "regex": "false"}
+]

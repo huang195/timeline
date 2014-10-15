@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/alsa/pcm/maemo.conf", "size_i": "254", "regex": "false"},
+	{"name_s": "/usr/lib64/alsa-lib/libasound_module_ctl_dsp_ctl.so", "size_i": "22304", "regex": "false"},
+	{"name_s": "/usr/lib64/alsa-lib/libasound_module_pcm_alsa_dsp.so", "size_i": "23648", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-maemo-1.0.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-maemo-1.0.21/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-maemo-1.0.21/COPYING.GPL", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-maemo-1.0.21/README-maemo", "size_i": "6802", "regex": "false"}
+]

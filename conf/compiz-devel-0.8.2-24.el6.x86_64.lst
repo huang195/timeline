@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/include/compiz", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/compiz/compiz-common.h", "size_i": "350", "regex": "false"},
+	{"name_s": "/usr/include/compiz/compiz-core.h", "size_i": "80932", "regex": "false"},
+	{"name_s": "/usr/include/compiz/compiz-cube.h", "size_i": "7041", "regex": "false"},
+	{"name_s": "/usr/include/compiz/compiz-plugin.h", "size_i": "2378", "regex": "false"},
+	{"name_s": "/usr/include/compiz/compiz-scale.h", "size_i": "6347", "regex": "false"},
+	{"name_s": "/usr/include/compiz/compiz.h", "size_i": "4401", "regex": "false"},
+	{"name_s": "/usr/include/compiz/decoration.h", "size_i": "9717", "regex": "false"},
+	{"name_s": "/usr/lib64/libdecoration.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/compiz-cube.pc", "size_i": "263", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/compiz-gconf.pc", "size_i": "115", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/compiz-scale.pc", "size_i": "264", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/compiz.pc", "size_i": "408", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libdecoration.pc", "size_i": "247", "regex": "false"},
+	{"name_s": "/usr/share/compiz/schemas.xslt", "size_i": "15035", "regex": "false"}
+]

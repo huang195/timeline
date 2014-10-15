@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/libibverbs.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libibverbs.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libibverbs.so.1.0.0", "size_i": "54792", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibverbs-1.1.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibverbs-1.1.7/AUTHORS", "size_i": "144", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibverbs-1.1.7/COPYING", "size_i": "19825", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibverbs-1.1.7/ChangeLog", "size_i": "21479", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibverbs-1.1.7/README", "size_i": "6267", "regex": "false"}
+]

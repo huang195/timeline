@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib/gcc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/gcc/x86_64-redhat-linux", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/gcc/x86_64-redhat-linux/4.4.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/gcc/x86_64-redhat-linux/4.4.4/include/mf-runtime.h", "size_i": "10170", "regex": "false"},
+	{"name_s": "/usr/lib/gcc/x86_64-redhat-linux/4.4.4/libmudflap.a", "size_i": "252470", "regex": "false"},
+	{"name_s": "/usr/lib/gcc/x86_64-redhat-linux/4.4.4/libmudflap.so", "size_i": "41", "regex": "false"},
+	{"name_s": "/usr/lib/gcc/x86_64-redhat-linux/4.4.4/libmudflapth.a", "size_i": "210952", "regex": "false"},
+	{"name_s": "/usr/lib/gcc/x86_64-redhat-linux/4.4.4/libmudflapth.so", "size_i": "43", "regex": "false"},
+	{"name_s": "/usr/lib/gcc/x86_64-redhat-linux/4.4.7", "size_i": "5", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmudflap-devel-4.4.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmudflap-devel-4.4.7/ChangeLog.bz2", "size_i": "16481", "regex": "false"}
+]

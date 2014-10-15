@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libart_lgpl_2.so.2", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libart_lgpl_2.so.2.3.20", "size_i": "96196", "regex": "false"},
+	{"name_s": "/usr/share/doc/libart_lgpl-2.3.20", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libart_lgpl-2.3.20/AUTHORS", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/doc/libart_lgpl-2.3.20/COPYING", "size_i": "25292", "regex": "false"},
+	{"name_s": "/usr/share/doc/libart_lgpl-2.3.20/NEWS", "size_i": "602", "regex": "false"},
+	{"name_s": "/usr/share/doc/libart_lgpl-2.3.20/README", "size_i": "682", "regex": "false"}
+]

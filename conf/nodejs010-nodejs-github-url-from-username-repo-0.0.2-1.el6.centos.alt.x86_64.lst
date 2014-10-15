@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/github-url-from-username-repo", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/github-url-from-username-repo/index.js", "size_i": "157", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/github-url-from-username-repo/package.json", "size_i": "595", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-github-url-from-username-repo-0.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-github-url-from-username-repo-0.0.2/LICENSE", "size_i": "1306", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-github-url-from-username-repo-0.0.2/README.md", "size_i": "523", "regex": "false"}
+]

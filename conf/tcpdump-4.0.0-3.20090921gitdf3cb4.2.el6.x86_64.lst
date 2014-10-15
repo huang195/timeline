@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/sbin/tcpdump", "size_i": "735824", "regex": "false"},
+	{"name_s": "/usr/sbin/tcpslice", "size_i": "20048", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcpdump-4.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcpdump-4.0.0/CHANGES", "size_i": "33659", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcpdump-4.0.0/CREDITS", "size_i": "8813", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcpdump-4.0.0/LICENSE", "size_i": "873", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcpdump-4.0.0/README", "size_i": "9801", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/tcpdump.8.gz", "size_i": "18958", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/tcpslice.8.gz", "size_i": "4467", "regex": "false"}
+]

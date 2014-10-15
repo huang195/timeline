@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/include/saslwrapper.h", "size_i": "5981", "regex": "false"},
+	{"name_s": "/usr/lib/libsaslwrapper.so", "size_i": "23", "regex": "false"}
+]

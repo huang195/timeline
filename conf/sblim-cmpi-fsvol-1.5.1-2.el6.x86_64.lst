@@ -1,0 +1,21 @@
+[
+	{"name_s": "/etc/ld.so.conf.d/sblim-cmpi-fsvol-x86_64.conf", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiOSBase_BlockStorageStatisticalDataProvider.so", "size_i": "20096", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiOSBase_BootOSFromFSProvider.so", "size_i": "23696", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiOSBase_HostedFileSystemProvider.so", "size_i": "15632", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiOSBase_LocalFileSystemProvider.so", "size_i": "19312", "regex": "false"},
+	{"name_s": "/usr/lib64/cmpi/libcmpiOSBase_NFSProvider.so", "size_i": "16296", "regex": "false"},
+	{"name_s": "/usr/lib64/libcmpiOSBase_CommonFsvol.so.0", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib64/libcmpiOSBase_CommonFsvol.so.0.0.0", "size_i": "12800", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-fsvol-1.5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-fsvol-1.5.1/AUTHORS", "size_i": "226", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-fsvol-1.5.1/COPYING", "size_i": "11249", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-fsvol-1.5.1/DEBUG", "size_i": "250", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-fsvol-1.5.1/README", "size_i": "4992", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-fsvol-1.5.1/README.TEST", "size_i": "600", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cmpi-fsvol-1.5.1/README.tog-pegasus", "size_i": "1782", "regex": "false"},
+	{"name_s": "/usr/share/sblim-cmpi-fsvol", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/sblim-cmpi-fsvol/Linux_Fsvol.mof", "size_i": "6731", "regex": "false"},
+	{"name_s": "/usr/share/sblim-cmpi-fsvol/Linux_Fsvol.registration", "size_i": "948", "regex": "false"},
+	{"name_s": "/usr/share/sblim-cmpi-fsvol/provider-register.sh", "size_i": "14955", "regex": "false"}
+]

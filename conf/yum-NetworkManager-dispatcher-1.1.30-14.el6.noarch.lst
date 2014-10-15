@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/NetworkManager/dispatcher.d/yum-NetworkManager-dispatcher", "size_i": "220", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-NetworkManager-dispatcher-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-NetworkManager-dispatcher-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

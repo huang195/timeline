@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/bin/libassuan-config", "size_i": "2619", "regex": "false"},
+	{"name_s": "/usr/include/assuan.h", "size_i": "26473", "regex": "false"},
+	{"name_s": "/usr/lib64/libassuan-pth.a", "size_i": "113622", "regex": "false"},
+	{"name_s": "/usr/lib64/libassuan.a", "size_i": "112810", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/libassuan.m4", "size_i": "6091", "regex": "false"},
+	{"name_s": "/usr/share/doc/libassuan-devel-1.0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libassuan-devel-1.0.5/AUTHORS", "size_i": "1018", "regex": "false"},
+	{"name_s": "/usr/share/doc/libassuan-devel-1.0.5/COPYING", "size_i": "35068", "regex": "false"},
+	{"name_s": "/usr/share/doc/libassuan-devel-1.0.5/COPYING.LIB", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/libassuan-devel-1.0.5/ChangeLog", "size_i": "7143", "regex": "false"},
+	{"name_s": "/usr/share/doc/libassuan-devel-1.0.5/NEWS", "size_i": "6195", "regex": "false"},
+	{"name_s": "/usr/share/doc/libassuan-devel-1.0.5/README", "size_i": "713", "regex": "false"},
+	{"name_s": "/usr/share/doc/libassuan-devel-1.0.5/THANKS", "size_i": "390", "regex": "false"},
+	{"name_s": "/usr/share/doc/libassuan-devel-1.0.5/TODO", "size_i": "735", "regex": "false"},
+	{"name_s": "/usr/share/info/assuan.info.gz", "size_i": "40923", "regex": "false"}
+]

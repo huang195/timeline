@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/gnuchess", "size_i": "173808", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnuchess-5.07", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnuchess-5.07/AUTHORS", "size_i": "225", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnuchess-5.07/COPYING", "size_i": "18020", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnuchess-5.07/ChangeLog", "size_i": "33556", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnuchess-5.07/NEWS", "size_i": "1487", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnuchess-5.07/README", "size_i": "17504", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnuchess-5.07/TODO", "size_i": "1486", "regex": "false"},
+	{"name_s": "/var/lib/games/gnuchess", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/lib/games/gnuchess/book.dat", "size_i": "3710751", "regex": "false"}
+]

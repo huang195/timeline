@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-baekmuk-ttf-dotum.conf", "size_i": "60", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-baekmuk-ttf-dotum.conf", "size_i": "500", "regex": "false"},
+	{"name_s": "/usr/share/fonts/baekmuk-ttf", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/baekmuk-ttf/dotum.ttf", "size_i": "3066060", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/dovecot/auth/libdriver_pgsql.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/dovecot/dict/libdriver_pgsql.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/dovecot/libdriver_pgsql.so", "size_i": "26512", "regex": "false"}
+]

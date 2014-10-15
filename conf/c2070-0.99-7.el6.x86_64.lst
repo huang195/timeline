@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/c2070", "size_i": "8736", "regex": "false"},
+	{"name_s": "/usr/share/doc/c2070-0.99", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/c2070-0.99/LICENSE", "size_i": "18432", "regex": "false"},
+	{"name_s": "/usr/share/doc/c2070-0.99/README", "size_i": "7353", "regex": "false"}
+]

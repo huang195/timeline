@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/ant.d/apache-log4j", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-apache-log4j-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-apache-log4j-1.7.1.jar.so", "size_i": "17008", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-apache-log4j.jar", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-apache-log4j-1.7.1.jar", "size_i": "3038", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-apache-log4j.jar", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-jakarta-log4j.jar", "size_i": "20", "regex": "false"}
+]

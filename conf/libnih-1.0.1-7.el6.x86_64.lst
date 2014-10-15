@@ -1,0 +1,11 @@
+[
+	{"name_s": "/lib64/libnih-dbus.so.1", "size_i": "20", "regex": "false"},
+	{"name_s": "/lib64/libnih-dbus.so.1.0.0", "size_i": "39896", "regex": "false"},
+	{"name_s": "/lib64/libnih.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/lib64/libnih.so.1.0.0", "size_i": "101920", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnih-1.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnih-1.0.1/AUTHORS", "size_i": "177", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnih-1.0.1/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnih-1.0.1/ChangeLog", "size_i": "324909", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnih-1.0.1/README", "size_i": "1941", "regex": "false"}
+]

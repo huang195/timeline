@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/share/doc/jflex-1.4.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jflex-1.4.1/COPYRIGHT", "size_i": "12714", "regex": "false"},
+	{"name_s": "/usr/share/doc/jflex-1.4.1/crossref.png", "size_i": "147", "regex": "false"},
+	{"name_s": "/usr/share/doc/jflex-1.4.1/footnote.png", "size_i": "190", "regex": "false"},
+	{"name_s": "/usr/share/doc/jflex-1.4.1/jflex_anttask.html", "size_i": "5553", "regex": "false"},
+	{"name_s": "/usr/share/doc/jflex-1.4.1/logo.gif", "size_i": "31753", "regex": "false"},
+	{"name_s": "/usr/share/doc/jflex-1.4.1/manual.css", "size_i": "961", "regex": "false"},
+	{"name_s": "/usr/share/doc/jflex-1.4.1/manual.html", "size_i": "131516", "regex": "false"},
+	{"name_s": "/usr/share/doc/jflex-1.4.1/manual.pdf", "size_i": "404416", "regex": "false"},
+	{"name_s": "/usr/share/doc/jflex-1.4.1/manual.ps.gz", "size_i": "256579", "regex": "false"},
+	{"name_s": "/usr/share/java/jflex-1.4.1.jar", "size_i": "168517", "regex": "false"},
+	{"name_s": "/usr/share/java/jflex.jar", "size_i": "15", "regex": "false"}
+]

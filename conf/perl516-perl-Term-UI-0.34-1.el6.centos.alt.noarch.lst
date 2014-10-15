@@ -1,0 +1,11 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Term-UI-0.34", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Term-UI-0.34/CHANGES", "size_i": "1987", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Term-UI-0.34/README", "size_i": "980", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Term::UI.3pm.gz", "size_i": "6024", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Term::UI::History.3pm.gz", "size_i": "2545", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Term", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Term/UI", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Term/UI.pm", "size_i": "20136", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Term/UI/History.pm", "size_i": "2877", "regex": "false"}
+]

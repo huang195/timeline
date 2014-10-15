@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/wseventmgr", "size_i": "18008", "regex": "false"},
+	{"name_s": "/usr/bin/wsman", "size_i": "28464", "regex": "false"},
+	{"name_s": "/usr/share/doc/wsmancli-2.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/wsmancli-2.2.3/AUTHORS", "size_i": "309", "regex": "false"},
+	{"name_s": "/usr/share/doc/wsmancli-2.2.3/COPYING", "size_i": "1497", "regex": "false"},
+	{"name_s": "/usr/share/doc/wsmancli-2.2.3/README", "size_i": "8322", "regex": "false"}
+]

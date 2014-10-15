@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/include/kde4/kate", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/kde4/kate/application.h", "size_i": "4038", "regex": "false"},
+	{"name_s": "/usr/include/kde4/kate/documentmanager.h", "size_i": "4973", "regex": "false"},
+	{"name_s": "/usr/include/kde4/kate/mainwindow.h", "size_i": "7113", "regex": "false"},
+	{"name_s": "/usr/include/kde4/kate/plugin.h", "size_i": "10325", "regex": "false"},
+	{"name_s": "/usr/include/kde4/kate/pluginconfigpageinterface.h", "size_i": "7228", "regex": "false"},
+	{"name_s": "/usr/include/kde4/kate/pluginmanager.h", "size_i": "4011", "regex": "false"},
+	{"name_s": "/usr/include/kde4/kate_export.h", "size_i": "1126", "regex": "false"},
+	{"name_s": "/usr/include/kde4/kompare", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/kde4/kompare/kompareinterface.h", "size_i": "4085", "regex": "false"},
+	{"name_s": "/usr/include/kde4/kprofilemethod.h", "size_i": "1974", "regex": "false"},
+	{"name_s": "/usr/include/kde4/ktrace.h", "size_i": "187", "regex": "false"},
+	{"name_s": "/usr/lib/kde4/devel/libkateinterfaces.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libkdeinit4_cervisia.so", "size_i": "369864", "regex": "false"},
+	{"name_s": "/usr/lib/libkdeinit4_cvsaskpass.so", "size_i": "8820", "regex": "false"},
+	{"name_s": "/usr/lib/libkdeinit4_cvsservice.so", "size_i": "122300", "regex": "false"},
+	{"name_s": "/usr/lib/libkdeinit4_kate.so", "size_i": "29064", "regex": "false"},
+	{"name_s": "/usr/lib/libkompareinterface.so", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libkstartperf.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libktrace.so", "size_i": "14", "regex": "false"}
+]

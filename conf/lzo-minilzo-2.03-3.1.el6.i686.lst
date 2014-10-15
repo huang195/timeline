@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib/libminilzo.so.0", "size_i": "10088", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzo-minilzo-2.03", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lzo-minilzo-2.03/README.LZO", "size_i": "4053", "regex": "false"}
+]

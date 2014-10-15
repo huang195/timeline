@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/libiec61883", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libiec61883/iec61883.h", "size_i": "35855", "regex": "false"},
+	{"name_s": "/usr/lib64/libiec61883.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libiec61883.pc", "size_i": "245", "regex": "false"}
+]

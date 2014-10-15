@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-so-0.1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-so-0.1.2/GPL.txt", "size_i": "18082", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-so-0.1.2/README_so_SO.txt", "size_i": "18846", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-so-0.1.2/license.txt", "size_i": "1171", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-so-0.1.2/thanks.txt", "size_i": "910", "regex": "false"},
+	{"name_s": "/usr/share/myspell/so_DJ.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/so_DJ.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/so_ET.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/so_ET.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/so_KE.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/so_KE.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/so_SO.aff", "size_i": "8023", "regex": "false"},
+	{"name_s": "/usr/share/myspell/so_SO.dic", "size_i": "54099", "regex": "false"}
+]

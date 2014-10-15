@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/_audit.so", "size_i": "147712", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/audit.py", "size_i": "41488", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/audit.pyc", "size_i": "40213", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/audit.pyo", "size_i": "40213", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/auparse.so", "size_i": "43720", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/ipxe-roms-qemu-20120328", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipxe-roms-qemu-20120328/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipxe-roms-qemu-20120328/COPYRIGHTS", "size_i": "558", "regex": "false"},
+	{"name_s": "/usr/share/ipxe", "size_i": "20480", "regex": "false"},
+	{"name_s": "/usr/share/ipxe/10222000.rom", "size_i": "63488", "regex": "false"},
+	{"name_s": "/usr/share/ipxe/10ec8029.rom", "size_i": "63488", "regex": "false"},
+	{"name_s": "/usr/share/ipxe/10ec8139.rom", "size_i": "63488", "regex": "false"},
+	{"name_s": "/usr/share/ipxe/1af41000.rom", "size_i": "62976", "regex": "false"},
+	{"name_s": "/usr/share/ipxe/8086100e.rom", "size_i": "69120", "regex": "false"}
+]

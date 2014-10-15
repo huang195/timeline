@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/include/sss_idmap.h", "size_i": "17954", "regex": "false"},
+	{"name_s": "/usr/lib/libsss_idmap.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/sss_idmap.pc", "size_i": "223", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/annotated.html", "size_i": "1591", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/classes.html", "size_i": "1743", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/doxygen.css", "size_i": "6619", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/doxygen.png", "size_i": "1281", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/files.html", "size_i": "1475", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/group__sss__idmap.html", "size_i": "79167", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/index.html", "size_i": "1145", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/modules.html", "size_i": "1255", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/sss__idmap_8h_source.html", "size_i": "27096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/structsss__idmap__range.html", "size_i": "2117", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/tab_b.gif", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/tab_l.gif", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/tab_r.gif", "size_i": "2585", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-devel-1.9.2/html/tabs.css", "size_i": "1844", "regex": "false"}
+]

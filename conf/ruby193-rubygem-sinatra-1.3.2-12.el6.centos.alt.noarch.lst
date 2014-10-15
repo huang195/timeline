@@ -1,0 +1,16 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2/LICENSE", "size_i": "1081", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2/lib/sinatra", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2/lib/sinatra.rb", "size_i": "167", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2/lib/sinatra/base.rb", "size_i": "53915", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2/lib/sinatra/base.rb.orig", "size_i": "53884", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2/lib/sinatra/images", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2/lib/sinatra/images/404.png", "size_i": "23305", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2/lib/sinatra/images/500.png", "size_i": "31056", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2/lib/sinatra/main.rb", "size_i": "1102", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2/lib/sinatra/showexceptions.rb", "size_i": "11651", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/sinatra-1.3.2/lib/sinatra/version.rb", "size_i": "39", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/sinatra-1.3.2.gemspec", "size_i": "1863", "regex": "false"}
+]

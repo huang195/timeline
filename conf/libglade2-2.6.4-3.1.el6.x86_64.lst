@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/libglade", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/libglade-2.0.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libglade-2.0.so.0.0.7", "size_i": "103952", "regex": "false"},
+	{"name_s": "/usr/lib64/libglade/2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libglade2-2.6.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libglade2-2.6.4/AUTHORS", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/doc/libglade2-2.6.4/COPYING", "size_i": "25265", "regex": "false"},
+	{"name_s": "/usr/share/doc/libglade2-2.6.4/NEWS", "size_i": "15179", "regex": "false"},
+	{"name_s": "/usr/share/doc/libglade2-2.6.4/README", "size_i": "2114", "regex": "false"},
+	{"name_s": "/usr/share/xml/libglade", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/xml/libglade/glade-2.0.dtd", "size_i": "2172", "regex": "false"}
+]

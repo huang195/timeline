@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/edid-decode", "size_i": "24776", "regex": "false"},
+	{"name_s": "/usr/bin/xdpyinfo", "size_i": "33736", "regex": "false"},
+	{"name_s": "/usr/bin/xev", "size_i": "21600", "regex": "false"},
+	{"name_s": "/usr/bin/xlsatoms", "size_i": "8904", "regex": "false"},
+	{"name_s": "/usr/bin/xlsclients", "size_i": "12616", "regex": "false"},
+	{"name_s": "/usr/bin/xlsfonts", "size_i": "16992", "regex": "false"},
+	{"name_s": "/usr/bin/xprop", "size_i": "36008", "regex": "false"},
+	{"name_s": "/usr/bin/xvinfo", "size_i": "10904", "regex": "false"},
+	{"name_s": "/usr/bin/xwininfo", "size_i": "40048", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xdpyinfo.1.gz", "size_i": "1393", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xev.1.gz", "size_i": "1032", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xlsatoms.1.gz", "size_i": "1469", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xlsclients.1.gz", "size_i": "1224", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xlsfonts.1.gz", "size_i": "1163", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xprop.1.gz", "size_i": "5716", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xvinfo.1.gz", "size_i": "437", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xwininfo.1.gz", "size_i": "2902", "regex": "false"}
+]

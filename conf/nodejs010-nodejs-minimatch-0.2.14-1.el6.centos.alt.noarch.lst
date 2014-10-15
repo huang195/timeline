@@ -1,0 +1,11 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/minimatch", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/minimatch/minimatch.js", "size_i": "28353", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/minimatch/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/minimatch/node_modules/lru-cache", "size_i": "53", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/minimatch/node_modules/sigmund", "size_i": "51", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/minimatch/package.json", "size_i": "668", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-minimatch-0.2.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-minimatch-0.2.14/LICENSE", "size_i": "1092", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-minimatch-0.2.14/README.md", "size_i": "6635", "regex": "false"}
+]

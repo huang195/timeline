@@ -1,0 +1,13 @@
+[
+	{"name_s": "/lib/firmware/ivtv-firmware-license-end-user.txt", "size_i": "6639", "regex": "false"},
+	{"name_s": "/lib/firmware/ivtv-firmware-license-oemihvisv.txt", "size_i": "8292", "regex": "false"},
+	{"name_s": "/lib/firmware/v4l-cx2341x-dec.fw", "size_i": "262144", "regex": "false"},
+	{"name_s": "/lib/firmware/v4l-cx2341x-enc.fw", "size_i": "376836", "regex": "false"},
+	{"name_s": "/lib/firmware/v4l-cx2341x-init.mpg", "size_i": "155648", "regex": "false"},
+	{"name_s": "/lib/firmware/v4l-cx25840.fw", "size_i": "16382", "regex": "false"},
+	{"name_s": "/lib/firmware/v4l-pvrusb2-24xxx-01.fw", "size_i": "8192", "regex": "false"},
+	{"name_s": "/lib/firmware/v4l-pvrusb2-29xxx-01.fw", "size_i": "8192", "regex": "false"},
+	{"name_s": "/usr/share/doc/ivtv-firmware-20080701", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ivtv-firmware-20080701/license-end-user.txt", "size_i": "6639", "regex": "false"},
+	{"name_s": "/usr/share/doc/ivtv-firmware-20080701/license-oemihvisv.txt", "size_i": "8292", "regex": "false"}
+]

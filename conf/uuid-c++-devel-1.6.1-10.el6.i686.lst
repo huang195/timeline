@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/uuid++.hh", "size_i": "4812", "regex": "false"},
+	{"name_s": "/usr/lib/libossp-uuid++.so", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/uuid++.3.gz", "size_i": "3223", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/ocaml/guestfs/guestfs.cmx", "size_i": "56359", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/guestfs/guestfs.mli", "size_i": "87281", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/guestfs/libmlguestfs.a", "size_i": "486952", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/guestfs/mlguestfs.a", "size_i": "961706", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/guestfs/mlguestfs.cmxa", "size_i": "355", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-libguestfs-devel-1.20.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-libguestfs-devel-1.20.11/create_disk.ml", "size_i": "2053", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-libguestfs-devel-1.20.11/inspect_vm.ml", "size_i": "1889", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/guestfs-ocaml.3.gz", "size_i": "4048", "regex": "false"}
+]

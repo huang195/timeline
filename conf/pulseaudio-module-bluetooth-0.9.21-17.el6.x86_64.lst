@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/libbluetooth-ipc.so", "size_i": "7472", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/libbluetooth-sbc.so", "size_i": "35728", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/libbluetooth-util.so", "size_i": "30384", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/module-bluetooth-device.so", "size_i": "53384", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/module-bluetooth-discover.so", "size_i": "11208", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/module-bluetooth-proximity.so", "size_i": "19600", "regex": "false"},
+	{"name_s": "/usr/libexec/pulse/proximity-helper", "size_i": "8064", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/gcj/libbase", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/libbase/libbase.jar.db", "size_i": "8192", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/libbase/libbase.jar.so", "size_i": "492776", "regex": "false"},
+	{"name_s": "/usr/share/doc/libbase-1.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libbase-1.0.0/ChangeLog.txt", "size_i": "1532", "regex": "false"},
+	{"name_s": "/usr/share/doc/libbase-1.0.0/README.txt", "size_i": "2024", "regex": "false"},
+	{"name_s": "/usr/share/doc/libbase-1.0.0/licence-LGPL.txt", "size_i": "27688", "regex": "false"},
+	{"name_s": "/usr/share/java/libbase.jar", "size_i": "111041", "regex": "false"}
+]

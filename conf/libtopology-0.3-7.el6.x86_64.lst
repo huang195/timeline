@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/libtopology.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libtopology.so.0.3", "size_i": "16888", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtopology-0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtopology-0.3/COPYING", "size_i": "17987", "regex": "false"}
+]

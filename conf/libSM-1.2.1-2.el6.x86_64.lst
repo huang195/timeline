@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libSM.so.6", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libSM.so.6.0.1", "size_i": "31576", "regex": "false"},
+	{"name_s": "/usr/share/doc/libSM-1.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libSM-1.2.1/AUTHORS", "size_i": "206", "regex": "false"},
+	{"name_s": "/usr/share/doc/libSM-1.2.1/COPYING", "size_i": "2265", "regex": "false"},
+	{"name_s": "/usr/share/doc/libSM-1.2.1/ChangeLog", "size_i": "44217", "regex": "false"}
+]

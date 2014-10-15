@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/krb5/plugins/libkrb5/winbind_krb5_locator.so", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/lib64/winbind_krb5_locator.so", "size_i": "6000", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/winbind_krb5_locator.7.gz", "size_i": "1181", "regex": "false"}
+]

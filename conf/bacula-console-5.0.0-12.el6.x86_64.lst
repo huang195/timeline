@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/bacula/bconsole.conf", "size_i": "161", "regex": "false"},
+	{"name_s": "/usr/sbin/bconsole", "size_i": "250608", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/bconsole.8.gz", "size_i": "620", "regex": "false"}
+]

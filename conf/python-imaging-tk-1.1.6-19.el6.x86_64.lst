@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/PIL/ImageTk.py", "size_i": "9295", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/PIL/ImageTk.pyc", "size_i": "6009", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/PIL/ImageTk.pyo", "size_i": "6009", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/PIL/SpiderImagePlugin.py", "size_i": "9033", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/PIL/SpiderImagePlugin.pyc", "size_i": "7676", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/PIL/SpiderImagePlugin.pyo", "size_i": "7676", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/PIL/_imagingtk.so", "size_i": "7272", "regex": "false"}
+]

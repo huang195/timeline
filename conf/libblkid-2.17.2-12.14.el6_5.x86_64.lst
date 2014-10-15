@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/blkid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib64/libblkid.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/lib64/libblkid.so.1.1.0", "size_i": "136136", "regex": "false"}
+]

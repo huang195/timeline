@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/input/mouse_drv.so", "size_i": "49096", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/mousedrv.4.gz", "size_i": "4289", "regex": "false"}
+]

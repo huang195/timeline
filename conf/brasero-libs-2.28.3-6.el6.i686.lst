@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libbrasero-burn.so.0", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libbrasero-burn.so.0.2.0", "size_i": "569588", "regex": "false"},
+	{"name_s": "/usr/lib/libbrasero-media.so.0", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib/libbrasero-media.so.0.2.0", "size_i": "154604", "regex": "false"},
+	{"name_s": "/usr/lib/libbrasero-utils.so.0", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib/libbrasero-utils.so.0.2.0", "size_i": "155796", "regex": "false"}
+]

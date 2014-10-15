@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/cdparanoia", "size_i": "70448", "regex": "false"},
+	{"name_s": "/usr/share/doc/cdparanoia-10.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cdparanoia-10.2/README", "size_i": "7064", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cdparanoia.1.gz", "size_i": "4310", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libopenrawgnome.so.1", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenrawgnome.so.1.4.0", "size_i": "7504", "regex": "false"}
+]

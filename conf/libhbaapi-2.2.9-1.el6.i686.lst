@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/hba.conf", "size_i": "813", "regex": "false"},
+	{"name_s": "/usr/lib/libHBAAPI.so.2", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libHBAAPI.so.2.0.2", "size_i": "26344", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhbaapi-2.2.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libhbaapi-2.2.9/COPYING", "size_i": "21625", "regex": "false"}
+]

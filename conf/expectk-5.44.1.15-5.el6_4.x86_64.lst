@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/expectk", "size_i": "10064", "regex": "false"},
+	{"name_s": "/usr/bin/multixterm", "size_i": "30400", "regex": "false"},
+	{"name_s": "/usr/bin/tknewsbiff", "size_i": "11276", "regex": "false"},
+	{"name_s": "/usr/bin/tkpasswd", "size_i": "16584", "regex": "false"},
+	{"name_s": "/usr/bin/xpstat", "size_i": "6519", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/expectk.1.gz", "size_i": "530", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/multixterm.1.gz", "size_i": "3888", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/tknewsbiff.1.gz", "size_i": "5529", "regex": "false"}
+]

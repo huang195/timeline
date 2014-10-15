@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/sasl2/libgssapiv2.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/sasl2/libgssapiv2.so.2", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/sasl2/libgssapiv2.so.2.0.23", "size_i": "31256", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/selinux/semanage.conf", "size_i": "2271", "regex": "false"},
+	{"name_s": "/lib/libsemanage.so.1", "size_i": "200972", "regex": "false"}
+]

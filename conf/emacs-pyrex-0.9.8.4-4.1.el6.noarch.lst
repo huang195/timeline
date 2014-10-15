@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/emacs/site-lisp/pyrex-mode.el", "size_i": "430", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/pyrex-mode.elc", "size_i": "2757", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/site-start.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/emacs/site-lisp/site-start.d/pyrex-mode-init.el", "size_i": "178", "regex": "false"}
+]

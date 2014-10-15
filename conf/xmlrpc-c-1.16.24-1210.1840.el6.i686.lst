@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/lib/libxmlrpc.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libxmlrpc.so.3.16", "size_i": "77376", "regex": "false"},
+	{"name_s": "/usr/lib/libxmlrpc_abyss.so.3", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libxmlrpc_abyss.so.3.16", "size_i": "85784", "regex": "false"},
+	{"name_s": "/usr/lib/libxmlrpc_server.so.3", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libxmlrpc_server.so.3.16", "size_i": "22708", "regex": "false"},
+	{"name_s": "/usr/lib/libxmlrpc_server_abyss.so.3", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib/libxmlrpc_server_abyss.so.3.16", "size_i": "19816", "regex": "false"},
+	{"name_s": "/usr/lib/libxmlrpc_server_cgi.so.3", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libxmlrpc_server_cgi.so.3.16", "size_i": "7752", "regex": "false"},
+	{"name_s": "/usr/lib/libxmlrpc_util.so.3", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libxmlrpc_util.so.3.16", "size_i": "15020", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmlrpc-c-1.16.24", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmlrpc-c-1.16.24/COPYING", "size_i": "6781", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmlrpc-c-1.16.24/CREDITS", "size_i": "674", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmlrpc-c-1.16.24/DEVELOPING", "size_i": "2972", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmlrpc-c-1.16.24/HISTORY", "size_i": "3311", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmlrpc-c-1.16.24/SECURITY", "size_i": "2200", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmlrpc-c-1.16.24/TESTING", "size_i": "2798", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmlrpc-c-1.16.24/TODO", "size_i": "2281", "regex": "false"}
+]

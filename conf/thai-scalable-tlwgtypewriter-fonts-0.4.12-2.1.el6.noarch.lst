@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/fonts/thai-scalable", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/TlwgTypewriter-Bold.ttf", "size_i": "94084", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/TlwgTypewriter-BoldOblique.ttf", "size_i": "102068", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/TlwgTypewriter-Oblique.ttf", "size_i": "100696", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/TlwgTypewriter.ttf", "size_i": "87364", "regex": "false"}
+]

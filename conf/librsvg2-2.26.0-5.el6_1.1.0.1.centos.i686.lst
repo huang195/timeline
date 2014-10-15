@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/rsvg", "size_i": "2500", "regex": "false"},
+	{"name_s": "/usr/bin/rsvg-convert", "size_i": "11720", "regex": "false"},
+	{"name_s": "/usr/bin/rsvg-view", "size_i": "22812", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/engines/libsvg.so", "size_i": "33408", "regex": "false"},
+	{"name_s": "/usr/lib/gtk-2.0/2.10.0/loaders/svg_loader.so", "size_i": "5984", "regex": "false"},
+	{"name_s": "/usr/lib/librsvg-2.so.2", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/librsvg-2.so.2.26.0", "size_i": "229740", "regex": "false"},
+	{"name_s": "/usr/share/doc/librsvg2-2.26.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/librsvg2-2.26.0/AUTHORS", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/doc/librsvg2-2.26.0/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/librsvg2-2.26.0/COPYING.LIB", "size_i": "25283", "regex": "false"},
+	{"name_s": "/usr/share/doc/librsvg2-2.26.0/NEWS", "size_i": "4742", "regex": "false"},
+	{"name_s": "/usr/share/doc/librsvg2-2.26.0/README", "size_i": "326", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rsvg.1.gz", "size_i": "658", "regex": "false"}
+]

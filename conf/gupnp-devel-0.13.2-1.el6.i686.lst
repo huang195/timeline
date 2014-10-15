@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/include/gupnp-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-context-manager.h", "size_i": "3278", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-context.h", "size_i": "3681", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-control-point.h", "size_i": "4089", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-device-info.h", "size_i": "5790", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-device-proxy.h", "size_i": "2534", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-device.h", "size_i": "2387", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-error.h", "size_i": "3947", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-resource-factory.h", "size_i": "3775", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-root-device.h", "size_i": "3820", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-service-info.h", "size_i": "4499", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-service-introspection.h", "size_i": "6296", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-service-proxy.h", "size_i": "8631", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-service.h", "size_i": "5342", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-types.h", "size_i": "3471", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp-xml-doc.h", "size_i": "2415", "regex": "false"},
+	{"name_s": "/usr/include/gupnp-1.0/libgupnp/gupnp.h", "size_i": "1305", "regex": "false"},
+	{"name_s": "/usr/lib/libgupnp-1.0.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/gupnp-1.0.pc", "size_i": "284", "regex": "false"}
+]

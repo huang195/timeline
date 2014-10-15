@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/i740_drv.so", "size_i": "46152", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/i740.xinf", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/i740.4.gz", "size_i": "1180", "regex": "false"}
+]

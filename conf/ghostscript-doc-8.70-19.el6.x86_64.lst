@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/share/doc/ghostscript-8.70", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ghostscript-8.70/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/alphabet.ps", "size_i": "1551", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/annots.pdf", "size_i": "454126", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/chess.ps", "size_i": "61791", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/colorcir.ps", "size_i": "1973", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/doretree.ps", "size_i": "137290", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/escher.ps", "size_i": "10617", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/golfer.eps", "size_i": "25574", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/grayalph.ps", "size_i": "1624", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/ridt91.eps", "size_i": "3020", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/snowflak.ps", "size_i": "2165", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/tiger.eps", "size_i": "78599", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/vasarely.ps", "size_i": "13217", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/8.70/examples/waterfal.ps", "size_i": "2528", "regex": "false"}
+]

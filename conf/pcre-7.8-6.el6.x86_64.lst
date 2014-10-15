@@ -1,0 +1,20 @@
+[
+	{"name_s": "/lib64/libpcre.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/lib64/libpcre.so.0.0.1", "size_i": "181432", "regex": "false"},
+	{"name_s": "/usr/bin/pcregrep", "size_i": "28768", "regex": "false"},
+	{"name_s": "/usr/bin/pcretest", "size_i": "43936", "regex": "false"},
+	{"name_s": "/usr/lib64/libpcrecpp.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libpcrecpp.so.0.0.0", "size_i": "33088", "regex": "false"},
+	{"name_s": "/usr/lib64/libpcreposix.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libpcreposix.so.0.0.0", "size_i": "7312", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcre-7.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcre-7.8/AUTHORS", "size_i": "403", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcre-7.8/COPYING", "size_i": "95", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcre-7.8/ChangeLog", "size_i": "159728", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcre-7.8/LICENCE", "size_i": "2496", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcre-7.8/NEWS", "size_i": "17219", "regex": "false"},
+	{"name_s": "/usr/share/doc/pcre-7.8/README", "size_i": "34389", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pcre-config.1.gz", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pcregrep.1.gz", "size_i": "7238", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pcretest.1.gz", "size_i": "9458", "regex": "false"}
+]

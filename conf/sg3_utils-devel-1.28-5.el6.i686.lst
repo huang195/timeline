@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/include/scsi/sg_cmds.h", "size_i": "847", "regex": "false"},
+	{"name_s": "/usr/include/scsi/sg_cmds_basic.h", "size_i": "13636", "regex": "false"},
+	{"name_s": "/usr/include/scsi/sg_cmds_extra.h", "size_i": "14808", "regex": "false"},
+	{"name_s": "/usr/include/scsi/sg_cmds_mmc.h", "size_i": "3459", "regex": "false"},
+	{"name_s": "/usr/include/scsi/sg_io_linux.h", "size_i": "7298", "regex": "false"},
+	{"name_s": "/usr/include/scsi/sg_lib.h", "size_i": "18608", "regex": "false"},
+	{"name_s": "/usr/include/scsi/sg_lib_data.h", "size_i": "3737", "regex": "false"},
+	{"name_s": "/usr/include/scsi/sg_linux_inc.h", "size_i": "1976", "regex": "false"},
+	{"name_s": "/usr/include/scsi/sg_pt.h", "size_i": "6823", "regex": "false"},
+	{"name_s": "/usr/lib/libsgutils2.so", "size_i": "20", "regex": "false"}
+]

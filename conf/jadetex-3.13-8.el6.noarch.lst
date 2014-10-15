@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/bin/jadetex", "size_i": "4", "regex": "false"},
+	{"name_s": "/usr/bin/pdfjadetex", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/share/doc/jadetex-3.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jadetex-3.13/index.html", "size_i": "18073", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/jadetex.1.gz", "size_i": "773", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pdfjadetex.1.gz", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/jadetex", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/jadetex/dsssl.def", "size_i": "4855", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/jadetex/dummyels.sty", "size_i": "5924", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/jadetex/jadefmtutil.cnf", "size_i": "334", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/jadetex/jadetex.ini", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/jadetex/jadetex.ltx", "size_i": "52226", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/jadetex/mlnames.sty", "size_i": "13610", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/jadetex/pdfjadetex.ini", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/jadetex/ucharacters.sty", "size_i": "130569", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/jadetex/uentities.sty", "size_i": "170348", "regex": "false"},
+	{"name_s": "/usr/share/texmf/tex/jadetex/unicode.sty", "size_i": "23174", "regex": "false"},
+	{"name_s": "/usr/share/texmf/web2c/jadetex.fmt", "size_i": "3421129", "regex": "false"},
+	{"name_s": "/usr/share/texmf/web2c/pdfjadetex.fmt", "size_i": "3393143", "regex": "false"}
+]

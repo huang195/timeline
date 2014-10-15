@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/perl-File-Slurp-9999.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Slurp-9999.13/Changes", "size_i": "4106", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Slurp-9999.13/README", "size_i": "1467", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Slurp-9999.13/extras", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Slurp-9999.13/extras/slurp_article.pod", "size_i": "29916", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-File-Slurp-9999.13/extras/slurp_bench.pl", "size_i": "6319", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/File::Slurp.3pm.gz", "size_i": "5055", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/File/Slurp.pm", "size_i": "20160", "regex": "false"}
+]

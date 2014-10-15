@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/share/doc/perl-HTML-Format-2.04", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-HTML-Format-2.04/Changes", "size_i": "2146", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-HTML-Format-2.04/README", "size_i": "1247", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/HTML::FormatPS.3pm.gz", "size_i": "3657", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/HTML::FormatRTF.3pm.gz", "size_i": "3624", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/HTML::FormatText.3pm.gz", "size_i": "2405", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/HTML::Formatter.3pm.gz", "size_i": "3014", "regex": "false"},
+	{"name_s": "/usr/share/perl5/HTML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/HTML/FormatPS.pm", "size_i": "27922", "regex": "false"},
+	{"name_s": "/usr/share/perl5/HTML/FormatRTF.pm", "size_i": "17231", "regex": "false"},
+	{"name_s": "/usr/share/perl5/HTML/FormatText.pm", "size_i": "4873", "regex": "false"},
+	{"name_s": "/usr/share/perl5/HTML/Formatter.pm", "size_i": "21209", "regex": "false"}
+]

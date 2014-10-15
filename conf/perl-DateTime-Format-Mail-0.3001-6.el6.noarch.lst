@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-Mail-0.3001", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-Mail-0.3001/AUTHORS", "size_i": "334", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-Mail-0.3001/Artistic", "size_i": "6111", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-Mail-0.3001/COPYING", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-Mail-0.3001/CREDITS", "size_i": "298", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-Mail-0.3001/Changes", "size_i": "1491", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-Mail-0.3001/LICENSE", "size_i": "365", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-Mail-0.3001/README", "size_i": "384", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-Mail-0.3001/invalid.t", "size_i": "1324", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-DateTime-Format-Mail-0.3001/sample_dates", "size_i": "1023736", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/DateTime::Format::Mail.3pm.gz", "size_i": "4768", "regex": "false"},
+	{"name_s": "/usr/share/perl5/DateTime", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/DateTime/Format", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/DateTime/Format/Mail.pm", "size_i": "14428", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/rasterizer", "size_i": "715", "regex": "false"},
+	{"name_s": "/usr/share/java/batik-rasterizer.jar", "size_i": "57450", "regex": "false"}
+]

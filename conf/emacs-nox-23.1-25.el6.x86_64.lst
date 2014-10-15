@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/emacs-23.1-nox", "size_i": "10426304", "regex": "false"},
+	{"name_s": "/usr/libexec/emacs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/emacs/23.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/emacs/23.1/x86_64-redhat-linux-gnu", "size_i": "4096", "regex": "false"}
+]

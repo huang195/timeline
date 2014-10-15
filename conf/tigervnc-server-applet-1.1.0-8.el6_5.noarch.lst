@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/tigervnc-server-applet-1.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/tigervnc-server-applet-1.1.0/README", "size_i": "23162", "regex": "false"},
+	{"name_s": "/usr/share/vnc/classes/VncViewer.jar", "size_i": "92790", "regex": "false"},
+	{"name_s": "/usr/share/vnc/classes/index.vnc", "size_i": "863", "regex": "false"}
+]

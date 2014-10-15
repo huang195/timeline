@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib/libsysfs.so.2", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libsysfs.so.2.0.1", "size_i": "45896", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsysfs-2.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsysfs-2.1.0/AUTHORS", "size_i": "149", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsysfs-2.1.0/COPYING", "size_i": "372", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsysfs-2.1.0/CREDITS", "size_i": "1788", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsysfs-2.1.0/ChangeLog", "size_i": "17174", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsysfs-2.1.0/LGPL", "size_i": "26617", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsysfs-2.1.0/NEWS", "size_i": "2461", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsysfs-2.1.0/README", "size_i": "2056", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsysfs-2.1.0/libsysfs.txt", "size_i": "49572", "regex": "false"}
+]

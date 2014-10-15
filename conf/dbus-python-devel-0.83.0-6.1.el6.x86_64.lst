@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/include/dbus-1.0/dbus/dbus-python.h", "size_i": "3534", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/dbus-python.pc", "size_i": "275", "regex": "false"}
+]

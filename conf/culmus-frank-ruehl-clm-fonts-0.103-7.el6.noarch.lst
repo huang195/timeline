@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-culmus-frank-ruehl-clm.conf", "size_i": "63", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-culmus-frank-ruehl-clm.conf", "size_i": "940", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/FrankRuehlCLM-Bold.afm", "size_i": "20933", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/FrankRuehlCLM-Bold.pfa", "size_i": "90312", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/FrankRuehlCLM-BoldOblique.afm", "size_i": "21139", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/FrankRuehlCLM-BoldOblique.pfa", "size_i": "81103", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/FrankRuehlCLM-Medium.afm", "size_i": "23047", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/FrankRuehlCLM-Medium.pfa", "size_i": "87527", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/FrankRuehlCLM-MediumOblique.afm", "size_i": "22272", "regex": "false"},
+	{"name_s": "/usr/share/fonts/culmus/FrankRuehlCLM-MediumOblique.pfa", "size_i": "80444", "regex": "false"}
+]

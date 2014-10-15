@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/intl.ini", "size_i": "49", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/intl.so", "size_i": "170384", "regex": "false"}
+]

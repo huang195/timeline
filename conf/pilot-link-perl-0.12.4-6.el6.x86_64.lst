@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/pilot-ietf2datebook", "size_i": "601", "regex": "false"},
+	{"name_s": "/usr/bin/pilot-sync-plan", "size_i": "52321", "regex": "false"},
+	{"name_s": "/usr/bin/pilot-undelete", "size_i": "1207", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/PDA", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/PDA/Pilot.pm", "size_i": "30187", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/PDA/dump.pl", "size_i": "392", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/PDA", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/PDA/Pilot", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/PDA/Pilot/Pilot.so", "size_i": "283616", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/PDA/Pilot/autosplit.ix", "size_i": "88", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ietf2datebook.1.gz", "size_i": "1303", "regex": "false"}
+]

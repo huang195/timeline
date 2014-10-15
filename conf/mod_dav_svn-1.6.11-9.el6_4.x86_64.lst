@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/httpd/conf.d/subversion.conf", "size_i": "1042", "regex": "false"},
+	{"name_s": "/usr/lib64/httpd/modules/mod_authz_svn.so", "size_i": "13456", "regex": "false"},
+	{"name_s": "/usr/lib64/httpd/modules/mod_dav_svn.so", "size_i": "153408", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/termcap", "size_i": "0", "regex": "false"},
+	{"name_s": "/lib/libtermcap.so.2", "size_i": "19", "regex": "false"},
+	{"name_s": "/lib/libtermcap.so.2.0.8", "size_i": "12308", "regex": "false"}
+]

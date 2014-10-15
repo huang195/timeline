@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libpulse-mainloop-glib.so.0", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/lib64/libpulse-mainloop-glib.so.0.0.4", "size_i": "15384", "regex": "false"}
+]

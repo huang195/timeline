@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/perl-Digest-BubbleBabble-0.01", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Digest-BubbleBabble-0.01/Changes", "size_i": "157", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Digest::BubbleBabble.3pm.gz", "size_i": "2609", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Digest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Digest/BubbleBabble.pm", "size_i": "3265", "regex": "false"}
+]

@@ -1,0 +1,18 @@
+[
+	{"name_s": "/etc/rpm/macros.ggz", "size_i": "254", "regex": "false"},
+	{"name_s": "/usr/include/ggz.h", "size_i": "74884", "regex": "false"},
+	{"name_s": "/usr/include/ggz_common.h", "size_i": "15353", "regex": "false"},
+	{"name_s": "/usr/include/ggz_dio.h", "size_i": "3690", "regex": "false"},
+	{"name_s": "/usr/include/ggz_threads.h", "size_i": "1311", "regex": "false"},
+	{"name_s": "/usr/include/ggzcore.h", "size_i": "58835", "regex": "false"},
+	{"name_s": "/usr/include/ggzmod.h", "size_i": "20988", "regex": "false"},
+	{"name_s": "/usr/lib/libggz.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libggzcore.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libggzmod.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/ggzcore.pc", "size_i": "324", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/ggzmod.pc", "size_i": "331", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libggz.pc", "size_i": "312", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ggz.h.3.gz", "size_i": "4812", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ggzcore_h.3.gz", "size_i": "13262", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/ggzmod_h.3.gz", "size_i": "5459", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/ant.d/javamail", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-javamail-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-javamail-1.7.1.jar.so", "size_i": "37680", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-javamail.jar", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-javamail-1.7.1.jar", "size_i": "7159", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-javamail.jar", "size_i": "22", "regex": "false"}
+]

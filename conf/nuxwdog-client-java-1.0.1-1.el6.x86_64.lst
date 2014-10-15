@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/java/nuxwdog.jar", "size_i": "40", "regex": "false"},
+	{"name_s": "/usr/lib64/nuxwdog-jni", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/nuxwdog-jni/libnuxwdog-jni.so", "size_i": "5320", "regex": "false"},
+	{"name_s": "/usr/lib64/nuxwdog-jni/nuxwdog-1.0.1.jar", "size_i": "1552", "regex": "false"}
+]

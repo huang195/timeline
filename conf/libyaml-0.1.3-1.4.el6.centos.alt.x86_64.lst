@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/libyaml-0.so.2", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libyaml-0.so.2.0.4", "size_i": "127608", "regex": "false"},
+	{"name_s": "/usr/share/doc/libyaml-0.1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libyaml-0.1.3/LICENSE", "size_i": "1058", "regex": "false"},
+	{"name_s": "/usr/share/doc/libyaml-0.1.3/README", "size_i": "889", "regex": "false"}
+]

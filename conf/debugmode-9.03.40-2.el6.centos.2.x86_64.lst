@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/profile.d/debug.csh", "size_i": "188", "regex": "false"},
+	{"name_s": "/etc/profile.d/debug.sh", "size_i": "68", "regex": "false"},
+	{"name_s": "/etc/sysconfig/debug", "size_i": "467", "regex": "false"}
+]

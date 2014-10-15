@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/finger", "size_i": "24472", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/finger.1.gz", "size_i": "2762", "regex": "false"}
+]

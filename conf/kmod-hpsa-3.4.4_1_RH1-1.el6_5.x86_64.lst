@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/depmod.d/hpsa.conf", "size_i": "45", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.20.3.el6.x86_64", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.20.3.el6.x86_64/extra", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.20.3.el6.x86_64/extra/hpsa", "size_i": "4096", "regex": "false"},
+	{"name_s": "/lib/modules/2.6.32-431.20.3.el6.x86_64/extra/hpsa/hpsa.ko", "size_i": "157000", "regex": "false"},
+	{"name_s": "/usr/share/doc/kmod-hpsa/greylist.txt", "size_i": "0", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/nkf", "size_i": "217872", "regex": "false"},
+	{"name_s": "/usr/share/doc/nkf-2.0.8b", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nkf-2.0.8b/nkf.copyright", "size_i": "827", "regex": "false"},
+	{"name_s": "/usr/share/doc/nkf-2.0.8b/nkf.doc", "size_i": "14598", "regex": "false"},
+	{"name_s": "/usr/share/man/ja/man1/nkf.1.gz", "size_i": "8545", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/nkf.1.gz", "size_i": "4989", "regex": "false"}
+]

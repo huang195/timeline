@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/sbin/ccs", "size_i": "85597", "regex": "false"},
+	{"name_s": "/usr/share/ccs/cluster.rng", "size_i": "205224", "regex": "false"},
+	{"name_s": "/usr/share/ccs/empty_cluster.conf", "size_i": "187", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ccs.8.gz", "size_i": "2809", "regex": "false"}
+]

@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/memusage", "size_i": "7527", "regex": "false"},
+	{"name_s": "/usr/bin/memusagestat", "size_i": "16072", "regex": "false"},
+	{"name_s": "/usr/bin/mtrace", "size_i": "6477", "regex": "false"},
+	{"name_s": "/usr/bin/pcprofiledump", "size_i": "10600", "regex": "false"},
+	{"name_s": "/usr/bin/xtrace", "size_i": "5328", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libvoikko.so.1", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libvoikko.so.1.9.2", "size_i": "213296", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvoikko-2.2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvoikko-2.2.2/COPYING", "size_i": "18011", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvoikko-2.2.2/ChangeLog", "size_i": "25619", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvoikko-2.2.2/README", "size_i": "6327", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/xdelta-config", "size_i": "974", "regex": "false"},
+	{"name_s": "/usr/include/edsio.h", "size_i": "18610", "regex": "false"},
+	{"name_s": "/usr/include/edsio_edsio.h", "size_i": "17006", "regex": "false"},
+	{"name_s": "/usr/include/xd_edsio.h", "size_i": "20346", "regex": "false"},
+	{"name_s": "/usr/include/xdelta.h", "size_i": "7113", "regex": "false"},
+	{"name_s": "/usr/lib64/libedsio.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libxdelta.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/xdelta.pc", "size_i": "269", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/xdelta.m4", "size_i": "8421", "regex": "false"}
+]

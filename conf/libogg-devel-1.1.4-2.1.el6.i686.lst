@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/ogg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/ogg/config_types.h", "size_i": "253", "regex": "false"},
+	{"name_s": "/usr/include/ogg/ogg.h", "size_i": "8259", "regex": "false"},
+	{"name_s": "/usr/include/ogg/os_types.h", "size_i": "4055", "regex": "false"},
+	{"name_s": "/usr/lib/libogg.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/ogg.pc", "size_i": "249", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/ogg.m4", "size_i": "3958", "regex": "false"}
+]

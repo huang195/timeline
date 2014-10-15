@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/ipaserver/dcerpc.py", "size_i": "30382", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ipaserver/dcerpc.pyc", "size_i": "27172", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ipaserver/dcerpc.pyo", "size_i": "27172", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ipaserver/install/adtrustinstance.py", "size_i": "31419", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ipaserver/install/adtrustinstance.pyc", "size_i": "29038", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/ipaserver/install/adtrustinstance.pyo", "size_i": "29038", "regex": "false"},
+	{"name_s": "/usr/lib64/dirsrv/plugins/libipa_extdom_extop.so", "size_i": "13392", "regex": "false"},
+	{"name_s": "/usr/lib64/dirsrv/plugins/libipa_sidgen.so", "size_i": "17192", "regex": "false"},
+	{"name_s": "/usr/lib64/dirsrv/plugins/libipa_sidgen_task.so", "size_i": "20080", "regex": "false"},
+	{"name_s": "/usr/lib64/krb5/plugins/libkrb5/winbind_krb5_locator.so", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/lib64/samba/pdb/ipasam.so", "size_i": "77688", "regex": "false"},
+	{"name_s": "/usr/sbin/ipa-adtrust-install", "size_i": "14628", "regex": "false"},
+	{"name_s": "/usr/share/ipa/smb.conf.empty", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ipa-adtrust-install.1.gz", "size_i": "2165", "regex": "false"}
+]

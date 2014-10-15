@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/sbin/pptpsetup", "size_i": "6459", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/pptpsetup.8.gz", "size_i": "2889", "regex": "false"}
+]

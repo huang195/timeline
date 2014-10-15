@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/lib/evince", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/evince/1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/evince/1/backends", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/evince/1/backends/comicsdocument.evince-backend", "size_i": "3234", "regex": "false"},
+	{"name_s": "/usr/lib/evince/1/backends/libcomicsdocument.so", "size_i": "16756", "regex": "false"},
+	{"name_s": "/usr/lib/evince/1/backends/libpdfdocument.so", "size_i": "48432", "regex": "false"},
+	{"name_s": "/usr/lib/evince/1/backends/libpsdocument.so", "size_i": "11596", "regex": "false"},
+	{"name_s": "/usr/lib/evince/1/backends/libtiffdocument.so", "size_i": "40692", "regex": "false"},
+	{"name_s": "/usr/lib/evince/1/backends/pdfdocument.evince-backend", "size_i": "3305", "regex": "false"},
+	{"name_s": "/usr/lib/evince/1/backends/psdocument.evince-backend", "size_i": "4196", "regex": "false"},
+	{"name_s": "/usr/lib/evince/1/backends/tiffdocument.evince-backend", "size_i": "88", "regex": "false"},
+	{"name_s": "/usr/lib/libevdocument.so.1", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libevdocument.so.1.0.0", "size_i": "115072", "regex": "false"},
+	{"name_s": "/usr/lib/libevview.so.1", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libevview.so.1.0.0", "size_i": "188980", "regex": "false"}
+]

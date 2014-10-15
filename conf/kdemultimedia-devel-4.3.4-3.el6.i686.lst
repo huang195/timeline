@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/include/kde4/audiocdencoder.h", "size_i": "4700", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkcddb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkcddb/cdinfo.h", "size_i": "6280", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkcddb/cdinfodialog.h", "size_i": "1936", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkcddb/client.h", "size_i": "3107", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkcddb/configbase.h", "size_i": "3395", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkcddb/genres.h", "size_i": "1238", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkcddb/kcddb.h", "size_i": "1491", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkcddb/kcddb_export.h", "size_i": "1325", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkcddb/kcddbconfig.h", "size_i": "1362", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkcompactdisc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/kde4/libkcompactdisc/kcompactdisc.h", "size_i": "12822", "regex": "false"},
+	{"name_s": "/usr/lib/libaudiocdplugins.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libkcddb.so", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/lib/libkcompactdisc.so", "size_i": "20", "regex": "false"}
+]

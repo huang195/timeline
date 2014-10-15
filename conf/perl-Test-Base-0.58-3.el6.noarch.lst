@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-Base-0.58", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Base-0.58/Changes", "size_i": "7774", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Base-0.58/README", "size_i": "21945", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Module::Install::TestBase.3pm.gz", "size_i": "2207", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Base.3pm.gz", "size_i": "9679", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Base::Filter.3pm.gz", "size_i": "3816", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/Install", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/Install/TestBase.pm", "size_i": "1406", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Base", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Base.pm", "size_i": "38605", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Base/Filter.pm", "size_i": "12403", "regex": "false"}
+]

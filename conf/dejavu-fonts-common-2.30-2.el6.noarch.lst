@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/dejavu-fonts-common-2.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dejavu-fonts-common-2.30/AUTHORS", "size_i": "730", "regex": "false"},
+	{"name_s": "/usr/share/doc/dejavu-fonts-common-2.30/BUGS", "size_i": "95", "regex": "false"},
+	{"name_s": "/usr/share/doc/dejavu-fonts-common-2.30/LICENSE", "size_i": "4816", "regex": "false"},
+	{"name_s": "/usr/share/doc/dejavu-fonts-common-2.30/NEWS", "size_i": "63570", "regex": "false"},
+	{"name_s": "/usr/share/doc/dejavu-fonts-common-2.30/README", "size_i": "2318", "regex": "false"},
+	{"name_s": "/usr/share/doc/dejavu-fonts-common-2.30/status.txt.bz2", "size_i": "27319", "regex": "false"},
+	{"name_s": "/usr/share/doc/dejavu-fonts-common-2.30/unicover.txt", "size_i": "18216", "regex": "false"}
+]

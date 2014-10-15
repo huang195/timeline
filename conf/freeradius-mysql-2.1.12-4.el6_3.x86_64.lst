@@ -1,0 +1,20 @@
+[
+	{"name_s": "/etc/raddb/sql/mysql", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/mysql/admin.sql", "size_i": "661", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/mysql/counter.conf", "size_i": "4543", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/mysql/cui.conf", "size_i": "1242", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/mysql/cui.sql", "size_i": "452", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/mysql/dialup.conf", "size_i": "14401", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/mysql/ippool.conf", "size_i": "4059", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/mysql/ippool.sql", "size_i": "761", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/mysql/nas.sql", "size_i": "399", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/mysql/schema.sql", "size_i": "4318", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/mysql/wimax.conf", "size_i": "1844", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/mysql/wimax.sql", "size_i": "407", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/ndb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/ndb/README", "size_i": "230", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/ndb/admin.sql", "size_i": "795", "regex": "false"},
+	{"name_s": "/etc/raddb/sql/ndb/schema.sql", "size_i": "4561", "regex": "false"},
+	{"name_s": "/usr/lib64/freeradius/rlm_sql_mysql-2.1.12.so", "size_i": "9800", "regex": "false"},
+	{"name_s": "/usr/lib64/freeradius/rlm_sql_mysql.so", "size_i": "23", "regex": "false"}
+]

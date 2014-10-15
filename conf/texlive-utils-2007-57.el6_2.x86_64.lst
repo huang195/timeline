@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/a2ping", "size_i": "93848", "regex": "false"},
+	{"name_s": "/usr/bin/e2pall", "size_i": "2728", "regex": "false"},
+	{"name_s": "/usr/bin/epstopdf", "size_i": "12311", "regex": "false"},
+	{"name_s": "/usr/bin/gsftopk", "size_i": "27728", "regex": "false"},
+	{"name_s": "/usr/bin/mf", "size_i": "262896", "regex": "false"},
+	{"name_s": "/usr/bin/mf-nowin", "size_i": "258224", "regex": "false"},
+	{"name_s": "/usr/bin/mktexpk", "size_i": "9126", "regex": "false"},
+	{"name_s": "/usr/bin/pdfcrop", "size_i": "8490", "regex": "false"},
+	{"name_s": "/usr/bin/ps4pdf", "size_i": "4286", "regex": "false"},
+	{"name_s": "/usr/bin/thumbpdf", "size_i": "41564", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/e2pall.1.gz", "size_i": "809", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/epstopdf.1.gz", "size_i": "893", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/gsftopk.1.gz", "size_i": "3326", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mf-nowin.1.gz", "size_i": "7", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mf.1.gz", "size_i": "5374", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mktexpk.1.gz", "size_i": "1257", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/thumbpdf.1.gz", "size_i": "1204", "regex": "false"}
+]

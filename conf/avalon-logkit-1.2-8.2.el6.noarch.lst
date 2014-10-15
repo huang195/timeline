@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/avalon-logkit-1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/avalon-logkit-1.2/KEYS", "size_i": "4493", "regex": "false"},
+	{"name_s": "/usr/share/doc/avalon-logkit-1.2/LICENSE", "size_i": "2626", "regex": "false"},
+	{"name_s": "/usr/share/java/avalon-logkit-1.2.jar", "size_i": "84154", "regex": "false"},
+	{"name_s": "/usr/share/java/avalon-logkit.jar", "size_i": "21", "regex": "false"}
+]

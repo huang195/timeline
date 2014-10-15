@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/ltrace.conf", "size_i": "10814", "regex": "false"},
+	{"name_s": "/usr/bin/ltrace", "size_i": "109112", "regex": "false"},
+	{"name_s": "/usr/share/doc/ltrace-0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ltrace-0.5/BUGS", "size_i": "268", "regex": "false"},
+	{"name_s": "/usr/share/doc/ltrace-0.5/COPYING", "size_i": "18011", "regex": "false"},
+	{"name_s": "/usr/share/doc/ltrace-0.5/ChangeLog", "size_i": "7886", "regex": "false"},
+	{"name_s": "/usr/share/doc/ltrace-0.5/README", "size_i": "2633", "regex": "false"},
+	{"name_s": "/usr/share/doc/ltrace-0.5/TODO", "size_i": "819", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ltrace.1.gz", "size_i": "2222", "regex": "false"}
+]

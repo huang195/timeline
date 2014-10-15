@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/libX11-xcb.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libX11-xcb.so.1.0.0", "size_i": "2920", "regex": "false"},
+	{"name_s": "/usr/lib/libX11.so.6", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libX11.so.6.3.0", "size_i": "1276128", "regex": "false"}
+]

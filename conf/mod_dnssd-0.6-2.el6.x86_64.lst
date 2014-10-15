@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/httpd/conf.d/mod_dnssd.conf", "size_i": "118", "regex": "false"},
+	{"name_s": "/usr/lib64/httpd/modules/mod_dnssd.so", "size_i": "19984", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_dnssd-0.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_dnssd-0.6/LICENSE", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_dnssd-0.6/README", "size_i": "8790", "regex": "false"},
+	{"name_s": "/usr/share/doc/mod_dnssd-0.6/README.html", "size_i": "10471", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/hivex.h", "size_i": "7432", "regex": "false"},
+	{"name_s": "/usr/lib/libhivex.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/hivex.pc", "size_i": "187", "regex": "false"},
+	{"name_s": "/usr/share/doc/hivex-devel-1.3.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hivex-devel-1.3.3/LICENSE", "size_i": "26650", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hivex.3.gz", "size_i": "10828", "regex": "false"}
+]

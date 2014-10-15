@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/xdvipdfmx", "size_i": "760848", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdvipdfmx-0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdvipdfmx-0.4/AUTHORS", "size_i": "218", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdvipdfmx-0.4/BUGS", "size_i": "772", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdvipdfmx-0.4/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdvipdfmx-0.4/README", "size_i": "16993", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdvipdfmx-0.4/TODO", "size_i": "950", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdvipdfmx-0.4/index.html", "size_i": "27443", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdvipdfmx-0.4/style_base.css", "size_i": "5850", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdvipdfmx-0.4/style_dflt.css", "size_i": "1945", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdvipdfmx-0.4/style_ie.css", "size_i": "158", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdvipdfmx-0.4/style_plain.css", "size_i": "1435", "regex": "false"},
+	{"name_s": "/usr/share/doc/xdvipdfmx-0.4/tug2003.pdf", "size_i": "279575", "regex": "false"}
+]

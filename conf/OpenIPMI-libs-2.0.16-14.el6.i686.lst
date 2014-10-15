@@ -1,0 +1,18 @@
+[
+	{"name_s": "/usr/lib/libIPMIlanserv.so.0", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libIPMIlanserv.so.0.0.1", "size_i": "57448", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMI.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMI.so.0.0.5", "size_i": "1016284", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMIcmdlang.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMIcmdlang.so.0.0.5", "size_i": "242540", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMIglib.so.0", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMIglib.so.0.0.1", "size_i": "11920", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMIposix.so.0", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMIposix.so.0.0.1", "size_i": "19088", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMIpthread.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMIpthread.so.0.0.1", "size_i": "23188", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMIui.so.1", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMIui.so.1.0.1", "size_i": "158412", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMIutils.so.0", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib/libOpenIPMIutils.so.0.0.1", "size_i": "29800", "regex": "false"}
+]

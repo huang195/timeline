@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/man/man3/Term::UI.3pm.gz", "size_i": "5941", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Term::UI::History.3pm.gz", "size_i": "2461", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Term/UI", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Term/UI.pm", "size_i": "20302", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Term/UI/History.pm", "size_i": "2841", "regex": "false"}
+]

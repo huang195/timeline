@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/input/void_drv.so", "size_i": "6864", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-void-1.4.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-void-1.4.0/COPYING", "size_i": "3416", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/void.4.gz", "size_i": "550", "regex": "false"}
+]

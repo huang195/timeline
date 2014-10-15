@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/lib64/gcj/xerces-j2/xerces-j2-2.7.1.jar.db", "size_i": "77824", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/xerces-j2/xerces-j2-2.7.1.jar.so", "size_i": "7234160", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/ISSUES", "size_i": "916", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/LICENSE", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/LICENSE-SAX.html", "size_i": "419", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/LICENSE.DOM-documentation.html", "size_i": "4924", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/LICENSE.DOM-software.html", "size_i": "4215", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/LICENSE.resolver.txt", "size_i": "2638", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/META-INF", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/META-INF/MANIFEST.MF", "size_i": "2274", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/NOTICE", "size_i": "818", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/README", "size_i": "2379", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/Readme.html", "size_i": "1441", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/STATUS", "size_i": "510", "regex": "false"},
+	{"name_s": "/usr/share/doc/xerces-j2-2.7.1/TODO", "size_i": "916", "regex": "false"},
+	{"name_s": "/usr/share/java/dom3-xerces-j2-2.7.1.jar", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/share/java/dom3-xerces-j2.jar", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/share/java/jaxp_parser_impl.jar", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/java/xerces-j2-2.7.1.jar", "size_i": "1246482", "regex": "false"},
+	{"name_s": "/usr/share/java/xerces-j2.jar", "size_i": "19", "regex": "false"}
+]

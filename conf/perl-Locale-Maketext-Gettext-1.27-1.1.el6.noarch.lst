@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/maketext", "size_i": "6044", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Locale-Maketext-Gettext-1.27", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Locale-Maketext-Gettext-1.27/Artistic", "size_i": "6111", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Locale-Maketext-Gettext-1.27/BUGS", "size_i": "137", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Locale-Maketext-Gettext-1.27/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Locale-Maketext-Gettext-1.27/Changes", "size_i": "28152", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Locale-Maketext-Gettext-1.27/README", "size_i": "1859", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Locale-Maketext-Gettext-1.27/THANKS", "size_i": "1164", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Locale-Maketext-Gettext-1.27/TODO", "size_i": "124", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/maketext.1.gz", "size_i": "2969", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Locale::Maketext::Gettext.3pm.gz", "size_i": "6834", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Locale::Maketext::Gettext::Functions.3pm.gz", "size_i": "5780", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Locale", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Locale/Maketext", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Locale/Maketext/Gettext", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Locale/Maketext/Gettext.pm", "size_i": "28057", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Locale/Maketext/Gettext/Functions.pm", "size_i": "24499", "regex": "false"}
+]

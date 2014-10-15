@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/jconfig.h", "size_i": "1653", "regex": "false"},
+	{"name_s": "/usr/include/jerror.h", "size_i": "14748", "regex": "false"},
+	{"name_s": "/usr/include/jmorecfg.h", "size_i": "13774", "regex": "false"},
+	{"name_s": "/usr/include/jpeglib.h", "size_i": "50207", "regex": "false"},
+	{"name_s": "/usr/lib64/libjpeg.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-devel-1.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-devel-1.2.1/coderules.txt", "size_i": "5364", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-devel-1.2.1/example.c", "size_i": "17091", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-devel-1.2.1/jconfig.txt", "size_i": "5637", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-devel-1.2.1/libjpeg.txt", "size_i": "160860", "regex": "false"},
+	{"name_s": "/usr/share/doc/libjpeg-turbo-devel-1.2.1/structure.txt", "size_i": "51751", "regex": "false"}
+]

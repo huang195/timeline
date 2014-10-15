@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/rc.d/init.d/clvmd", "size_i": "4614", "regex": "false"},
+	{"name_s": "/usr/sbin/clvmd", "size_i": "813088", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/clvmd.8.gz", "size_i": "1864", "regex": "false"}
+]

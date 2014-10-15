@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/ircp", "size_i": "16080", "regex": "false"},
+	{"name_s": "/usr/bin/irobex_palm3", "size_i": "11208", "regex": "false"},
+	{"name_s": "/usr/bin/irxfer", "size_i": "10984", "regex": "false"},
+	{"name_s": "/usr/bin/obex_push", "size_i": "12072", "regex": "false"},
+	{"name_s": "/usr/bin/obex_tcp", "size_i": "11408", "regex": "false"},
+	{"name_s": "/usr/bin/obex_test", "size_i": "25352", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/obex_push.1.gz", "size_i": "481", "regex": "false"}
+]

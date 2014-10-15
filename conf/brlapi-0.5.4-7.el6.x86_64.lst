@@ -1,0 +1,23 @@
+[
+	{"name_s": "/bin/vstp", "size_i": "19336", "regex": "false"},
+	{"name_s": "/bin/xbrlapi", "size_i": "78712", "regex": "false"},
+	{"name_s": "/lib64/brltty/libbrlttybba.so", "size_i": "8064", "regex": "false"},
+	{"name_s": "/lib64/libbrlapi.so.0.5", "size_i": "18", "regex": "false"},
+	{"name_s": "/lib64/libbrlapi.so.0.5.4", "size_i": "43328", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/Manual-BrlAPI", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/Manual-BrlAPI/English", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/Manual-BrlAPI/English/BrlAPI-1.html", "size_i": "7634", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/Manual-BrlAPI/English/BrlAPI-2.html", "size_i": "9511", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/Manual-BrlAPI/English/BrlAPI-3.html", "size_i": "11090", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/Manual-BrlAPI/English/BrlAPI-4.html", "size_i": "1382", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/Manual-BrlAPI/English/BrlAPI-5.html", "size_i": "11671", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/Manual-BrlAPI/English/BrlAPI-6.html", "size_i": "13569", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/Manual-BrlAPI/English/BrlAPI-7.html", "size_i": "17291", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/Manual-BrlAPI/English/BrlAPI.html", "size_i": "3977", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/Manual-BrlAPI/English/BrlAPI.sgml", "size_i": "63579", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/Manual-BrlAPI/English/BrlAPI.txt", "size_i": "67402", "regex": "false"},
+	{"name_s": "/usr/share/doc/brlapi-0.5.4/README", "size_i": "1583", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/vstp.1.gz", "size_i": "1575", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xbrlapi.1.gz", "size_i": "743", "regex": "false"}
+]

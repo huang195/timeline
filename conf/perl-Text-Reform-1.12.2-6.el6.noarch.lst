@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Text-Reform-1.12.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Text-Reform-1.12.2/Changes", "size_i": "2208", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Text-Reform-1.12.2/README", "size_i": "697", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Text::Reform.3pm.gz", "size_i": "13722", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Text", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Text/Reform.pm", "size_i": "58295", "regex": "false"}
+]

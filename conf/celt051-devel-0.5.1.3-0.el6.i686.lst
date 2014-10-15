@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/include/celt051", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/celt051/celt.h", "size_i": "9916", "regex": "false"},
+	{"name_s": "/usr/include/celt051/celt_header.h", "size_i": "2996", "regex": "false"},
+	{"name_s": "/usr/include/celt051/celt_types.h", "size_i": "5341", "regex": "false"},
+	{"name_s": "/usr/lib/libcelt051.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/celt051.pc", "size_i": "254", "regex": "false"},
+	{"name_s": "/usr/share/doc/celt051-devel-0.5.1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/celt051-devel-0.5.1.3/COPYING", "size_i": "1557", "regex": "false"},
+	{"name_s": "/usr/share/doc/celt051-devel-0.5.1.3/README", "size_i": "1358", "regex": "false"}
+]

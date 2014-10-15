@@ -1,0 +1,23 @@
+[
+	{"name_s": "/sbin/fsck.jfs", "size_i": "404816", "regex": "false"},
+	{"name_s": "/sbin/jfs_debugfs", "size_i": "81264", "regex": "false"},
+	{"name_s": "/sbin/jfs_fsck", "size_i": "404816", "regex": "false"},
+	{"name_s": "/sbin/jfs_fscklog", "size_i": "201616", "regex": "false"},
+	{"name_s": "/sbin/jfs_logdump", "size_i": "246384", "regex": "false"},
+	{"name_s": "/sbin/jfs_mkfs", "size_i": "57552", "regex": "false"},
+	{"name_s": "/sbin/jfs_tune", "size_i": "22136", "regex": "false"},
+	{"name_s": "/sbin/mkfs.jfs", "size_i": "57552", "regex": "false"},
+	{"name_s": "/usr/share/doc/jfsutils-1.1.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jfsutils-1.1.13/AUTHORS", "size_i": "426", "regex": "false"},
+	{"name_s": "/usr/share/doc/jfsutils-1.1.13/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/jfsutils-1.1.13/ChangeLog", "size_i": "59165", "regex": "false"},
+	{"name_s": "/usr/share/doc/jfsutils-1.1.13/NEWS", "size_i": "11576", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/fsck.jfs.8.gz", "size_i": "1741", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/jfs_debugfs.8.gz", "size_i": "1782", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/jfs_fsck.8.gz", "size_i": "1741", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/jfs_fscklog.8.gz", "size_i": "1230", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/jfs_logdump.8.gz", "size_i": "777", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/jfs_mkfs.8.gz", "size_i": "1975", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/jfs_tune.8.gz", "size_i": "1548", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/mkfs.jfs.8.gz", "size_i": "1975", "regex": "false"}
+]

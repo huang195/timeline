@@ -1,0 +1,9 @@
+[
+	{"name_s": "/lib/modules/3.4.61-9.el6.centos.alt.x86_64/kernel/drivers/net/ethernet/intel/e1000e/e1000e.ko.new", "size_i": "391060", "regex": "false"},
+	{"name_s": "/usr/share/doc/e1000e-2.4.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/e1000e-2.4.14/COPYING", "size_i": "18671", "regex": "false"},
+	{"name_s": "/usr/share/doc/e1000e-2.4.14/README", "size_i": "32567", "regex": "false"},
+	{"name_s": "/usr/share/doc/e1000e-2.4.14/file.list", "size_i": "99", "regex": "false"},
+	{"name_s": "/usr/share/doc/e1000e-2.4.14/pci.updates", "size_i": "4080", "regex": "false"},
+	{"name_s": "/usr/share/man/man7/e1000e.7.gz", "size_i": "3786", "regex": "false"}
+]

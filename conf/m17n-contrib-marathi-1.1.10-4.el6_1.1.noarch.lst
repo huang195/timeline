@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/icons/mr-inscript.png", "size_i": "1072", "regex": "false"},
+	{"name_s": "/usr/share/m17n/mr-inscript.mim", "size_i": "3723", "regex": "false"},
+	{"name_s": "/usr/share/m17n/mr-itrans.mim", "size_i": "6224", "regex": "false"},
+	{"name_s": "/usr/share/m17n/mr-phonetic.mim", "size_i": "3234", "regex": "false"}
+]

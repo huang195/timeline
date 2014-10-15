@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-Exception-0.27", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Exception-0.27/Changes", "size_i": "7036", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Exception-0.27/README", "size_i": "10899", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Exception.3pm.gz", "size_i": "5586", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Exception.pm", "size_i": "13330", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/perl5/Readonly", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Readonly/XS.pm", "size_i": "3118", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Readonly", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Readonly/XS", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Readonly/XS/XS.so", "size_i": "8688", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Readonly-XS-1.05", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Readonly-XS-1.05/Changes", "size_i": "438", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Readonly-XS-1.05/README", "size_i": "942", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Readonly::XS.3pm.gz", "size_i": "2889", "regex": "false"}
+]

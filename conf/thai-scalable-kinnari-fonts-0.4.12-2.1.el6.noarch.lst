@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/fonts/conf.d/90-thai-scalable-synthetic-kinnari.conf", "size_i": "72", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/90-thai-scalable-synthetic-kinnari.conf", "size_i": "607", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Kinnari-Bold.ttf", "size_i": "64752", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Kinnari-BoldItalic.ttf", "size_i": "75512", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Kinnari-BoldOblique.ttf", "size_i": "72944", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Kinnari-Italic.ttf", "size_i": "75424", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Kinnari-Oblique.ttf", "size_i": "74368", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Kinnari.ttf", "size_i": "65504", "regex": "false"}
+]

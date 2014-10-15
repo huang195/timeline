@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/input/evdev_drv.so", "size_i": "54384", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-evdev-2.7.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-evdev-2.7.3/COPYING", "size_i": "3598", "regex": "false"},
+	{"name_s": "/usr/share/hal/fdi/policy/10osvendor/10-x11-lid.fdi", "size_i": "242", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/evdev.4.gz", "size_i": "3750", "regex": "false"}
+]

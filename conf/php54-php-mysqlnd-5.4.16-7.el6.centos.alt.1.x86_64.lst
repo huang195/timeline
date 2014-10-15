@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/php54/root/etc/php.d/mysqlnd.ini", "size_i": "55", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php.d/mysqlnd_mysql.ini", "size_i": "67", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php.d/mysqlnd_mysqli.ini", "size_i": "69", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/etc/php.d/pdo_mysqlnd.ini", "size_i": "63", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/mysqlnd.so", "size_i": "251376", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/mysqlnd_mysql.so", "size_i": "49448", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/mysqlnd_mysqli.so", "size_i": "127712", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/pdo_mysqlnd.so", "size_i": "28352", "regex": "false"}
+]

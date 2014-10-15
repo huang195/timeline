@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/update-mime-database", "size_i": "44752", "regex": "false"},
+	{"name_s": "/usr/share/applications/defaults.list", "size_i": "8940", "regex": "false"},
+	{"name_s": "/usr/share/doc/shared-mime-info-0.70", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/shared-mime-info-0.70/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/shared-mime-info-0.70/HACKING", "size_i": "2337", "regex": "false"},
+	{"name_s": "/usr/share/doc/shared-mime-info-0.70/NEWS", "size_i": "17719", "regex": "false"},
+	{"name_s": "/usr/share/doc/shared-mime-info-0.70/README", "size_i": "847", "regex": "false"},
+	{"name_s": "/usr/share/doc/shared-mime-info-0.70/shared-mime-info-spec.xml", "size_i": "46588", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/update-mime-database.1.gz", "size_i": "697", "regex": "false"},
+	{"name_s": "/usr/share/mime", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mime/packages", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mime/packages/freedesktop.org.xml", "size_i": "1271485", "regex": "false"},
+	{"name_s": "/usr/share/pkgconfig/shared-mime-info.pc", "size_i": "120", "regex": "false"}
+]

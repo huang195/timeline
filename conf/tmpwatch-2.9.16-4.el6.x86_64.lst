@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/cron.daily/tmpwatch", "size_i": "365", "regex": "false"},
+	{"name_s": "/usr/bin/tmpwatch", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/sbin/tmpwatch", "size_i": "17792", "regex": "false"},
+	{"name_s": "/usr/share/doc/tmpwatch-2.9.16", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/tmpwatch-2.9.16/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/tmpwatch-2.9.16/ChangeLog", "size_i": "1617", "regex": "false"},
+	{"name_s": "/usr/share/doc/tmpwatch-2.9.16/NEWS", "size_i": "364", "regex": "false"},
+	{"name_s": "/usr/share/doc/tmpwatch-2.9.16/README", "size_i": "553", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/tmpwatch.8.gz", "size_i": "2461", "regex": "false"}
+]

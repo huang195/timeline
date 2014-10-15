@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/rc.d/init.d/rstatd", "size_i": "2469", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/rusersd", "size_i": "2766", "regex": "false"},
+	{"name_s": "/usr/sbin/rpc.rstatd", "size_i": "19688", "regex": "false"},
+	{"name_s": "/usr/sbin/rpc.rusersd", "size_i": "15768", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rpc.rstatd.8.gz", "size_i": "1305", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rpc.rusersd.8.gz", "size_i": "1280", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rstatd.8.gz", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rusersd.8.gz", "size_i": "16", "regex": "false"}
+]

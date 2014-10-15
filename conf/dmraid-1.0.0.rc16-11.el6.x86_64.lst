@@ -1,0 +1,23 @@
+[
+	{"name_s": "/lib64/libdmraid-events-isw.so", "size_i": "34", "regex": "false"},
+	{"name_s": "/lib64/libdmraid-events-isw.so.1", "size_i": "34", "regex": "false"},
+	{"name_s": "/lib64/libdmraid-events-isw.so.1.0.0.rc16", "size_i": "23784", "regex": "false"},
+	{"name_s": "/lib64/libdmraid.so", "size_i": "23", "regex": "false"},
+	{"name_s": "/lib64/libdmraid.so.1", "size_i": "23", "regex": "false"},
+	{"name_s": "/lib64/libdmraid.so.1.0.0.rc16", "size_i": "216912", "regex": "false"},
+	{"name_s": "/sbin/dmraid", "size_i": "21912", "regex": "false"},
+	{"name_s": "/sbin/dmraid.static", "size_i": "6", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmraid-1.0.0.rc16", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmraid-1.0.0.rc16/CHANGELOG", "size_i": "12292", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmraid-1.0.0.rc16/CREDITS", "size_i": "305", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmraid-1.0.0.rc16/KNOWN_BUGS", "size_i": "252", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmraid-1.0.0.rc16/LICENSE", "size_i": "818", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmraid-1.0.0.rc16/LICENSE_GPL", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmraid-1.0.0.rc16/LICENSE_LGPL", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmraid-1.0.0.rc16/README", "size_i": "3227", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmraid-1.0.0.rc16/TODO", "size_i": "854", "regex": "false"},
+	{"name_s": "/usr/share/doc/dmraid-1.0.0.rc16/dmraid_design.txt", "size_i": "8906", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dmraid.8.gz", "size_i": "4834", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/dmraid.static.8.gz", "size_i": "4834", "regex": "false"},
+	{"name_s": "/var/lock/dmraid", "size_i": "4096", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/imgcmp", "size_i": "11512", "regex": "false"},
+	{"name_s": "/usr/bin/imginfo", "size_i": "7072", "regex": "false"},
+	{"name_s": "/usr/bin/jasper", "size_i": "14216", "regex": "false"},
+	{"name_s": "/usr/share/doc/jasper-1.900.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jasper-1.900.1/COPYRIGHT", "size_i": "130", "regex": "false"},
+	{"name_s": "/usr/share/doc/jasper-1.900.1/LICENSE", "size_i": "2744", "regex": "false"},
+	{"name_s": "/usr/share/doc/jasper-1.900.1/NEWS", "size_i": "598", "regex": "false"},
+	{"name_s": "/usr/share/doc/jasper-1.900.1/README", "size_i": "1026", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/imgcmp.1.gz", "size_i": "383", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/imginfo.1.gz", "size_i": "354", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/jasper.1.gz", "size_i": "357", "regex": "false"}
+]

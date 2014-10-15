@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/yum.repos.d/_local.repo", "size_i": "0", "regex": "false"},
+	{"name_s": "/etc/yum/pluginconf.d/local.conf", "size_i": "385", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/local.py", "size_i": "5295", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/local.pyc", "size_i": "4299", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/local.pyo", "size_i": "4299", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-local-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-local-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/PolkitLockButton.html", "size_i": "36548", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/api-index-full.html", "size_i": "6405", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/ch01.html", "size_i": "2138", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/home.png", "size_i": "654", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/index.html", "size_i": "2076", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/index.sgml", "size_i": "7966", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/left.png", "size_i": "459", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/object-tree.html", "size_i": "2131", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/polkit-gtk-1-polkitgtktypes.html", "size_i": "13801", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/polkit-gtk-1.devhelp", "size_i": "5795", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/polkit-gtk-1.devhelp2", "size_i": "6425", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/polkit-lock-button-lock-down.png", "size_i": "2100", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/polkit-lock-button-locked.png", "size_i": "2504", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/polkit-lock-button-not-authorized.png", "size_i": "2505", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/polkit-lock-button-unlocked.png", "size_i": "2575", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/right.png", "size_i": "472", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/style.css", "size_i": "2433", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/polkit-gtk-1/up.png", "size_i": "406", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/ld.so.conf.d/oprofile-x86_64.conf", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/oprofile", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/oprofile/libjvmti_oprofile.a", "size_i": "10118", "regex": "false"},
+	{"name_s": "/usr/lib64/oprofile/libjvmti_oprofile.la", "size_i": "1072", "regex": "false"},
+	{"name_s": "/usr/lib64/oprofile/libjvmti_oprofile.so", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/oprofile/libjvmti_oprofile.so.0", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/oprofile/libjvmti_oprofile.so.0.0.0", "size_i": "9576", "regex": "false"},
+	{"name_s": "/usr/lib64/oprofile/libopagent.a", "size_i": "9842", "regex": "false"},
+	{"name_s": "/usr/lib64/oprofile/libopagent.la", "size_i": "989", "regex": "false"},
+	{"name_s": "/usr/lib64/oprofile/libopagent.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/oprofile/libopagent.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/oprofile/libopagent.so.1.0.0", "size_i": "884600", "regex": "false"}
+]

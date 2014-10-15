@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/iptc", "size_i": "22240", "regex": "false"},
+	{"name_s": "/usr/lib64/libiptcdata.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libiptcdata.so.0.3.3", "size_i": "46624", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiptcdata-1.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiptcdata-1.0.4/AUTHORS", "size_i": "140", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiptcdata-1.0.4/COPYING", "size_i": "25292", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiptcdata-1.0.4/ChangeLog", "size_i": "7669", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiptcdata-1.0.4/NEWS", "size_i": "3562", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiptcdata-1.0.4/README", "size_i": "1008", "regex": "false"},
+	{"name_s": "/usr/share/doc/libiptcdata-1.0.4/TODO", "size_i": "80", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/iptc.mo", "size_i": "6642", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/libiptcdata.mo", "size_i": "18753", "regex": "false"},
+	{"name_s": "/usr/share/locale/it/LC_MESSAGES/iptc.mo", "size_i": "6438", "regex": "false"},
+	{"name_s": "/usr/share/locale/it/LC_MESSAGES/libiptcdata.mo", "size_i": "18853", "regex": "false"}
+]

@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/lib64/libopenhpi.so.3", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenhpi.so.3.2.1", "size_i": "67096", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenhpi_snmp.so.3", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenhpi_snmp.so.3.2.1", "size_i": "10048", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenhpi_ssl.so.3", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenhpi_ssl.so.3.2.1", "size_i": "16456", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenhpimarshal.so.3", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenhpimarshal.so.3.2.1", "size_i": "120288", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenhpitransport.so.3", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenhpitransport.so.3.2.1", "size_i": "15808", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenhpiutils.so.3", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenhpiutils.so.3.2.1", "size_i": "181504", "regex": "false"},
+	{"name_s": "/usr/share/doc/openhpi32-libs-3.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openhpi32-libs-3.2.1/COPYING", "size_i": "1567", "regex": "false"}
+]

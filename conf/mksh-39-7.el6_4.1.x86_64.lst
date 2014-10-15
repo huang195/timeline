@@ -1,0 +1,8 @@
+[
+	{"name_s": "/bin/ksh", "size_i": "0", "regex": "false"},
+	{"name_s": "/bin/mksh", "size_i": "262192", "regex": "false"},
+	{"name_s": "/etc/mkshrc", "size_i": "7659", "regex": "false"},
+	{"name_s": "/etc/skel/.mkshrc", "size_i": "124", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ksh.1.gz", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mksh.1.gz", "size_i": "42232", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/java/osutil.jar", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib64/osutil", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/osutil/libosutil.so", "size_i": "15064", "regex": "false"},
+	{"name_s": "/usr/lib64/osutil/osutil-2.0.1.jar", "size_i": "9390", "regex": "false"},
+	{"name_s": "/usr/lib64/osutil/osutil.jar", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/doc/osutil-2.0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/osutil-2.0.1/LICENSE", "size_i": "15725", "regex": "false"}
+]

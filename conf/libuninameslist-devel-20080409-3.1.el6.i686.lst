@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/uninameslist.h", "size_i": "755", "regex": "false"},
+	{"name_s": "/usr/lib/libuninameslist-fr.a", "size_i": "1218762", "regex": "false"},
+	{"name_s": "/usr/lib/libuninameslist-fr.so", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libuninameslist.a", "size_i": "1205038", "regex": "false"},
+	{"name_s": "/usr/lib/libuninameslist.so", "size_i": "24", "regex": "false"}
+]

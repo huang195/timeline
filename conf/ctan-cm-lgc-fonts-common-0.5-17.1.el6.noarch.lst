@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/ctan-cm-lgc-fonts-common-0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctan-cm-lgc-fonts-common-0.5/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctan-cm-lgc-fonts-common-0.5/HISTORY", "size_i": "4091", "regex": "false"},
+	{"name_s": "/usr/share/doc/ctan-cm-lgc-fonts-common-0.5/README", "size_i": "8573", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-cm-lgc", "size_i": "4096", "regex": "false"}
+]

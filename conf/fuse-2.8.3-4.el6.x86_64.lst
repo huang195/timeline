@@ -1,0 +1,17 @@
+[
+	{"name_s": "/bin/fusermount", "size_i": "27968", "regex": "false"},
+	{"name_s": "/bin/ulockmgr_server", "size_i": "11256", "regex": "false"},
+	{"name_s": "/etc/udev/rules.d/99-fuse.rules", "size_i": "54", "regex": "false"},
+	{"name_s": "/sbin/mount.fuse", "size_i": "8184", "regex": "false"},
+	{"name_s": "/usr/bin/fusermount", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/bin/ulockmgr_server", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/share/doc/fuse-2.8.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/fuse-2.8.3/AUTHORS", "size_i": "84", "regex": "false"},
+	{"name_s": "/usr/share/doc/fuse-2.8.3/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/fuse-2.8.3/ChangeLog", "size_i": "92475", "regex": "false"},
+	{"name_s": "/usr/share/doc/fuse-2.8.3/FAQ", "size_i": "15124", "regex": "false"},
+	{"name_s": "/usr/share/doc/fuse-2.8.3/Filesystems", "size_i": "256", "regex": "false"},
+	{"name_s": "/usr/share/doc/fuse-2.8.3/NEWS", "size_i": "6170", "regex": "false"},
+	{"name_s": "/usr/share/doc/fuse-2.8.3/README", "size_i": "10858", "regex": "false"},
+	{"name_s": "/usr/share/doc/fuse-2.8.3/README.NFS", "size_i": "1382", "regex": "false"}
+]

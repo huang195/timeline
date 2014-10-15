@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/64-bpg.conf-sans-medium.conf", "size_i": "61", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/64-bpg.conf-sans-medium.conf", "size_i": "374", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bpg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/bpg/BPG_Sans_Medium_GPL&GNU.ttf", "size_i": "47752", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/fence_virt.conf", "size_i": "222", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/fence_virtd", "size_i": "2044", "regex": "false"},
+	{"name_s": "/usr/lib64/fence-virt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/sbin/fence_virtd", "size_i": "45632", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/fence_virt.conf.5.gz", "size_i": "2577", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/fence_virtd.8.gz", "size_i": "602", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/lib/libwrap.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/include/tcpd.h", "size_i": "9546", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/hosts_access.3.gz", "size_i": "1518", "regex": "false"}
+]

@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/compile.html", "size_i": "10105", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/differences.html", "size_i": "16716", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/embedding.html", "size_i": "6333", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/images", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/images/PythonPoweredSmall.gif", "size_i": "1036", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/images/jython-new-small.gif", "size_i": "4613", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/index.html", "size_i": "9894", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/interpreter.html", "size_i": "7902", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/jarray.html", "size_i": "7694", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/jreload.html", "size_i": "16001", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/jythonc.html", "size_i": "13818", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/properties.html", "size_i": "8447", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/registry.html", "size_i": "9596", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/subclassing.html", "size_i": "9641", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/usejava.html", "size_i": "11860", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/whatis.html", "size_i": "7505", "regex": "false"},
+	{"name_s": "/usr/share/doc/jython-manual-2.2.1/jython-manual-2.2.1/zxjdbc.html", "size_i": "27426", "regex": "false"}
+]

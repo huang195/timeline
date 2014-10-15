@@ -1,0 +1,20 @@
+[
+	{"name_s": "/etc/xferstats.cfg", "size_i": "12986", "regex": "false"},
+	{"name_s": "/usr/bin/xferstats", "size_i": "76720", "regex": "false"},
+	{"name_s": "/usr/share/doc/xferstats-2.16", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xferstats-2.16/ChangeLog", "size_i": "30945", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/xferstats.8.gz", "size_i": "6336", "regex": "false"},
+	{"name_s": "/usr/share/xferstats", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/xferstats/graphs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/xferstats/graphs/g1.jpg", "size_i": "289", "regex": "false"},
+	{"name_s": "/usr/share/xferstats/graphs/g16.jpg", "size_i": "303", "regex": "false"},
+	{"name_s": "/usr/share/xferstats/graphs/g2.jpg", "size_i": "291", "regex": "false"},
+	{"name_s": "/usr/share/xferstats/graphs/g32.jpg", "size_i": "318", "regex": "false"},
+	{"name_s": "/usr/share/xferstats/graphs/g4.jpg", "size_i": "293", "regex": "false"},
+	{"name_s": "/usr/share/xferstats/graphs/g64.jpg", "size_i": "348", "regex": "false"},
+	{"name_s": "/usr/share/xferstats/graphs/g8.jpg", "size_i": "296", "regex": "false"},
+	{"name_s": "/usr/share/xferstats/graphs/g_1.jpg", "size_i": "288", "regex": "false"},
+	{"name_s": "/usr/share/xferstats/graphs/g_2.jpg", "size_i": "288", "regex": "false"},
+	{"name_s": "/usr/share/xferstats/graphs/g_4.jpg", "size_i": "288", "regex": "false"},
+	{"name_s": "/usr/share/xferstats/graphs/g_8.jpg", "size_i": "288", "regex": "false"}
+]

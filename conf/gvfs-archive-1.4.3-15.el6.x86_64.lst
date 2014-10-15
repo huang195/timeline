@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/libexec/gvfsd-archive", "size_i": "143008", "regex": "false"},
+	{"name_s": "/usr/share/applications/mount-archive.desktop", "size_i": "555", "regex": "false"},
+	{"name_s": "/usr/share/gvfs/mounts/archive.mount", "size_i": "84", "regex": "false"}
+]

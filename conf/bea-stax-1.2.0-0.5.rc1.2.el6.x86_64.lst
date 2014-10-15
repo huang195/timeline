@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/gcj/bea-stax", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/bea-stax/bea-stax-ri-1.2.0.jar.db", "size_i": "8192", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/bea-stax/bea-stax-ri-1.2.0.jar.so", "size_i": "904440", "regex": "false"},
+	{"name_s": "/usr/share/doc/bea-stax-1.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/bea-stax-1.2.0/ASF2.0.txt", "size_i": "11357", "regex": "false"},
+	{"name_s": "/usr/share/java/bea-stax-ri-1.2.0.jar", "size_i": "174890", "regex": "false"},
+	{"name_s": "/usr/share/java/bea-stax-ri.jar", "size_i": "21", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/libdl.dll", "size_i": "10502", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/dlfcn.h", "size_i": "1553", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libdl.dll.a", "size_i": "3050", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-dlfcn-0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-dlfcn-0/COPYING", "size_i": "26428", "regex": "false"},
+	{"name_s": "/usr/share/doc/mingw32-dlfcn-0/README", "size_i": "488", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/abrt-cli", "size_i": "15232", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/abrt-cli.1.gz", "size_i": "617", "regex": "false"}
+]

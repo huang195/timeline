@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/fonts/conf.d/64-ctan-kerkis-sans.conf", "size_i": "57", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/64-ctan-kerkis-sans.conf", "size_i": "546", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/KerkisSans-Bold.afm", "size_i": "35983", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/KerkisSans-Bold.pfb", "size_i": "103042", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/KerkisSans-BoldItalic.afm", "size_i": "36123", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/KerkisSans-BoldItalic.pfb", "size_i": "118209", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/KerkisSans-Italic.afm", "size_i": "37080", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/KerkisSans-Italic.pfb", "size_i": "118765", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/KerkisSans-SmallCaps.afm", "size_i": "12442", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/KerkisSans-SmallCaps.pfb", "size_i": "33743", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/KerkisSans.afm", "size_i": "36843", "regex": "false"},
+	{"name_s": "/usr/share/fonts/ctan-kerkis/KerkisSans.pfb", "size_i": "98008", "regex": "false"}
+]

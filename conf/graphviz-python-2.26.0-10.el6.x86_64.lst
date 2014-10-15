@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/graphviz/python", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/python/_gv.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/python/gv.py", "size_i": "5568", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/python/gv.pyc", "size_i": "10220", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/python/gv.pyo", "size_i": "10220", "regex": "false"},
+	{"name_s": "/usr/lib64/graphviz/python/libgv_python.so", "size_i": "94656", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/_gv.so", "size_i": "42", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gv.py", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/gv.3python.gz", "size_i": "1617", "regex": "false"}
+]

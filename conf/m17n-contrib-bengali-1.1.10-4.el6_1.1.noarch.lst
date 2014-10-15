@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/bn-inscript.mim", "size_i": "3234", "regex": "false"},
+	{"name_s": "/usr/share/m17n/bn-probhat.mim", "size_i": "3065", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/bn-inscript.png", "size_i": "1367", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/bn-probhat.png", "size_i": "1554", "regex": "false"}
+]

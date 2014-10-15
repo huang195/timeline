@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/sqlite3", "size_i": "54280", "regex": "false"},
+	{"name_s": "/usr/lib/libsqlite3.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libsqlite3.so.0.8.6", "size_i": "585308", "regex": "false"},
+	{"name_s": "/usr/share/doc/sqlite-3.6.20", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sqlite-3.6.20/README", "size_i": "1732", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sqlite3.1.gz", "size_i": "2896", "regex": "false"}
+]

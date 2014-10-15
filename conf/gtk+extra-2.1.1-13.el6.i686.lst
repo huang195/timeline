@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libgtkextra-x11-2.0.so.1", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libgtkextra-x11-2.0.so.1.0.0", "size_i": "764312", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk+extra-2.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk+extra-2.1.1/AUTHORS", "size_i": "282", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk+extra-2.1.1/COPYING", "size_i": "25292", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk+extra-2.1.1/ChangeLog", "size_i": "38439", "regex": "false"},
+	{"name_s": "/usr/share/doc/gtk+extra-2.1.1/README", "size_i": "574", "regex": "false"}
+]

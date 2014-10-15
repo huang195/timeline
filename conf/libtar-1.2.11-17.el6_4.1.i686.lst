@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/libtar", "size_i": "9080", "regex": "false"},
+	{"name_s": "/usr/lib/libtar.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libtar.so.1.2.11", "size_i": "34828", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtar-1.2.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtar-1.2.11/COPYRIGHT", "size_i": "1786", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtar-1.2.11/ChangeLog", "size_i": "8237", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtar-1.2.11/ChangeLog-1.0.x", "size_i": "3977", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtar-1.2.11/README", "size_i": "3318", "regex": "false"},
+	{"name_s": "/usr/share/doc/libtar-1.2.11/TODO", "size_i": "416", "regex": "false"}
+]

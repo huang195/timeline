@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/virt-inspector", "size_i": "27368", "regex": "false"},
+	{"name_s": "/usr/bin/virt-list-filesystems", "size_i": "4465", "regex": "false"},
+	{"name_s": "/usr/bin/virt-list-partitions", "size_i": "6005", "regex": "false"},
+	{"name_s": "/usr/bin/virt-make-fs", "size_i": "20768", "regex": "false"},
+	{"name_s": "/usr/bin/virt-tar", "size_i": "8296", "regex": "false"},
+	{"name_s": "/usr/bin/virt-win-reg", "size_i": "22776", "regex": "false"},
+	{"name_s": "/usr/share/doc/libguestfs-tools-1.20.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libguestfs-tools-1.20.11/README", "size_i": "998", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/virt-inspector.1.gz", "size_i": "4770", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/virt-list-filesystems.1.gz", "size_i": "2809", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/virt-list-partitions.1.gz", "size_i": "2880", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/virt-make-fs.1.gz", "size_i": "4936", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/virt-tar.1.gz", "size_i": "3649", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/virt-win-reg.1.gz", "size_i": "6511", "regex": "false"}
+]

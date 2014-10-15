@@ -1,0 +1,18 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/bin/ptar", "size_i": "3556", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/bin/ptardiff", "size_i": "2504", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/bin/ptargrep", "size_i": "4271", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Archive-Tar-1.90", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Archive-Tar-1.90/CHANGES", "size_i": "24372", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Archive-Tar-1.90/README", "size_i": "536", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man1/ptar.1.gz", "size_i": "2246", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man1/ptardiff.1.gz", "size_i": "2192", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man1/ptargrep.1.gz", "size_i": "2664", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Archive::Tar.3pm.gz", "size_i": "13314", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Archive::Tar::File.3pm.gz", "size_i": "4210", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Archive", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Archive/Tar", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Archive/Tar.pm", "size_i": "71995", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Archive/Tar/Constant.pm", "size_i": "3647", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Archive/Tar/File.pm", "size_i": "18722", "regex": "false"}
+]

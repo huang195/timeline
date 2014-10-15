@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/pinentry", "size_i": "2135", "regex": "false"},
+	{"name_s": "/usr/bin/pinentry-curses", "size_i": "45752", "regex": "false"},
+	{"name_s": "/usr/share/doc/pinentry-0.7.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pinentry-0.7.6/AUTHORS", "size_i": "364", "regex": "false"},
+	{"name_s": "/usr/share/doc/pinentry-0.7.6/COPYING", "size_i": "15131", "regex": "false"},
+	{"name_s": "/usr/share/doc/pinentry-0.7.6/ChangeLog", "size_i": "61064", "regex": "false"},
+	{"name_s": "/usr/share/doc/pinentry-0.7.6/NEWS", "size_i": "4726", "regex": "false"},
+	{"name_s": "/usr/share/doc/pinentry-0.7.6/README", "size_i": "2961", "regex": "false"},
+	{"name_s": "/usr/share/doc/pinentry-0.7.6/THANKS", "size_i": "245", "regex": "false"},
+	{"name_s": "/usr/share/doc/pinentry-0.7.6/TODO", "size_i": "869", "regex": "false"},
+	{"name_s": "/usr/share/info/pinentry.info.gz", "size_i": "10461", "regex": "false"}
+]

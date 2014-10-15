@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-ta-20100226", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ta-20100226/Copyright", "size_i": "612", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ta-20100226/LICENSE", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-ta-20100226/README", "size_i": "2985", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ta_IN.aff", "size_i": "229", "regex": "false"},
+	{"name_s": "/usr/share/myspell/ta_IN.dic", "size_i": "3337774", "regex": "false"}
+]

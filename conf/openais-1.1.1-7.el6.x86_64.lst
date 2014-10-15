@@ -1,0 +1,21 @@
+[
+	{"name_s": "/etc/corosync", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/corosync/amf.conf.example", "size_i": "5384", "regex": "false"},
+	{"name_s": "/usr/libexec/lcrso", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/lcrso/openaisserviceenable.lcrso", "size_i": "7048", "regex": "false"},
+	{"name_s": "/usr/libexec/lcrso/service_amf.lcrso", "size_i": "177112", "regex": "false"},
+	{"name_s": "/usr/libexec/lcrso/service_ckpt.lcrso", "size_i": "52752", "regex": "false"},
+	{"name_s": "/usr/libexec/lcrso/service_clm.lcrso", "size_i": "15448", "regex": "false"},
+	{"name_s": "/usr/libexec/lcrso/service_evt.lcrso", "size_i": "50408", "regex": "false"},
+	{"name_s": "/usr/libexec/lcrso/service_lck.lcrso", "size_i": "40312", "regex": "false"},
+	{"name_s": "/usr/libexec/lcrso/service_msg.lcrso", "size_i": "81896", "regex": "false"},
+	{"name_s": "/usr/libexec/lcrso/service_tmr.lcrso", "size_i": "15432", "regex": "false"},
+	{"name_s": "/usr/sbin/aisexec", "size_i": "112", "regex": "false"},
+	{"name_s": "/usr/sbin/openais-instantiate", "size_i": "5864", "regex": "false"},
+	{"name_s": "/usr/share/doc/openais-1.1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openais-1.1.1/LICENSE", "size_i": "3134", "regex": "false"},
+	{"name_s": "/usr/share/doc/openais-1.1.1/README.amf", "size_i": "21734", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/amf.conf.5.gz", "size_i": "2857", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/openais.conf.5.gz", "size_i": "6852", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/openais_overview.8.gz", "size_i": "4757", "regex": "false"}
+]

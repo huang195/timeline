@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/bo-ewts.mim", "size_i": "7494", "regex": "false"},
+	{"name_s": "/usr/share/m17n/bo-tcrc.mim", "size_i": "4828", "regex": "false"},
+	{"name_s": "/usr/share/m17n/bo-wylie.mim", "size_i": "6493", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/bo-wylie.png", "size_i": "1240", "regex": "false"}
+]

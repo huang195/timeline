@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/sbin/ntsysv", "size_i": "26096", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ntsysv.8.gz", "size_i": "601", "regex": "false"}
+]

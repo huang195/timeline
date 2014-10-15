@@ -1,0 +1,11 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/bin/semver", "size_i": "37", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/semver", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/semver/bin", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/semver/bin/semver", "size_i": "1944", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/semver/package.json", "size_i": "436", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/semver/semver.js", "size_i": "9238", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-semver-1.1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-semver-1.1.4/LICENSE", "size_i": "1092", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-semver-1.1.4/README.md", "size_i": "3979", "regex": "false"}
+]

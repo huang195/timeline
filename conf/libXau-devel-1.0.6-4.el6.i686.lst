@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/include/X11/Xauth.h", "size_i": "3594", "regex": "false"},
+	{"name_s": "/usr/lib/libXau.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/xau.pc", "size_i": "212", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Xau.3.gz", "size_i": "2342", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XauDisposeAuth.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XauFileName.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XauGetAuthByAddr.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XauGetBestAuthByAddr.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XauLockAuth.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XauReadAuth.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XauUnlockAuth.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XauWriteAuth.3.gz", "size_i": "35", "regex": "false"}
+]

@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/include/X11/fonts/bdfint.h", "size_i": "3203", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/bitmap.h", "size_i": "3697", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/bufio.h", "size_i": "2701", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/fntfil.h", "size_i": "7615", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/fntfilio.h", "size_i": "1927", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/fntfilst.h", "size_i": "5542", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/fontconf.h", "size_i": "2004", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/fontencc.h", "size_i": "1672", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/fontmisc.h", "size_i": "2225", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/fontshow.h", "size_i": "1412", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/fontutil.h", "size_i": "949", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/fontxlfd.h", "size_i": "2932", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/ft.h", "size_i": "2606", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/ftfuncs.h", "size_i": "6995", "regex": "false"},
+	{"name_s": "/usr/include/X11/fonts/pcf.h", "size_i": "3354", "regex": "false"},
+	{"name_s": "/usr/lib/libXfont.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/xfont.pc", "size_i": "261", "regex": "false"}
+]

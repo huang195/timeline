@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/_semanage.so", "size_i": "225384", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/semanage.py", "size_i": "41434", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/semanage.pyc", "size_i": "52767", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/semanage.pyo", "size_i": "52767", "regex": "false"}
+]

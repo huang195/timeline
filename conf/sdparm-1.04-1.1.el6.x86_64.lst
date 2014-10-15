@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/sdparm", "size_i": "230536", "regex": "false"},
+	{"name_s": "/usr/share/doc/sdparm-1.04", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sdparm-1.04/AUTHORS", "size_i": "47", "regex": "false"},
+	{"name_s": "/usr/share/doc/sdparm-1.04/COPYING", "size_i": "1439", "regex": "false"},
+	{"name_s": "/usr/share/doc/sdparm-1.04/CREDITS", "size_i": "672", "regex": "false"},
+	{"name_s": "/usr/share/doc/sdparm-1.04/ChangeLog", "size_i": "9786", "regex": "false"},
+	{"name_s": "/usr/share/doc/sdparm-1.04/README", "size_i": "8700", "regex": "false"},
+	{"name_s": "/usr/share/doc/sdparm-1.04/notes.txt", "size_i": "2675", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/sdparm.8.gz", "size_i": "11620", "regex": "false"}
+]

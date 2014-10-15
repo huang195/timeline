@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/alsa/pcm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/alsa/pcm/upmix.conf", "size_i": "141", "regex": "false"},
+	{"name_s": "/usr/lib64/alsa-lib/libasound_module_pcm_upmix.so", "size_i": "10960", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-upmix-1.0.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-upmix-1.0.21/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-upmix-1.0.21/COPYING.GPL", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-upmix-1.0.21/upmix.txt", "size_i": "1243", "regex": "false"}
+]

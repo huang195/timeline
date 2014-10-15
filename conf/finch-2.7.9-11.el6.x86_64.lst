@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/finch", "size_i": "294184", "regex": "false"},
+	{"name_s": "/usr/lib64/finch", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/finch/gntclipboard.so", "size_i": "8392", "regex": "false"},
+	{"name_s": "/usr/lib64/finch/gntgf.so", "size_i": "16672", "regex": "false"},
+	{"name_s": "/usr/lib64/finch/gnthistory.so", "size_i": "12104", "regex": "false"},
+	{"name_s": "/usr/lib64/finch/gntlastlog.so", "size_i": "8232", "regex": "false"},
+	{"name_s": "/usr/lib64/finch/gnttinyurl.so", "size_i": "15872", "regex": "false"},
+	{"name_s": "/usr/lib64/finch/grouping.so", "size_i": "14176", "regex": "false"},
+	{"name_s": "/usr/lib64/gnt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gnt/irssi.so", "size_i": "15384", "regex": "false"},
+	{"name_s": "/usr/lib64/gnt/s.so", "size_i": "9864", "regex": "false"},
+	{"name_s": "/usr/lib64/libgnt.so.0", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libgnt.so.0.0.0", "size_i": "260760", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/finch.1.gz", "size_i": "5013", "regex": "false"}
+]

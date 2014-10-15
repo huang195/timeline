@@ -1,0 +1,12 @@
+[
+	{"name_s": "/lib/libreadline.so.5", "size_i": "18", "regex": "false"},
+	{"name_s": "/lib/libreadline.so.5.2", "size_i": "225284", "regex": "false"},
+	{"name_s": "/usr/lib/libhistory.so.5", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libhistory.so.5.2", "size_i": "30940", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-readline5-5.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-readline5-5.2/CHANGES", "size_i": "41471", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-readline5-5.2/COPYING", "size_i": "18008", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-readline5-5.2/NEWS", "size_i": "444", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-readline5-5.2/README", "size_i": "7620", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-readline5-5.2/USAGE", "size_i": "2025", "regex": "false"}
+]

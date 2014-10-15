@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/cjet", "size_i": "41872", "regex": "false"},
+	{"name_s": "/usr/share/doc/cjet-0.8.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cjet-0.8.9/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/doc/cjet-0.8.9/ChangeLog", "size_i": "1443", "regex": "false"},
+	{"name_s": "/usr/share/doc/cjet-0.8.9/README", "size_i": "5309", "regex": "false"},
+	{"name_s": "/usr/share/doc/cjet-0.8.9/TODO", "size_i": "1158", "regex": "false"}
+]

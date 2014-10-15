@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/perl5/Digest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Digest/SHA1.pm", "size_i": "7091", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Digest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Digest/SHA1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Digest/SHA1/SHA1.so", "size_i": "21952", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Digest-SHA1-2.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Digest-SHA1-2.12/Changes", "size_i": "14967", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Digest-SHA1-2.12/README", "size_i": "561", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Digest-SHA1-2.12/fip180-1.gif", "size_i": "7960", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Digest-SHA1-2.12/fip180-1.html", "size_i": "48467", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Digest::SHA1.3pm.gz", "size_i": "4409", "regex": "false"}
+]

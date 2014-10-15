@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/lib/libglut.so.3", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libglut.so.3.9.0", "size_i": "227904", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/AUTHORS", "size_i": "820", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/COPYING", "size_i": "1439", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/ChangeLog", "size_i": "162918", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/INSTALL", "size_i": "9512", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/NEWS", "size_i": "2143", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/README", "size_i": "2497", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/TODO", "size_i": "9452", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/download.html", "size_i": "1481", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/freeglut.html", "size_i": "8846", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/freeglut_logo.png", "size_i": "15887", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/freeglut_user_interface.html", "size_i": "105711", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/index.html", "size_i": "3349", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/ogl_sm.png", "size_i": "1586", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/progress.html", "size_i": "6115", "regex": "false"},
+	{"name_s": "/usr/share/doc/freeglut-2.6.0/structure.html", "size_i": "3964", "regex": "false"}
+]

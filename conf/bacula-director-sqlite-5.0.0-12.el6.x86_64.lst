@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/libexec/bacula/create_bacula_database.sqlite", "size_i": "576", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/create_sqlite3_database", "size_i": "197", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/drop_bacula_database.sqlite", "size_i": "506", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/drop_bacula_tables.sqlite", "size_i": "682", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/drop_sqlite3_database", "size_i": "277", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/drop_sqlite3_tables", "size_i": "154", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/grant_bacula_privileges.sqlite", "size_i": "685", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/grant_sqlite3_privileges", "size_i": "110", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/make_bacula_tables.sqlite", "size_i": "567", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/make_catalog_backup.sqlite", "size_i": "2061", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/make_sqlite3_tables", "size_i": "13049", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/update_bacula_tables.sqlite", "size_i": "595", "regex": "false"},
+	{"name_s": "/usr/libexec/bacula/update_sqlite3_tables", "size_i": "1975", "regex": "false"},
+	{"name_s": "/usr/sbin/bacula-dir.sqlite", "size_i": "825368", "regex": "false"},
+	{"name_s": "/usr/sbin/dbcheck.sqlite", "size_i": "383936", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/67-kacst-decorative.conf", "size_i": "57", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/67-kacst-decorative.conf", "size_i": "449", "regex": "false"},
+	{"name_s": "/usr/share/fonts/kacst", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/kacst/KacstDecorative.ttf", "size_i": "107000", "regex": "false"}
+]

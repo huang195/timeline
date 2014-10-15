@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/bin/pltcl_delmod", "size_i": "2272", "regex": "false"},
+	{"name_s": "/usr/bin/pltcl_listmod", "size_i": "2430", "regex": "false"},
+	{"name_s": "/usr/bin/pltcl_loadmod", "size_i": "11449", "regex": "false"},
+	{"name_s": "/usr/lib64/pgsql/pltcl.so", "size_i": "33912", "regex": "false"},
+	{"name_s": "/usr/share/locale/de/LC_MESSAGES/pltcl-8.4.mo", "size_i": "1047", "regex": "false"},
+	{"name_s": "/usr/share/locale/es/LC_MESSAGES/pltcl-8.4.mo", "size_i": "1091", "regex": "false"},
+	{"name_s": "/usr/share/locale/fr/LC_MESSAGES/pltcl-8.4.mo", "size_i": "1089", "regex": "false"},
+	{"name_s": "/usr/share/locale/it/LC_MESSAGES/pltcl-8.4.mo", "size_i": "1128", "regex": "false"},
+	{"name_s": "/usr/share/locale/ja/LC_MESSAGES/pltcl-8.4.mo", "size_i": "1089", "regex": "false"},
+	{"name_s": "/usr/share/locale/pl/LC_MESSAGES/pltcl-8.4.mo", "size_i": "1061", "regex": "false"},
+	{"name_s": "/usr/share/locale/pt_BR/LC_MESSAGES/pltcl-8.4.mo", "size_i": "1052", "regex": "false"},
+	{"name_s": "/usr/share/locale/ru/LC_MESSAGES/pltcl-8.4.mo", "size_i": "1343", "regex": "false"},
+	{"name_s": "/usr/share/locale/tr/LC_MESSAGES/pltcl-8.4.mo", "size_i": "1050", "regex": "false"},
+	{"name_s": "/usr/share/locale/zh_CN/LC_MESSAGES/pltcl-8.4.mo", "size_i": "977", "regex": "false"},
+	{"name_s": "/usr/share/pgsql/unknown.pltcl", "size_i": "2408", "regex": "false"}
+]

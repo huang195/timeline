@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/infiniband/mad.h", "size_i": "45708", "regex": "false"},
+	{"name_s": "/usr/include/infiniband/mad_osd.h", "size_i": "1760", "regex": "false"},
+	{"name_s": "/usr/lib/libibmad.so", "size_i": "17", "regex": "false"}
+]

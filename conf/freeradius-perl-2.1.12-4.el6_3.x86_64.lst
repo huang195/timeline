@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/freeradius/rlm_perl-2.1.12.so", "size_i": "25864", "regex": "false"},
+	{"name_s": "/usr/lib64/freeradius/rlm_perl.so", "size_i": "18", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/WebFlash-0.1a9-py2.6.egg-info", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/WebFlash-0.1a9-py2.6.egg-info/PKG-INFO", "size_i": "589", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/WebFlash-0.1a9-py2.6.egg-info/SOURCES.txt", "size_i": "256", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/WebFlash-0.1a9-py2.6.egg-info/dependency_links.txt", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/WebFlash-0.1a9-py2.6.egg-info/not-zip-safe", "size_i": "1", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/WebFlash-0.1a9-py2.6.egg-info/top_level.txt", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/webflash", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/webflash/__init__.py", "size_i": "7920", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/webflash/__init__.pyc", "size_i": "8495", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/webflash/__init__.pyo", "size_i": "8495", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/webflash/webflash.js", "size_i": "8896", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/webflash/webflash.min.js", "size_i": "1546", "regex": "false"}
+]

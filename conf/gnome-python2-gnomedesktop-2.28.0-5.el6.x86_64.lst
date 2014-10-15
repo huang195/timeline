@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnomedesktop", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnomedesktop/__init__.py", "size_i": "1134", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnomedesktop/__init__.pyc", "size_i": "1427", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnomedesktop/__init__.pyo", "size_i": "1427", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gnomedesktop/_gnomedesktop.so", "size_i": "34544", "regex": "false"}
+]

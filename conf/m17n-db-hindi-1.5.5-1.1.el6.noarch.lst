@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/hi-itrans.mim", "size_i": "6473", "regex": "false"},
+	{"name_s": "/usr/share/m17n/hi-typewriter.mim", "size_i": "3292", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/hi-itrans.png", "size_i": "1426", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/hi-typewriter.png", "size_i": "1717", "regex": "false"}
+]

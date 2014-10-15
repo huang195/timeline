@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/include/libipset", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libipset/data.h", "size_i": "4073", "regex": "false"},
+	{"name_s": "/usr/include/libipset/errcode.h", "size_i": "760", "regex": "false"},
+	{"name_s": "/usr/include/libipset/linux_ip_set.h", "size_i": "5838", "regex": "false"},
+	{"name_s": "/usr/include/libipset/linux_ip_set_bitmap.h", "size_i": "321", "regex": "false"},
+	{"name_s": "/usr/include/libipset/linux_ip_set_hash.h", "size_i": "471", "regex": "false"},
+	{"name_s": "/usr/include/libipset/linux_ip_set_list.h", "size_i": "502", "regex": "false"},
+	{"name_s": "/usr/include/libipset/mnl.h", "size_i": "743", "regex": "false"},
+	{"name_s": "/usr/include/libipset/nf_inet_addr.h", "size_i": "641", "regex": "false"},
+	{"name_s": "/usr/include/libipset/nfproto.h", "size_i": "435", "regex": "false"},
+	{"name_s": "/usr/include/libipset/parse.h", "size_i": "4634", "regex": "false"},
+	{"name_s": "/usr/include/libipset/pfxlen.h", "size_i": "7332", "regex": "false"},
+	{"name_s": "/usr/include/libipset/print.h", "size_i": "2790", "regex": "false"},
+	{"name_s": "/usr/include/libipset/session.h", "size_i": "3369", "regex": "false"},
+	{"name_s": "/usr/include/libipset/transport.h", "size_i": "890", "regex": "false"},
+	{"name_s": "/usr/include/libipset/types.h", "size_i": "3540", "regex": "false"},
+	{"name_s": "/usr/include/libipset/ui.h", "size_i": "1289", "regex": "false"},
+	{"name_s": "/usr/include/libipset/utils.h", "size_i": "1242", "regex": "false"},
+	{"name_s": "/usr/lib64/libipset.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipset-devel-6.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ipset-devel-6.11/COPYING", "size_i": "18002", "regex": "false"}
+]

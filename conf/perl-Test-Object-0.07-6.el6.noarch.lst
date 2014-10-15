@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-Object-0.07", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Object-0.07/Changes", "size_i": "752", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Object-0.07/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Object-0.07/README", "size_i": "3414", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Object.3pm.gz", "size_i": "3098", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Object", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Object.pm", "size_i": "4069", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Object/Test.pm", "size_i": "1181", "regex": "false"}
+]

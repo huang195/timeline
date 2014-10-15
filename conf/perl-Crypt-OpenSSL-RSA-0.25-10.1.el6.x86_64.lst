@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/lib64/perl5/Crypt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Crypt/OpenSSL", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Crypt/OpenSSL/RSA.pm", "size_i": "8420", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL/RSA", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL/RSA/RSA.so", "size_i": "45584", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL/RSA/autosplit.ix", "size_i": "230", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL/RSA/get_key_parameters.al", "size_i": "469", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL/RSA/import_random_seed.al", "size_i": "462", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL/RSA/new_key_from_parameters.al", "size_i": "523", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Crypt/OpenSSL/RSA/new_public_key.al", "size_i": "707", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Crypt-OpenSSL-RSA-0.25", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Crypt-OpenSSL-RSA-0.25/Changes", "size_i": "5855", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Crypt-OpenSSL-RSA-0.25/LICENSE", "size_i": "20217", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Crypt-OpenSSL-RSA-0.25/README", "size_i": "1175", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Crypt::OpenSSL::RSA.3pm.gz", "size_i": "4541", "regex": "false"}
+]

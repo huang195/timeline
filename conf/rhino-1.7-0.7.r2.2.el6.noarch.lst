@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/rhino", "size_i": "594", "regex": "false"},
+	{"name_s": "/usr/share/java/js-1.7.jar", "size_i": "13", "regex": "false"},
+	{"name_s": "/usr/share/java/js.jar", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/share/java/rhino-1.7.jar", "size_i": "807405", "regex": "false"},
+	{"name_s": "/usr/share/java/rhino-examples-1.7.jar", "size_i": "18260", "regex": "false"},
+	{"name_s": "/usr/share/java/rhino-examples.jar", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/java/rhino.jar", "size_i": "13", "regex": "false"}
+]

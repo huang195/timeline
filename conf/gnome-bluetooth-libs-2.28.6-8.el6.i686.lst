@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/lib/libgnome-bluetooth.so.7", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libgnome-bluetooth.so.7.0.2", "size_i": "77152", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-bluetooth-libs-2.28.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gnome-bluetooth-libs-2.28.6/COPYING.LIB", "size_i": "26432", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/16x16/apps/bluetooth.png", "size_i": "725", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/16x16/status/bluetooth-disabled.png", "size_i": "784", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/16x16/status/bluetooth-paired.png", "size_i": "714", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/22x22/apps/bluetooth.png", "size_i": "994", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/22x22/status/bluetooth-disabled.png", "size_i": "1108", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/22x22/status/bluetooth-paired.png", "size_i": "1126", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/24x24/apps/bluetooth.png", "size_i": "1023", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/24x24/status/bluetooth-disabled.png", "size_i": "1123", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/24x24/status/bluetooth-paired.png", "size_i": "1128", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/32x32/apps/bluetooth.png", "size_i": "1970", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/32x32/status/bluetooth-disabled.png", "size_i": "2169", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/32x32/status/bluetooth-paired.png", "size_i": "1985", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/48x48/apps/bluetooth.png", "size_i": "3004", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/48x48/status/bluetooth-disabled.png", "size_i": "3345", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/scalable/apps/bluetooth.svg", "size_i": "8717", "regex": "false"},
+	{"name_s": "/usr/share/icons/hicolor/scalable/status/bluetooth-paired.svg", "size_i": "31109", "regex": "false"}
+]

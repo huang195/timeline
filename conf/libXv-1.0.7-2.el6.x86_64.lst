@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/libXv.so.1", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libXv.so.1.0.0", "size_i": "19648", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXv-1.0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXv-1.0.7/AUTHORS", "size_i": "95", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXv-1.0.7/COPYING", "size_i": "2240", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXv-1.0.7/ChangeLog", "size_i": "23388", "regex": "false"}
+]

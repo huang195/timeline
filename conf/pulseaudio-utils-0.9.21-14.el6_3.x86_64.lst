@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/bin/pacat", "size_i": "40576", "regex": "false"},
+	{"name_s": "/usr/bin/pacmd", "size_i": "9592", "regex": "false"},
+	{"name_s": "/usr/bin/pactl", "size_i": "40464", "regex": "false"},
+	{"name_s": "/usr/bin/padsp", "size_i": "2253", "regex": "false"},
+	{"name_s": "/usr/bin/pamon", "size_i": "5", "regex": "false"},
+	{"name_s": "/usr/bin/paplay", "size_i": "5", "regex": "false"},
+	{"name_s": "/usr/bin/parec", "size_i": "5", "regex": "false"},
+	{"name_s": "/usr/bin/parecord", "size_i": "5", "regex": "false"},
+	{"name_s": "/usr/bin/pasuspender", "size_i": "12688", "regex": "false"},
+	{"name_s": "/usr/bin/pax11publish", "size_i": "11184", "regex": "false"},
+	{"name_s": "/usr/lib64/libpulsedsp.so", "size_i": "41488", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pacat.1.gz", "size_i": "1818", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pacmd.1.gz", "size_i": "397", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pactl.1.gz", "size_i": "1326", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/padsp.1.gz", "size_i": "690", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/paplay.1.gz", "size_i": "937", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pasuspender.1.gz", "size_i": "624", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pax11publish.1.gz", "size_i": "1133", "regex": "false"}
+]

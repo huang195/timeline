@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/rpm/macros.mysql55-config", "size_i": "13", "regex": "false"},
+	{"name_s": "/opt/rh/mysql55/root/usr/share/doc/mysql55-build-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/mysql55/root/usr/share/doc/mysql55-build-1.1/LICENSE", "size_i": "18011", "regex": "false"}
+]

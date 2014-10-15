@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/libvirt-java-0.4.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvirt-java-0.4.9/AUTHORS", "size_i": "486", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvirt-java-0.4.9/INSTALL", "size_i": "917", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvirt-java-0.4.9/LICENCE", "size_i": "1267", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvirt-java-0.4.9/NEWS", "size_i": "500", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvirt-java-0.4.9/README", "size_i": "1145", "regex": "false"},
+	{"name_s": "/usr/share/java/libvirt-0.4.9.jar", "size_i": "70599", "regex": "false"},
+	{"name_s": "/usr/share/java/libvirt.jar", "size_i": "33", "regex": "false"}
+]

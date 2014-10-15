@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/lib64/libapol.so.4", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libapol.so.4.3", "size_i": "218288", "regex": "false"},
+	{"name_s": "/usr/lib64/libpoldiff.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libpoldiff.so.1.3.2", "size_i": "140632", "regex": "false"},
+	{"name_s": "/usr/lib64/libqpol.so.1", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libqpol.so.1.6", "size_i": "447800", "regex": "false"},
+	{"name_s": "/usr/lib64/libseaudit.so.4", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libseaudit.so.4.4", "size_i": "120584", "regex": "false"},
+	{"name_s": "/usr/lib64/libsefs.so.4", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libsefs.so.4.0.3", "size_i": "107488", "regex": "false"},
+	{"name_s": "/usr/share/doc/setools-libs-3.3.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/setools-libs-3.3.7/AUTHORS", "size_i": "474", "regex": "false"},
+	{"name_s": "/usr/share/doc/setools-libs-3.3.7/COPYING", "size_i": "311", "regex": "false"},
+	{"name_s": "/usr/share/doc/setools-libs-3.3.7/COPYING.GPL", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/setools-libs-3.3.7/COPYING.LGPL", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/setools-libs-3.3.7/ChangeLog", "size_i": "37256", "regex": "false"},
+	{"name_s": "/usr/share/doc/setools-libs-3.3.7/KNOWN-BUGS", "size_i": "2572", "regex": "false"},
+	{"name_s": "/usr/share/doc/setools-libs-3.3.7/NEWS", "size_i": "29335", "regex": "false"},
+	{"name_s": "/usr/share/doc/setools-libs-3.3.7/README", "size_i": "15945", "regex": "false"},
+	{"name_s": "/usr/share/setools-3.3", "size_i": "4096", "regex": "false"}
+]

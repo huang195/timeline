@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/msntest", "size_i": "59816", "regex": "false"},
+	{"name_s": "/usr/lib/libmsn.so.0.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libmsn.so.0.1.0", "size_i": "737080", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmsn-4.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmsn-4.0/COPYING", "size_i": "18725", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmsn-4.0/README", "size_i": "2610", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmsn-4.0/THANKS", "size_i": "785", "regex": "false"}
+]

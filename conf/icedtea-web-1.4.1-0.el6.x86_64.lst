@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/bin/itweb-settings.itweb", "size_i": "1154", "regex": "false"},
+	{"name_s": "/usr/bin/javaws.itweb", "size_i": "2195", "regex": "false"},
+	{"name_s": "/usr/lib64/IcedTeaPlugin.so", "size_i": "193040", "regex": "false"},
+	{"name_s": "/usr/share/applications/itweb-settings.desktop", "size_i": "598", "regex": "false"},
+	{"name_s": "/usr/share/applications/javaws.desktop", "size_i": "272", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedtea-web-1.4.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedtea-web-1.4.1/COPYING", "size_i": "18002", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedtea-web-1.4.1/NEWS", "size_i": "9095", "regex": "false"},
+	{"name_s": "/usr/share/doc/icedtea-web-1.4.1/README", "size_i": "5756", "regex": "false"},
+	{"name_s": "/usr/share/icedtea-web", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/icedtea-web/about.jar", "size_i": "17390", "regex": "false"},
+	{"name_s": "/usr/share/icedtea-web/about.jnlp", "size_i": "523", "regex": "false"},
+	{"name_s": "/usr/share/icedtea-web/javaws_splash.png", "size_i": "12142", "regex": "false"},
+	{"name_s": "/usr/share/icedtea-web/netx.jar", "size_i": "762322", "regex": "false"},
+	{"name_s": "/usr/share/icedtea-web/plugin.jar", "size_i": "118332", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/icedtea-web.1.gz", "size_i": "37", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/javaws-itweb.1.gz", "size_i": "1419", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/javaws.png", "size_i": "4713", "regex": "false"}
+]

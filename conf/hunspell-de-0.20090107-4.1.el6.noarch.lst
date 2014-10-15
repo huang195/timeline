@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-de-0.20090107", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-de-0.20090107/COPYING_GPLv2", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-de-0.20090107/COPYING_GPLv3", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-de-0.20090107/COPYING_OASIS", "size_i": "675", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-de-0.20090107/Copyright", "size_i": "930", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-de-0.20090107/README_de_AT.txt", "size_i": "250", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-de-0.20090107/README_de_CH.txt", "size_i": "250", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-de-0.20090107/README_de_DE.txt", "size_i": "250", "regex": "false"},
+	{"name_s": "/usr/share/myspell/de_AT.aff", "size_i": "18607", "regex": "false"},
+	{"name_s": "/usr/share/myspell/de_AT.dic", "size_i": "1026892", "regex": "false"},
+	{"name_s": "/usr/share/myspell/de_BE.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/de_BE.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/de_CH.aff", "size_i": "18607", "regex": "false"},
+	{"name_s": "/usr/share/myspell/de_CH.dic", "size_i": "1025328", "regex": "false"},
+	{"name_s": "/usr/share/myspell/de_DE.aff", "size_i": "18607", "regex": "false"},
+	{"name_s": "/usr/share/myspell/de_DE.dic", "size_i": "1023076", "regex": "false"},
+	{"name_s": "/usr/share/myspell/de_LI.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/de_LI.dic", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/de_LU.aff", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/myspell/de_LU.dic", "size_i": "9", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/sbin/mtr", "size_i": "59384", "regex": "false"},
+	{"name_s": "/usr/share/doc/mtr-0.75", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mtr-0.75/AUTHORS", "size_i": "2132", "regex": "false"},
+	{"name_s": "/usr/share/doc/mtr-0.75/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/mtr-0.75/FORMATS", "size_i": "573", "regex": "false"},
+	{"name_s": "/usr/share/doc/mtr-0.75/NEWS", "size_i": "11225", "regex": "false"},
+	{"name_s": "/usr/share/doc/mtr-0.75/README", "size_i": "3595", "regex": "false"},
+	{"name_s": "/usr/share/doc/mtr-0.75/SECURITY", "size_i": "1450", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/mtr.8.gz", "size_i": "2047", "regex": "false"}
+]

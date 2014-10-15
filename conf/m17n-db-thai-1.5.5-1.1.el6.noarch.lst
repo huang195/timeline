@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/m17n/icons/th-kesmanee-2.png", "size_i": "1514", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/th-kesmanee.png", "size_i": "1173", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/th-pattachote-2.png", "size_i": "1541", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/th-pattachote.png", "size_i": "1405", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/th-tis820-2.png", "size_i": "1516", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/th-tis820.png", "size_i": "1358", "regex": "false"},
+	{"name_s": "/usr/share/m17n/th-kesmanee.mim", "size_i": "9177", "regex": "false"},
+	{"name_s": "/usr/share/m17n/th-pattachote.mim", "size_i": "5835", "regex": "false"},
+	{"name_s": "/usr/share/m17n/th-tis820.mim", "size_i": "5852", "regex": "false"}
+]

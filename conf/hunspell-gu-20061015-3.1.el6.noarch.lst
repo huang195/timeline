@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-gu-20061015", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-gu-20061015/README_gu_IN.txt", "size_i": "258", "regex": "false"},
+	{"name_s": "/usr/share/myspell/gu_IN.aff", "size_i": "174", "regex": "false"},
+	{"name_s": "/usr/share/myspell/gu_IN.dic", "size_i": "3961818", "regex": "false"}
+]

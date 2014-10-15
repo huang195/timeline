@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/rc.d/init.d/fence_sanlockd", "size_i": "3681", "regex": "false"},
+	{"name_s": "/usr/sbin/fence_sanlock", "size_i": "10105", "regex": "false"},
+	{"name_s": "/usr/sbin/fence_sanlockd", "size_i": "21952", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/fence_sanlock.8.gz", "size_i": "3016", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/fence_sanlockd.8.gz", "size_i": "379", "regex": "false"},
+	{"name_s": "/var/run/fence_sanlock", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/run/fence_sanlockd", "size_i": "4096", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/checkmodule", "size_i": "276992", "regex": "false"},
+	{"name_s": "/usr/bin/checkpolicy", "size_i": "285152", "regex": "false"},
+	{"name_s": "/usr/bin/sedismod", "size_i": "168360", "regex": "false"},
+	{"name_s": "/usr/bin/sedispol", "size_i": "137912", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/checkmodule.8.gz", "size_i": "1035", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/checkpolicy.8.gz", "size_i": "788", "regex": "false"}
+]

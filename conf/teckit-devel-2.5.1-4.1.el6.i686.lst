@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/include/teckit", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/teckit/TECkit_Common.h", "size_i": "3837", "regex": "false"},
+	{"name_s": "/usr/include/teckit/TECkit_Compiler.h", "size_i": "2648", "regex": "false"},
+	{"name_s": "/usr/include/teckit/TECkit_Engine.h", "size_i": "7364", "regex": "false"},
+	{"name_s": "/usr/lib/libTECkit.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libTECkit_Compiler.so", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-devel-2.5.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-devel-2.5.1/TECkit_Binary_Format.doc.pdf", "size_i": "183844", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-devel-2.5.1/TECkit_Language_2.1.doc.pdf", "size_i": "197065", "regex": "false"},
+	{"name_s": "/usr/share/doc/teckit-devel-2.5.1/TECkit_version_2.1.doc.pdf", "size_i": "148851", "regex": "false"}
+]

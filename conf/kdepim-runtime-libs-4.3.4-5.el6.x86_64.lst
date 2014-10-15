@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/lib64/libakonadi-kabccommon.so.4", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-kabccommon.so.4.3.0", "size_i": "171576", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-kcal.so.4", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-kcal.so.4.3.0", "size_i": "50728", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-xml.so.4", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi-xml.so.4.3.0", "size_i": "61776", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi_next.so.4", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libakonadi_next.so.4.3.0", "size_i": "298368", "regex": "false"},
+	{"name_s": "/usr/lib64/libkdepim-copy.so.4", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/libkdepim-copy.so.4.3.0", "size_i": "235432", "regex": "false"},
+	{"name_s": "/usr/lib64/libmaildir.so.4", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libmaildir.so.4.3.0", "size_i": "36144", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/recode.ini", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/recode.so", "size_i": "8296", "regex": "false"}
+]

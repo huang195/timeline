@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/discid", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/discid/discid.h", "size_i": "8653", "regex": "false"},
+	{"name_s": "/usr/lib64/libdiscid.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libdiscid.pc", "size_i": "258", "regex": "false"}
+]

@@ -1,0 +1,18 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::Builder.3pm.gz", "size_i": "10340", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::Builder::Module.3pm.gz", "size_i": "2975", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::Builder::Tester.3pm.gz", "size_i": "4943", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::Builder::Tester::Color.3pm.gz", "size_i": "2108", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::More.3pm.gz", "size_i": "13476", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::Simple.3pm.gz", "size_i": "4510", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Test::Tutorial.3pm.gz", "size_i": "8735", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Test/Builder", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Test/Builder.pm", "size_i": "60201", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Test/Builder/Module.pm", "size_i": "3816", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Test/Builder/Tester", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Test/Builder/Tester.pm", "size_i": "15535", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Test/Builder/Tester/Color.pm", "size_i": "969", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Test/More.pm", "size_i": "46686", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Test/Simple.pm", "size_i": "6462", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/Test/Tutorial.pod", "size_i": "18938", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib/libpoppler-glib.so", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/poppler-cairo.pc", "size_i": "209", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/poppler-glib.pc", "size_i": "301", "regex": "false"}
+]

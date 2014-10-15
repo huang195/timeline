@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/_saslwrapper.so", "size_i": "55448", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/saslwrapper.py", "size_i": "5246", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/saslwrapper.pyc", "size_i": "9513", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/saslwrapper.pyo", "size_i": "9513", "regex": "false"}
+]

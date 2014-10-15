@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/bin/nc", "size_i": "21760", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/README", "size_i": "60834", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts/README", "size_i": "239", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts/alta", "size_i": "1158", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts/bsh", "size_i": "496", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts/dist.sh", "size_i": "897", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts/irc", "size_i": "1892", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts/iscan", "size_i": "1023", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts/ncp", "size_i": "1467", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts/probe", "size_i": "2116", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts/web", "size_i": "5070", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts/webproxy", "size_i": "5499", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts/webrelay", "size_i": "1586", "regex": "false"},
+	{"name_s": "/usr/share/doc/nc-1.84/scripts/websearch", "size_i": "3007", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/nc.1.gz", "size_i": "4539", "regex": "false"}
+]

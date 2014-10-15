@@ -1,0 +1,22 @@
+[
+	{"name_s": "/etc/openldap", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/openldap/certs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/openldap/ldap.conf", "size_i": "280", "regex": "false"},
+	{"name_s": "/lib64/liblber-2.4.so.2", "size_i": "20", "regex": "false"},
+	{"name_s": "/lib64/liblber-2.4.so.2.5.6", "size_i": "60512", "regex": "false"},
+	{"name_s": "/lib64/libldap-2.4.so.2", "size_i": "20", "regex": "false"},
+	{"name_s": "/lib64/libldap-2.4.so.2.5.6", "size_i": "314240", "regex": "false"},
+	{"name_s": "/lib64/libldap_r-2.4.so.2", "size_i": "22", "regex": "false"},
+	{"name_s": "/lib64/libldap_r-2.4.so.2.5.6", "size_i": "335264", "regex": "false"},
+	{"name_s": "/lib64/libldif-2.4.so.2", "size_i": "20", "regex": "false"},
+	{"name_s": "/lib64/libldif-2.4.so.2.5.6", "size_i": "18736", "regex": "false"},
+	{"name_s": "/usr/libexec/openldap/create-certdb.sh", "size_i": "1289", "regex": "false"},
+	{"name_s": "/usr/share/doc/openldap-2.4.23", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openldap-2.4.23/ANNOUNCEMENT", "size_i": "3836", "regex": "false"},
+	{"name_s": "/usr/share/doc/openldap-2.4.23/CHANGES", "size_i": "42220", "regex": "false"},
+	{"name_s": "/usr/share/doc/openldap-2.4.23/COPYRIGHT", "size_i": "2345", "regex": "false"},
+	{"name_s": "/usr/share/doc/openldap-2.4.23/LICENSE", "size_i": "2214", "regex": "false"},
+	{"name_s": "/usr/share/doc/openldap-2.4.23/README", "size_i": "3567", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/ldap.conf.5.gz", "size_i": "5774", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/ldif.5.gz", "size_i": "2591", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/include/php/ext/apc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/php/ext/apc/apc_serializer.h", "size_i": "3371", "regex": "false"}
+]

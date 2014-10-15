@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/apm_drv.so", "size_i": "37072", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/apm.xinf", "size_i": "104", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/apm.4.gz", "size_i": "1239", "regex": "false"}
+]

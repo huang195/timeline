@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/include/PackageKit", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/PackageKit/packagekit-qt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/PackageKit/packagekit-qt/QPackageKit", "size_i": "66", "regex": "false"},
+	{"name_s": "/usr/include/PackageKit/packagekit-qt/bitfield.h", "size_i": "602", "regex": "false"},
+	{"name_s": "/usr/include/PackageKit/packagekit-qt/client.h", "size_i": "24624", "regex": "false"},
+	{"name_s": "/usr/include/PackageKit/packagekit-qt/package.h", "size_i": "6889", "regex": "false"},
+	{"name_s": "/usr/include/PackageKit/packagekit-qt/transaction.h", "size_i": "13966", "regex": "false"},
+	{"name_s": "/usr/lib64/libpackagekit-qt.so", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/packagekit-qt.pc", "size_i": "295", "regex": "false"},
+	{"name_s": "/usr/share/cmake/Modules/FindQPackageKit.cmake", "size_i": "1402", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-qt-devel-0.5.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-qt-devel-0.5.8/AUTHORS", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-qt-devel-0.5.8/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-qt-devel-0.5.8/NEWS", "size_i": "205506", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-qt-devel-0.5.8/README", "size_i": "279", "regex": "false"}
+]

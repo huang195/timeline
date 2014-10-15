@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/bin/tab2space", "size_i": "8312", "regex": "false"},
+	{"name_s": "/usr/bin/tidy", "size_i": "26008", "regex": "false"},
+	{"name_s": "/usr/share/doc/tidy-0.99.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/tidy-0.99.0/Overview.html", "size_i": "53179", "regex": "false"},
+	{"name_s": "/usr/share/doc/tidy-0.99.0/checked_by_tidy.gif", "size_i": "1367", "regex": "false"},
+	{"name_s": "/usr/share/doc/tidy-0.99.0/faq.html", "size_i": "11202", "regex": "false"},
+	{"name_s": "/usr/share/doc/tidy-0.99.0/grid.gif", "size_i": "1570", "regex": "false"},
+	{"name_s": "/usr/share/doc/tidy-0.99.0/license.html", "size_i": "1831", "regex": "false"},
+	{"name_s": "/usr/share/doc/tidy-0.99.0/pending.html", "size_i": "18137", "regex": "false"},
+	{"name_s": "/usr/share/doc/tidy-0.99.0/quickref.html", "size_i": "82878", "regex": "false"},
+	{"name_s": "/usr/share/doc/tidy-0.99.0/release-notes.html", "size_i": "75395", "regex": "false"},
+	{"name_s": "/usr/share/doc/tidy-0.99.0/tidy.css", "size_i": "6947", "regex": "false"},
+	{"name_s": "/usr/share/doc/tidy-0.99.0/tidy.gif", "size_i": "244", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/tidy.1.gz", "size_i": "9292", "regex": "false"}
+]

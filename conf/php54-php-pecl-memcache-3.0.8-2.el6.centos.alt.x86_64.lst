@@ -1,0 +1,12 @@
+[
+	{"name_s": "/opt/rh/php54/root/etc/php.d/memcache.ini", "size_i": "1518", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/lib64/php/modules/memcache.so", "size_i": "99976", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-memcache-3.0.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-memcache-3.0.8/CHANGELOG", "size_i": "10354", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-memcache-3.0.8/CREDITS", "size_i": "32", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-memcache-3.0.8/LICENSE", "size_i": "3208", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-memcache-3.0.8/README", "size_i": "5381", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-memcache-3.0.8/example.php", "size_i": "509", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/usr/share/doc/php54-php-pecl-memcache-3.0.8/memcache.php", "size_i": "29110", "regex": "false"},
+	{"name_s": "/opt/rh/php54/root/var/lib/pear/pkgxml/php-pecl-memcache.xml", "size_i": "28745", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/perl5/Unicode", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Unicode/CharName.pm", "size_i": "546872", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Unicode/String.pm", "size_i": "22599", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Unicode", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Unicode/String", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Unicode/String/String.so", "size_i": "16944", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Unicode-String-2.09", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Unicode-String-2.09/Changes", "size_i": "2150", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Unicode-String-2.09/README", "size_i": "2382", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Unicode::CharName.3pm.gz", "size_i": "2272", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Unicode::String.3pm.gz", "size_i": "5913", "regex": "false"}
+]

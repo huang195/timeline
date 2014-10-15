@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-Hook-LexWrap-0.22", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Hook-LexWrap-0.22/Changes", "size_i": "1084", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Hook-LexWrap-0.22/README", "size_i": "1520", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Hook::LexWrap.3pm.gz", "size_i": "4859", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Hook", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Hook/LexWrap.pm", "size_i": "10485", "regex": "false"}
+]

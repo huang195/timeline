@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/share/doc/perl-XML-XPathEngine-0.12", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-XPathEngine-0.12/Changes", "size_i": "3349", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-XPathEngine-0.12/README", "size_i": "417", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::XPathEngine.3pm.gz", "size_i": "4837", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::XPathEngine::Boolean.3pm.gz", "size_i": "1896", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::XPathEngine::Literal.3pm.gz", "size_i": "2174", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::XPathEngine::NodeSet.3pm.gz", "size_i": "2425", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::XPathEngine::Number.3pm.gz", "size_i": "1997", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/XPathEngine", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/XPathEngine.pm", "size_i": "37359", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/XPathEngine/Boolean.pm", "size_i": "1337", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/XPathEngine/Expr.pm", "size_i": "20080", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/XPathEngine/Function.pm", "size_i": "11059", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/XPathEngine/Literal.pm", "size_i": "2114", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/XPathEngine/LocationPath.pm", "size_i": "1128", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/XPathEngine/NodeSet.pm", "size_i": "4159", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/XPathEngine/Number.pm", "size_i": "1803", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/XPathEngine/Root.pm", "size_i": "634", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/XPathEngine/Step.pm", "size_i": "14505", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/XPathEngine/Variable.pm", "size_i": "850", "regex": "false"}
+]

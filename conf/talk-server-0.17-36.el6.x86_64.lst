@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/xinetd.d/ntalk", "size_i": "275", "regex": "false"},
+	{"name_s": "/etc/xinetd.d/talk", "size_i": "263", "regex": "false"},
+	{"name_s": "/usr/sbin/in.ntalkd", "size_i": "20624", "regex": "false"},
+	{"name_s": "/usr/sbin/in.talkd", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/in.ntalkd.8.gz", "size_i": "1743", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/in.talkd.8.gz", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ntalkd.8.gz", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/talkd.8.gz", "size_i": "13", "regex": "false"}
+]

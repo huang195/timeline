@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/werken-xpath-0.9.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/werken-xpath-0.9.4/INSTALL", "size_i": "161", "regex": "false"},
+	{"name_s": "/usr/share/doc/werken-xpath-0.9.4/LICENSE", "size_i": "2237", "regex": "false"},
+	{"name_s": "/usr/share/doc/werken-xpath-0.9.4/LIMITATIONS", "size_i": "351", "regex": "false"},
+	{"name_s": "/usr/share/doc/werken-xpath-0.9.4/README", "size_i": "3114", "regex": "false"},
+	{"name_s": "/usr/share/doc/werken-xpath-0.9.4/TODO", "size_i": "205", "regex": "false"},
+	{"name_s": "/usr/share/java/werken-xpath-0.9.4.jar", "size_i": "74973", "regex": "false"},
+	{"name_s": "/usr/share/java/werken-xpath.jar", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/java/werken.xpath.jar", "size_i": "16", "regex": "false"}
+]

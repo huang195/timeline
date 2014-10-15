@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/hesinfo", "size_i": "6752", "regex": "false"},
+	{"name_s": "/usr/share/doc/hesinfo-3.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hesinfo-3.1.0/NEWS", "size_i": "88", "regex": "false"},
+	{"name_s": "/usr/share/doc/hesinfo-3.1.0/README", "size_i": "431", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/hesinfo.1.gz", "size_i": "1790", "regex": "false"}
+]

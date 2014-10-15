@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/oldrdist", "size_i": "54472", "regex": "false"},
+	{"name_s": "/usr/bin/rdist", "size_i": "73912", "regex": "false"},
+	{"name_s": "/usr/bin/rdistd", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/sbin/rdistd", "size_i": "45080", "regex": "false"},
+	{"name_s": "/usr/share/doc/rdist-6.1.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rdist-6.1.5/README", "size_i": "8520", "regex": "false"},
+	{"name_s": "/usr/share/doc/rdist-6.1.5/rdist-eu-license.txt", "size_i": "5320", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rdist.1.gz", "size_i": "8605", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rdist.8.gz", "size_i": "611", "regex": "false"}
+]

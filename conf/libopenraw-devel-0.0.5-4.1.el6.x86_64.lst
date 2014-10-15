@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/include/libopenraw-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw/consts.h", "size_i": "2852", "regex": "false"},
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw/debug.h", "size_i": "1099", "regex": "false"},
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw/exif.h", "size_i": "5434", "regex": "false"},
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw/io.h", "size_i": "2139", "regex": "false"},
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw/libopenraw.h", "size_i": "1272", "regex": "false"},
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw/metadata.h", "size_i": "1348", "regex": "false"},
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw/rawdata.h", "size_i": "1891", "regex": "false"},
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw/rawfile.h", "size_i": "2253", "regex": "false"},
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw/thumbnails.h", "size_i": "2157", "regex": "false"},
+	{"name_s": "/usr/include/libopenraw-1.0/libopenraw/types.h", "size_i": "925", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenraw.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libopenraw-1.0.pc", "size_i": "270", "regex": "false"}
+]

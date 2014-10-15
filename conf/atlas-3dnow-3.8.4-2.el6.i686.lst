@@ -1,0 +1,20 @@
+[
+	{"name_s": "/etc/ld.so.conf.d/atlas-3dnow.conf", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/libatlas.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/libatlas.so.3.0", "size_i": "7995480", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/libcblas.so.3", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/libcblas.so.3.0", "size_i": "126952", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/libclapack.so.3", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/libclapack.so.3.0", "size_i": "92168", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/libf77blas.so.3", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/libf77blas.so.3.0", "size_i": "122072", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/liblapack.so.3", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/liblapack.so.3.0", "size_i": "4742128", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/libptcblas.so.3", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/libptcblas.so.3.0", "size_i": "127016", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/libptf77blas.so.3", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/atlas-3dnow/libptf77blas.so.3.0", "size_i": "122124", "regex": "false"},
+	{"name_s": "/usr/share/doc/atlas-3dnow-3.8.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/atlas-3dnow-3.8.4/README.RHEL", "size_i": "3249", "regex": "false"}
+]

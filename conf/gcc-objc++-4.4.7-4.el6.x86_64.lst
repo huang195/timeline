@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/libexec/gcc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/gcc/x86_64-redhat-linux", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/gcc/x86_64-redhat-linux/4.4.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/gcc/x86_64-redhat-linux/4.4.4/cc1objplus", "size_i": "10494872", "regex": "false"},
+	{"name_s": "/usr/libexec/gcc/x86_64-redhat-linux/4.4.7", "size_i": "5", "regex": "false"}
+]

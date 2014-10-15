@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/telnet", "size_i": "102904", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/telnet.1.gz", "size_i": "9208", "regex": "false"}
+]

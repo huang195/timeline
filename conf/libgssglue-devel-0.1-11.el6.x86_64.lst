@@ -1,0 +1,7 @@
+[
+	{"name_s": "/lib64/libgssglue.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/include/gssglue", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gssglue/gssapi", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gssglue/gssapi/gssapi.h", "size_i": "28721", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libgssglue.pc", "size_i": "249", "regex": "false"}
+]

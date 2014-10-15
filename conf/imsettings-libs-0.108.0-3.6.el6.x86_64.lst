@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/libimsettings-xim.so.1", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/libimsettings-xim.so.1.0.3", "size_i": "123560", "regex": "false"},
+	{"name_s": "/usr/lib64/libimsettings.so.4", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libimsettings.so.4.2.0", "size_i": "90968", "regex": "false"},
+	{"name_s": "/usr/share/doc/imsettings-libs-0.108.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/imsettings-libs-0.108.0/AUTHORS", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/doc/imsettings-libs-0.108.0/COPYING", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/imsettings-libs-0.108.0/ChangeLog", "size_i": "66963", "regex": "false"},
+	{"name_s": "/usr/share/doc/imsettings-libs-0.108.0/NEWS", "size_i": "6754", "regex": "false"},
+	{"name_s": "/usr/share/doc/imsettings-libs-0.108.0/README", "size_i": "5648", "regex": "false"}
+]

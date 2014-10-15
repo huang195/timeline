@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/share/doc/mythes-it-2.0.9l", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-it-2.0.9l/th_it_IT_AUTHORS", "size_i": "2751", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-it-2.0.9l/th_it_IT_COPYING", "size_i": "33915", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-it-2.0.9l/th_it_IT_ChangeLog", "size_i": "8826", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-it-2.0.9l/th_it_IT_INSTALL", "size_i": "88", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-it-2.0.9l/th_it_IT_README", "size_i": "8286", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-it-2.0.9l/th_it_IT_copyright_licenza.txt", "size_i": "1113", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-it-2.0.9l/th_it_IT_lettera_in_inglese.txt", "size_i": "1321", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_it_CH_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_it_CH_v2.idx", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_it_IT_v2.dat", "size_i": "2290728", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_it_IT_v2.idx", "size_i": "480415", "regex": "false"}
+]

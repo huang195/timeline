@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gtkspell.so", "size_i": "11816", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtkspell", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtkspell/class-gtkspell.html", "size_i": "10001", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtkspell/gtkspell-class-reference.html", "size_i": "2035", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtkspell/index.html", "size_i": "2468", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtkspell/index.sgml", "size_i": "823", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtkspell/pygtkspell.devhelp", "size_i": "959", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/pygtkspell/style.css", "size_i": "133", "regex": "false"}
+]

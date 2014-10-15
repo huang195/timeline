@@ -1,0 +1,21 @@
+[
+	{"name_s": "/usr/lib64/perl5/vendor_perl/WWW", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/WWW/Curl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/WWW/Curl.pm", "size_i": "10927", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/WWW/Curl/Easy.pm", "size_i": "7651", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/WWW/Curl/Form.pm", "size_i": "201", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/WWW/Curl/Multi.pm", "size_i": "381", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/WWW/Curl/Share.pm", "size_i": "1018", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/WWW", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/WWW/Curl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/WWW/Curl/Curl.so", "size_i": "69384", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/WWW/Curl/Easy", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/WWW/Curl/Easy/autosplit.ix", "size_i": "92", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/WWW/Curl/Share", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/vendor_perl/auto/WWW/Curl/Share/autosplit.ix", "size_i": "93", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-WWW-Curl-4.09", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-WWW-Curl-4.09/Changes", "size_i": "13522", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-WWW-Curl-4.09/LICENSE", "size_i": "255", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-WWW-Curl-4.09/README", "size_i": "2780", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/WWW::Curl.3pm.gz", "size_i": "6134", "regex": "false"}
+]

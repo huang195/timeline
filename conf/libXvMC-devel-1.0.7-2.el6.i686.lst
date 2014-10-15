@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/X11/extensions/XvMClib.h", "size_i": "4351", "regex": "false"},
+	{"name_s": "/usr/lib/libXvMC.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libXvMCW.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/xvmc.pc", "size_i": "236", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXvMC-devel-1.0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXvMC-devel-1.0.7/XvMC_API.txt", "size_i": "39390", "regex": "false"}
+]

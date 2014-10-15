@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/bluetooth/rfcomm.conf", "size_i": "297", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/dund", "size_i": "1206", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/pand", "size_i": "1411", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/rfcomm", "size_i": "1119", "regex": "false"},
+	{"name_s": "/etc/sysconfig/dund", "size_i": "31", "regex": "false"},
+	{"name_s": "/etc/sysconfig/pand", "size_i": "71", "regex": "false"},
+	{"name_s": "/usr/bin/dund", "size_i": "41640", "regex": "false"},
+	{"name_s": "/usr/bin/hidd", "size_i": "45416", "regex": "false"},
+	{"name_s": "/usr/bin/pand", "size_i": "41416", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dund.1.gz", "size_i": "654", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/hidd.1.gz", "size_i": "432", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/pand.1.gz", "size_i": "755", "regex": "false"}
+]

@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libguile-gnutls-extra-v-1.so", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib/libguile-gnutls-extra-v-1.so.0", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib/libguile-gnutls-extra-v-1.so.0.0.0", "size_i": "29532", "regex": "false"},
+	{"name_s": "/usr/lib/libguile-gnutls-v-1.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libguile-gnutls-v-1.so.0", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libguile-gnutls-v-1.so.0.0.0", "size_i": "139296", "regex": "false"},
+	{"name_s": "/usr/share/guile/site/gnutls", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/guile/site/gnutls.scm", "size_i": "15077", "regex": "false"},
+	{"name_s": "/usr/share/guile/site/gnutls/extra.scm", "size_i": "3188", "regex": "false"}
+]

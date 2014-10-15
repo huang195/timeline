@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/sbin/ledctl", "size_i": "48432", "regex": "false"},
+	{"name_s": "/usr/sbin/ledmon", "size_i": "52880", "regex": "false"},
+	{"name_s": "/usr/share/doc/ledmon-0.78", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ledmon-0.78/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/ledmon-0.78/README", "size_i": "1262", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/ledctl.conf.5.gz", "size_i": "2114", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ledctl.8.gz", "size_i": "4564", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/ledmon.8.gz", "size_i": "3377", "regex": "false"}
+]

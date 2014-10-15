@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/COPYING", "size_i": "11322", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/README.samples", "size_i": "1429", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/slp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/slp/example", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/slp/example/SLPClient.java", "size_i": "5240", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/slp/example/SLPDeregistration.java", "size_i": "1460", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/slp/example/SLPFindAttributes.java", "size_i": "1820", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/slp/example/SLPFindServiceTypes.java", "size_i": "1613", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/slp/example/SLPFindServices.java", "size_i": "1727", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/slp/example/SLPRegistration.java", "size_i": "1935", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/slp/example/SLPTool.java", "size_i": "5852", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/slp/example/slpMain.java", "size_i": "3400", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/wbem", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/wbem/cimclient", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/wbem/cimclient/sample", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/wbem/cimclient/sample/IndicationSubscriptionListenerSample.java", "size_i": "14103", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/wbem/cimclient/sample/IntrospectionSample.java", "size_i": "3455", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/wbem/cimclient/sample/InvokeMethodSample.java", "size_i": "5787", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/org/sblim/wbem/cimclient/sample/SimpleTestClient.java", "size_i": "4612", "regex": "false"}
+]

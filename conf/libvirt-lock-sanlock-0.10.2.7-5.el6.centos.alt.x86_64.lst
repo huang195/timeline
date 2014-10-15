@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/libvirt/qemu-sanlock.conf", "size_i": "1863", "regex": "false"},
+	{"name_s": "/usr/lib64/libvirt/lock-driver/sanlock.so", "size_i": "74480", "regex": "false"},
+	{"name_s": "/usr/sbin/virt-sanlock-cleanup", "size_i": "2083", "regex": "false"},
+	{"name_s": "/usr/share/augeas/lenses/libvirt_sanlock.aug", "size_i": "1184", "regex": "false"},
+	{"name_s": "/usr/share/augeas/lenses/tests/test_libvirt_sanlock.aug", "size_i": "328", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/virt-sanlock-cleanup.8.gz", "size_i": "2487", "regex": "false"},
+	{"name_s": "/var/lib/libvirt/sanlock", "size_i": "4096", "regex": "false"}
+]

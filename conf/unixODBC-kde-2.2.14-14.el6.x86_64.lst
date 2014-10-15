@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/ODBCConfig", "size_i": "7104", "regex": "false"},
+	{"name_s": "/usr/lib64/libodbcinstQ4.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libodbcinstQ4.so.2", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libodbcinstQ4.so.2.0.0", "size_i": "1066304", "regex": "false"},
+	{"name_s": "/usr/share/applications/ODBCConfig.desktop", "size_i": "218", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/LinuxODBC.xpm", "size_i": "1312", "regex": "false"}
+]

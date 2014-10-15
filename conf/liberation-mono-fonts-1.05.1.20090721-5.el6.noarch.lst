@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/fonts/liberation", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/liberation/LiberationMono-Bold.ttf", "size_i": "107620", "regex": "false"},
+	{"name_s": "/usr/share/fonts/liberation/LiberationMono-BoldItalic.ttf", "size_i": "120308", "regex": "false"},
+	{"name_s": "/usr/share/fonts/liberation/LiberationMono-Italic.ttf", "size_i": "126308", "regex": "false"},
+	{"name_s": "/usr/share/fonts/liberation/LiberationMono-Regular.ttf", "size_i": "110204", "regex": "false"}
+]

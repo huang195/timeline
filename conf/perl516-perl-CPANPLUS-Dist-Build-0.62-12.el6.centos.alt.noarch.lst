@@ -1,0 +1,7 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/CPANPLUS::Dist::Build.3pm.gz", "size_i": "3812", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/CPANPLUS::Dist::Build::Constants.3pm.gz", "size_i": "2066", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/CPANPLUS/Dist/Build", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/CPANPLUS/Dist/Build.pm", "size_i": "28662", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/CPANPLUS/Dist/Build/Constants.pm", "size_i": "1975", "regex": "false"}
+]

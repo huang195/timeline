@@ -1,0 +1,5 @@
+[
+	{"name_s": "/lib64/rsyslog/imgssapi.so", "size_i": "15448", "regex": "false"},
+	{"name_s": "/lib64/rsyslog/lmgssutil.so", "size_i": "10608", "regex": "false"},
+	{"name_s": "/lib64/rsyslog/omgssapi.so", "size_i": "14880", "regex": "false"}
+]

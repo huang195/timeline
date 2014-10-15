@@ -1,0 +1,18 @@
+[
+	{"name_s": "/etc/nscd.conf", "size_i": "2384", "regex": "false"},
+	{"name_s": "/etc/rc.d/init.d/nscd", "size_i": "2515", "regex": "false"},
+	{"name_s": "/etc/sysconfig/nscd", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/sbin/nscd", "size_i": "175320", "regex": "false"},
+	{"name_s": "/var/db/nscd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/db/nscd/group", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/db/nscd/hosts", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/db/nscd/passwd", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/db/nscd/services", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/run/nscd", "size_i": "4096", "regex": "false"},
+	{"name_s": "/var/run/nscd/group", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/run/nscd/hosts", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/run/nscd/nscd.pid", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/run/nscd/passwd", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/run/nscd/services", "size_i": "0", "regex": "false"},
+	{"name_s": "/var/run/nscd/socket", "size_i": "0", "regex": "false"}
+]

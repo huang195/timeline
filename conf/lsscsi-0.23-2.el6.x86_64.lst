@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/lsscsi", "size_i": "48368", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsscsi-0.23", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsscsi-0.23/AUTHORS", "size_i": "47", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsscsi-0.23/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsscsi-0.23/CREDITS", "size_i": "1334", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsscsi-0.23/ChangeLog", "size_i": "3524", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsscsi-0.23/INSTALL", "size_i": "1540", "regex": "false"},
+	{"name_s": "/usr/share/doc/lsscsi-0.23/README", "size_i": "210", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/lsscsi.8.gz", "size_i": "4204", "regex": "false"}
+]

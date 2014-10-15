@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/polkit-1/localauthority.conf.d/60-desktop-policy.conf", "size_i": "210", "regex": "false"},
+	{"name_s": "/var/lib/polkit-1/localauthority/10-vendor.d/10-desktop-policy.pkla", "size_i": "755", "regex": "false"}
+]

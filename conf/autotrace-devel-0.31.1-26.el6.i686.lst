@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/bin/autotrace-config", "size_i": "3914", "regex": "false"},
+	{"name_s": "/usr/include/autotrace", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/autotrace/autotrace.h", "size_i": "14853", "regex": "false"},
+	{"name_s": "/usr/include/autotrace/exception.h", "size_i": "933", "regex": "false"},
+	{"name_s": "/usr/include/autotrace/input.h", "size_i": "2831", "regex": "false"},
+	{"name_s": "/usr/include/autotrace/output.h", "size_i": "3913", "regex": "false"},
+	{"name_s": "/usr/include/autotrace/types.h", "size_i": "1518", "regex": "false"},
+	{"name_s": "/usr/lib/libautotrace.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/autotrace.pc", "size_i": "274", "regex": "false"},
+	{"name_s": "/usr/share/aclocal/autotrace.m4", "size_i": "6470", "regex": "false"},
+	{"name_s": "/usr/share/doc/autotrace-devel-0.31.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/autotrace-devel-0.31.1/HACKING", "size_i": "6312", "regex": "false"}
+]

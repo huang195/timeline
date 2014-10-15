@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/jzlib", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/share/jzlib-1.0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/jzlib-1.0.7/README", "size_i": "888", "regex": "false"},
+	{"name_s": "/usr/share/jzlib-1.0.7/test_deflate_inflate.java", "size_i": "2401", "regex": "false"},
+	{"name_s": "/usr/share/jzlib-1.0.7/test_dict_deflate_inflate.java", "size_i": "2471", "regex": "false"},
+	{"name_s": "/usr/share/jzlib-1.0.7/test_flush_sync.java", "size_i": "2382", "regex": "false"},
+	{"name_s": "/usr/share/jzlib-1.0.7/test_large_deflate_inflate.java", "size_i": "2913", "regex": "false"},
+	{"name_s": "/usr/share/jzlib-1.0.7/test_stream_deflate_inflate.java", "size_i": "762", "regex": "false"}
+]

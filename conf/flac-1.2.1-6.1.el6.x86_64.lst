@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/bin/flac", "size_i": "187944", "regex": "false"},
+	{"name_s": "/usr/bin/metaflac", "size_i": "107912", "regex": "false"},
+	{"name_s": "/usr/lib64/libFLAC++.so.6", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libFLAC++.so.6.2.0", "size_i": "98320", "regex": "false"},
+	{"name_s": "/usr/lib64/libFLAC.so.8", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libFLAC.so.8.2.0", "size_i": "238688", "regex": "false"},
+	{"name_s": "/usr/share/doc/flac-1.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/flac-1.2.1/AUTHORS", "size_i": "1640", "regex": "false"},
+	{"name_s": "/usr/share/doc/flac-1.2.1/COPYING.FDL", "size_i": "20403", "regex": "false"},
+	{"name_s": "/usr/share/doc/flac-1.2.1/COPYING.GPL", "size_i": "17985", "regex": "false"},
+	{"name_s": "/usr/share/doc/flac-1.2.1/COPYING.LGPL", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/flac-1.2.1/COPYING.Xiph", "size_i": "1494", "regex": "false"},
+	{"name_s": "/usr/share/doc/flac-1.2.1/README", "size_i": "10468", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/flac.1.gz", "size_i": "7076", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/metaflac.1.gz", "size_i": "4304", "regex": "false"}
+]

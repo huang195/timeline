@@ -1,0 +1,4 @@
+[
+	{"name_s": "/opt/rh/httpd24/root/usr/lib64/apr-util-1/apr_crypto_openssl-1.so", "size_i": "13960", "regex": "false"},
+	{"name_s": "/opt/rh/httpd24/root/usr/lib64/apr-util-1/apr_crypto_openssl.so", "size_i": "23", "regex": "false"}
+]

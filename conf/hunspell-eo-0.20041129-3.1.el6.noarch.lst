@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-eo-0.20041129", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-eo-0.20041129/README_eo_l3.txt", "size_i": "520", "regex": "false"},
+	{"name_s": "/usr/share/myspell/eo.aff", "size_i": "40752", "regex": "false"},
+	{"name_s": "/usr/share/myspell/eo.dic", "size_i": "261966", "regex": "false"}
+]

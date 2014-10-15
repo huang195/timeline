@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/ibus-table-wubi-1.2.0.20090715", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-table-wubi-1.2.0.20090715/AUTHORS", "size_i": "131", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-table-wubi-1.2.0.20090715/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-table-wubi-1.2.0.20090715/README", "size_i": "303", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/icons/wubi86.svg", "size_i": "7429", "regex": "false"},
+	{"name_s": "/usr/share/ibus-table/tables/wubi86.db", "size_i": "6463488", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/xdg/autostart/pulseaudio.desktop", "size_i": "3869", "regex": "false"},
+	{"name_s": "/usr/bin/start-pulseaudio-x11", "size_i": "1184", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/module-x11-bell.so", "size_i": "9848", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/module-x11-cork-request.so", "size_i": "9512", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/module-x11-publish.so", "size_i": "11896", "regex": "false"},
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/module-x11-xsmp.so", "size_i": "11224", "regex": "false"}
+]

@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/bin/eu-addr2line", "size_i": "15656", "regex": "false"},
+	{"name_s": "/usr/bin/eu-ar", "size_i": "31904", "regex": "false"},
+	{"name_s": "/usr/bin/eu-elfcmp", "size_i": "30736", "regex": "false"},
+	{"name_s": "/usr/bin/eu-elflint", "size_i": "96216", "regex": "false"},
+	{"name_s": "/usr/bin/eu-findtextrel", "size_i": "14320", "regex": "false"},
+	{"name_s": "/usr/bin/eu-make-debug-archive", "size_i": "2919", "regex": "false"},
+	{"name_s": "/usr/bin/eu-nm", "size_i": "36080", "regex": "false"},
+	{"name_s": "/usr/bin/eu-objdump", "size_i": "26808", "regex": "false"},
+	{"name_s": "/usr/bin/eu-ranlib", "size_i": "15464", "regex": "false"},
+	{"name_s": "/usr/bin/eu-readelf", "size_i": "143984", "regex": "false"},
+	{"name_s": "/usr/bin/eu-size", "size_i": "15552", "regex": "false"},
+	{"name_s": "/usr/bin/eu-strings", "size_i": "15736", "regex": "false"},
+	{"name_s": "/usr/bin/eu-strip", "size_i": "44432", "regex": "false"},
+	{"name_s": "/usr/bin/eu-unstrip", "size_i": "42840", "regex": "false"},
+	{"name_s": "/usr/share/doc/elfutils-0.152", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/elfutils-0.152/COPYING", "size_i": "18007", "regex": "false"},
+	{"name_s": "/usr/share/doc/elfutils-0.152/README", "size_i": "658", "regex": "false"},
+	{"name_s": "/usr/share/doc/elfutils-0.152/TODO", "size_i": "5215", "regex": "false"}
+]

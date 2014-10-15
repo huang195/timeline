@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/polkit-gtk-1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/polkit-gtk-1/polkitgtk", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/polkit-gtk-1/polkitgtk/polkitgtk.h", "size_i": "1069", "regex": "false"},
+	{"name_s": "/usr/include/polkit-gtk-1/polkitgtk/polkitgtktypes.h", "size_i": "1252", "regex": "false"},
+	{"name_s": "/usr/include/polkit-gtk-1/polkitgtk/polkitlockbutton.h", "size_i": "4991", "regex": "false"},
+	{"name_s": "/usr/lib/libpolkit-gtk-1.so", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/polkit-gtk-1.pc", "size_i": "236", "regex": "false"}
+]

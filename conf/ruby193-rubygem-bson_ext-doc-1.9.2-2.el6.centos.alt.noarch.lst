@@ -1,0 +1,9 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/doc/bson_ext-1.9.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/doc/bson_ext-1.9.2/rdoc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/doc/bson_ext-1.9.2/rdoc/created.rid", "size_i": "0", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/doc/bson_ext-1.9.2/ri", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/doc/bson_ext-1.9.2/ri/created.rid", "size_i": "0", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bson_ext-1.9.2/VERSION", "size_i": "5", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/bson_ext-1.9.2/bson_ext.gemspec", "size_i": "2636", "regex": "false"}
+]

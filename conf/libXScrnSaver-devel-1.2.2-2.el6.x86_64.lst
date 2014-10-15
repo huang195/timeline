@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/include/X11/extensions/scrnsaver.h", "size_i": "4217", "regex": "false"},
+	{"name_s": "/usr/lib64/libXss.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/xscrnsaver.pc", "size_i": "240", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XScreenSaverAllocInfo.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XScreenSaverGetRegistered.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XScreenSaverQueryExtension.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XScreenSaverQueryInfo.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XScreenSaverQueryVersion.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XScreenSaverRegister.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XScreenSaverSelectInput.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XScreenSaverSetAttributes.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XScreenSaverSuspend.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XScreenSaverUnregister.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XScreenSaverUnsetAttributes.3.gz", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Xss.3.gz", "size_i": "5275", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/etc/maven/fragments/mysql-connector-java", "size_i": "314", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-java-5.1.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-java-5.1.17/CHANGES", "size_i": "201195", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-java-5.1.17/COPYING", "size_i": "18122", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-java-5.1.17/docs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-java-5.1.17/docs/README.txt", "size_i": "468578", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-java-5.1.17/docs/connector-j.html", "size_i": "756559", "regex": "false"},
+	{"name_s": "/usr/share/doc/mysql-connector-java-5.1.17/docs/connector-j.pdf", "size_i": "635273", "regex": "false"},
+	{"name_s": "/usr/share/java/mysql-connector-java-5.1.17.jar", "size_i": "819803", "regex": "false"},
+	{"name_s": "/usr/share/java/mysql-connector-java.jar", "size_i": "31", "regex": "false"},
+	{"name_s": "/usr/share/maven2/poms/JPP-mysql-connector-java.pom", "size_i": "1263", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libIlmImf.so.6", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libIlmImf.so.6.0.0", "size_i": "773648", "regex": "false"},
+	{"name_s": "/usr/share/doc/OpenEXR-libs-1.6.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/OpenEXR-libs-1.6.1/AUTHORS", "size_i": "986", "regex": "false"},
+	{"name_s": "/usr/share/doc/OpenEXR-libs-1.6.1/ChangeLog", "size_i": "25875", "regex": "false"},
+	{"name_s": "/usr/share/doc/OpenEXR-libs-1.6.1/LICENSE", "size_i": "1697", "regex": "false"},
+	{"name_s": "/usr/share/doc/OpenEXR-libs-1.6.1/NEWS", "size_i": "6968", "regex": "false"},
+	{"name_s": "/usr/share/doc/OpenEXR-libs-1.6.1/README", "size_i": "2118", "regex": "false"}
+]

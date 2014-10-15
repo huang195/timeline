@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib/libnautilus-extension.so.1", "size_i": "30", "regex": "false"},
+	{"name_s": "/usr/lib/libnautilus-extension.so.1.1.0", "size_i": "34696", "regex": "false"},
+	{"name_s": "/usr/lib/nautilus", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/nautilus/extensions-2.0", "size_i": "4096", "regex": "false"}
+]

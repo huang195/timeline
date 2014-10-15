@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/plugctl", "size_i": "10880", "regex": "false"},
+	{"name_s": "/usr/bin/plugreport", "size_i": "7416", "regex": "false"},
+	{"name_s": "/usr/bin/test-amdtp", "size_i": "10992", "regex": "false"},
+	{"name_s": "/usr/bin/test-dv", "size_i": "9376", "regex": "false"},
+	{"name_s": "/usr/bin/test-mpeg2", "size_i": "9400", "regex": "false"},
+	{"name_s": "/usr/bin/test-plugs", "size_i": "6792", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/plugctl.1.gz", "size_i": "899", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/plugreport.1.gz", "size_i": "708", "regex": "false"}
+]

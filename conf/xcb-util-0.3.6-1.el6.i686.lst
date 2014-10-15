@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/lib/libxcb-atom.so.1", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-atom.so.1.0.0", "size_i": "12228", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-aux.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-aux.so.0.0.0", "size_i": "9812", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-event.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-event.so.1.0.0", "size_i": "10540", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-icccm.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-icccm.so.1.0.0", "size_i": "18064", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-image.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-image.so.0.0.0", "size_i": "13996", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-keysyms.so.1", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-keysyms.so.1.0.0", "size_i": "7052", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-property.so.1", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-property.so.1.0.0", "size_i": "5068", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-render-util.so.0", "size_i": "27", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-render-util.so.0.0.0", "size_i": "11120", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-reply.so.1", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libxcb-reply.so.1.0.0", "size_i": "5024", "regex": "false"},
+	{"name_s": "/usr/share/doc/xcb-util-0.3.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xcb-util-0.3.6/README", "size_i": "1685", "regex": "false"}
+]

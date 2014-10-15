@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-bg-4.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-bg-4.1/COPYING", "size_i": "17979", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-bg-4.1/COPYING.BULGARIAN", "size_i": "20901", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-bg-4.1/README", "size_i": "3928", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_bg_BG.dic", "size_i": "36327", "regex": "false"}
+]

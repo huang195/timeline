@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/libexpat.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libexpat.so.0.5.0", "size_i": "163968", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-expat1-1.95.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/compat-expat1-1.95.8/COPYING", "size_i": "1190", "regex": "false"}
+]

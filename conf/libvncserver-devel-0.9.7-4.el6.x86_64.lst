@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/libvncserver-config", "size_i": "1539", "regex": "false"},
+	{"name_s": "/usr/include/rfb", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/rfb/keysym.h", "size_i": "69191", "regex": "false"},
+	{"name_s": "/usr/include/rfb/rfb.h", "size_i": "36829", "regex": "false"},
+	{"name_s": "/usr/include/rfb/rfbclient.h", "size_i": "10157", "regex": "false"},
+	{"name_s": "/usr/include/rfb/rfbconfig.h", "size_i": "14835", "regex": "false"},
+	{"name_s": "/usr/include/rfb/rfbint.h", "size_i": "555", "regex": "false"},
+	{"name_s": "/usr/include/rfb/rfbproto.h", "size_i": "48442", "regex": "false"},
+	{"name_s": "/usr/include/rfb/rfbregion.h", "size_i": "1875", "regex": "false"},
+	{"name_s": "/usr/lib64/libvncclient.so", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libvncserver.so", "size_i": "21", "regex": "false"}
+]

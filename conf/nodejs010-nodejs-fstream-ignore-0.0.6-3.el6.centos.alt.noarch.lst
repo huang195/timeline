@@ -1,0 +1,14 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-ignore", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-ignore/ignore.js", "size_i": "7471", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-ignore/node_modules", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-ignore/node_modules/fstream", "size_i": "51", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-ignore/node_modules/inherits", "size_i": "52", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-ignore/node_modules/minimatch", "size_i": "53", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/fstream-ignore/package.json", "size_i": "552", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-ignore-0.0.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-ignore-0.0.6/LICENSE", "size_i": "1310", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-ignore-0.0.6/README.md", "size_i": "621", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-ignore-0.0.6/example", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-fstream-ignore-0.0.6/example/basic.js", "size_i": "351", "regex": "false"}
+]

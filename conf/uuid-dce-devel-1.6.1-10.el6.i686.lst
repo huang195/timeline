@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/include/uuid_dce.h", "size_i": "3378", "regex": "false"},
+	{"name_s": "/usr/lib/libossp-uuid_dce.so", "size_i": "27", "regex": "false"}
+]

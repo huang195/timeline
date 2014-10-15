@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/67-smc-rachana.conf", "size_i": "52", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/67-smc-rachana.conf", "size_i": "426", "regex": "false"},
+	{"name_s": "/usr/share/fonts/smc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/smc/Rachana_04.ttf", "size_i": "383408", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/stunbdc", "size_i": "40336", "regex": "false"},
+	{"name_s": "/usr/bin/stund", "size_i": "36224", "regex": "false"},
+	{"name_s": "/usr/lib64/gstreamer-0.10/libgstnice.so", "size_i": "17680", "regex": "false"},
+	{"name_s": "/usr/lib64/libnice.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libnice.so.0.5.0", "size_i": "152000", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnice-0.0.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnice-0.0.9/COPYING", "size_i": "237", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnice-0.0.9/COPYING.LGPL", "size_i": "26527", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnice-0.0.9/COPYING.MPL", "size_i": "25657", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnice-0.0.9/NEWS", "size_i": "3557", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnice-0.0.9/README", "size_i": "1289", "regex": "false"}
+]

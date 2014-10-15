@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/bin/annotate", "size_i": "8528", "regex": "false"},
+	{"name_s": "/usr/bin/bdftogd", "size_i": "4006", "regex": "false"},
+	{"name_s": "/usr/bin/gd2copypal", "size_i": "6016", "regex": "false"},
+	{"name_s": "/usr/bin/gd2togif", "size_i": "5752", "regex": "false"},
+	{"name_s": "/usr/bin/gd2topng", "size_i": "6872", "regex": "false"},
+	{"name_s": "/usr/bin/gdcmpgif", "size_i": "6864", "regex": "false"},
+	{"name_s": "/usr/bin/gdparttopng", "size_i": "6872", "regex": "false"},
+	{"name_s": "/usr/bin/gdtopng", "size_i": "5752", "regex": "false"},
+	{"name_s": "/usr/bin/giftogd2", "size_i": "6008", "regex": "false"},
+	{"name_s": "/usr/bin/pngtogd", "size_i": "5752", "regex": "false"},
+	{"name_s": "/usr/bin/pngtogd2", "size_i": "6008", "regex": "false"},
+	{"name_s": "/usr/bin/webpng", "size_i": "9296", "regex": "false"}
+]

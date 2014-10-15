@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/afm2tfm", "size_i": "38448", "regex": "false"},
+	{"name_s": "/usr/bin/ttf2afm", "size_i": "33736", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/afm2tfm.1.gz", "size_i": "564", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ttf2afm.1.gz", "size_i": "937", "regex": "false"}
+]

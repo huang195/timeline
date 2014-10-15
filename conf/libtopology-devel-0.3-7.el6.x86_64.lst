@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/include/topology.h", "size_i": "7337", "regex": "false"},
+	{"name_s": "/usr/lib64/libtopology.so", "size_i": "16", "regex": "false"}
+]

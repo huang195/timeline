@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/rc.d/init.d/srpd", "size_i": "2431", "regex": "false"},
+	{"name_s": "/etc/srp_daemon.conf", "size_i": "385", "regex": "false"},
+	{"name_s": "/usr/sbin/ibsrpdm", "size_i": "13448", "regex": "false"},
+	{"name_s": "/usr/sbin/run_srp_daemon", "size_i": "3205", "regex": "false"},
+	{"name_s": "/usr/sbin/srp_daemon", "size_i": "50584", "regex": "false"},
+	{"name_s": "/usr/sbin/srp_daemon.sh", "size_i": "2836", "regex": "false"},
+	{"name_s": "/usr/share/doc/srptools-0.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/srptools-0.0.4/COPYING", "size_i": "19759", "regex": "false"},
+	{"name_s": "/usr/share/doc/srptools-0.0.4/ChangeLog", "size_i": "2321", "regex": "false"},
+	{"name_s": "/usr/share/doc/srptools-0.0.4/NEWS", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/share/doc/srptools-0.0.4/README", "size_i": "3145", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ibsrpdm.1.gz", "size_i": "417", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/srp_daemon.1.gz", "size_i": "2043", "regex": "false"}
+]

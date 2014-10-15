@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/share/man/man3/Params::Check.3pm.gz", "size_i": "5901", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Params", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Params/Check.pm", "size_i": "19738", "regex": "false"}
+]

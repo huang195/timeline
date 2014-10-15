@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/include/xorg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/xorg/xf86-mouse-properties.h", "size_i": "1489", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/xorg-mouse.pc", "size_i": "136", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-mouse-devel-1.8.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-mouse-devel-1.8.1/COPYING", "size_i": "7258", "regex": "false"}
+]

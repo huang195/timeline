@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/include/gnome-menus", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gnome-menus/gmenu-tree.h", "size_i": "6014", "regex": "false"},
+	{"name_s": "/usr/lib64/libgnome-menu.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/libgnome-menu.pc", "size_i": "249", "regex": "false"}
+]

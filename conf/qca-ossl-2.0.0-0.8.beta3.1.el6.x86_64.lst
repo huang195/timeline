@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/qt4/plugins/crypto", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/qt4/plugins/crypto/libqca-ossl.so", "size_i": "325536", "regex": "false"},
+	{"name_s": "/usr/share/doc/qca-ossl-2.0.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/qca-ossl-2.0.0/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/qca-ossl-2.0.0/README", "size_i": "848", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/dracut-fips-aesni-004", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/dracut-fips-aesni-004/COPYING", "size_i": "17982", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/02fips-aesni", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/02fips-aesni/installkernel", "size_i": "305", "regex": "false"}
+]

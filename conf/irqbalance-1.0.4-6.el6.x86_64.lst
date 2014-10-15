@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/rc.d/init.d/irqbalance", "size_i": "1938", "regex": "false"},
+	{"name_s": "/etc/sysconfig/irqbalance", "size_i": "903", "regex": "false"},
+	{"name_s": "/usr/sbin/irqbalance", "size_i": "44048", "regex": "false"},
+	{"name_s": "/usr/share/doc/irqbalance-1.0.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/irqbalance-1.0.4/AUTHORS", "size_i": "76", "regex": "false"},
+	{"name_s": "/usr/share/doc/irqbalance-1.0.4/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/irqbalance.1.gz", "size_i": "1691", "regex": "false"}
+]

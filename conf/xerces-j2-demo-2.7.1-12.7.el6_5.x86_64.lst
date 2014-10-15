@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/gcj/xerces-j2/xerces-j2-samples.jar.db", "size_i": "8192", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/xerces-j2/xerces-j2-samples.jar.so", "size_i": "1070192", "regex": "false"},
+	{"name_s": "/usr/share/xerces-j2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/xerces-j2/data", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/xerces-j2/data/personal-schema.xml", "size_i": "1206", "regex": "false"},
+	{"name_s": "/usr/share/xerces-j2/data/personal.dtd", "size_i": "619", "regex": "false"},
+	{"name_s": "/usr/share/xerces-j2/data/personal.xml", "size_i": "1145", "regex": "false"},
+	{"name_s": "/usr/share/xerces-j2/data/personal.xsd", "size_i": "2139", "regex": "false"},
+	{"name_s": "/usr/share/xerces-j2/xerces-j2-samples.jar", "size_i": "167728", "regex": "false"}
+]

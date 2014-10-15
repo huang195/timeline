@@ -1,0 +1,10 @@
+[
+	{"name_s": "/etc/yum/aliases.conf", "size_i": "1770", "regex": "false"},
+	{"name_s": "/etc/yum/pluginconf.d/aliases.conf", "size_i": "315", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/aliases.py", "size_i": "5047", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/aliases.pyc", "size_i": "5724", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/aliases.pyo", "size_i": "5724", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-aliases-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-aliases-1.1.30/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/yum-aliases.1.gz", "size_i": "1047", "regex": "false"}
+]

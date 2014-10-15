@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/doc/quagga-contrib-0.99.15", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/quagga-contrib-0.99.15/tools", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/quagga-contrib-0.99.15/tools/mrlg.cgi", "size_i": "9206", "regex": "false"},
+	{"name_s": "/usr/share/doc/quagga-contrib-0.99.15/tools/multiple-bgpd.sh", "size_i": "2001", "regex": "false"},
+	{"name_s": "/usr/share/doc/quagga-contrib-0.99.15/tools/rrcheck.pl", "size_i": "2940", "regex": "false"},
+	{"name_s": "/usr/share/doc/quagga-contrib-0.99.15/tools/rrlookup.pl", "size_i": "2864", "regex": "false"},
+	{"name_s": "/usr/share/doc/quagga-contrib-0.99.15/tools/rrlookup.pl.perl_pth", "size_i": "2871", "regex": "false"},
+	{"name_s": "/usr/share/doc/quagga-contrib-0.99.15/tools/zc.pl", "size_i": "2779", "regex": "false"},
+	{"name_s": "/usr/share/doc/quagga-contrib-0.99.15/tools/zebra.el", "size_i": "3200", "regex": "false"}
+]

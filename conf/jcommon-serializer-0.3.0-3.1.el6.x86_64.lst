@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/gcj/jcommon-serializer", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/jcommon-serializer/jcommon-serializer.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/jcommon-serializer/jcommon-serializer.jar.so", "size_i": "95528", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/jcommon-serializer/libserializer.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/jcommon-serializer/libserializer.jar.so", "size_i": "78720", "regex": "false"},
+	{"name_s": "/usr/share/doc/jcommon-serializer-0.3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jcommon-serializer-0.3.0/ChangeLog.txt", "size_i": "637", "regex": "false"},
+	{"name_s": "/usr/share/doc/jcommon-serializer-0.3.0/README.txt", "size_i": "2385", "regex": "false"},
+	{"name_s": "/usr/share/doc/jcommon-serializer-0.3.0/licence-LGPL.txt", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/java/jcommon-serializer.jar", "size_i": "23129", "regex": "false"},
+	{"name_s": "/usr/share/java/libserializer.jar", "size_i": "21748", "regex": "false"}
+]

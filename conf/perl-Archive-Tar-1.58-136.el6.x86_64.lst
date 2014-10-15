@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/bin/ptar", "size_i": "2788", "regex": "false"},
+	{"name_s": "/usr/bin/ptardiff", "size_i": "2514", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ptar.1.gz", "size_i": "2108", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ptardiff.1.gz", "size_i": "2113", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Archive::Tar.3pm.gz", "size_i": "13005", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Archive::Tar::File.3pm.gz", "size_i": "3919", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Archive/Tar", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Archive/Tar.pm", "size_i": "68706", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Archive/Tar/Constant.pm", "size_i": "3609", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Archive/Tar/File.pm", "size_i": "16865", "regex": "false"}
+]

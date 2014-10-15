@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/sbin/vboxgetty", "size_i": "65672", "regex": "false"},
+	{"name_s": "/usr/sbin/vboxputty", "size_i": "9", "regex": "false"},
+	{"name_s": "/usr/share/doc/isdn4k-utils-vboxgetty-3.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/isdn4k-utils-vboxgetty-3.2/vboxgetty.conf.example", "size_i": "791", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/vboxgetty.conf.5.gz", "size_i": "1496", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/vboxgetty.8.gz", "size_i": "1483", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/vboxputty.8.gz", "size_i": "744", "regex": "false"}
+]

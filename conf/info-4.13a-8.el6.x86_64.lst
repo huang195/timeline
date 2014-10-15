@@ -1,0 +1,14 @@
+[
+	{"name_s": "/sbin/install-info", "size_i": "40960", "regex": "false"},
+	{"name_s": "/usr/bin/info", "size_i": "180968", "regex": "false"},
+	{"name_s": "/usr/bin/infokey", "size_i": "20352", "regex": "false"},
+	{"name_s": "/usr/share/doc/info-4.13a", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/info-4.13a/COPYING", "size_i": "35066", "regex": "false"},
+	{"name_s": "/usr/share/info/dir", "size_i": "754", "regex": "false"},
+	{"name_s": "/usr/share/info/info-stnd.info.gz", "size_i": "26053", "regex": "false"},
+	{"name_s": "/usr/share/info/info.info.gz", "size_i": "20793", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/info.1.gz", "size_i": "1299", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/infokey.1.gz", "size_i": "749", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/install-info.1.gz", "size_i": "1518", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/info.5.gz", "size_i": "970", "regex": "false"}
+]

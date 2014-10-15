@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/mythes-sv-1.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-sv-1.2/Info-en.txt", "size_i": "1086", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_sv_FI_v2.dat", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_sv_FI_v2.idx", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_sv_SE_v2.dat", "size_i": "492059", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_sv_SE_v2.idx", "size_i": "245405", "regex": "false"}
+]

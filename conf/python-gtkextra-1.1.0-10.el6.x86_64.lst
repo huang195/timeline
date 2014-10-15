@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/lib64/pkgconfig/python-gtkextra.pc", "size_i": "487", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gtkextra", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gtkextra/__init__.py", "size_i": "1252", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gtkextra/__init__.pyc", "size_i": "1320", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gtkextra/__init__.pyo", "size_i": "1320", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gtkextra/_config.py", "size_i": "335", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gtkextra/_config.pyc", "size_i": "476", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gtkextra/_config.pyo", "size_i": "476", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/gtk-2.0/gtkextra/_gtkextramodule.so", "size_i": "330768", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-gtkextra-1.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-gtkextra-1.1.0/AUTHORS", "size_i": "313", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-gtkextra-1.1.0/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-gtkextra-1.1.0/ChangeLog", "size_i": "297", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-gtkextra-1.1.0/README", "size_i": "193", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/gtkextra-addons.defs", "size_i": "841", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/gtkextra-types.defs", "size_i": "17117", "regex": "false"},
+	{"name_s": "/usr/share/pygtk/2.0/defs/gtkextra.defs", "size_i": "120400", "regex": "false"}
+]

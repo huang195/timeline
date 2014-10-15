@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/libexec/ibus-engine-sayura", "size_i": "14040", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-sayura-1.2.99.20100209", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-sayura-1.2.99.20100209/AUTHORS", "size_i": "152", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-sayura-1.2.99.20100209/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/ibus-sayura-1.2.99.20100209/README", "size_i": "56", "regex": "false"},
+	{"name_s": "/usr/share/ibus-sayura", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ibus-sayura/icons", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ibus-sayura/icons/ibus-sayura.png", "size_i": "757", "regex": "false"},
+	{"name_s": "/usr/share/ibus/component/sayura.xml", "size_i": "800", "regex": "false"},
+	{"name_s": "/usr/share/locale/zh_CN/LC_MESSAGES/ibus-sayura.mo", "size_i": "409", "regex": "false"}
+]

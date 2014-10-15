@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/libid3tag.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libid3tag.so.0.3.0", "size_i": "106376", "regex": "false"},
+	{"name_s": "/usr/share/doc/libid3tag-0.15.1b", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libid3tag-0.15.1b/CHANGES", "size_i": "2831", "regex": "false"},
+	{"name_s": "/usr/share/doc/libid3tag-0.15.1b/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/libid3tag-0.15.1b/COPYRIGHT", "size_i": "923", "regex": "false"},
+	{"name_s": "/usr/share/doc/libid3tag-0.15.1b/CREDITS", "size_i": "765", "regex": "false"},
+	{"name_s": "/usr/share/doc/libid3tag-0.15.1b/README", "size_i": "3421", "regex": "false"},
+	{"name_s": "/usr/share/doc/libid3tag-0.15.1b/TODO", "size_i": "278", "regex": "false"}
+]

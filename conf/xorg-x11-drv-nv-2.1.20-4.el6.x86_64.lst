@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/nv_drv.so", "size_i": "171016", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-nv-2.1.20", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-nv-2.1.20/COPYING", "size_i": "3363", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-drv-nv-2.1.20/README.G80", "size_i": "557", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/nv.4.gz", "size_i": "3098", "regex": "false"}
+]

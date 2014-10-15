@@ -1,0 +1,8 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/ExtUtils::Install.3pm.gz", "size_i": "5618", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/ExtUtils::Installed.3pm.gz", "size_i": "3892", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/ExtUtils::Packlist.3pm.gz", "size_i": "3339", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/Install.pm", "size_i": "40627", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/Installed.pm", "size_i": "14367", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/ExtUtils/Packlist.pm", "size_i": "8565", "regex": "false"}
+]

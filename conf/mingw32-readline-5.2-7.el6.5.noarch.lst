@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/history.dll", "size_i": "136987", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/bin/readline.dll", "size_i": "555679", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/readline", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/readline/chardefs.h", "size_i": "4684", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/readline/history.h", "size_i": "10207", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/readline/keymaps.h", "size_i": "3529", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/readline/readline.h", "size_i": "34515", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/readline/rlconf.h", "size_i": "2305", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/readline/rlstdc.h", "size_i": "1503", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/readline/rltypedefs.h", "size_i": "2977", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/include/readline/tilde.h", "size_i": "3167", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libhistory.dll.a", "size_i": "39548", "regex": "false"},
+	{"name_s": "/usr/i686-pc-mingw32/sys-root/mingw/lib/libreadline.dll.a", "size_i": "363518", "regex": "false"}
+]

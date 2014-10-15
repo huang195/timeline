@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/glxgears", "size_i": "19576", "regex": "false"},
+	{"name_s": "/usr/bin/glxinfo", "size_i": "24384", "regex": "false"},
+	{"name_s": "/usr/bin/xdriinfo", "size_i": "7032", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xdriinfo.1.gz", "size_i": "518", "regex": "false"}
+]

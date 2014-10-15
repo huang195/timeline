@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-smc-meera.conf", "size_i": "52", "regex": "false"},
+	{"name_s": "/etc/fonts/conf.d/90-smc-meera.conf", "size_i": "50", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-smc-meera.conf", "size_i": "693", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/90-smc-meera.conf", "size_i": "494", "regex": "false"},
+	{"name_s": "/usr/share/fonts/smc", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/smc/Meera.ttf", "size_i": "334528", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/bin/lemon", "size_i": "64680", "regex": "false"},
+	{"name_s": "/usr/share/lemon", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/lemon/lempar.c", "size_i": "27773", "regex": "false"}
+]

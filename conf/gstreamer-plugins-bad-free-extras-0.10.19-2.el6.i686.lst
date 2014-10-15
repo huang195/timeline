@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib/gstreamer-0.10/libgstfbdevsink.so", "size_i": "12516", "regex": "false"},
+	{"name_s": "/usr/lib/gstreamer-0.10/libgstsdl.so", "size_i": "30940", "regex": "false"}
+]

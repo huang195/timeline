@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libsss_idmap.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libsss_idmap.so.0.0.1", "size_i": "13004", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-1.9.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-1.9.2/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsss_idmap-1.9.2/COPYING.LESSER", "size_i": "7643", "regex": "false"}
+]

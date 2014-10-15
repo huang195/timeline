@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/java/jss4.jar", "size_i": "23", "regex": "false"},
+	{"name_s": "/usr/lib64/jss/jss4-4.2.6.jar", "size_i": "700070", "regex": "false"},
+	{"name_s": "/usr/lib64/jss/jss4.jar", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/jss/libjss4.so", "size_i": "196368", "regex": "false"},
+	{"name_s": "/usr/share/doc/jss-4.2.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jss-4.2.6/MPL-1.1.txt", "size_i": "25755", "regex": "false"},
+	{"name_s": "/usr/share/doc/jss-4.2.6/gpl.txt", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/jss-4.2.6/jss.html", "size_i": "4680", "regex": "false"},
+	{"name_s": "/usr/share/doc/jss-4.2.6/lgpl.txt", "size_i": "26436", "regex": "false"}
+]

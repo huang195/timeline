@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libXaw.so.7", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/lib64/libXaw7.so.7", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib64/libXaw7.so.7.0.0", "size_i": "409912", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXaw-1.0.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXaw-1.0.11/COPYING", "size_i": "7372", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXaw-1.0.11/ChangeLog", "size_i": "61068", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXaw-1.0.11/README", "size_i": "729", "regex": "false"}
+]

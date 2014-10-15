@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libXss.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/libXss.so.1.0.0", "size_i": "8844", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXScrnSaver-1.2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXScrnSaver-1.2.2/COPYING", "size_i": "2591", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXScrnSaver-1.2.2/ChangeLog", "size_i": "21873", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXScrnSaver-1.2.2/README", "size_i": "700", "regex": "false"}
+]

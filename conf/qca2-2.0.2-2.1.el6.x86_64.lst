@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/qcatool2", "size_i": "277704", "regex": "false"},
+	{"name_s": "/usr/lib64/libqca.so.2", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libqca.so.2.0", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libqca.so.2.0.2", "size_i": "1070248", "regex": "false"},
+	{"name_s": "/usr/share/doc/qca2-2.0.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/qca2-2.0.2/COPYING", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/qca2-2.0.2/README", "size_i": "2554", "regex": "false"},
+	{"name_s": "/usr/share/doc/qca2-2.0.2/TODO", "size_i": "4572", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/qcatool2.1.gz", "size_i": "1970", "regex": "false"}
+]

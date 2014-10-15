@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/bin/pinentry-gtk", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/bin/pinentry-gtk-2", "size_i": "103896", "regex": "false"}
+]

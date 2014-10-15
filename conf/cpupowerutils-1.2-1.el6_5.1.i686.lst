@@ -1,0 +1,21 @@
+[
+	{"name_s": "/etc/cpufreq-bench.conf", "size_i": "175", "regex": "false"},
+	{"name_s": "/usr/bin/cpufreq-bench_plot.sh", "size_i": "3138", "regex": "false"},
+	{"name_s": "/usr/bin/cpupower", "size_i": "49080", "regex": "false"},
+	{"name_s": "/usr/bin/turbostat", "size_i": "38848", "regex": "false"},
+	{"name_s": "/usr/bin/x86_energy_perf_policy", "size_i": "7292", "regex": "false"},
+	{"name_s": "/usr/lib/libcpupower.so.0", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libcpupower.so.0.0.0", "size_i": "12288", "regex": "false"},
+	{"name_s": "/usr/sbin/cpufreq-bench", "size_i": "13516", "regex": "false"},
+	{"name_s": "/usr/share/doc/packages/cpupower", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/packages/cpupower/README-BENCH", "size_i": "4673", "regex": "false"},
+	{"name_s": "/usr/share/doc/packages/cpupower/cpufreq-bench_script.sh", "size_i": "4098", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cpupower-frequency-info.1.gz", "size_i": "1030", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cpupower-frequency-set.1.gz", "size_i": "884", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cpupower-info.1.gz", "size_i": "397", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cpupower-monitor.1.gz", "size_i": "2628", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cpupower-set.1.gz", "size_i": "1484", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/cpupower.1.gz", "size_i": "820", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/turbostat.8.gz", "size_i": "4204", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/x86_energy_perf_policy.8.gz", "size_i": "1293", "regex": "false"}
+]

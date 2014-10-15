@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/bin/testpattern", "size_i": "56696", "regex": "false"},
+	{"name_s": "/usr/share/gutenprint/samples/colorbars4.png", "size_i": "6732", "regex": "false"},
+	{"name_s": "/usr/share/gutenprint/samples/colorsweep.png", "size_i": "40203", "regex": "false"},
+	{"name_s": "/usr/share/gutenprint/samples/extended.sample", "size_i": "5160", "regex": "false"},
+	{"name_s": "/usr/share/gutenprint/samples/profile.jpg", "size_i": "598930", "regex": "false"},
+	{"name_s": "/usr/share/gutenprint/samples/testpattern.sample", "size_i": "7844", "regex": "false"}
+]

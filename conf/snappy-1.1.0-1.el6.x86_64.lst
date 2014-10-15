@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/lib64/libsnappy.so.1", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib64/libsnappy.so.1.1.4", "size_i": "19848", "regex": "false"},
+	{"name_s": "/usr/share/doc/snappy-1.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/snappy-1.1.0/AUTHORS", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/share/doc/snappy-1.1.0/COPYING", "size_i": "1475", "regex": "false"},
+	{"name_s": "/usr/share/doc/snappy-1.1.0/ChangeLog", "size_i": "85231", "regex": "false"},
+	{"name_s": "/usr/share/doc/snappy-1.1.0/NEWS", "size_i": "3266", "regex": "false"},
+	{"name_s": "/usr/share/doc/snappy-1.1.0/README", "size_i": "5727", "regex": "false"}
+]

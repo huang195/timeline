@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libxkbfile.so.1", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/libxkbfile.so.1.0.2", "size_i": "150768", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxkbfile-1.0.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxkbfile-1.0.6/COPYING", "size_i": "3329", "regex": "false"},
+	{"name_s": "/usr/share/doc/libxkbfile-1.0.6/ChangeLog", "size_i": "12362", "regex": "false"}
+]

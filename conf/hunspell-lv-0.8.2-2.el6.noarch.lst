@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-lv-0.8.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-lv-0.8.2/README_lv_LV.txt", "size_i": "10816", "regex": "false"},
+	{"name_s": "/usr/share/myspell/lv_LV.aff", "size_i": "60895", "regex": "false"},
+	{"name_s": "/usr/share/myspell/lv_LV.dic", "size_i": "2190614", "regex": "false"}
+]

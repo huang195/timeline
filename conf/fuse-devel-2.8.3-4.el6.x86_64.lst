@@ -1,0 +1,16 @@
+[
+	{"name_s": "/lib64/libfuse.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/lib64/libulockmgr.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/include/fuse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/fuse.h", "size_i": "246", "regex": "false"},
+	{"name_s": "/usr/include/fuse/cuse_lowlevel.h", "size_i": "2576", "regex": "false"},
+	{"name_s": "/usr/include/fuse/fuse.h", "size_i": "30121", "regex": "false"},
+	{"name_s": "/usr/include/fuse/fuse_common.h", "size_i": "7872", "regex": "false"},
+	{"name_s": "/usr/include/fuse/fuse_common_compat.h", "size_i": "714", "regex": "false"},
+	{"name_s": "/usr/include/fuse/fuse_compat.h", "size_i": "7945", "regex": "false"},
+	{"name_s": "/usr/include/fuse/fuse_lowlevel.h", "size_i": "43508", "regex": "false"},
+	{"name_s": "/usr/include/fuse/fuse_lowlevel_compat.h", "size_i": "6849", "regex": "false"},
+	{"name_s": "/usr/include/fuse/fuse_opt.h", "size_i": "7483", "regex": "false"},
+	{"name_s": "/usr/include/ulockmgr.h", "size_i": "679", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/fuse.pc", "size_i": "226", "regex": "false"}
+]

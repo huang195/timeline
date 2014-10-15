@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/perl-B-Keywords-1.09", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-B-Keywords-1.09/Changes", "size_i": "1500", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-B-Keywords-1.09/LICENSE", "size_i": "300", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/B::Keywords.3pm.gz", "size_i": "3041", "regex": "false"},
+	{"name_s": "/usr/share/perl5/B", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/B/Keywords.pm", "size_i": "8150", "regex": "false"}
+]

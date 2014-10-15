@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/firmware/iwlwifi-6000g2a-5.ucode", "size_i": "444128", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl6000g2a-firmware-17.168.5.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl6000g2a-firmware-17.168.5.3/LICENSE", "size_i": "2046", "regex": "false"},
+	{"name_s": "/usr/share/doc/iwl6000g2a-firmware-17.168.5.3/README", "size_i": "4799", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/perl-XML-TreeBuilder-3.09", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-TreeBuilder-3.09/Changes", "size_i": "549", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-XML-TreeBuilder-3.09/README", "size_i": "1378", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::Element.3pm.gz", "size_i": "2292", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/XML::TreeBuilder.3pm.gz", "size_i": "3313", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/Element.pm", "size_i": "2852", "regex": "false"},
+	{"name_s": "/usr/share/perl5/XML/TreeBuilder.pm", "size_i": "8997", "regex": "false"}
+]

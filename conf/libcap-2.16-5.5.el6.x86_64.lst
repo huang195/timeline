@@ -1,0 +1,15 @@
+[
+	{"name_s": "/lib64/libcap.so.2", "size_i": "14", "regex": "false"},
+	{"name_s": "/lib64/libcap.so.2.16", "size_i": "16600", "regex": "false"},
+	{"name_s": "/lib64/security/pam_cap.so", "size_i": "7504", "regex": "false"},
+	{"name_s": "/usr/sbin/capsh", "size_i": "12904", "regex": "false"},
+	{"name_s": "/usr/sbin/getcap", "size_i": "6776", "regex": "false"},
+	{"name_s": "/usr/sbin/getpcaps", "size_i": "5832", "regex": "false"},
+	{"name_s": "/usr/sbin/setcap", "size_i": "7520", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcap-2.16", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcap-2.16/License", "size_i": "2050", "regex": "false"},
+	{"name_s": "/usr/share/doc/libcap-2.16/capability.notes", "size_i": "2519", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/capsh.1.gz", "size_i": "1711", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/getcap.8.gz", "size_i": "416", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/setcap.8.gz", "size_i": "605", "regex": "false"}
+]

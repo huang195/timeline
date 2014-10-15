@@ -1,0 +1,13 @@
+[
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/ctype", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/ctype/ctf.js", "size_i": "5834", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/ctype/ctio.js", "size_i": "43551", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/ctype/ctype.js", "size_i": "25257", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/lib/node_modules/ctype/package.json", "size_i": "361", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-ctype-0.5.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-ctype-0.5.3/CHANGELOG", "size_i": "2057", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-ctype-0.5.3/LICENSE", "size_i": "1293", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-ctype-0.5.3/README", "size_i": "2844", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/doc/nodejs010-nodejs-ctype-0.5.3/README.old", "size_i": "10142", "regex": "false"},
+	{"name_s": "/opt/rh/nodejs010/root/usr/share/man/man3/ctio.3.gz", "size_i": "2481", "regex": "false"}
+]

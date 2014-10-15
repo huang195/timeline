@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-mi-0.20080630", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-mi-0.20080630/mi.LICENSE", "size_i": "1449", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-mi-0.20080630/mi.README", "size_i": "251", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_mi_NZ.dic", "size_i": "6211", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/rc.d/init.d/rngd", "size_i": "1808", "regex": "false"},
+	{"name_s": "/etc/sysconfig/rngd", "size_i": "41", "regex": "false"},
+	{"name_s": "/sbin/rngd", "size_i": "14128", "regex": "false"},
+	{"name_s": "/usr/bin/rngtest", "size_i": "13328", "regex": "false"},
+	{"name_s": "/usr/share/doc/rng-tools-2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rng-tools-2/AUTHORS", "size_i": "91", "regex": "false"},
+	{"name_s": "/usr/share/doc/rng-tools-2/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/rng-tools-2/ChangeLog", "size_i": "5240", "regex": "false"},
+	{"name_s": "/usr/share/doc/rng-tools-2/NEWS", "size_i": "280", "regex": "false"},
+	{"name_s": "/usr/share/doc/rng-tools-2/README", "size_i": "40", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rngtest.1.gz", "size_i": "1263", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rngd.8.gz", "size_i": "1138", "regex": "false"}
+]

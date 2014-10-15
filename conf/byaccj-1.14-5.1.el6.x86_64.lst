@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/byaccj", "size_i": "107208", "regex": "false"},
+	{"name_s": "/usr/share/doc/byaccj-1.14", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/byaccj-1.14/ACKNOWLEDGEMEN", "size_i": "771", "regex": "false"},
+	{"name_s": "/usr/share/doc/byaccj-1.14/README", "size_i": "117", "regex": "false"},
+	{"name_s": "/usr/share/doc/byaccj-1.14/readme", "size_i": "1148", "regex": "false"},
+	{"name_s": "/usr/share/doc/byaccj-1.14/tf.y", "size_i": "2166", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/yacc.cat.gz", "size_i": "1073", "regex": "false"}
+]

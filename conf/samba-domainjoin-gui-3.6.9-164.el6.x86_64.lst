@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/sbin/netdomjoin-gui", "size_i": "38896", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/samba", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/samba/logo-small.png", "size_i": "4485", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/samba/logo.png", "size_i": "9329", "regex": "false"},
+	{"name_s": "/usr/share/pixmaps/samba/samba.ico", "size_i": "1406", "regex": "false"}
+]

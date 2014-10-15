@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/libopenscap_sce.so.8", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libopenscap_sce.so.8.2.3", "size_i": "34624", "regex": "false"}
+]

@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/libexec/gvfsd-obexftp", "size_i": "161728", "regex": "false"},
+	{"name_s": "/usr/share/gvfs/mounts/obexftp.mount", "size_i": "66", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/nss_compat_ossl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/nss_compat_ossl/nss_compat_ossl.h", "size_i": "19778", "regex": "false"},
+	{"name_s": "/usr/lib/libnss_compat_ossl.so", "size_i": "27", "regex": "false"}
+]

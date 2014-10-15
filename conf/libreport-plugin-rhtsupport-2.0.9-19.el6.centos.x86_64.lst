@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/libreport/events.d/rhtsupport_event.conf", "size_i": "271", "regex": "false"},
+	{"name_s": "/etc/libreport/events/report_RHTSupport.xml", "size_i": "22521", "regex": "false"},
+	{"name_s": "/etc/libreport/events/report_RHTSupportAttach.xml", "size_i": "23001", "regex": "false"},
+	{"name_s": "/etc/libreport/plugins/rhtsupport.conf", "size_i": "417", "regex": "false"},
+	{"name_s": "/usr/bin/reporter-rhtsupport", "size_i": "28168", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/reporter-rhtsupport.1.gz", "size_i": "1173", "regex": "false"}
+]

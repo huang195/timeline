@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/Magic_file_extensions-0.1-py2.6.egg-info", "size_i": "227", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/magic.so", "size_i": "13744", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-magic-5.04", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-magic-5.04/COPYING", "size_i": "1650", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-magic-5.04/README", "size_i": "810", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-magic-5.04/example.py", "size_i": "226", "regex": "false"}
+]

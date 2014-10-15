@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib/sasl2/libsql.so", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/sasl2/libsql.so.2", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/sasl2/libsql.so.2.0.23", "size_i": "26140", "regex": "false"}
+]

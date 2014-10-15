@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/ldap.ini", "size_i": "49", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/ldap.so", "size_i": "53064", "regex": "false"}
+]

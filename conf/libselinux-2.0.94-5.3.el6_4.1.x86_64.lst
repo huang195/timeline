@@ -1,0 +1,5 @@
+[
+	{"name_s": "/lib64/libselinux.so.1", "size_i": "122040", "regex": "false"},
+	{"name_s": "/sbin/matchpathcon", "size_i": "8048", "regex": "false"},
+	{"name_s": "/var/run/setrans", "size_i": "4096", "regex": "false"}
+]

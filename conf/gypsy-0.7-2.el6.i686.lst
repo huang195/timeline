@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/dbus-1/system.d/Gypsy.conf", "size_i": "334", "regex": "false"},
+	{"name_s": "/usr/lib/libgypsy.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libgypsy.so.0.0.0", "size_i": "28420", "regex": "false"},
+	{"name_s": "/usr/libexec/gypsy-daemon", "size_i": "41748", "regex": "false"},
+	{"name_s": "/usr/share/dbus-1/system-services/org.freedesktop.Gypsy.service", "size_i": "96", "regex": "false"},
+	{"name_s": "/usr/share/doc/gypsy-0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gypsy-0.7/AUTHORS", "size_i": "69", "regex": "false"},
+	{"name_s": "/usr/share/doc/gypsy-0.7/COPYING", "size_i": "17987", "regex": "false"},
+	{"name_s": "/usr/share/doc/gypsy-0.7/COPYING.lib", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/gypsy-0.7/LICENSE", "size_i": "1423", "regex": "false"}
+]

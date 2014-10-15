@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/bin/tree", "size_i": "41136", "regex": "false"},
+	{"name_s": "/usr/share/doc/tree-1.5.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/tree-1.5.3/LICENSE", "size_i": "18009", "regex": "false"},
+	{"name_s": "/usr/share/doc/tree-1.5.3/README", "size_i": "4167", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/tree.1.gz", "size_i": "3375", "regex": "false"}
+]

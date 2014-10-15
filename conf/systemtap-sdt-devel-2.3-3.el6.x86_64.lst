@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/dtrace", "size_i": "11321", "regex": "false"},
+	{"name_s": "/usr/include/sys/sdt-config.h", "size_i": "276", "regex": "false"},
+	{"name_s": "/usr/include/sys/sdt.h", "size_i": "17137", "regex": "false"},
+	{"name_s": "/usr/share/doc/systemtap-sdt-devel-2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/systemtap-sdt-devel-2.3/AUTHORS", "size_i": "1827", "regex": "false"},
+	{"name_s": "/usr/share/doc/systemtap-sdt-devel-2.3/COPYING", "size_i": "18092", "regex": "false"},
+	{"name_s": "/usr/share/doc/systemtap-sdt-devel-2.3/NEWS", "size_i": "84461", "regex": "false"},
+	{"name_s": "/usr/share/doc/systemtap-sdt-devel-2.3/README", "size_i": "5302", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dtrace.1.gz", "size_i": "1211", "regex": "false"}
+]

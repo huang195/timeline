@@ -1,0 +1,16 @@
+[
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0/LICENSE.txt", "size_i": "1097", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0/lib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0/lib/fake_web", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0/lib/fake_web.rb", "size_i": "8629", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0/lib/fake_web/ext", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0/lib/fake_web/ext/net_http.rb", "size_i": "2201", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0/lib/fake_web/registry.rb", "size_i": "3529", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0/lib/fake_web/responder.rb", "size_i": "3847", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0/lib/fake_web/response.rb", "size_i": "140", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0/lib/fake_web/stub_socket.rb", "size_i": "170", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0/lib/fake_web/utility.rb", "size_i": "3364", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/gems/fakeweb-1.3.0/lib/fakeweb.rb", "size_i": "71", "regex": "false"},
+	{"name_s": "/opt/rh/ruby193/root/usr/share/gems/specifications/fakeweb-1.3.0.gemspec", "size_i": "1168", "regex": "false"}
+]

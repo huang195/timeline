@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/librpm.so.1", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/librpm.so.1.0.0", "size_i": "417648", "regex": "false"},
+	{"name_s": "/usr/lib/librpmbuild.so.1", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/librpmbuild.so.1.0.0", "size_i": "146244", "regex": "false"},
+	{"name_s": "/usr/lib/librpmio.so.1", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/librpmio.so.1.0.0", "size_i": "170856", "regex": "false"}
+]

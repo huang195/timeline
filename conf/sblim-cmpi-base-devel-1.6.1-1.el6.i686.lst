@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/sblim", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/sblim/OSBase_Common.h", "size_i": "2653", "regex": "false"},
+	{"name_s": "/usr/include/sblim/OSBase_UnixProcess.h", "size_i": "2347", "regex": "false"},
+	{"name_s": "/usr/include/sblim/cmpiOSBase_Common.h", "size_i": "4042", "regex": "false"},
+	{"name_s": "/usr/include/sblim/cmpiOSBase_UnixProcess.h", "size_i": "2542", "regex": "false"},
+	{"name_s": "/usr/lib/libcmpiOSBase_Common.so", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/lib/libdmiinfo.so", "size_i": "19", "regex": "false"}
+]

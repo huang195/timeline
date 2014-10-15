@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libXft.so.2", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libXft.so.2.3.1", "size_i": "85976", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXft-2.3.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXft-2.3.1/AUTHORS", "size_i": "263", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXft-2.3.1/COPYING", "size_i": "1105", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXft-2.3.1/ChangeLog", "size_i": "29865", "regex": "false"},
+	{"name_s": "/usr/share/doc/libXft-2.3.1/README", "size_i": "1553", "regex": "false"}
+]

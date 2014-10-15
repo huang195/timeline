@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/HTML/img", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/HTML/img/centos-logo.png", "size_i": "3030", "regex": "false"},
+	{"name_s": "/usr/share/doc/HTML/img/header-background.png", "size_i": "61136", "regex": "false"},
+	{"name_s": "/usr/share/doc/HTML/img/html-background.png", "size_i": "1801", "regex": "false"},
+	{"name_s": "/usr/share/doc/HTML/index.html", "size_i": "4781", "regex": "false"}
+]

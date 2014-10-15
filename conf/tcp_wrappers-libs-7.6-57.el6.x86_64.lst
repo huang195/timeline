@@ -1,0 +1,16 @@
+[
+	{"name_s": "/lib64/libwrap.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/lib64/libwrap.so.0.7.6", "size_i": "40792", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcp_wrappers-libs-7.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcp_wrappers-libs-7.6/BLURB", "size_i": "1736", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcp_wrappers-libs-7.6/Banners.Makefile", "size_i": "2225", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcp_wrappers-libs-7.6/CHANGES", "size_i": "19195", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcp_wrappers-libs-7.6/DISCLAIMER", "size_i": "792", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcp_wrappers-libs-7.6/README", "size_i": "48215", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcp_wrappers-libs-7.6/README.IRIX", "size_i": "2634", "regex": "false"},
+	{"name_s": "/usr/share/doc/tcp_wrappers-libs-7.6/README.NIS", "size_i": "6680", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/hosts.allow.5.gz", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/hosts.deny.5.gz", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/hosts_access.5.gz", "size_i": "6209", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/hosts_options.5.gz", "size_i": "2997", "regex": "false"}
+]

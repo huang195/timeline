@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/fpconst-0.7.3-py2.6.egg-info", "size_i": "2322", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/fpconst.py", "size_i": "5776", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/fpconst.pyc", "size_i": "7359", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/fpconst.pyo", "size_i": "6572", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-fpconst-0.7.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-fpconst-0.7.3/CHANGELOG", "size_i": "3292", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-fpconst-0.7.3/COPYING", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-fpconst-0.7.3/README", "size_i": "1618", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-fpconst-0.7.3/pep-0754.txt", "size_i": "5456", "regex": "false"}
+]

@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/share/doc/perl-MIME-Types-1.28", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Types-1.28/ChangeLog", "size_i": "8995", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-MIME-Types-1.28/README", "size_i": "449", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/MIME::Type.3pm.gz", "size_i": "4233", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/MIME::Types.3pm.gz", "size_i": "4106", "regex": "false"},
+	{"name_s": "/usr/share/perl5/MIME", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/MIME/Type.pm", "size_i": "2919", "regex": "false"},
+	{"name_s": "/usr/share/perl5/MIME/Type.pod", "size_i": "6101", "regex": "false"},
+	{"name_s": "/usr/share/perl5/MIME/Types.pm", "size_i": "27367", "regex": "false"},
+	{"name_s": "/usr/share/perl5/MIME/Types.pod", "size_i": "5075", "regex": "false"}
+]

@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/libkdelirc_shared.so.1", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib64/libkdelirc_shared.so.1.0.0", "size_i": "112184", "regex": "false"},
+	{"name_s": "/usr/lib64/libkerfuffle.so.4", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libkerfuffle.so.4.3.0", "size_i": "234920", "regex": "false"},
+	{"name_s": "/usr/lib64/liboktetacore.so.4", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/liboktetacore.so.4.3.0", "size_i": "148288", "regex": "false"},
+	{"name_s": "/usr/lib64/liboktetagui.so.4", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/liboktetagui.so.4.3.0", "size_i": "197040", "regex": "false"},
+	{"name_s": "/usr/lib64/libsuperkaramba.so.4", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/lib64/libsuperkaramba.so.4.3.0", "size_i": "729560", "regex": "false"}
+]

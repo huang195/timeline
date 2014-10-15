@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/libexec/virt-what-cpuid-helper", "size_i": "4584", "regex": "false"},
+	{"name_s": "/usr/sbin/virt-what", "size_i": "6768", "regex": "false"},
+	{"name_s": "/usr/share/doc/virt-what-1.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/virt-what-1.11/COPYING", "size_i": "17976", "regex": "false"},
+	{"name_s": "/usr/share/doc/virt-what-1.11/README", "size_i": "2767", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/virt-what.1.gz", "size_i": "5136", "regex": "false"}
+]

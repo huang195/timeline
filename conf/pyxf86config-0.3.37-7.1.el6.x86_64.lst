@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/ixf86configmodule.so", "size_i": "123888", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/xf86config.py", "size_i": "6484", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/xf86config.pyc", "size_i": "11168", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/xf86config.pyo", "size_i": "11168", "regex": "false"},
+	{"name_s": "/usr/share/doc/pyxf86config-0.3.37", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pyxf86config-0.3.37/AUTHORS", "size_i": "46", "regex": "false"},
+	{"name_s": "/usr/share/doc/pyxf86config-0.3.37/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/pyxf86config-0.3.37/NEWS", "size_i": "177", "regex": "false"},
+	{"name_s": "/usr/share/doc/pyxf86config-0.3.37/README", "size_i": "253", "regex": "false"}
+]

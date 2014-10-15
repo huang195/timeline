@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/lftp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/lftp/convert-netscape-cookies", "size_i": "1021", "regex": "false"},
+	{"name_s": "/usr/share/lftp/import-ncftp", "size_i": "621", "regex": "false"},
+	{"name_s": "/usr/share/lftp/import-netscape", "size_i": "857", "regex": "false"},
+	{"name_s": "/usr/share/lftp/verify-file", "size_i": "3067", "regex": "false"}
+]

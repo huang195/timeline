@@ -1,0 +1,4 @@
+[
+	{"name_s": "/lib/firmware/LICENSE.usb8388", "size_i": "1777", "regex": "false"},
+	{"name_s": "/lib/firmware/usb8388.bin", "size_i": "127824", "regex": "false"}
+]

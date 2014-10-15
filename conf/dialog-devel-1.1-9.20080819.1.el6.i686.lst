@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/dialog-config", "size_i": "4255", "regex": "false"},
+	{"name_s": "/usr/include/dialog", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/dialog/dialog.h", "size_i": "29684", "regex": "false"},
+	{"name_s": "/usr/include/dialog/dlg_colors.h", "size_i": "6221", "regex": "false"},
+	{"name_s": "/usr/include/dialog/dlg_config.h", "size_i": "2840", "regex": "false"},
+	{"name_s": "/usr/include/dialog/dlg_keys.h", "size_i": "3678", "regex": "false"},
+	{"name_s": "/usr/lib/libdialog.so", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/dialog.3.gz", "size_i": "16730", "regex": "false"}
+]

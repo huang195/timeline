@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/share/doc/perl-Sub-Uplevel-0.2002", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Sub-Uplevel-0.2002/Changes", "size_i": "4002", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Sub-Uplevel-0.2002/LICENSE", "size_i": "16027", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Sub-Uplevel-0.2002/README", "size_i": "3397", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Sub-Uplevel-0.2002/Todo", "size_i": "430", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Sub-Uplevel-0.2002/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Sub-Uplevel-0.2002/examples/uplevel-demo.pl", "size_i": "538", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Sub::Uplevel.3pm.gz", "size_i": "3316", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Sub", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Sub/Uplevel.pm", "size_i": "8879", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Sub/Uplevel.pod", "size_i": "5005", "regex": "false"}
+]

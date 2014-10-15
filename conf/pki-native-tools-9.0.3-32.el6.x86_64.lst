@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/bin/bulkissuance", "size_i": "18336", "regex": "false"},
+	{"name_s": "/usr/bin/p7tool", "size_i": "91536", "regex": "false"},
+	{"name_s": "/usr/bin/revoker", "size_i": "20248", "regex": "false"},
+	{"name_s": "/usr/bin/setpin", "size_i": "37440", "regex": "false"},
+	{"name_s": "/usr/bin/sslget", "size_i": "19616", "regex": "false"},
+	{"name_s": "/usr/bin/tkstool", "size_i": "137440", "regex": "false"},
+	{"name_s": "/usr/share/doc/pki-native-tools-9.0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/pki-native-tools-9.0.3/LICENSE", "size_i": "15725", "regex": "false"},
+	{"name_s": "/usr/share/doc/pki-native-tools-9.0.3/README", "size_i": "2846", "regex": "false"},
+	{"name_s": "/usr/share/pki", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pki/native-tools", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/pki/native-tools/bulkissuance.data", "size_i": "1336", "regex": "false"},
+	{"name_s": "/usr/share/pki/native-tools/setpin.conf", "size_i": "2347", "regex": "false"}
+]

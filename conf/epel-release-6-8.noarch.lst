@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-6", "size_i": "1649", "regex": "false"},
+	{"name_s": "/etc/rpm/macros.ghc-srpm", "size_i": "122", "regex": "false"},
+	{"name_s": "/etc/yum.repos.d/epel-testing.repo", "size_i": "1056", "regex": "false"},
+	{"name_s": "/etc/yum.repos.d/epel.repo", "size_i": "957", "regex": "false"},
+	{"name_s": "/usr/share/doc/epel-release-6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/epel-release-6/GPL", "size_i": "18385", "regex": "false"}
+]

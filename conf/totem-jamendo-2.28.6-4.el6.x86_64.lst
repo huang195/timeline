@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib64/totem/plugins/jamendo", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/totem/plugins/jamendo/jamendo.py", "size_i": "26627", "regex": "false"},
+	{"name_s": "/usr/lib64/totem/plugins/jamendo/jamendo.pyc", "size_i": "22834", "regex": "false"},
+	{"name_s": "/usr/lib64/totem/plugins/jamendo/jamendo.pyo", "size_i": "22834", "regex": "false"},
+	{"name_s": "/usr/lib64/totem/plugins/jamendo/jamendo.totem-plugin", "size_i": "8574", "regex": "false"},
+	{"name_s": "/usr/lib64/totem/plugins/jamendo/jamendo.ui", "size_i": "29544", "regex": "false"}
+]

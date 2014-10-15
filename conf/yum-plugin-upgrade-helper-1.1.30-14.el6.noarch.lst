@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/upgrade-helper.conf", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/upgrade-helper.py", "size_i": "4391", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/upgrade-helper.pyc", "size_i": "2642", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/upgrade-helper.pyo", "size_i": "2642", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-upgrade-helper-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-upgrade-helper-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

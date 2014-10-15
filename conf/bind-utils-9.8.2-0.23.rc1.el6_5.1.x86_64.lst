@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/dig", "size_i": "133048", "regex": "false"},
+	{"name_s": "/usr/bin/host", "size_i": "118360", "regex": "false"},
+	{"name_s": "/usr/bin/nslookup", "size_i": "119864", "regex": "false"},
+	{"name_s": "/usr/bin/nsupdate", "size_i": "59472", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/dig.1.gz", "size_i": "6885", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/host.1.gz", "size_i": "3095", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/nslookup.1.gz", "size_i": "2500", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/nsupdate.1.gz", "size_i": "5287", "regex": "false"}
+]

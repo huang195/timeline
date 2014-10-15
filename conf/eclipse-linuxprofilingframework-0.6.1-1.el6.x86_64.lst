@@ -1,0 +1,15 @@
+[
+	{"name_s": "/usr/lib64/eclipse/dropins/linuxprofilingframework", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/linuxprofilingframework/eclipse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/linuxprofilingframework/eclipse/features", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/linuxprofilingframework/eclipse/features/org.eclipse.linuxtools.profiling_0.6.1.201101131641", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/linuxprofilingframework/eclipse/features/org.eclipse.linuxtools.profiling_0.6.1.201101131641/epl-v10.html", "size_i": "12506", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/linuxprofilingframework/eclipse/features/org.eclipse.linuxtools.profiling_0.6.1.201101131641/feature.properties", "size_i": "8774", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/linuxprofilingframework/eclipse/features/org.eclipse.linuxtools.profiling_0.6.1.201101131641/feature.xml", "size_i": "1642", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/linuxprofilingframework/eclipse/features/org.eclipse.linuxtools.profiling_0.6.1.201101131641/license.html", "size_i": "9051", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/linuxprofilingframework/eclipse/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/linuxprofilingframework/eclipse/plugins/org.eclipse.linuxtools.profiling.launch_0.6.1.201101131641.jar", "size_i": "16930", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/linuxprofilingframework/eclipse/plugins/org.eclipse.linuxtools.profiling.ui_0.6.1.201101131641.jar", "size_i": "9553", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-linuxprofilingframework-0.6.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-linuxprofilingframework-0.6.1/epl-v10.html", "size_i": "12506", "regex": "false"}
+]

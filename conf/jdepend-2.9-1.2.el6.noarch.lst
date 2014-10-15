@@ -1,0 +1,19 @@
+[
+	{"name_s": "/usr/share/doc/jdepend-2.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/LICENSE", "size_i": "1588", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/README", "size_i": "1105", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/docs", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/docs/JDepend.html", "size_i": "45325", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/docs/images", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/docs/images/figure1a.jpg", "size_i": "17763", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/docs/images/figure1b.jpg", "size_i": "67901", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/docs/images/figure2b.jpg", "size_i": "25650", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/docs/images/figure3b.jpg", "size_i": "31988", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/docs/jdepend-report.dot", "size_i": "4232", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/docs/jdepend-report.txt", "size_i": "4505", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/docs/jdepend-report.xml", "size_i": "14460", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/docs/jdepend-text.out", "size_i": "3756", "regex": "false"},
+	{"name_s": "/usr/share/doc/jdepend-2.9/docs/jdepend-xml.out", "size_i": "5620", "regex": "false"},
+	{"name_s": "/usr/share/java/jdepend-2.9.jar", "size_i": "59235", "regex": "false"},
+	{"name_s": "/usr/share/java/jdepend.jar", "size_i": "15", "regex": "false"}
+]

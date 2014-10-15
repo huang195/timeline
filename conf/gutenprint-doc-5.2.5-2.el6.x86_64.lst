@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/gutenprint-doc-5.2.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gutenprint-doc-5.2.5/AUTHORS", "size_i": "3436", "regex": "false"},
+	{"name_s": "/usr/share/doc/gutenprint-doc-5.2.5/COPYING", "size_i": "18002", "regex": "false"},
+	{"name_s": "/usr/share/doc/gutenprint-doc-5.2.5/FAQ.html", "size_i": "11979", "regex": "false"},
+	{"name_s": "/usr/share/doc/gutenprint-doc-5.2.5/NEWS", "size_i": "56604", "regex": "false"},
+	{"name_s": "/usr/share/doc/gutenprint-doc-5.2.5/README", "size_i": "38463", "regex": "false"},
+	{"name_s": "/usr/share/doc/gutenprint-doc-5.2.5/gutenprint-users-manual.odt", "size_i": "203394", "regex": "false"},
+	{"name_s": "/usr/share/doc/gutenprint-doc-5.2.5/gutenprint-users-manual.pdf", "size_i": "698542", "regex": "false"}
+]

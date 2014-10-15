@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/CimClientLib/cmci.h", "size_i": "17717", "regex": "false"},
+	{"name_s": "/usr/include/CimClientLib/cmcidt.h", "size_i": "13492", "regex": "false"},
+	{"name_s": "/usr/include/CimClientLib/cmcift.h", "size_i": "27259", "regex": "false"},
+	{"name_s": "/usr/include/CimClientLib/cmcimacs.h", "size_i": "22143", "regex": "false"},
+	{"name_s": "/usr/include/CimClientLib/native.h", "size_i": "7749", "regex": "false"},
+	{"name_s": "/usr/include/cimc/cimc.h", "size_i": "17502", "regex": "false"},
+	{"name_s": "/usr/include/cimc/cimcdt.h", "size_i": "11315", "regex": "false"},
+	{"name_s": "/usr/include/cimc/cimcft.h", "size_i": "22526", "regex": "false"},
+	{"name_s": "/usr/lib64/libcimcClientXML.so", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/libcimcclient.so", "size_i": "22", "regex": "false"},
+	{"name_s": "/usr/lib64/libcmpisfcc.so", "size_i": "20", "regex": "false"}
+]

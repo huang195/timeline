@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/share/doc/mythes-pl-1.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/mythes-pl-1.5/README_th_pl_PL_v2.txt", "size_i": "1407", "regex": "false"},
+	{"name_s": "/usr/share/mythes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_pl_PL_v2.dat", "size_i": "5222997", "regex": "false"},
+	{"name_s": "/usr/share/mythes/th_pl_PL_v2.idx", "size_i": "633289", "regex": "false"}
+]

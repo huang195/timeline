@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/include/enchant", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/enchant/enchant++.h", "size_i": "7629", "regex": "false"},
+	{"name_s": "/usr/include/enchant/enchant-provider.h", "size_i": "4479", "regex": "false"},
+	{"name_s": "/usr/include/enchant/enchant.h", "size_i": "6822", "regex": "false"},
+	{"name_s": "/usr/lib64/libenchant.so", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/pkgconfig/enchant.pc", "size_i": "243", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-un-core-dinaru.conf", "size_i": "57", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-un-core-dinaru.conf", "size_i": "467", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core/UnDinaru.ttf", "size_i": "1028216", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core/UnDinaruBold.ttf", "size_i": "1021752", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core/UnDinaruLight.ttf", "size_i": "1039436", "regex": "false"}
+]

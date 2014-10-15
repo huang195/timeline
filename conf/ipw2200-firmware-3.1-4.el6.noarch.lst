@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/firmware/LICENSE.ipw2200-fw", "size_i": "12007", "regex": "false"},
+	{"name_s": "/lib/firmware/ipw2200-bss.fw", "size_i": "191154", "regex": "false"},
+	{"name_s": "/lib/firmware/ipw2200-ibss.fw", "size_i": "185428", "regex": "false"},
+	{"name_s": "/lib/firmware/ipw2200-sniffer.fw", "size_i": "187836", "regex": "false"}
+]

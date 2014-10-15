@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/hunspell-nds-0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-nds-0.1/COPYING", "size_i": "26428", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-nds-0.1/Copyright", "size_i": "892", "regex": "false"},
+	{"name_s": "/usr/share/doc/hunspell-nds-0.1/README_nds.txt", "size_i": "1044", "regex": "false"},
+	{"name_s": "/usr/share/myspell/nds_DE.aff", "size_i": "2356", "regex": "false"},
+	{"name_s": "/usr/share/myspell/nds_DE.dic", "size_i": "42933", "regex": "false"},
+	{"name_s": "/usr/share/myspell/nds_NL.aff", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/share/myspell/nds_NL.dic", "size_i": "10", "regex": "false"}
+]

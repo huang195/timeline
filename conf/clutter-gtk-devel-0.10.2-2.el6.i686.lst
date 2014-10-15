@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/include/clutter-1.0/clutter-gtk", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/clutter-1.0/clutter-gtk/clutter-gtk.h", "size_i": "368", "regex": "false"},
+	{"name_s": "/usr/include/clutter-1.0/clutter-gtk/gtk-clutter-embed.h", "size_i": "2854", "regex": "false"},
+	{"name_s": "/usr/include/clutter-1.0/clutter-gtk/gtk-clutter-scrollable.h", "size_i": "3405", "regex": "false"},
+	{"name_s": "/usr/include/clutter-1.0/clutter-gtk/gtk-clutter-util.h", "size_i": "5971", "regex": "false"},
+	{"name_s": "/usr/include/clutter-1.0/clutter-gtk/gtk-clutter-viewport.h", "size_i": "3239", "regex": "false"},
+	{"name_s": "/usr/include/clutter-1.0/clutter-gtk/gtk-clutter-zoomable.h", "size_i": "1831", "regex": "false"},
+	{"name_s": "/usr/lib/libclutter-gtk-0.10.so", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/clutter-gtk-0.10.pc", "size_i": "334", "regex": "false"}
+]

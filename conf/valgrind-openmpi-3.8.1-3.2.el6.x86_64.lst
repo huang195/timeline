@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/valgrind", "size_i": "12288", "regex": "false"},
+	{"name_s": "/usr/lib64/valgrind/libmpiwrap-amd64-linux.so", "size_i": "590787", "regex": "false"},
+	{"name_s": "/usr/lib64/valgrind/libmpiwrap-x86-linux.so", "size_i": "42", "regex": "false"}
+]

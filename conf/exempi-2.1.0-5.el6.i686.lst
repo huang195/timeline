@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libexempi.so.3", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libexempi.so.3.2.0", "size_i": "955500", "regex": "false"},
+	{"name_s": "/usr/share/doc/exempi-2.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/exempi-2.1.0/AUTHORS", "size_i": "241", "regex": "false"},
+	{"name_s": "/usr/share/doc/exempi-2.1.0/COPYING", "size_i": "1737", "regex": "false"},
+	{"name_s": "/usr/share/doc/exempi-2.1.0/ChangeLog", "size_i": "8282", "regex": "false"},
+	{"name_s": "/usr/share/doc/exempi-2.1.0/README", "size_i": "260", "regex": "false"}
+]

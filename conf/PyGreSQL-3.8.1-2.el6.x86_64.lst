@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/PyGreSQL-3.8.1-py2.6.egg-info", "size_i": "239", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/_pg.so", "size_i": "57952", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pg.py", "size_i": "16878", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pg.pyc", "size_i": "17142", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pg.pyo", "size_i": "17142", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pgdb.py", "size_i": "10737", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pgdb.pyc", "size_i": "13891", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pgdb.pyo", "size_i": "13891", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1/announce.txt", "size_i": "625", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1/changelog.txt", "size_i": "9240", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1/future.txt", "size_i": "1626", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1/install.txt", "size_i": "7067", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1/pg.txt", "size_i": "34560", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1/pgdb.txt", "size_i": "1260", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1/readme.txt", "size_i": "6832", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1/tutorial", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1/tutorial/advanced.py", "size_i": "6907", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1/tutorial/basics.py", "size_i": "10483", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1/tutorial/func.py", "size_i": "7491", "regex": "false"},
+	{"name_s": "/usr/share/doc/PyGreSQL-3.8.1/tutorial/syscat.py", "size_i": "5378", "regex": "false"}
+]

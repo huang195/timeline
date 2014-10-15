@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/Device.html", "size_i": "32775", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/DeviceKit-power.7.html", "size_i": "3774", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/Power.html", "size_i": "13904", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/QoS.html", "size_i": "17817", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/devkit-power-daemon.8.html", "size_i": "4403", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/devkit-power.1.html", "size_i": "4641", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/devkit-power.devhelp", "size_i": "5779", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/devkit-power.devhelp2", "size_i": "6182", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/home.png", "size_i": "654", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/index.html", "size_i": "4432", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/index.sgml", "size_i": "4777", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/ix01.html", "size_i": "9729", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/left.png", "size_i": "459", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/license.html", "size_i": "20113", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/ref-dbus.html", "size_i": "2577", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/right.png", "size_i": "472", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/style.css", "size_i": "2433", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/tools-fileformats.html", "size_i": "2570", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/devkit-power/up.png", "size_i": "406", "regex": "false"}
+]

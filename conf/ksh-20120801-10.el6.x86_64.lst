@@ -1,0 +1,13 @@
+[
+	{"name_s": "/bin/ksh", "size_i": "0", "regex": "false"},
+	{"name_s": "/bin/ksh93", "size_i": "1495400", "regex": "false"},
+	{"name_s": "/etc/kshrc", "size_i": "1128", "regex": "false"},
+	{"name_s": "/etc/skel/.kshrc", "size_i": "171", "regex": "false"},
+	{"name_s": "/usr/share/doc/ksh-20120801", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ksh-20120801/COMPATIBILITY", "size_i": "5762", "regex": "false"},
+	{"name_s": "/usr/share/doc/ksh-20120801/ChangeLog", "size_i": "159", "regex": "false"},
+	{"name_s": "/usr/share/doc/ksh-20120801/README", "size_i": "854", "regex": "false"},
+	{"name_s": "/usr/share/doc/ksh-20120801/RELEASE", "size_i": "181726", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ksh.1.gz", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ksh93.1.gz", "size_i": "51425", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/icons/rfc1345.png", "size_i": "2405", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/unicode.png", "size_i": "1819", "regex": "false"},
+	{"name_s": "/usr/share/m17n/rfc1345.mim", "size_i": "32214", "regex": "false"},
+	{"name_s": "/usr/share/m17n/unicode.mim", "size_i": "2166", "regex": "false"}
+]

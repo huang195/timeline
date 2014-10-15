@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/yum/pluginconf.d/priorities.conf", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/priorities.py", "size_i": "6791", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/priorities.pyc", "size_i": "3769", "regex": "false"},
+	{"name_s": "/usr/lib/yum-plugins/priorities.pyo", "size_i": "3769", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-priorities-1.1.30", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yum-plugin-priorities-1.1.30/COPYING", "size_i": "17976", "regex": "false"}
+]

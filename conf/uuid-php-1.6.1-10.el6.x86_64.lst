@@ -1,0 +1,4 @@
+[
+	{"name_s": "/etc/php.d/uuid.ini", "size_i": "49", "regex": "false"},
+	{"name_s": "/usr/lib64/php/modules/uuid.so", "size_i": "15584", "regex": "false"}
+]

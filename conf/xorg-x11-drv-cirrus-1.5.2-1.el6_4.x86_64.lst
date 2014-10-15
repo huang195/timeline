@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/cirrus_alpine.so", "size_i": "32656", "regex": "false"},
+	{"name_s": "/usr/lib64/xorg/modules/drivers/cirrus_drv.so", "size_i": "15760", "regex": "false"},
+	{"name_s": "/usr/lib64/xorg/modules/drivers/cirrus_laguna.so", "size_i": "26384", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/cirrus.xinf", "size_i": "935", "regex": "false"},
+	{"name_s": "/usr/share/man/man4/cirrus.4.gz", "size_i": "543", "regex": "false"}
+]

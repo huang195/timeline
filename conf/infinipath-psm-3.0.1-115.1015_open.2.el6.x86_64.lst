@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/udev/rules.d/60-ipath.rules", "size_i": "153", "regex": "false"},
+	{"name_s": "/usr/lib64/libinfinipath.so.4", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib64/libinfinipath.so.4.0", "size_i": "52488", "regex": "false"},
+	{"name_s": "/usr/lib64/libpsm_infinipath.so.1", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/libpsm_infinipath.so.1.14", "size_i": "328136", "regex": "false"}
+]

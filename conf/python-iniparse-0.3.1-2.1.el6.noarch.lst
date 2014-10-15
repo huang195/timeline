@@ -1,0 +1,23 @@
+[
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse-0.3.1-py2.6.egg-info", "size_i": "1085", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse/__init__.py", "size_i": "503", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse/__init__.pyc", "size_i": "468", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse/__init__.pyo", "size_i": "468", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse/compat.py", "size_i": "12240", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse/compat.pyc", "size_i": "13193", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse/compat.pyo", "size_i": "13193", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse/config.py", "size_i": "7522", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse/config.pyc", "size_i": "9084", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse/config.pyo", "size_i": "9084", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse/ini.py", "size_i": "20284", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse/ini.pyc", "size_i": "20188", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/iniparse/ini.pyo", "size_i": "20188", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-iniparse-0.3.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-iniparse-0.3.1/Changelog", "size_i": "2076", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-iniparse-0.3.1/LICENSE", "size_i": "1588", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-iniparse-0.3.1/LICENSE-PSF", "size_i": "13110", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-iniparse-0.3.1/README", "size_i": "1221", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-iniparse-0.3.1/index.html", "size_i": "5010", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-iniparse-0.3.1/style.css", "size_i": "1712", "regex": "false"}
+]

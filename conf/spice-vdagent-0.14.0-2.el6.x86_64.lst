@@ -1,0 +1,19 @@
+[
+	{"name_s": "/etc/rc.d/init.d/spice-vdagentd", "size_i": "2472", "regex": "false"},
+	{"name_s": "/etc/xdg/autostart/spice-vdagent.desktop", "size_i": "177", "regex": "false"},
+	{"name_s": "/usr/bin/spice-vdagent", "size_i": "54408", "regex": "false"},
+	{"name_s": "/usr/sbin/spice-vdagentd", "size_i": "40080", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-vdagent-0.14.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-vdagent-0.14.0/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-vdagent-0.14.0/ChangeLog", "size_i": "2638", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-vdagent-0.14.0/README", "size_i": "3089", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-vdagent-0.14.0/TODO", "size_i": "129", "regex": "false"},
+	{"name_s": "/usr/share/doc/spice-vdagent-0.14.0/rsyslog.conf", "size_i": "291", "regex": "false"},
+	{"name_s": "/usr/share/gdm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gdm/autostart", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gdm/autostart/LoginWindow", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gdm/autostart/LoginWindow/spice-vdagent.desktop", "size_i": "177", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/spice-vdagent.1.gz", "size_i": "1113", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/spice-vdagentd.1.gz", "size_i": "1084", "regex": "false"},
+	{"name_s": "/var/run/spice-vdagentd", "size_i": "4096", "regex": "false"}
+]

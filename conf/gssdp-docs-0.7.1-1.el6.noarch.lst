@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/share/gtk-doc/html/gssdp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/GSSDPClient.html", "size_i": "20069", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/GSSDPResourceBrowser.html", "size_i": "23566", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/GSSDPResourceGroup.html", "size_i": "26102", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/ch01.html", "size_i": "2217", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/gssdp-Error-codes.html", "size_i": "2966", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/gssdp.devhelp", "size_i": "6192", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/gssdp.devhelp2", "size_i": "6930", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/home.png", "size_i": "654", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/index.html", "size_i": "3060", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/index.sgml", "size_i": "8220", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/left.png", "size_i": "459", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/right.png", "size_i": "472", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/style.css", "size_i": "2433", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gssdp/up.png", "size_i": "406", "regex": "false"}
+]

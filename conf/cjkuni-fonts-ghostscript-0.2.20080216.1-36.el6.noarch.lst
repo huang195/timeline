@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/ghostscript/conf.d", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/conf.d/CIDFnmap.zh_CN", "size_i": "1259", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/conf.d/CIDFnmap.zh_TW", "size_i": "1218", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/conf.d/FAPIcidfmap.zh_CN", "size_i": "1672", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/conf.d/FAPIcidfmap.zh_TW", "size_i": "1560", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/conf.d/cidfmap.zh_CN", "size_i": "280", "regex": "false"},
+	{"name_s": "/usr/share/ghostscript/conf.d/cidfmap.zh_TW", "size_i": "239", "regex": "false"}
+]

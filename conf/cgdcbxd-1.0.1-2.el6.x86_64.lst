@@ -1,0 +1,5 @@
+[
+	{"name_s": "/etc/rc.d/init.d/cgdcbxd", "size_i": "1983", "regex": "false"},
+	{"name_s": "/usr/sbin/cgdcbxd", "size_i": "20896", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/cgdcbxd.8.gz", "size_i": "1208", "regex": "false"}
+]

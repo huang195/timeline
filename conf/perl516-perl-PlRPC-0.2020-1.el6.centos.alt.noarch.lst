@@ -1,0 +1,18 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-PlRPC-0.2020", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-PlRPC-0.2020/ChangeLog", "size_i": "4467", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-PlRPC-0.2020/README", "size_i": "11382", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Bundle::PlRPC.3pm.gz", "size_i": "1969", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/RPC::PlClient.3pm.gz", "size_i": "5175", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/RPC::PlServer.3pm.gz", "size_i": "6294", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Bundle", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Bundle/PlRPC.pm", "size_i": "354", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/RPC", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/RPC/PlClient", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/RPC/PlClient.pm", "size_i": "12848", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/RPC/PlClient/Comm.pm", "size_i": "614", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/RPC/PlServer", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/RPC/PlServer.pm", "size_i": "19427", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/RPC/PlServer/Comm.pm", "size_i": "5881", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/RPC/PlServer/Test.pm", "size_i": "260", "regex": "false"}
+]

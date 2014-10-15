@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/include/edac.h", "size_i": "7164", "regex": "false"},
+	{"name_s": "/usr/lib64/libedac.so", "size_i": "16", "regex": "false"}
+]

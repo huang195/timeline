@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/lib/libibcommon.so.1", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libibcommon.so.1.0.0", "size_i": "10032", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibcommon-1.2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibcommon-1.2.0/AUTHORS", "size_i": "111", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibcommon-1.2.0/COPYING", "size_i": "20026", "regex": "false"},
+	{"name_s": "/usr/share/doc/libibcommon-1.2.0/ChangeLog", "size_i": "12005", "regex": "false"}
+]

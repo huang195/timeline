@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/libmapi-openchange.so.0", "size_i": "25", "regex": "false"},
+	{"name_s": "/usr/lib64/libmapi-openchange.so.1.0", "size_i": "1544576", "regex": "false"},
+	{"name_s": "/usr/lib64/libmapiadmin.so.0", "size_i": "19", "regex": "false"},
+	{"name_s": "/usr/lib64/libmapiadmin.so.1.0", "size_i": "23608", "regex": "false"},
+	{"name_s": "/usr/lib64/libocpf.so.0", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/lib64/libocpf.so.1.0", "size_i": "82456", "regex": "false"},
+	{"name_s": "/usr/share/doc/openchange-1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openchange-1.0/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/openchange-1.0/ChangeLog", "size_i": "226315", "regex": "false"},
+	{"name_s": "/usr/share/doc/openchange-1.0/IDL_LICENSE.txt", "size_i": "415", "regex": "false"},
+	{"name_s": "/usr/share/doc/openchange-1.0/VERSION", "size_i": "1892", "regex": "false"}
+]

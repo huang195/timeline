@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/X11/twm", "size_i": "4096", "regex": "false"},
+	{"name_s": "/etc/X11/twm/system.twmrc", "size_i": "2564", "regex": "false"},
+	{"name_s": "/usr/bin/twm", "size_i": "174024", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-twm-1.0.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-twm-1.0.3/AUTHORS", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-twm-1.0.3/COPYING", "size_i": "458", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-twm-1.0.3/ChangeLog", "size_i": "2074", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-twm-1.0.3/NEWS", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/doc/xorg-x11-twm-1.0.3/README", "size_i": "0", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/twm.1.gz", "size_i": "17635", "regex": "false"}
+]

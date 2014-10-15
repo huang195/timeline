@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/share/doc/perl-Config-General-2.52", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Config-General-2.52/Changelog", "size_i": "38903", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Config-General-2.52/README", "size_i": "3210", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Config-General-2.52/example.cfg", "size_i": "1534", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Config::General.3pm.gz", "size_i": "14771", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Config::General::Extended.3pm.gz", "size_i": "4565", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Config::General::Interpolated.3pm.gz", "size_i": "2993", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Config", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Config/General", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Config/General.pm", "size_i": "79298", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Config/General/Extended.pm", "size_i": "13988", "regex": "false"},
+	{"name_s": "/usr/share/perl5/vendor_perl/Config/General/Interpolated.pm", "size_i": "8651", "regex": "false"}
+]

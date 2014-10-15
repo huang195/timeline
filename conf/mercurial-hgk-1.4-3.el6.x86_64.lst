@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/mercurial/hgrc.d/hgk.rc", "size_i": "118", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/hgext/hgk.py", "size_i": "11698", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/hgext/hgk.pyc", "size_i": "11126", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/hgext/hgk.pyo", "size_i": "11080", "regex": "false"},
+	{"name_s": "/usr/libexec/mercurial", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/libexec/mercurial/hgk", "size_i": "109044", "regex": "false"}
+]

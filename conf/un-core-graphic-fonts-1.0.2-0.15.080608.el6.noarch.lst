@@ -1,0 +1,7 @@
+[
+	{"name_s": "/etc/fonts/conf.d/65-0-un-core-graphic.conf", "size_i": "58", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/65-0-un-core-graphic.conf", "size_i": "475", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core/UnGraphic.ttf", "size_i": "1167148", "regex": "false"},
+	{"name_s": "/usr/share/fonts/un-core/UnGraphicBold.ttf", "size_i": "1148776", "regex": "false"}
+]

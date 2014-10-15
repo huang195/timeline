@@ -1,0 +1,17 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/List", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/List/Util", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/List/Util.pm", "size_i": "6391", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/List/Util/XS.pm", "size_i": "1004", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Scalar", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/Scalar/Util.pm", "size_i": "8300", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/List", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/List/Util", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/vendor_perl/auto/List/Util/Util.so", "size_i": "23320", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Scalar-List-Utils-1.27", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Scalar-List-Utils-1.27/Changes", "size_i": "12744", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-Scalar-List-Utils-1.27/README", "size_i": "795", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/List::Util.3pm.gz", "size_i": "3778", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/List::Util::XS.3pm.gz", "size_i": "2255", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Scalar::Util.3pm.gz", "size_i": "4631", "regex": "false"}
+]

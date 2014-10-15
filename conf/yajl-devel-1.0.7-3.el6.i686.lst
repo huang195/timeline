@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/include/yajl", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/yajl/yajl_common.h", "size_i": "3136", "regex": "false"},
+	{"name_s": "/usr/include/yajl/yajl_gen.h", "size_i": "5638", "regex": "false"},
+	{"name_s": "/usr/include/yajl/yajl_parse.h", "size_i": "7900", "regex": "false"},
+	{"name_s": "/usr/lib/libyajl.so", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/share/doc/yajl-devel-1.0.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/yajl-devel-1.0.7/COPYING", "size_i": "1433", "regex": "false"}
+]

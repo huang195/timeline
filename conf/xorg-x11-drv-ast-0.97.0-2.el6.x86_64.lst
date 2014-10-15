@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/xorg/modules/drivers/ast_drv.so", "size_i": "76008", "regex": "false"},
+	{"name_s": "/usr/share/hwdata/videoaliases/ast.xinf", "size_i": "52", "regex": "false"}
+]

@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/rc.d/init.d/tcsd", "size_i": "2098", "regex": "false"},
+	{"name_s": "/etc/tcsd.conf", "size_i": "6411", "regex": "false"},
+	{"name_s": "/usr/lib/libtspi.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libtspi.so.1.1.3", "size_i": "470304", "regex": "false"},
+	{"name_s": "/usr/sbin/tcsd", "size_i": "297012", "regex": "false"},
+	{"name_s": "/usr/share/doc/trousers-0.3.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/trousers-0.3.4/ChangeLog", "size_i": "39477", "regex": "false"},
+	{"name_s": "/usr/share/doc/trousers-0.3.4/LICENSE", "size_i": "11580", "regex": "false"},
+	{"name_s": "/usr/share/doc/trousers-0.3.4/README", "size_i": "8019", "regex": "false"},
+	{"name_s": "/usr/share/man/man5/tcsd.conf.5.gz", "size_i": "1662", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/tcsd.8.gz", "size_i": "1794", "regex": "false"},
+	{"name_s": "/var/lib/tpm", "size_i": "4096", "regex": "false"}
+]

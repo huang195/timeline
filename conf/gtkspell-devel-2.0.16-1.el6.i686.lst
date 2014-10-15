@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/include/gtkspell-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gtkspell-2.0/gtkspell", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/gtkspell-2.0/gtkspell/gtkspell.h", "size_i": "1439", "regex": "false"},
+	{"name_s": "/usr/lib/libgtkspell.so", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/gtkspell-2.0.pc", "size_i": "245", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/chapter-tutorial.html", "size_i": "4360", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/gtkspell-gtkspell.html", "size_i": "12059", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/gtkspell.devhelp", "size_i": "1459", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/gtkspell.devhelp2", "size_i": "1715", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/home.png", "size_i": "654", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/index.html", "size_i": "2344", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/index.sgml", "size_i": "1122", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/left.png", "size_i": "459", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/reference.html", "size_i": "1997", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/right.png", "size_i": "472", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/style.css", "size_i": "2433", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/tutorial-building.html", "size_i": "2887", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/tutorial.html", "size_i": "2666", "regex": "false"},
+	{"name_s": "/usr/share/gtk-doc/html/gtkspell/up.png", "size_i": "406", "regex": "false"}
+]

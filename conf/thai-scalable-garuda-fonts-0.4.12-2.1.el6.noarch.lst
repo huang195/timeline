@@ -1,0 +1,9 @@
+[
+	{"name_s": "/etc/fonts/conf.d/90-thai-scalable-synthetic-garuda.conf", "size_i": "71", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/90-thai-scalable-synthetic-garuda.conf", "size_i": "611", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Garuda-Bold.ttf", "size_i": "73184", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Garuda-BoldOblique.ttf", "size_i": "80448", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Garuda-Oblique.ttf", "size_i": "80952", "regex": "false"},
+	{"name_s": "/usr/share/fonts/thai-scalable/Garuda.ttf", "size_i": "71008", "regex": "false"}
+]

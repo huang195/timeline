@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/libk3b.so.3", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libk3b.so.3.0.0", "size_i": "2231400", "regex": "false"},
+	{"name_s": "/usr/lib64/libk3bdevice.so.5", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libk3bdevice.so.5.0.0", "size_i": "271456", "regex": "false"}
+]

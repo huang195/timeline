@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib/libfreetype.so.6", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib/libfreetype.so.6.3.22", "size_i": "621356", "regex": "false"},
+	{"name_s": "/usr/share/doc/freetype-2.3.11", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/freetype-2.3.11/CHANGES", "size_i": "131244", "regex": "false"},
+	{"name_s": "/usr/share/doc/freetype-2.3.11/FTL.TXT", "size_i": "6742", "regex": "false"},
+	{"name_s": "/usr/share/doc/freetype-2.3.11/GPL.TXT", "size_i": "17994", "regex": "false"},
+	{"name_s": "/usr/share/doc/freetype-2.3.11/LICENSE.TXT", "size_i": "1260", "regex": "false"},
+	{"name_s": "/usr/share/doc/freetype-2.3.11/README", "size_i": "1847", "regex": "false"},
+	{"name_s": "/usr/share/doc/freetype-2.3.11/VERSION.DLL", "size_i": "4654", "regex": "false"},
+	{"name_s": "/usr/share/doc/freetype-2.3.11/formats.txt", "size_i": "7833", "regex": "false"},
+	{"name_s": "/usr/share/doc/freetype-2.3.11/ft2faq.html", "size_i": "21261", "regex": "false"}
+]

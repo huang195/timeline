@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/bin/mk_cmds", "size_i": "1318", "regex": "false"},
+	{"name_s": "/usr/include/ss", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/ss/ss.h", "size_i": "3127", "regex": "false"},
+	{"name_s": "/usr/include/ss/ss_err.h", "size_i": "1193", "regex": "false"},
+	{"name_s": "/usr/lib/libss.a", "size_i": "33342", "regex": "false"},
+	{"name_s": "/usr/lib/libss.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/ss.pc", "size_i": "238", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/mk_cmds.1.gz", "size_i": "654", "regex": "false"},
+	{"name_s": "/usr/share/ss", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/ss/ct_c.awk", "size_i": "1551", "regex": "false"},
+	{"name_s": "/usr/share/ss/ct_c.sed", "size_i": "2289", "regex": "false"}
+]

@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/share/doc/perl-Test-Differences-0.4801", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Differences-0.4801/Changes", "size_i": "1851", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Differences-0.4801/eg", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Test-Differences-0.4801/eg/to_diff_or_not_to_diff", "size_i": "150", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Test::Differences.3pm.gz", "size_i": "5553", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Test/Differences.pm", "size_i": "15713", "regex": "false"}
+]

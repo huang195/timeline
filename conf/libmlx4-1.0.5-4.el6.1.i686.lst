@@ -1,0 +1,14 @@
+[
+	{"name_s": "/etc/libibverbs.d/mlx4.driver", "size_i": "12", "regex": "false"},
+	{"name_s": "/etc/modprobe.d/libmlx4.conf", "size_i": "235", "regex": "false"},
+	{"name_s": "/etc/rdma/mlx4.conf", "size_i": "1245", "regex": "false"},
+	{"name_s": "/usr/lib/libmlx4-rdmav2.so", "size_i": "24984", "regex": "false"},
+	{"name_s": "/usr/libexec/setup-mlx4.sh", "size_i": "452", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmlx4-1.0.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmlx4-1.0.5/AUTHORS", "size_i": "35", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmlx4-1.0.5/COPYING", "size_i": "19813", "regex": "false"},
+	{"name_s": "/usr/share/doc/libmlx4-1.0.5/README", "size_i": "2333", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/90-libmlx4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/90-libmlx4/check", "size_i": "146", "regex": "false"},
+	{"name_s": "/usr/share/dracut/modules.d/90-libmlx4/install", "size_i": "89", "regex": "false"}
+]

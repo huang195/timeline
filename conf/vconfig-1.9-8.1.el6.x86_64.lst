@@ -1,0 +1,14 @@
+[
+	{"name_s": "/sbin/vconfig", "size_i": "10064", "regex": "false"},
+	{"name_s": "/usr/share/doc/vconfig-1.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/vconfig-1.9/CHANGELOG", "size_i": "15685", "regex": "false"},
+	{"name_s": "/usr/share/doc/vconfig-1.9/README", "size_i": "392", "regex": "false"},
+	{"name_s": "/usr/share/doc/vconfig-1.9/contrib", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/vconfig-1.9/contrib/README", "size_i": "755", "regex": "false"},
+	{"name_s": "/usr/share/doc/vconfig-1.9/contrib/network", "size_i": "7492", "regex": "false"},
+	{"name_s": "/usr/share/doc/vconfig-1.9/contrib/vlan_2.2-full.patch", "size_i": "106834", "regex": "false"},
+	{"name_s": "/usr/share/doc/vconfig-1.9/contrib/vlan_2.2-module.patch", "size_i": "15434", "regex": "false"},
+	{"name_s": "/usr/share/doc/vconfig-1.9/vlan.html", "size_i": "18889", "regex": "false"},
+	{"name_s": "/usr/share/doc/vconfig-1.9/vlan_test.pl", "size_i": "5388", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/vconfig.8.gz", "size_i": "1149", "regex": "false"}
+]

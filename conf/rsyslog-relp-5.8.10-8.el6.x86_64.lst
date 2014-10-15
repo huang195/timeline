@@ -1,0 +1,4 @@
+[
+	{"name_s": "/lib64/rsyslog/imrelp.so", "size_i": "10480", "regex": "false"},
+	{"name_s": "/lib64/rsyslog/omrelp.so", "size_i": "10600", "regex": "false"}
+]

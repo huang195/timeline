@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib64/libsigar.so", "size_i": "147192", "regex": "false"},
+	{"name_s": "/usr/share/doc/sigar-1.6.5", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sigar-1.6.5/AUTHORS", "size_i": "478", "regex": "false"},
+	{"name_s": "/usr/share/doc/sigar-1.6.5/ChangeLog", "size_i": "29586", "regex": "false"},
+	{"name_s": "/usr/share/doc/sigar-1.6.5/LICENSE", "size_i": "10850", "regex": "false"},
+	{"name_s": "/usr/share/doc/sigar-1.6.5/NOTICE", "size_i": "1263", "regex": "false"},
+	{"name_s": "/usr/share/doc/sigar-1.6.5/README", "size_i": "87", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/include/otf.h", "size_i": "33194", "regex": "false"},
+	{"name_s": "/usr/lib/libotf.so", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libotf.pc", "size_i": "237", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-devel-0.9.9", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-devel-0.9.9/example", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-devel-0.9.9/example/Makefile.am", "size_i": "1423", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-devel-0.9.9/example/Makefile.in", "size_i": "16827", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-devel-0.9.9/example/otfdump.c", "size_i": "40278", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-devel-0.9.9/example/otflist.c", "size_i": "5747", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-devel-0.9.9/example/otftobdf.c", "size_i": "6026", "regex": "false"},
+	{"name_s": "/usr/share/doc/libotf-devel-0.9.9/example/otfview.c", "size_i": "49837", "regex": "false"}
+]

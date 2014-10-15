@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/ruby/site_ruby/1.8/openwsman", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib/ruby/site_ruby/1.8/openwsman/openwsman.rb", "size_i": "217", "regex": "false"},
+	{"name_s": "/usr/lib/ruby/site_ruby/1.8/openwsman/xmlnode.rb", "size_i": "117", "regex": "false"},
+	{"name_s": "/usr/lib64/ruby/site_ruby/1.8/x86_64-linux/openwsman.so", "size_i": "166088", "regex": "false"},
+	{"name_s": "/usr/share/doc/openwsman-ruby-2.2.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/openwsman-ruby-2.2.3/AUTHORS", "size_i": "309", "regex": "false"},
+	{"name_s": "/usr/share/doc/openwsman-ruby-2.2.3/COPYING", "size_i": "1497", "regex": "false"},
+	{"name_s": "/usr/share/doc/openwsman-ruby-2.2.3/ChangeLog", "size_i": "13824", "regex": "false"},
+	{"name_s": "/usr/share/doc/openwsman-ruby-2.2.3/README", "size_i": "8468", "regex": "false"}
+]

@@ -1,0 +1,8 @@
+[
+	{"name_s": "/lib64/libaio.so.1", "size_i": "22", "regex": "false"},
+	{"name_s": "/lib64/libaio.so.1.0.0", "size_i": "3944", "regex": "false"},
+	{"name_s": "/lib64/libaio.so.1.0.1", "size_i": "3944", "regex": "false"},
+	{"name_s": "/usr/share/doc/libaio-0.3.107", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libaio-0.3.107/COPYING", "size_i": "26532", "regex": "false"},
+	{"name_s": "/usr/share/doc/libaio-0.3.107/TODO", "size_i": "122", "regex": "false"}
+]

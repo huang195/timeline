@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/rc.d/init.d/rwhod", "size_i": "1928", "regex": "false"},
+	{"name_s": "/usr/bin/ruptime", "size_i": "9344", "regex": "false"},
+	{"name_s": "/usr/bin/rwho", "size_i": "8048", "regex": "false"},
+	{"name_s": "/usr/sbin/rwhod", "size_i": "15728", "regex": "false"},
+	{"name_s": "/usr/share/doc/rwho-0.17", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/rwho-0.17/README", "size_i": "3705", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/ruptime.1.gz", "size_i": "1513", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/rwho.1.gz", "size_i": "1526", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/rwhod.8.gz", "size_i": "2527", "regex": "false"},
+	{"name_s": "/var/spool/rwho", "size_i": "4096", "regex": "false"}
+]

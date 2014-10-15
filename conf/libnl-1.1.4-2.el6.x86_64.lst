@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib64/libnl.so.1", "size_i": "14", "regex": "false"},
+	{"name_s": "/lib64/libnl.so.1.1.4", "size_i": "337248", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnl-1.1.4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libnl-1.1.4/COPYING", "size_i": "24486", "regex": "false"}
+]

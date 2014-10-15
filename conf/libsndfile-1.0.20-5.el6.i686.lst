@@ -1,0 +1,20 @@
+[
+	{"name_s": "/usr/bin/sndfile-cmp", "size_i": "5292", "regex": "false"},
+	{"name_s": "/usr/bin/sndfile-convert", "size_i": "12992", "regex": "false"},
+	{"name_s": "/usr/bin/sndfile-info", "size_i": "9196", "regex": "false"},
+	{"name_s": "/usr/bin/sndfile-metadata-get", "size_i": "7748", "regex": "false"},
+	{"name_s": "/usr/bin/sndfile-metadata-set", "size_i": "12684", "regex": "false"},
+	{"name_s": "/usr/bin/sndfile-play", "size_i": "10940", "regex": "false"},
+	{"name_s": "/usr/bin/sndfile-regtest", "size_i": "12804", "regex": "false"},
+	{"name_s": "/usr/lib/libsndfile.so.1", "size_i": "20", "regex": "false"},
+	{"name_s": "/usr/lib/libsndfile.so.1.0.20", "size_i": "427536", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsndfile-1.0.20", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsndfile-1.0.20/AUTHORS", "size_i": "635", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsndfile-1.0.20/COPYING", "size_i": "26518", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsndfile-1.0.20/ChangeLog", "size_i": "258468", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsndfile-1.0.20/NEWS", "size_i": "4646", "regex": "false"},
+	{"name_s": "/usr/share/doc/libsndfile-1.0.20/README", "size_i": "1615", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sndfile-convert.1.gz", "size_i": "402", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sndfile-info.1.gz", "size_i": "396", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/sndfile-play.1.gz", "size_i": "490", "regex": "false"}
+]

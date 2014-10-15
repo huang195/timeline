@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/share/m17n/icons/ne-rom.png", "size_i": "707", "regex": "false"},
+	{"name_s": "/usr/share/m17n/icons/ne-trad.png", "size_i": "707", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ne-rom.mim", "size_i": "2365", "regex": "false"},
+	{"name_s": "/usr/share/m17n/ne-trad.mim", "size_i": "2526", "regex": "false"}
+]

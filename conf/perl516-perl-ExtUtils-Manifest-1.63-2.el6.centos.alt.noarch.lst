@@ -1,0 +1,10 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-ExtUtils-Manifest-1.63", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-ExtUtils-Manifest-1.63/Changes", "size_i": "38021", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-ExtUtils-Manifest-1.63/LICENSE", "size_i": "18353", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-ExtUtils-Manifest-1.63/README", "size_i": "316", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/ExtUtils::Manifest.3pm.gz", "size_i": "4920", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/ExtUtils", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/ExtUtils/MANIFEST.SKIP", "size_i": "824", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/ExtUtils/Manifest.pm", "size_i": "23292", "regex": "false"}
+]

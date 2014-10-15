@@ -1,0 +1,6 @@
+[
+	{"name_s": "/etc/fonts/conf.d/67-samyak-tamil.conf", "size_i": "53", "regex": "false"},
+	{"name_s": "/usr/share/fontconfig/conf.avail/67-samyak-tamil.conf", "size_i": "426", "regex": "false"},
+	{"name_s": "/usr/share/fonts/samyak", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/fonts/samyak/samyak-tamil/Samyak-Tamil.ttf", "size_i": "48396", "regex": "false"}
+]

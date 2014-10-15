@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/include/libgsf-1/gsf-gnome", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/include/libgsf-1/gsf-gnome/gsf-input-bonobo.h", "size_i": "1493", "regex": "false"},
+	{"name_s": "/usr/include/libgsf-1/gsf-gnome/gsf-input-gnomevfs.h", "size_i": "1831", "regex": "false"},
+	{"name_s": "/usr/include/libgsf-1/gsf-gnome/gsf-output-bonobo.h", "size_i": "1517", "regex": "false"},
+	{"name_s": "/usr/include/libgsf-1/gsf-gnome/gsf-output-gnomevfs.h", "size_i": "1767", "regex": "false"},
+	{"name_s": "/usr/include/libgsf-1/gsf-gnome/gsf-shared-bonobo-stream.h", "size_i": "1706", "regex": "false"},
+	{"name_s": "/usr/lib/libgsf-gnome-1.so", "size_i": "26", "regex": "false"},
+	{"name_s": "/usr/lib/pkgconfig/libgsf-gnome-1.pc", "size_i": "240", "regex": "false"}
+]

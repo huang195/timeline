@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/share/perl5/Apache", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Apache/XMLRPC.pm", "size_i": "3820", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Frontier", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Frontier/Client.pm", "size_i": "7312", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Frontier/Client.pm.orig", "size_i": "7210", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Frontier/Daemon.pm", "size_i": "2424", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Frontier/RPC2.pm", "size_i": "18923", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Frontier/RPC2.pm.orig", "size_i": "18877", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Frontier/Responder.pm", "size_i": "5259", "regex": "false"}
+]

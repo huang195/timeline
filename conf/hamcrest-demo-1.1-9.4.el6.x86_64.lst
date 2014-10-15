@@ -1,0 +1,22 @@
+[
+	{"name_s": "/usr/share/hamcrest", "size_i": "12", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/hamcrest-examples.iml", "size_i": "1964", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org/hamcrest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org/hamcrest/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org/hamcrest/examples/junit3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org/hamcrest/examples/junit3/ExampleWithAssertThat.java", "size_i": "532", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org/hamcrest/examples/junit3/ExampleWithEasyMock2.java", "size_i": "2202", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org/hamcrest/examples/junit3/ExampleWithJMock1.java", "size_i": "2420", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org/hamcrest/examples/junit4", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org/hamcrest/examples/junit4/ExampleWithAssertThat.java", "size_i": "715", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org/hamcrest/examples/junit4/ExampleWithEasyMock2.java", "size_i": "2390", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org/hamcrest/examples/testng", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org/hamcrest/examples/testng/ExampleWithAssertThat.java", "size_i": "525", "regex": "false"},
+	{"name_s": "/usr/share/hamcrest-1.1/hamcrest-examples/src/main/java/org/hamcrest/examples/testng/ExampleWithEasyMock2.java", "size_i": "2342", "regex": "false"}
+]

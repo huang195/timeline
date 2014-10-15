@@ -1,0 +1,16 @@
+[
+	{"name_s": "/usr/share/doc/axis-1.2.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/axis-1.2.1/LICENSE", "size_i": "11359", "regex": "false"},
+	{"name_s": "/usr/share/doc/axis-1.2.1/README", "size_i": "431", "regex": "false"},
+	{"name_s": "/usr/share/doc/axis-1.2.1/changelog.html", "size_i": "10074", "regex": "false"},
+	{"name_s": "/usr/share/doc/axis-1.2.1/release-notes.html", "size_i": "2732", "regex": "false"},
+	{"name_s": "/usr/share/java/axis", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/java/axis/axis-1.2.1.jar", "size_i": "1575496", "regex": "false"},
+	{"name_s": "/usr/share/java/axis/axis-ant-1.2.1.jar", "size_i": "33250", "regex": "false"},
+	{"name_s": "/usr/share/java/axis/axis-ant.jar", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/share/java/axis/axis.jar", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/java/axis/jaxrpc-1.2.1.jar", "size_i": "31206", "regex": "false"},
+	{"name_s": "/usr/share/java/axis/jaxrpc.jar", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/share/java/axis/saaj-1.2.1.jar", "size_i": "18963", "regex": "false"},
+	{"name_s": "/usr/share/java/axis/saaj.jar", "size_i": "14", "regex": "false"}
+]

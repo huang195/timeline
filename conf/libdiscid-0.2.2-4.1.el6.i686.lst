@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/lib/libdiscid.so.0", "size_i": "18", "regex": "false"},
+	{"name_s": "/usr/lib/libdiscid.so.0.2.1", "size_i": "17388", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdiscid-0.2.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdiscid-0.2.2/AUTHORS", "size_i": "832", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdiscid-0.2.2/COPYING", "size_i": "26436", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdiscid-0.2.2/ChangeLog", "size_i": "703", "regex": "false"},
+	{"name_s": "/usr/share/doc/libdiscid-0.2.2/README", "size_i": "1140", "regex": "false"}
+]

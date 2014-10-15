@@ -1,0 +1,15 @@
+[
+	{"name_s": "/etc/java/sblim-cim-client.properties", "size_i": "6367", "regex": "false"},
+	{"name_s": "/etc/java/sblim-slp-client.properties", "size_i": "476", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/COPYING", "size_i": "11322", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/ChangeLog", "size_i": "44203", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/NEWS", "size_i": "6556", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client-1.3.9.1/README", "size_i": "4399", "regex": "false"},
+	{"name_s": "/usr/share/java/sblim-cim-client-1.3.9.1.jar", "size_i": "333470", "regex": "false"},
+	{"name_s": "/usr/share/java/sblim-cim-client.jar", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/java/sblim-slp-client-1.3.9.1.jar", "size_i": "115034", "regex": "false"},
+	{"name_s": "/usr/share/java/sblim-slp-client.jar", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/java/sblimCIMClient.jar", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/java/sblimSLPClient.jar", "size_i": "28", "regex": "false"}
+]

@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/libvncclient.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libvncclient.so.0.0.0", "size_i": "107096", "regex": "false"},
+	{"name_s": "/usr/lib64/libvncserver.so.0", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/lib64/libvncserver.so.0.0.0", "size_i": "240232", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvncserver-0.9.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvncserver-0.9.7/AUTHORS", "size_i": "2323", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvncserver-0.9.7/COPYING", "size_i": "18043", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvncserver-0.9.7/ChangeLog", "size_i": "29680", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvncserver-0.9.7/NEWS", "size_i": "7152", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvncserver-0.9.7/README", "size_i": "18525", "regex": "false"},
+	{"name_s": "/usr/share/doc/libvncserver-0.9.7/TODO", "size_i": "965", "regex": "false"}
+]

@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/iwlib-1.0-py2.6.egg-info", "size_i": "358", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/iwlib.so", "size_i": "8960", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-iwlib-0.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-iwlib-0.1/COPYING", "size_i": "17982", "regex": "false"}
+]

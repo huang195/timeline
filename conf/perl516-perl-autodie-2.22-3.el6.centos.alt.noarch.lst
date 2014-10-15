@@ -1,0 +1,21 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-autodie-2.22", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-autodie-2.22/AUTHORS", "size_i": "4128", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-autodie-2.22/Changes", "size_i": "34085", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-autodie-2.22/LICENSE", "size_i": "18437", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/doc/perl516-perl-autodie-2.22/README", "size_i": "1264", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Fatal.3pm.gz", "size_i": "3778", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/autodie.3pm.gz", "size_i": "5974", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/autodie::exception.3pm.gz", "size_i": "4622", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/autodie::exception::system.3pm.gz", "size_i": "2336", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/autodie::hints.3pm.gz", "size_i": "6075", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/autodie::skip.3pm.gz", "size_i": "2228", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/Fatal.pm", "size_i": "59008", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/autodie", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/autodie.pm", "size_i": "12112", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/autodie/exception", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/autodie/exception.pm", "size_i": "18781", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/autodie/exception/system.pm", "size_i": "1629", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/autodie/hints.pm", "size_i": "16744", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/perl5/vendor_perl/autodie/skip.pm", "size_i": "1190", "regex": "false"}
+]

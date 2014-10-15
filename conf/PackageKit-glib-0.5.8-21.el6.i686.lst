@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libpackagekit-glib.so.12", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/lib/libpackagekit-glib.so.12.0.6", "size_i": "217492", "regex": "false"},
+	{"name_s": "/usr/lib/libpackagekit-glib2.so.12", "size_i": "29", "regex": "false"},
+	{"name_s": "/usr/lib/libpackagekit-glib2.so.12.0.6", "size_i": "290464", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-glib-0.5.8", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-glib-0.5.8/AUTHORS", "size_i": "706", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-glib-0.5.8/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-glib-0.5.8/NEWS", "size_i": "205506", "regex": "false"},
+	{"name_s": "/usr/share/doc/PackageKit-glib-0.5.8/README", "size_i": "279", "regex": "false"}
+]

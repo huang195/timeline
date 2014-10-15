@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/share/javadoc/jcommon-serializer", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/allclasses-frame.html", "size_i": "1148", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/allclasses-noframe.html", "size_i": "4175", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/index.html", "size_i": "927", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/org", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/org/jfree", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/org/jfree/serializer", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/org/jfree/serializer/ClassComparator.html", "size_i": "10411", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/org/jfree/serializer/JCommonSerializerBoot.html", "size_i": "8546", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/org/jfree/serializer/JCommonSerializerInfo.html", "size_i": "6868", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/org/jfree/serializer/SerializeMethod.html", "size_i": "8889", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/org/jfree/serializer/SerializerHelper.html", "size_i": "17486", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/org/jfree/serializer/package-summary.html", "size_i": "4605", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/package-list", "size_i": "21", "regex": "false"},
+	{"name_s": "/usr/share/javadoc/jcommon-serializer/stylesheet.css", "size_i": "4692", "regex": "false"}
+]

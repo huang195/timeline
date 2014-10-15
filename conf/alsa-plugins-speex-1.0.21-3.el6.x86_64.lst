@@ -1,0 +1,12 @@
+[
+	{"name_s": "/etc/alsa/pcm/speex.conf", "size_i": "229", "regex": "false"},
+	{"name_s": "/usr/lib64/alsa-lib/libasound_module_pcm_speex.so", "size_i": "10952", "regex": "false"},
+	{"name_s": "/usr/lib64/alsa-lib/libasound_module_rate_speexrate.so", "size_i": "6912", "regex": "false"},
+	{"name_s": "/usr/lib64/alsa-lib/libasound_module_rate_speexrate_best.so", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/lib64/alsa-lib/libasound_module_rate_speexrate_medium.so", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-speex-1.0.21", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-speex-1.0.21/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-speex-1.0.21/COPYING.GPL", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-speex-1.0.21/speexdsp.txt", "size_i": "1303", "regex": "false"},
+	{"name_s": "/usr/share/doc/alsa-plugins-speex-1.0.21/speexrate.txt", "size_i": "958", "regex": "false"}
+]

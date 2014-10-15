@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/_sane.so", "size_i": "21032", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/pysane-2.0-py2.6.egg-info", "size_i": "197", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/sane.py", "size_i": "10210", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/sane.pyc", "size_i": "12572", "regex": "false"},
+	{"name_s": "/usr/lib64/python2.6/site-packages/sane.pyo", "size_i": "12572", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-imaging-sane-1.1.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-imaging-sane-1.1.6/CHANGES", "size_i": "1585", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-imaging-sane-1.1.6/demo_numarray.py", "size_i": "985", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-imaging-sane-1.1.6/demo_pil.py", "size_i": "715", "regex": "false"},
+	{"name_s": "/usr/share/doc/python-imaging-sane-1.1.6/sanedoc.txt", "size_i": "10486", "regex": "false"}
+]

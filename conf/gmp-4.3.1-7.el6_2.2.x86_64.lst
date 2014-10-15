@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/libgmp.so.3", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libgmp.so.3.5.0", "size_i": "374408", "regex": "false"},
+	{"name_s": "/usr/lib64/libgmpxx.so.4", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib64/libgmpxx.so.4.1.0", "size_i": "15424", "regex": "false"},
+	{"name_s": "/usr/lib64/libmp.so.3", "size_i": "15", "regex": "false"},
+	{"name_s": "/usr/lib64/libmp.so.3.1.14", "size_i": "203528", "regex": "false"},
+	{"name_s": "/usr/share/doc/gmp-4.3.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/gmp-4.3.1/COPYING", "size_i": "35147", "regex": "false"},
+	{"name_s": "/usr/share/doc/gmp-4.3.1/COPYING.LIB", "size_i": "7639", "regex": "false"},
+	{"name_s": "/usr/share/doc/gmp-4.3.1/NEWS", "size_i": "17758", "regex": "false"},
+	{"name_s": "/usr/share/doc/gmp-4.3.1/README", "size_i": "3979", "regex": "false"}
+]

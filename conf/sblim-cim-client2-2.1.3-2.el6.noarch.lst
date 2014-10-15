@@ -1,0 +1,11 @@
+[
+	{"name_s": "/etc/java/sblim-cim-client2.properties", "size_i": "13525", "regex": "false"},
+	{"name_s": "/etc/java/sblim-slp-client2.properties", "size_i": "8322", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client2-2.1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client2-2.1.3/COPYING", "size_i": "11322", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client2-2.1.3/ChangeLog", "size_i": "52822", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client2-2.1.3/NEWS", "size_i": "6701", "regex": "false"},
+	{"name_s": "/usr/share/doc/sblim-cim-client2-2.1.3/README", "size_i": "3866", "regex": "false"},
+	{"name_s": "/usr/share/java/sblim-cim-client2-2.1.3.jar", "size_i": "665204", "regex": "false"},
+	{"name_s": "/usr/share/java/sblim-cim-client2.jar", "size_i": "27", "regex": "false"}
+]

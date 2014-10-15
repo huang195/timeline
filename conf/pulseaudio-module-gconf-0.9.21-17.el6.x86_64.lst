@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/pulse-0.9.21/modules/module-gconf.so", "size_i": "11216", "regex": "false"},
+	{"name_s": "/usr/libexec/pulse/gconf-helper", "size_i": "8704", "regex": "false"}
+]

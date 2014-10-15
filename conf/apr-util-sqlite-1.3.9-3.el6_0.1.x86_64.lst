@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/lib64/apr-util-1/apr_dbd_sqlite3-1.so", "size_i": "15792", "regex": "false"},
+	{"name_s": "/usr/lib64/apr-util-1/apr_dbd_sqlite3.so", "size_i": "20", "regex": "false"}
+]

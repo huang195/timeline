@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/lib64/libboost_signals-mt.so.5", "size_i": "78144", "regex": "false"},
+	{"name_s": "/usr/lib64/libboost_signals.so.5", "size_i": "78104", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-signals-1.41.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/boost-signals-1.41.0/LICENSE_1_0.txt", "size_i": "1338", "regex": "false"}
+]

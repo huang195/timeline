@@ -1,0 +1,14 @@
+[
+	{"name_s": "/usr/share/doc/jakarta-commons-digester-1.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-digester-1.7/LICENSE.txt", "size_i": "11358", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-digester-1.7/NOTICE.txt", "size_i": "101", "regex": "false"},
+	{"name_s": "/usr/share/doc/jakarta-commons-digester-1.7/RELEASE-NOTES.txt", "size_i": "4865", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-digester-1.7-rss.jar", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-digester-1.7.jar", "size_i": "32", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-digester-rss.jar", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/java/commons-digester.jar", "size_i": "24", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-digester-1.7-rss.jar", "size_i": "16366", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-digester-1.7.jar", "size_i": "170532", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-digester-rss.jar", "size_i": "36", "regex": "false"},
+	{"name_s": "/usr/share/java/jakarta-commons-digester.jar", "size_i": "32", "regex": "false"}
+]

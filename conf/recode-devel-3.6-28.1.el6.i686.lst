@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/include/recode.h", "size_i": "4058", "regex": "false"},
+	{"name_s": "/usr/include/recodext.h", "size_i": "26209", "regex": "false"},
+	{"name_s": "/usr/lib/librecode.so", "size_i": "18", "regex": "false"}
+]

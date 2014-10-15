@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/libopensm.a", "size_i": "103926", "regex": "false"},
+	{"name_s": "/usr/lib64/libosmcomp.a", "size_i": "85032", "regex": "false"},
+	{"name_s": "/usr/lib64/libosmvendor.a", "size_i": "40118", "regex": "false"}
+]

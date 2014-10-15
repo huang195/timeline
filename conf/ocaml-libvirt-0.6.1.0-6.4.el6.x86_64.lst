@@ -1,0 +1,13 @@
+[
+	{"name_s": "/usr/lib64/ocaml/libvirt", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/libvirt/META", "size_i": "137", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/libvirt/libvirt.cmi", "size_i": "24851", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/libvirt/libvirt_version.cmi", "size_i": "224", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/libvirt/mllibvirt.cma", "size_i": "69427", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/stublibs/dllmllibvirt.so", "size_i": "82224", "regex": "false"},
+	{"name_s": "/usr/lib64/ocaml/stublibs/dllmllibvirt.so.owner", "size_i": "8", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-libvirt-0.6.1.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-libvirt-0.6.1.0/COPYING.LIB", "size_i": "27486", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-libvirt-0.6.1.0/ChangeLog", "size_i": "2448", "regex": "false"},
+	{"name_s": "/usr/share/doc/ocaml-libvirt-0.6.1.0/README", "size_i": "3492", "regex": "false"}
+]

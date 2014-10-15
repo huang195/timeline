@@ -1,0 +1,17 @@
+[
+	{"name_s": "/usr/bin/ib_atomic_bw", "size_i": "74128", "regex": "false"},
+	{"name_s": "/usr/bin/ib_atomic_lat", "size_i": "73680", "regex": "false"},
+	{"name_s": "/usr/bin/ib_read_bw", "size_i": "74520", "regex": "false"},
+	{"name_s": "/usr/bin/ib_read_lat", "size_i": "73816", "regex": "false"},
+	{"name_s": "/usr/bin/ib_send_bw", "size_i": "79792", "regex": "false"},
+	{"name_s": "/usr/bin/ib_send_lat", "size_i": "81288", "regex": "false"},
+	{"name_s": "/usr/bin/ib_write_bw", "size_i": "74560", "regex": "false"},
+	{"name_s": "/usr/bin/ib_write_bw_postlist", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/bin/ib_write_lat", "size_i": "73656", "regex": "false"},
+	{"name_s": "/usr/bin/rdma_bw", "size_i": "10", "regex": "false"},
+	{"name_s": "/usr/bin/rdma_lat", "size_i": "11", "regex": "false"},
+	{"name_s": "/usr/share/doc/perftest-2.0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perftest-2.0/COPYING", "size_i": "1281", "regex": "false"},
+	{"name_s": "/usr/share/doc/perftest-2.0/README", "size_i": "11933", "regex": "false"},
+	{"name_s": "/usr/share/doc/perftest-2.0/runme", "size_i": "363", "regex": "false"}
+]

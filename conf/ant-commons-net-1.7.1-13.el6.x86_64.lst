@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/ant.d/commons-net", "size_i": "40", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-commons-net-1.7.1.jar.db", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/gcj/ant/ant-commons-net-1.7.1.jar.so", "size_i": "224144", "regex": "false"},
+	{"name_s": "/usr/share/ant/lib/ant-commons-net.jar", "size_i": "34", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-commons-net-1.7.1.jar", "size_i": "47977", "regex": "false"},
+	{"name_s": "/usr/share/java/ant/ant-commons-net.jar", "size_i": "25", "regex": "false"}
+]

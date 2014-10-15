@@ -1,0 +1,7 @@
+[
+	{"name_s": "/usr/lib/libgomp.so.1", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libgomp.so.1.0.0", "size_i": "59472", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgomp-4.4.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgomp-4.4.7/ChangeLog.bz2", "size_i": "17213", "regex": "false"},
+	{"name_s": "/usr/share/info/libgomp.info.gz", "size_i": "25505", "regex": "false"}
+]

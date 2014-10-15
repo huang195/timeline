@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib64/eclipse/dropins/callgraph", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/callgraph/eclipse", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/callgraph/eclipse/plugins", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/callgraph/eclipse/plugins/org.eclipse.linuxtools.callgraph.core_0.0.1.201110251719.jar", "size_i": "54982", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/callgraph/eclipse/plugins/org.eclipse.linuxtools.callgraph.launch_0.0.1.201110251719.jar", "size_i": "83857", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/callgraph/eclipse/plugins/org.eclipse.linuxtools.callgraph_0.0.1.201110251719.jar", "size_i": "99172", "regex": "false"},
+	{"name_s": "/usr/lib64/eclipse/dropins/callgraph/eclipse/plugins/org.eclipse.linuxtools.profiling.launch_0.6.1.201101131641.jar", "size_i": "16930", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-callgraph-0.6.1", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/eclipse-callgraph-0.6.1/epl-v10.html", "size_i": "12506", "regex": "false"}
+]

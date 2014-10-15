@@ -1,0 +1,6 @@
+[
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/Time/HiRes.pm", "size_i": "22259", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/auto/Time/HiRes", "size_i": "4096", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/lib64/perl5/auto/Time/HiRes/HiRes.so", "size_i": "19856", "regex": "false"},
+	{"name_s": "/opt/rh/perl516/root/usr/share/man/man3/Time::HiRes.3pm.gz", "size_i": "9106", "regex": "false"}
+]

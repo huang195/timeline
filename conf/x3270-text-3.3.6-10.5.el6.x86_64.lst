@@ -1,0 +1,6 @@
+[
+	{"name_s": "/usr/bin/c3270", "size_i": "320544", "regex": "false"},
+	{"name_s": "/usr/share/doc/x3270-text-3.3.6", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/x3270-text-3.3.6/LICENSE", "size_i": "4929", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/c3270.1.gz", "size_i": "14729", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/libgmp.a", "size_i": "1015944", "regex": "false"},
+	{"name_s": "/usr/lib64/libgmpxx.a", "size_i": "34970", "regex": "false"},
+	{"name_s": "/usr/lib64/libmp.a", "size_i": "463354", "regex": "false"}
+]

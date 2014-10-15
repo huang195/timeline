@@ -1,0 +1,6 @@
+[
+	{"name_s": "/lib/libgcc_s-4.4.7-20120601.so.1", "size_i": "120672", "regex": "false"},
+	{"name_s": "/lib/libgcc_s.so.1", "size_i": "28", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgcc-4.4.7", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libgcc-4.4.7/COPYING.LIB", "size_i": "26440", "regex": "false"}
+]

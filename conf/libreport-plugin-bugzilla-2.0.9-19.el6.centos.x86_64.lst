@@ -1,0 +1,8 @@
+[
+	{"name_s": "/etc/libreport/events.d/bugzilla_event.conf", "size_i": "66", "regex": "false"},
+	{"name_s": "/etc/libreport/events/report_Bugzilla.conf", "size_i": "113", "regex": "false"},
+	{"name_s": "/etc/libreport/events/report_Bugzilla.xml", "size_i": "33106", "regex": "false"},
+	{"name_s": "/etc/libreport/plugins/bugzilla.conf", "size_i": "226", "regex": "false"},
+	{"name_s": "/usr/bin/reporter-bugzilla", "size_i": "29592", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/reporter-bugzilla.1.gz", "size_i": "1503", "regex": "false"}
+]

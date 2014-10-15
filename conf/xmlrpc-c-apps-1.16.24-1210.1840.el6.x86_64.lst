@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/bin/xml-rpc-api2cpp", "size_i": "60728", "regex": "false"},
+	{"name_s": "/usr/bin/xmlrpc", "size_i": "30112", "regex": "false"},
+	{"name_s": "/usr/bin/xmlrpc_cpp_proxy", "size_i": "57520", "regex": "false"},
+	{"name_s": "/usr/bin/xmlrpc_pstream", "size_i": "50192", "regex": "false"},
+	{"name_s": "/usr/bin/xmlrpc_transport", "size_i": "21968", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmlrpc-c-apps-1.16.24", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmlrpc-c-apps-1.16.24/xmlrpc.html", "size_i": "7269", "regex": "false"},
+	{"name_s": "/usr/share/doc/xmlrpc-c-apps-1.16.24/xmlrpc_transport.html", "size_i": "2936", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xml-rpc-api2cpp.1.gz", "size_i": "1209", "regex": "false"}
+]

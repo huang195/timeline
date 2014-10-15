@@ -1,0 +1,11 @@
+[
+	{"name_s": "/usr/lib/libhpip.so.0", "size_i": "16", "regex": "false"},
+	{"name_s": "/usr/lib/libhpip.so.0.0.1", "size_i": "160744", "regex": "false"},
+	{"name_s": "/usr/lib/libhpmud.so", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libhpmud.so.0", "size_i": "17", "regex": "false"},
+	{"name_s": "/usr/lib/libhpmud.so.0.0.6", "size_i": "98728", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/cupsext.so", "size_i": "28008", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/hpmudext.so", "size_i": "12188", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/pcardext.so", "size_i": "15932", "regex": "false"},
+	{"name_s": "/usr/lib/python2.6/site-packages/scanext.so", "size_i": "15488", "regex": "false"}
+]

@@ -1,0 +1,5 @@
+[
+	{"name_s": "/usr/lib64/python2.6/site-packages/libusermodule.so", "size_i": "60400", "regex": "false"},
+	{"name_s": "/usr/share/doc/libuser-python-0.56.13", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/libuser-python-0.56.13/modules.txt", "size_i": "9064", "regex": "false"}
+]

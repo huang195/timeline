@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/bin/xvattr", "size_i": "8264", "regex": "false"},
+	{"name_s": "/usr/share/doc/xvattr-1.3", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/xvattr-1.3/AUTHORS", "size_i": "292", "regex": "false"},
+	{"name_s": "/usr/share/doc/xvattr-1.3/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/xvattr-1.3/ChangeLog", "size_i": "264", "regex": "false"},
+	{"name_s": "/usr/share/doc/xvattr-1.3/NEWS", "size_i": "218", "regex": "false"},
+	{"name_s": "/usr/share/doc/xvattr-1.3/README", "size_i": "981", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/xvattr.1.gz", "size_i": "3234", "regex": "false"}
+]

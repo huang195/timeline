@@ -1,0 +1,9 @@
+[
+	{"name_s": "/usr/bin/shasum", "size_i": "7655", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Digest", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/Digest/SHA.pm", "size_i": "17986", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Digest/SHA", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/perl5/auto/Digest/SHA/SHA.so", "size_i": "50784", "regex": "false"},
+	{"name_s": "/usr/share/man/man1/shasum.1.gz", "size_i": "2816", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Digest::SHA.3pm.gz", "size_i": "7401", "regex": "false"}
+]

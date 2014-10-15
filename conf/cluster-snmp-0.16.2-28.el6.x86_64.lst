@@ -1,0 +1,12 @@
+[
+	{"name_s": "/usr/lib64/cluster-snmp", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/lib64/cluster-snmp/libClusterMonitorSnmp.so", "size_i": "332496", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-snmp-0.16.2", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-snmp-0.16.2/COPYING", "size_i": "17992", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-snmp-0.16.2/README", "size_i": "77", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-snmp-0.16.2/README.snmpd", "size_i": "1973", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-snmp-0.16.2/REDHAT-CLUSTER-MIB", "size_i": "10978", "regex": "false"},
+	{"name_s": "/usr/share/doc/cluster-snmp-0.16.2/REDHAT-MIB", "size_i": "797", "regex": "false"},
+	{"name_s": "/usr/share/snmp/mibs/REDHAT-CLUSTER-MIB", "size_i": "10978", "regex": "false"},
+	{"name_s": "/usr/share/snmp/mibs/REDHAT-MIB", "size_i": "797", "regex": "false"}
+]

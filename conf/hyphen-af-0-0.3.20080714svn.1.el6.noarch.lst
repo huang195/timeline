@@ -1,0 +1,8 @@
+[
+	{"name_s": "/usr/share/doc/hyphen-af-0", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-af-0/COPYING", "size_i": "26430", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-af-0/CREDITS", "size_i": "1429", "regex": "false"},
+	{"name_s": "/usr/share/doc/hyphen-af-0/README", "size_i": "1384", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_af_NA.dic", "size_i": "14", "regex": "false"},
+	{"name_s": "/usr/share/hyphen/hyph_af_ZA.dic", "size_i": "62926", "regex": "false"}
+]

@@ -1,0 +1,10 @@
+[
+	{"name_s": "/usr/share/doc/perl-Module-Find-0.08", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Module-Find-0.08/Changes", "size_i": "1100", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Module-Find-0.08/README", "size_i": "683", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Module-Find-0.08/examples", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/doc/perl-Module-Find-0.08/examples/example.pl", "size_i": "376", "regex": "false"},
+	{"name_s": "/usr/share/man/man3/Module::Find.3pm.gz", "size_i": "3407", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module", "size_i": "4096", "regex": "false"},
+	{"name_s": "/usr/share/perl5/Module/Find.pm", "size_i": "6160", "regex": "false"}
+]

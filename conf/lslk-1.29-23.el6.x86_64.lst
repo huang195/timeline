@@ -1,0 +1,4 @@
+[
+	{"name_s": "/usr/sbin/lslk", "size_i": "29280", "regex": "false"},
+	{"name_s": "/usr/share/man/man8/lslk.8.gz", "size_i": "4787", "regex": "false"}
+]
