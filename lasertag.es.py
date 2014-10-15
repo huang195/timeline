@@ -22,6 +22,8 @@ LT_LOG	=	'logs/lt.log'
 LT_CONF_DIR	=	'./conf'
 
 tags = []
+exactmatch = {}		# Use files as hash key to speed up lookup process (99% of patterns are these)
+regexmatch = []		# Each regex pattern is looked up sequentially
 
 ####################################################################################
 #
@@ -76,19 +78,47 @@ def readTags():
 					f = open(LT_CONF_DIR + '/' + lst, 'r')
 					patterns = json.load(f)
 					f.close()
-					if 'patterns' not in t.keys():
+					try:
+						if t['patterns']:
+							t['patterns'].extend(patterns)
+					except KeyError:
 						t['patterns'] = patterns
-					else:
-						t['patterns'].extend(patterns)
+							
+					#if 'patterns' not in t.keys():
+						#t['patterns'] = patterns
+					#else:
+						#t['patterns'].extend(patterns)
+
+					for m in patterns:
+						try:
+							if exactmatch[m['name_s']]:
+								exactmatch[m['name_s']].append(t)
+						except KeyError:
+							exactmatch[m['name_s']] = [t]
+
+						# The code below is bad for performance
+						#if m['name_s'] not in exactmatch.keys():
+							#exactmatch[m['name_s']] = [t]
+						#else:
+							#exactmatch[m['name_s']].append(t)
+
 				else:
-					if 'patterns' not in t.keys():
+					try:
+						if t['patterns']:
+							t['patterns'].append({"name_s": p})
+					except KeyError:
 						t['patterns'] = [ {"name_s": p} ]
-					else:
-						t['patterns'].append({"name_s": p})
+							
+					#if 'patterns' not in t.keys():
+						#t['patterns'] = [ {"name_s": p} ]
+					#else:
+						#t['patterns'].append({"name_s": p})
+					regexmatch.append(t)
+
 			tags.append(t)
 
-	logger.debug('tags populated')
-	logger.debug(json.dumps(tags, indent=2))
+	logger.debug('Finished populating tags')
+	#logger.debug(json.dumps(tags, indent=2))
 
 def assignTags(namespace, source):
 	'''
@@ -106,18 +136,23 @@ def assignTags(namespace, source):
 	for i in range(1, index):
 		try:
 			f = open(baseDirName + '/' + str(i) + '.json', 'r')
+
 			count = 0
-			data = []
-			meta = []
+			data = []	# All data
+			meta = []	# All meta data	
+			dataH = {}	# All data hashed by 'name_s'
+			package = { 'include': [], 'exclude': [] }	# Found packages
 			for line in f:
 				count += 1
 				if count % 2 == 1:
 					meta.append(json.loads(line))
 				else:
-					data.append(json.loads(line))
+					j = json.loads(line)
+					data.append(j)
+					dataH[j['name_s']] = j
 			f.close()
 			for m in data:
-				tagFile(m)
+				tagFile(m, dataH, package)
 
 			f = open(baseDirName + '/' + str(i) + '.tag.json', 'w')
 			for m,d in zip(meta, data):
@@ -130,8 +165,81 @@ def assignTags(namespace, source):
 			print 'stacktrace: ', traceback.format_exc().split('\n')
 			continue
 
-def tagFile(file):
+def tagFile(file, dataH, package):
 
+	try:
+		ts = exactmatch[file['name_s']]
+		for t in ts:
+			patterns = t['patterns']
+			tag = t['tag']
+			cat = t['cat']
+
+			if cat.lower() == 'package':
+				# All package files need to match
+				if tag in package['exclude']:
+					continue
+				elif tag in package['include']:
+					pass
+				else:
+					matching = 1
+					for pattern in patterns:
+						name = pattern['name_s']
+						try:
+							d = dataH[name]
+							for key,value in pattern.items():
+								if key == 'regex':
+									continue
+								if key in d.keys() and d[key] == value:
+									continue
+								else:
+									matching = 0
+									break
+						except KeyError:
+							package['exclude'].append(tag)
+							matching = 0
+							break
+
+						if matching == 0:
+							break
+
+					if matching == 1:
+						package['include'].append(tag)
+					else:
+						continue
+
+			if 'tag_s' in file.keys():
+				# keep values unique
+				if tag not in file['tag_s']:
+					file['tag_s'].append(tag)
+				if cat not in file['cat_s']:
+					file['cat_s'].append(cat)
+			else:
+				file['tag_s'] = [tag]
+				file['cat_s'] = [cat]
+	except KeyError:
+		pass
+
+	for t in regexmatch:
+		patterns = t['patterns']
+		tag = t['tag']
+		cat = t['cat']
+
+		for pattern in patterns:
+			# Look for pattern match
+			p = re.compile(pattern['name_s'])
+			m = p.match(file['name_s'])
+			if m is not None:
+				if 'tag_s' in file.keys():
+					# keep values unique
+					if tag not in file['tag_s']:
+						file['tag_s'].append(tag)
+					if cat not in file['cat_s']:
+						file['cat_s'].append(cat)
+				else:
+					file['tag_s'] = [tag]
+					file['cat_s'] = [cat]
+
+'''
 	for t in tags:
 		patterns = t['patterns']
 		tag = t['tag']
@@ -175,6 +283,7 @@ def tagFile(file):
 					else:
 						file['tag_s'] = [tag]
 						file['cat_s'] = [cat]
+'''
 
 if __name__ == '__main__':
 

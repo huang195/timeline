@@ -2,7 +2,7 @@
 
 #################################################
 #
-# usage: ./agent.sh [directory=`pwd`]
+# usage: ./agent.sh <namespace> <source> [directory=`pwd`]
 #
 #################################################
 

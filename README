@@ -37,3 +37,6 @@ Timeline files:
 	- index.es.sh: upload data to elasticsearch
 	- delete.es.sh: reset es data collection
 
+Prereq:
+	- Python 2.7.8
+	- /usr/local/bin/easy_install psutil simplejson bottle requests
