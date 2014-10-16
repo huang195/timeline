@@ -12,7 +12,7 @@ mkdir -p conf
 rpm -q -p $1 --dump | \
 awk '\
 BEGIN{printf "[\n"} \
-{printf "\t{\"name_s\": \"%s\", \"size_i\": \"%d\", \"regex\": \"false\"},\n", $1, $2} \
+{printf "\t{\"name_s\": \"%s\", \"size_i\": \"%d\"},\n", $1, $2} \
 END{printf "]\n"}' > conf/$packagename.lst
 
 # remove comma in the second to last line to make it json compatible

@@ -38,5 +38,7 @@ Timeline files:
 	- delete.es.sh: reset es data collection
 
 Prereq:
-	- Python 2.7.8
+	- yum install openssl-devel
+	- Python 2.7.8 (read README file to enable ssl support, needed for running easy_install)
+	- wget https://bootstrap.pypa.io/ez_setup.py -O - | python
 	- /usr/local/bin/easy_install psutil simplejson bottle requests

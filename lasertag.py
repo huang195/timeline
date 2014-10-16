@@ -187,8 +187,6 @@ def tagFile(file, dataH, package):
 						try:
 							d = dataH[name]
 							for key,value in pattern.items():
-								if key == 'regex':
-									continue
 								if key in d.keys() and d[key] == value:
 									continue
 								else:

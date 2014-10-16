@@ -228,7 +228,7 @@ def findNoise(namespace, source, output, freq):
 		if sec < INCUBATION_FACTOR * freq:
 			continue
 
-		f.write('\t{{\"name_s\": \"{0}\", \"regex\": \"false\"}},\n'.format(file['name_s']))
+		f.write('\t{{\"name_s\": \"{0}\"}},\n'.format(file['name_s']))
 	f.write(']\n')
 	f.close()
 

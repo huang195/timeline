@@ -162,6 +162,9 @@ def put(namespace, source):
 # Main listen/exec loop
 
 if __name__ == '__main__':
+	if not os.path.exists('logs'):
+		os.makedirs('logs')
+
 	print 'Starting Time Line process({0})'.format(os.getpid())
 	print 'Log output will be stored in {0}'.format(TL_LOG)
 	logging.basicConfig(filename=TL_LOG, filemode='w', format='%(asctime)s %(levelname)s : %(message)s', level=logging.DEBUG)
